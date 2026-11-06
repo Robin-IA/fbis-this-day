@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FBIS This Day</title>
+<meta name="description" content="One day, one Daily Report: what the Foreign Broadcast Information Service heard from the world's radio and press on this date between 1978 and 1996, with why it mattered. A new day at midnight.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="masthead">
+  <div class="wrap">
+    <div class="logos">
+      <a href="https://archive.org/"><img src="img/internet-archive.png" alt="Internet Archive" width="38" height="38"></a>
+      <a href="https://archive.org/details/democracys-library" class="dl"><img src="img/democracys-library.png" alt="Democracy's Library" width="34" height="34"></a>
+    </div>
+    <nav aria-label="Site">
+      <a href="./" aria-current="page">Today</a>
+      <a href="calendar.html">Calendar</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+</div>
+
+<main id="main" class="wrap">
+  <header class="intro">
+    <p class="slug">Democracy's Library · Foreign Broadcast Information Service · 1978–1996</p>
+    <h1>FBIS This Day</h1>
+    <p class="lede">One day, one Daily Report: what the Foreign Broadcast Information Service heard from the world's radio and press on this date between 1978 and 1996, and why it mattered. A new day arrives at midnight.</p>
+  </header>
+
+  <div class="daybar">
+    <button type="button" id="prev" aria-label="Previous day">← <span id="prevLabel">Previous</span></button>
+    <button type="button" id="next" aria-label="Next day"><span id="nextLabel">Next</span> →</button>
+    <button type="button" id="today" class="today-btn" hidden>Back to today</button>
+    <span class="spacer"></span>
+    <div class="pick">
+      <label for="month" class="vh">Month</label>
+      <select id="month"></select>
+      <label for="day" class="vh">Day</label>
+      <select id="day"></select>
+    </div>
+  </div>
+
+  <article class="sheet" id="sheet" aria-live="polite" aria-busy="true">
+    <p class="empty">Loading the day's report…</p>
+  </article>
+
+  <section class="more" id="altsSection" hidden aria-labelledby="altsH">
+    <h2 id="altsH">Also reported on this day</h2>
+    <ul class="alts" id="alts"></ul>
+  </section>
+
+  <section class="more" aria-labelledby="issuesH">
+    <h2 id="issuesH">Every Daily Report dated <span id="issuesDay">this day</span></h2>
+    <p class="small" id="issuesNote"></p>
+    <div class="issues" id="issues"></div>
+  </section>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <p>Daily Reports from the <a href="https://archive.org/details/us-fbis">United States Foreign Broadcast Information Service (FBIS)</a> collection at the <a href="https://archive.org/">Internet Archive</a>, part of <a href="https://archive.org/details/democracys-library">Democracy's Library</a>. See also the <a href="https://wayback-labs.sf.archive.org/fbis/">FBIS explorer</a> in Wayback Machine Labs.</p>
+    <p>Feedback? <a href="mailto:robin.fay@archive.org?subject=Feedback%20about%20Explorers%3A%20FBIS%20This%20Day">Email us</a></p>
+  </div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

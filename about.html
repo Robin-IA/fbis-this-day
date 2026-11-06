@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About · FBIS This Day</title>
+<meta name="description" content="About FBIS This Day: its source in the Internet Archive's us-fbis collection, the dates it covers, what it leaves out, and how each day's entry is made and checked.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="masthead">
+  <div class="wrap">
+    <div class="logos">
+      <a href="https://archive.org/"><img src="img/internet-archive.png" alt="Internet Archive" width="38" height="38"></a>
+      <a href="https://archive.org/details/democracys-library" class="dl"><img src="img/democracys-library.png" alt="Democracy's Library" width="34" height="34"></a>
+    </div>
+    <nav aria-label="Site">
+      <a href="./">Today</a>
+      <a href="calendar.html">Calendar</a>
+      <a href="about.html" aria-current="page">About</a>
+    </nav>
+  </div>
+</div>
+<main id="main" class="wrap">
+  <header class="intro">
+    <p class="slug">FBIS This Day · about</p>
+    <h1>About FBIS This Day</h1>
+    <p class="lede">A day-by-day way into the Daily Reports of the Foreign Broadcast Information Service, with the emphasis on spycraft and the crises of the late Cold War.</p>
+  </header>
+  <div class="prose">
+    <h2>The project</h2>
+    <p>For most of the Cold War the U.S. government listened to the world's radio, television, news agencies and press in their own languages and published what it heard, in English, as the FBIS Daily Report. Each issue is a record of what governments were telling their own people, and each other, on that day.</p>
+    <p>This site picks one event for every day of the year, shows the Daily Report that carried it, and explains why it mattered to the United States and to world events at the time. The focus is spycraft (espionage, defections, covert action and the intelligence services), then the wars, coups and crises that the monitors followed. The home page moves to the next day at midnight, by the visitor's own clock.</p>
+    <p>Built for <a href="https://archive.org/details/democracys-library">Democracy's Library</a> at the Internet Archive. For FBIS's history and everything else that survives of its record, see the <a href="https://wayback-labs.sf.archive.org/fbis/">FBIS explorer</a> in Wayback Machine Labs.</p>
+
+    <h2>Source of materials</h2>
+    <p>Every report comes from the <a href="https://archive.org/details/us-fbis">United States Foreign Broadcast Information Service (FBIS)</a> collection at the <a href="https://archive.org/">Internet Archive</a>, scanned from microfiche. Each entry links to the archive.org item and to the page where the event appears.</p>
+    <p>The collection belongs to Democracy's Library by its scope: it sits in the Internet Archive's <a href="https://archive.org/details/USGovernmentDocuments">U.S. Government Documents</a> collection, which Democracy's Library's collection search includes. It does not carry the <code>democracys-library</code> collection tag itself.</p>
+
+    <h2>Dates covered</h2>
+    <p>The Daily Reports here run from <strong>3 January 1978</strong> to <strong>30 August 1996</strong>. FBIS itself worked from 1941 to 2005; earlier and later issues are not in this collection, so events such as the Bay of Pigs (1961) or the Cuban Missile Crisis (1962) cannot appear here.</p>
+
+    <h2>Topics and regions</h2>
+    <table>
+      <thead><tr><th scope="col">Series</th><th scope="col">Years in the collection</th></tr></thead>
+      <tbody>
+        <tr><td>Soviet Union / Central Eurasia</td><td>1978–1996</td></tr>
+        <tr><td>East Europe</td><td>1978–1996</td></tr>
+        <tr><td>Middle East &amp; North Africa; Near East &amp; South Asia</td><td>1978–1996</td></tr>
+        <tr><td>Latin America</td><td>1978–1996</td></tr>
+        <tr><td>East Asia / Asia &amp; Pacific</td><td>1990–1996</td></tr>
+        <tr><td>Sub-Saharan Africa</td><td>1978 only, in practice</td></tr>
+        <tr><td>China; West Europe</td><td>a handful of issues</td></tr>
+      </tbody>
+    </table>
+    <p>Because China, Western Europe and Africa are barely present, events there appear through how Moscow, Eastern Europe, the Middle East or Latin America reported them.</p>
+
+    <h2>When the numbers were taken</h2>
+    <p id="numbers">The collection held 22,903 items on 6 November 2026, 21,850 of them with a date (a search for <code>collection:us-fbis</code>).</p>
+
+    <h2>What is left out</h2>
+    <ul>
+      <li>FBIS material outside the <code>us-fbis</code> collection: the JPRS translations, the CIA Reading Room's FBIS memos and cables, and the later World News Connection. The <a href="https://wayback-labs.sf.archive.org/fbis/">FBIS explorer</a> covers those.</li>
+      <li>Undated items (about 1,050), which cannot be placed on a day.</li>
+      <li>No Daily Report is dated 4 July, 11 November or 25 December. Those days still have an entry: the event fell on that date, and the report that carried it came out a day or two later.</li>
+    </ul>
+
+    <h2 id="method">How each entry is made</h2>
+    <ol>
+      <li>Several candidate events were drafted for each calendar day, each one an event on that date between 1978 and 1996, with spycraft preferred.</li>
+      <li>A script searched the machine-read text of every Daily Report dated that day and up to three days later, in the regions likely to have carried it, for the event's key words, all on one page. Only events found this way are shown, and the page they were found on is linked and quoted.</li>
+      <li>The summary, the "Why it mattered" and the "What FBIS heard" paragraphs were written with AI assistance (Claude) and checked against that page. They are <strong>drafts</strong>, not yet reviewed by a historian. Corrections are welcome through the feedback link below.</li>
+    </ol>
+    <p>The quoted text is the Internet Archive's uncorrected OCR of the microfiche, and has errors.</p>
+
+    <h2>How it was built</h2>
+    <p>A Python script indexes the collection from archive.org's search API; another checks each candidate against the OCR search text archive.org publishes for every item; a third writes one small data file per day. The page is plain HTML and JavaScript published with GitHub Pages. The code, the candidates and the evidence for every entry are in the <a href="https://github.com/internetarchivecanada/fbis-this-day">repository</a>.</p>
+    <p>Built by Robin Fay, Project Manager, Digital Collections, Democracy's Library, with Claude Code, in November 2026.</p>
+  </div>
+</main>
+<footer class="site">
+  <div class="wrap">
+    <p>Daily Reports from the <a href="https://archive.org/details/us-fbis">United States Foreign Broadcast Information Service (FBIS)</a> collection at the <a href="https://archive.org/">Internet Archive</a>, part of <a href="https://archive.org/details/democracys-library">Democracy's Library</a>.</p>
+    <p>Feedback? <a href="mailto:robin.fay@archive.org?subject=Feedback%20about%20Explorers%3A%20FBIS%20This%20Day">Email us</a></p>
+  </div>
+</footer>
+</body>
+</html>

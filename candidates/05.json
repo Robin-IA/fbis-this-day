@@ -1,0 +1,1381 @@
+[
+ {
+  "md": "05-01",
+  "date": "1985-05-01",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "embargo"
+   ],
+   [
+    "nicaragua"
+   ]
+  ],
+  "headline": "US imposes a trade embargo on Nicaragua",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-01",
+  "date": "1993-05-01",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "premadasa"
+   ],
+   [
+    "assassin",
+    "killed",
+    "blast",
+    "bomb"
+   ]
+  ],
+  "headline": "Sri Lankan President Premadasa assassinated",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-02",
+  "date": "1982-05-02",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "belgrano"
+   ],
+   [
+    "sunk",
+    "sank",
+    "torpedo",
+    "attack"
+   ]
+  ],
+  "headline": "British submarine sinks the cruiser General Belgrano",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-02",
+  "date": "1989-05-02",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "border"
+   ],
+   [
+    "hungar"
+   ],
+   [
+    "fence",
+    "barrier",
+    "wire",
+    "dismantl"
+   ]
+  ],
+  "headline": "Hungary begins dismantling its border fence with Austria",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-03",
+  "date": "1979-05-03",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "conservative"
+   ],
+   [
+    "thatcher"
+   ],
+   [
+    "election"
+   ]
+  ],
+  "headline": "Conservatives win the British election; Thatcher to become prime minister",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-03",
+  "date": "1982-05-03",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "warsaw"
+   ],
+   [
+    "may 3",
+    "3 may",
+    "third of may"
+   ],
+   [
+    "disturb",
+    "demonstrat",
+    "incident",
+    "riot"
+   ]
+  ],
+  "headline": "Clashes in Warsaw on the 3 May anniversary under martial law",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-04",
+  "date": "1980-05-04",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "tito"
+   ],
+   [
+    "death",
+    "died",
+    "passed away"
+   ]
+  ],
+  "headline": "Yugoslav President Tito dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-04",
+  "date": "1982-05-04",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "sheffield"
+   ],
+   [
+    "destroyer",
+    "exocet",
+    "sunk",
+    "hit"
+   ]
+  ],
+  "headline": "Argentine Exocet strikes HMS Sheffield",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-04",
+  "date": "1994-05-04",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "cairo"
+   ],
+   [
+    "gaza"
+   ],
+   [
+    "jericho"
+   ],
+   [
+    "sign"
+   ]
+  ],
+  "headline": "Israel and the PLO sign the Gaza-Jericho agreement in Cairo",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-05",
+  "date": "1980-05-05",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "iranian embassy"
+   ],
+   [
+    "london"
+   ],
+   [
+    "storm",
+    "commando",
+    "police",
+    "sas"
+   ]
+  ],
+  "headline": "SAS storms the Iranian Embassy in London, ending the siege",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-05",
+  "date": "1981-05-05",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "sands"
+   ],
+   [
+    "hunger"
+   ]
+  ],
+  "headline": "IRA hunger striker Bobby Sands dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-05",
+  "date": "1992-05-05",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "crimea"
+   ],
+   [
+    "independence",
+    "sovereign"
+   ]
+  ],
+  "headline": "Crimean parliament declares independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-06",
+  "date": "1994-05-06",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "channel tunnel",
+    "eurotunnel",
+    "tunnel"
+   ],
+   [
+    "mitterrand",
+    "queen",
+    "elizabeth"
+   ]
+  ],
+  "headline": "Queen and Mitterrand open the Channel Tunnel",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-06",
+  "date": "1996-05-06",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "colby"
+   ],
+   [
+    "cia"
+   ]
+  ],
+  "headline": "Body of former CIA director William Colby found",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-07",
+  "date": "1989-05-07",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "election"
+   ],
+   [
+    "panama"
+   ]
+  ],
+  "headline": "Panama votes; Noriega's regime moves to annul the result",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-08",
+  "date": "1984-05-08",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "olympic"
+   ],
+   [
+    "los angeles"
+   ],
+   [
+    "participat",
+    "boycott"
+   ]
+  ],
+  "headline": "USSR announces it will boycott the Los Angeles Olympics",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-09",
+  "date": "1978-05-09",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "moro"
+   ],
+   [
+    "body",
+    "found",
+    "murder",
+    "killed"
+   ]
+  ],
+  "headline": "Body of kidnapped former Italian premier Aldo Moro found in Rome",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-10",
+  "date": "1981-05-10",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "mitterrand"
+   ],
+   [
+    "elect",
+    "president"
+   ]
+  ],
+  "headline": "Mitterrand elected president of France",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-10",
+  "date": "1994-05-10",
+  "regions": [
+   "EEU",
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "mandela"
+   ],
+   [
+    "inaugurat",
+    "sworn",
+    "oath"
+   ]
+  ],
+  "headline": "Nelson Mandela inaugurated as South Africa's president",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-11",
+  "date": "1987-05-11",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "barbie"
+   ],
+   [
+    "trial",
+    "lyon"
+   ]
+  ],
+  "headline": "Klaus Barbie's trial opens in Lyon",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-11",
+  "date": "1988-05-11",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "philby"
+   ],
+   [
+    "died",
+    "death",
+    "passed away",
+    "funeral"
+   ]
+  ],
+  "headline": "Kim Philby dies in Moscow",
+  "category": "defection",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-12",
+  "date": "1982-05-12",
+  "regions": [
+   "EEU",
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "pope",
+    "pontiff"
+   ],
+   [
+    "portugal",
+    "fatima"
+   ],
+   [
+    "attack",
+    "bayonet",
+    "knife",
+    "attempt",
+    "priest"
+   ]
+  ],
+  "headline": "Knife attack on John Paul II at Fatima",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-13",
+  "date": "1981-05-13",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "pope",
+    "pontiff",
+    "john paul"
+   ],
+   [
+    "agca",
+    "shot",
+    "wound",
+    "attempt"
+   ]
+  ],
+  "headline": "Mehmet Ali Agca shoots Pope John Paul II in St Peter's Square",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-14",
+  "date": "1987-05-14",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "fiji"
+   ],
+   [
+    "coup",
+    "rabuka",
+    "military"
+   ]
+  ],
+  "headline": "Military coup in Fiji led by Sitiveni Rabuka",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-15",
+  "date": "1988-05-15",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "afghan"
+   ],
+   [
+    "withdraw"
+   ],
+   [
+    "troops",
+    "contingent"
+   ]
+  ],
+  "headline": "Soviet troops begin withdrawing from Afghanistan",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-15",
+  "date": "1989-05-15",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gorbachev"
+   ],
+   [
+    "beijing"
+   ],
+   [
+    "arriv",
+    "visit"
+   ]
+  ],
+  "headline": "Gorbachev arrives in Beijing amid student protests",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-16",
+  "date": "1989-05-16",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "deng"
+   ],
+   [
+    "gorbachev"
+   ],
+   [
+    "normaliz",
+    "meet",
+    "talks"
+   ]
+  ],
+  "headline": "Gorbachev and Deng Xiaoping normalize Sino-Soviet relations",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-17",
+  "date": "1983-05-17",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "agreement"
+   ],
+   [
+    "lebanon",
+    "lebanese"
+   ],
+   [
+    "israel"
+   ]
+  ],
+  "headline": "Lebanon and Israel sign the 17 May agreement",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-17",
+  "date": "1987-05-17",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "stark"
+   ],
+   [
+    "frigate",
+    "missile",
+    "iraqi"
+   ]
+  ],
+  "headline": "Iraqi missiles strike the USS Stark in the Gulf",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-18",
+  "date": "1980-05-18",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kwangju",
+    "gwangju"
+   ],
+   [
+    "south korea"
+   ]
+  ],
+  "headline": "Uprising begins in Kwangju, South Korea",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-18",
+  "date": "1990-05-18",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "treaty"
+   ],
+   [
+    "monetary",
+    "currency union",
+    "economic"
+   ],
+   [
+    "sign"
+   ]
+  ],
+  "headline": "The two German states sign the monetary union treaty",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-18",
+  "date": "1991-05-18",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "somali"
+   ],
+   [
+    "independence",
+    "secession",
+    "republic"
+   ]
+  ],
+  "headline": "Somaliland declares independence from Somalia",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-19",
+  "date": "1991-05-19",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "referendum"
+   ],
+   [
+    "croatia"
+   ]
+  ],
+  "headline": "Croatians vote for independence in a referendum",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-20",
+  "date": "1978-05-20",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "enger",
+    "chernyayev",
+    "chernyaev"
+   ],
+   [
+    "fbi",
+    "spy",
+    "espionage",
+    "arrest"
+   ]
+  ],
+  "headline": "FBI arrests Soviet UN employees Enger and Chernyayev for espionage",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-20",
+  "date": "1985-05-20",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "walker"
+   ],
+   [
+    "spy",
+    "espionage",
+    "navy"
+   ]
+  ],
+  "headline": "John Walker arrested as head of a Navy spy ring",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-20",
+  "date": "1989-05-20",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "martial law"
+   ],
+   [
+    "beijing"
+   ]
+  ],
+  "headline": "Martial law declared in Beijing",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-20",
+  "date": "1990-05-20",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "rishon",
+    "rishon le"
+   ],
+   [
+    "massacre",
+    "workers",
+    "killed"
+   ]
+  ],
+  "headline": "Gunman kills seven Gaza workers at Rishon LeZion",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-21",
+  "date": "1991-05-21",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "rajiv gandhi"
+   ],
+   [
+    "assassinat",
+    "killed",
+    "blast",
+    "explo"
+   ]
+  ],
+  "headline": "Rajiv Gandhi assassinated at Sriperumbudur",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-22",
+  "date": "1990-05-22",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "yemen"
+   ],
+   [
+    "unity",
+    "unif",
+    "republic of yemen"
+   ]
+  ],
+  "headline": "North and South Yemen unite",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-22",
+  "date": "1992-05-22",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "united nations",
+    "un general assembly",
+    "general assembly"
+   ],
+   [
+    "bosnia",
+    "slovenia",
+    "croatia"
+   ],
+   [
+    "admit",
+    "member"
+   ]
+  ],
+  "headline": "Bosnia, Croatia and Slovenia admitted to the United Nations",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-23",
+  "date": "1992-05-23",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "falcone"
+   ],
+   [
+    "mafia",
+    "killed",
+    "murder",
+    "explo"
+   ]
+  ],
+  "headline": "Mafia bomb kills anti-Mafia judge Giovanni Falcone",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-23",
+  "date": "1994-05-23",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "mecca",
+    "makkah",
+    "hajj",
+    "pilgrim"
+   ],
+   [
+    "stampede",
+    "crush",
+    "died",
+    "dead"
+   ]
+  ],
+  "headline": "Hajj stampede at Mina kills about 270 pilgrims",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-24",
+  "date": "1982-05-24",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "khorramshahr"
+   ],
+   [
+    "liberat",
+    "recaptur",
+    "captur"
+   ]
+  ],
+  "headline": "Iran recaptures Khorramshahr",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-24",
+  "date": "1991-05-24",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "ethiopian",
+    "falasha"
+   ],
+   [
+    "airlift",
+    "israel"
+   ]
+  ],
+  "headline": "Operation Solomon airlifts Ethiopian Jews to Israel",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-25",
+  "date": "1981-05-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "gulf cooperation council",
+    "cooperation council"
+   ],
+   [
+    "abu dhabi",
+    "summit",
+    "charter"
+   ]
+  ],
+  "headline": "Gulf Cooperation Council founded in Abu Dhabi",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-25",
+  "date": "1993-05-25",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "serrano"
+   ],
+   [
+    "constitution",
+    "dissol",
+    "congress"
+   ]
+  ],
+  "headline": "Guatemalan President Serrano suspends the constitution",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-26",
+  "date": "1991-05-26",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gamsakhurdia"
+   ],
+   [
+    "elect",
+    "president"
+   ]
+  ],
+  "headline": "Gamsakhurdia elected president of Georgia",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-27",
+  "date": "1994-05-27",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "solzhenitsyn"
+   ],
+   [
+    "vladivostok",
+    "return"
+   ]
+  ],
+  "headline": "Solzhenitsyn returns to Russia via Vladivostok",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-28",
+  "date": "1987-05-28",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "rust",
+    "sports plane",
+    "light aircraft",
+    "cessna"
+   ],
+   [
+    "red square",
+    "moscow"
+   ]
+  ],
+  "headline": "West German pilot Mathias Rust lands on Red Square",
+  "category": "crisis",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-29",
+  "date": "1988-05-29",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "reagan"
+   ],
+   [
+    "moscow"
+   ],
+   [
+    "arriv",
+    "summit",
+    "visit"
+   ]
+  ],
+  "headline": "Reagan arrives in Moscow for his summit with Gorbachev",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-29",
+  "date": "1990-05-29",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "yeltsin"
+   ],
+   [
+    "chairman"
+   ],
+   [
+    "supreme soviet"
+   ]
+  ],
+  "headline": "Yeltsin elected chairman of the Russian Supreme Soviet",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-30",
+  "date": "1981-05-30",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "ziaur rahman",
+    "zia"
+   ],
+   [
+    "killed",
+    "assassin",
+    "chittagong"
+   ]
+  ],
+  "headline": "Bangladeshi President Ziaur Rahman assassinated in Chittagong",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-31",
+  "date": "1990-05-31",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gorbachev"
+   ],
+   [
+    "washington"
+   ],
+   [
+    "arriv",
+    "summit"
+   ]
+  ],
+  "headline": "Gorbachev arrives in Washington for a summit with Bush",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "05-31",
+  "date": "1991-05-31",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "angola"
+   ],
+   [
+    "accord",
+    "agreement",
+    "lisbon",
+    "estoril"
+   ]
+  ],
+  "headline": "Angola peace accords signed in Lisbon",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ }
+]

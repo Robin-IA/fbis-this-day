@@ -1,0 +1,1715 @@
+[
+ {
+  "md": "07-01",
+  "date": "1991-07-01",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "warsaw pact"
+   ],
+   [
+    "prague"
+   ],
+   [
+    "dissol",
+    "disband",
+    "terminat"
+   ]
+  ],
+  "headline": "Warsaw Pact formally dissolved in Prague",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-01",
+  "date": "1994-07-01",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "gaza"
+   ],
+   [
+    "arafat"
+   ],
+   [
+    "arriv",
+    "return"
+   ]
+  ],
+  "headline": "Arafat returns to Gaza after 27 years in exile",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-02",
+  "date": "1985-07-02",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gromyko"
+   ],
+   [
+    "presidium"
+   ],
+   [
+    "shevardnadze"
+   ]
+  ],
+  "headline": "Gromyko made Soviet head of state; Shevardnadze takes the Foreign Ministry",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-02",
+  "date": "1990-07-02",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "embass"
+   ],
+   [
+    "tirana"
+   ],
+   [
+    "albania"
+   ]
+  ],
+  "headline": "Albanians storm foreign embassies in Tirana seeking asylum",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-03",
+  "date": "1988-07-03",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "airbus"
+   ],
+   [
+    "vincennes",
+    "u.s. warship",
+    "american warship",
+    "cruiser"
+   ],
+   [
+    "iran"
+   ]
+  ],
+  "headline": "USS Vincennes shoots down Iran Air Flight 655",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-03",
+  "date": "1996-07-03",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "yeltsin"
+   ],
+   [
+    "zyuganov"
+   ],
+   [
+    "second round",
+    "runoff",
+    "run-off"
+   ]
+  ],
+  "headline": "Yeltsin wins the Russian presidential runoff",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-03",
+  "date": "1993-07-03",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "governors island"
+   ],
+   [
+    "aristide"
+   ],
+   [
+    "cedras"
+   ]
+  ],
+  "headline": "Governors Island Accord signed for Aristide's return to Haiti",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-04",
+  "date": "1995-07-04",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "kashmir"
+   ],
+   [
+    "tourist"
+   ],
+   [
+    "kidnap",
+    "abduct",
+    "hostage"
+   ]
+  ],
+  "headline": "Al-Faran militants kidnap Western trekkers in Kashmir",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-05",
+  "date": "1989-07-05",
+  "regions": [
+   "LAT",
+   "SOV",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "north"
+   ],
+   [
+    "sentenc",
+    "probation"
+   ],
+   [
+    "contra",
+    "iran-contra",
+    "irangate"
+   ]
+  ],
+  "headline": "Oliver North sentenced in the Iran-Contra case",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-05",
+  "date": "1991-07-05",
+  "regions": [
+   "NES",
+   "LAT",
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "bcci",
+    "bank of credit and commerce"
+   ],
+   [
+    "clos",
+    "shut",
+    "freez",
+    "seiz"
+   ]
+  ],
+  "headline": "Regulators shut down BCCI worldwide",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-05",
+  "date": "1984-07-05",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "dikko"
+   ]
+  ],
+  "headline": "Former Nigerian minister Umaru Dikko found drugged in a crate at Stansted",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-06",
+  "date": "1990-07-06",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "declaration"
+   ],
+   [
+    "nato"
+   ],
+   [
+    "london"
+   ],
+   [
+    "friendship",
+    "adversar",
+    "no longer"
+   ]
+  ],
+  "headline": "NATO London Declaration offers the East a hand of friendship",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-07",
+  "date": "1987-07-07",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "oliver north",
+    "colonel north",
+    "col north"
+   ],
+   [
+    "testi",
+    "hearing",
+    "congress"
+   ]
+  ],
+  "headline": "Oliver North begins testimony to the Iran-Contra committees",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-07",
+  "date": "1991-07-07",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "brioni",
+    "brijuni"
+   ],
+   [
+    "slovenia"
+   ],
+   [
+    "declaration",
+    "agreement",
+    "moratorium"
+   ]
+  ],
+  "headline": "Brioni Agreement pauses the war in Slovenia",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-07",
+  "date": "1994-07-07",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "aden"
+   ],
+   [
+    "yemen"
+   ],
+   [
+    "captur",
+    "fall",
+    "fell",
+    "control"
+   ]
+  ],
+  "headline": "Aden falls, ending Yemen's civil war",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-08",
+  "date": "1994-07-08",
+  "regions": [
+   "EAS",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kim il-song",
+    "kim il song"
+   ],
+   [
+    "passed away",
+    "death",
+    "demise"
+   ],
+   [
+    "mourn",
+    "condolen",
+    "funeral"
+   ]
+  ],
+  "headline": "Kim Il-song dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-09",
+  "date": "1989-07-09",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "bush"
+   ],
+   [
+    "warsaw"
+   ],
+   [
+    "jaruzelski",
+    "walesa"
+   ]
+  ],
+  "headline": "President Bush arrives in Poland",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-09",
+  "date": "1994-07-09",
+  "regions": [
+   "EAS",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kim il-song",
+    "kim il song"
+   ],
+   [
+    "death",
+    "died",
+    "passed away"
+   ],
+   [
+    "announc"
+   ]
+  ],
+  "headline": "Pyongyang announces Kim Il-song's death",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-10",
+  "date": "1978-07-10",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "mauritania"
+   ],
+   [
+    "ould daddah"
+   ],
+   [
+    "army",
+    "military",
+    "coup",
+    "overthr"
+   ]
+  ],
+  "headline": "Army coup topples Mauritania's President Ould Daddah",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-10",
+  "date": "1991-07-10",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "yeltsin"
+   ],
+   [
+    "inaugurat",
+    "oath",
+    "sworn"
+   ]
+  ],
+  "headline": "Yeltsin inaugurated as first elected president of Russia",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-11",
+  "date": "1995-07-11",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "srebrenica"
+   ],
+   [
+    "fell",
+    "fall of",
+    "captur",
+    "occup",
+    "entered",
+    "overr",
+    "taken"
+   ],
+   [
+    "serb"
+   ]
+  ],
+  "headline": "Bosnian Serb forces take Srebrenica",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-12",
+  "date": "1988-07-12",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "karabakh"
+   ],
+   [
+    "secession",
+    "secede",
+    "withdraw",
+    "separat",
+    "leave azerbaijan"
+   ],
+   [
+    "oblast",
+    "soviet",
+    "session"
+   ]
+  ],
+  "headline": "Nagorno-Karabakh's soviet votes to leave Azerbaijan",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-13",
+  "date": "1989-07-13",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "ochoa"
+   ],
+   [
+    "execut",
+    "shot"
+   ]
+  ],
+  "headline": "Cuba executes General Arnaldo Ochoa",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-13",
+  "date": "1992-07-13",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "rabin"
+   ],
+   [
+    "knesset"
+   ],
+   [
+    "government",
+    "cabinet"
+   ]
+  ],
+  "headline": "Rabin government sworn in in Israel",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-13",
+  "date": "1982-07-13",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "basra",
+    "al-basrah"
+   ],
+   [
+    "iran"
+   ],
+   [
+    "offensive",
+    "attack"
+   ]
+  ],
+  "headline": "Iran launches Operation Ramadan toward Basra",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-13",
+  "date": "1978-07-13",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ginzburg"
+   ],
+   [
+    "sentence",
+    "years"
+   ]
+  ],
+  "headline": "Aleksandr Ginzburg sentenced in Kaluga",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-14",
+  "date": "1978-07-14",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "shcharanskiy",
+    "shcharansky",
+    "shcharanski"
+   ],
+   [
+    "sentence",
+    "treason",
+    "years"
+   ]
+  ],
+  "headline": "Shcharanskiy sentenced to 13 years for treason and espionage",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-15",
+  "date": "1979-07-15",
+  "regions": [
+   "SOV",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "carter"
+   ],
+   [
+    "energy"
+   ],
+   [
+    "speech",
+    "address"
+   ]
+  ],
+  "headline": "Carter's 'crisis of confidence' energy speech",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-16",
+  "date": "1979-07-16",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "saddam"
+   ],
+   [
+    "al-bakr",
+    "al-bakr"
+   ],
+   [
+    "president"
+   ]
+  ],
+  "headline": "Saddam Husayn succeeds al-Bakr as Iraq's president",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-16",
+  "date": "1990-07-16",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kohl"
+   ],
+   [
+    "gorbachev"
+   ],
+   [
+    "nato"
+   ],
+   [
+    "germany"
+   ]
+  ],
+  "headline": "Kohl and Gorbachev agree a united Germany may join NATO",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-16",
+  "date": "1990-07-16",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ukrain"
+   ],
+   [
+    "sovereignty"
+   ],
+   [
+    "declaration"
+   ]
+  ],
+  "headline": "Ukraine declares state sovereignty",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-17",
+  "date": "1980-07-17",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "garcia meza"
+   ],
+   [
+    "bolivia"
+   ],
+   [
+    "junta",
+    "military",
+    "coup"
+   ]
+  ],
+  "headline": "Garcia Meza's 'cocaine coup' in Bolivia",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-17",
+  "date": "1979-07-17",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "somoza"
+   ],
+   [
+    "resign",
+    "miami",
+    "left",
+    "fled"
+   ]
+  ],
+  "headline": "Somoza resigns and flees Nicaragua",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-18",
+  "date": "1994-07-18",
+  "regions": [
+   "LAT",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "buenos aires"
+   ],
+   [
+    "jewish",
+    "amia",
+    "israelite"
+   ],
+   [
+    "bomb",
+    "explos",
+    "attack"
+   ]
+  ],
+  "headline": "Car bomb destroys the AMIA Jewish centre in Buenos Aires",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-18",
+  "date": "1988-07-18",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "598"
+   ],
+   [
+    "accept"
+   ],
+   [
+    "iran"
+   ]
+  ],
+  "headline": "Iran accepts UN Resolution 598 ending the Gulf war",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-18",
+  "date": "1980-07-18",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "bakhtiar"
+   ],
+   [
+    "paris"
+   ],
+   [
+    "attempt",
+    "attack",
+    "assassin"
+   ]
+  ],
+  "headline": "Assassination attempt on Shapur Bakhtiar in Paris",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-19",
+  "date": "1979-07-19",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "managua"
+   ],
+   [
+    "sandinist"
+   ],
+   [
+    "junta",
+    "government of national reconstruction",
+    "triumph",
+    "victory"
+   ]
+  ],
+  "headline": "Sandinistas enter Managua",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-19",
+  "date": "1982-07-19",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "dodge"
+   ],
+   [
+    "american university",
+    "kidnap",
+    "abduct"
+   ]
+  ],
+  "headline": "AUB president David Dodge kidnapped in Beirut",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-19",
+  "date": "1989-07-19",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "jaruzelski"
+   ],
+   [
+    "president"
+   ],
+   [
+    "elect",
+    "national assembly"
+   ]
+  ],
+  "headline": "Jaruzelski elected president of Poland",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-20",
+  "date": "1987-07-20",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "598"
+   ],
+   [
+    "security council"
+   ],
+   [
+    "iran",
+    "iraq"
+   ]
+  ],
+  "headline": "UN Security Council passes Resolution 598 on the Iran-Iraq war",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-20",
+  "date": "1991-07-20",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "yeltsin"
+   ],
+   [
+    "decree"
+   ],
+   [
+    "depolitic",
+    "party organization",
+    "party organs",
+    "workplace",
+    "enterprises"
+   ]
+  ],
+  "headline": "Yeltsin decree bans party cells in Russian workplaces",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-21",
+  "date": "1978-07-21",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "pereda"
+   ],
+   [
+    "bolivia"
+   ],
+   [
+    "banzer",
+    "coup",
+    "military",
+    "president"
+   ]
+  ],
+  "headline": "General Pereda seizes power in Bolivia",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-21",
+  "date": "1983-07-21",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "martial law"
+   ],
+   [
+    "lift",
+    "end",
+    "abolish",
+    "suspend"
+   ],
+   [
+    "sejm",
+    "poland",
+    "polish"
+   ]
+  ],
+  "headline": "Poland's Sejm votes to end martial law",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-22",
+  "date": "1983-07-22",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "martial law"
+   ],
+   [
+    "lift",
+    "end",
+    "abolish"
+   ],
+   [
+    "amnesty"
+   ]
+  ],
+  "headline": "Martial law lifted in Poland with an amnesty",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-23",
+  "date": "1983-07-23",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "sri lanka"
+   ],
+   [
+    "tamil"
+   ],
+   [
+    "riot",
+    "violence",
+    "clash",
+    "attack"
+   ]
+  ],
+  "headline": "Ambush and riots open Sri Lanka's 'Black July'",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-24",
+  "date": "1987-07-24",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bridgeton"
+   ],
+   [
+    "mine"
+   ]
+  ],
+  "headline": "Reflagged tanker Bridgeton hits a mine in the Gulf's first US convoy",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-24",
+  "date": "1993-07-24",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ruble",
+    "rouble"
+   ],
+   [
+    "banknote",
+    "bank notes",
+    "notes"
+   ],
+   [
+    "central bank",
+    "withdraw",
+    "exchange"
+   ]
+  ],
+  "headline": "Russia's central bank withdraws pre-1993 ruble notes",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-25",
+  "date": "1990-07-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "glaspie"
+   ],
+   [
+    "saddam"
+   ]
+  ],
+  "headline": "Saddam meets US Ambassador April Glaspie",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-25",
+  "date": "1993-07-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "lebanon"
+   ],
+   [
+    "israel"
+   ],
+   [
+    "bombard",
+    "shell",
+    "raid",
+    "operation"
+   ],
+   [
+    "hizballah",
+    "hizbollah"
+   ]
+  ],
+  "headline": "Israel launches Operation Accountability in Lebanon",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-25",
+  "date": "1994-07-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "washington declaration",
+    "washington"
+   ],
+   [
+    "husayn",
+    "hussein"
+   ],
+   [
+    "rabin"
+   ]
+  ],
+  "headline": "Washington Declaration ends Jordan-Israel state of war",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-26",
+  "date": "1986-07-26",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "jenco"
+   ],
+   [
+    "releas",
+    "freed"
+   ]
+  ],
+  "headline": "Father Lawrence Jenco freed in Lebanon",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-27",
+  "date": "1980-07-27",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "shah"
+   ],
+   [
+    "died",
+    "death",
+    "dies"
+   ],
+   [
+    "cairo"
+   ]
+  ],
+  "headline": "The deposed Shah dies in Cairo",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-27",
+  "date": "1990-07-27",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "trinidad"
+   ],
+   [
+    "abu bakr",
+    "muslimeen",
+    "rebel",
+    "coup"
+   ],
+   [
+    "robinson",
+    "parliament"
+   ]
+  ],
+  "headline": "Jamaat al Muslimeen coup attempt in Trinidad, Prime Minister held hostage",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-27",
+  "date": "1990-07-27",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "belorussia",
+    "byelorussia"
+   ],
+   [
+    "sovereignty"
+   ],
+   [
+    "declar"
+   ]
+  ],
+  "headline": "Belorussia declares state sovereignty",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-28",
+  "date": "1989-07-28",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "obeid",
+    "ubayd"
+   ],
+   [
+    "kidnap",
+    "abduct"
+   ],
+   [
+    "israel"
+   ]
+  ],
+  "headline": "Israeli commandos abduct Hizballah's Sheikh Obeid",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-28",
+  "date": "1984-07-28",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "olympic"
+   ],
+   [
+    "los angeles"
+   ]
+  ],
+  "headline": "Los Angeles Olympics open without the Soviet bloc",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-29",
+  "date": "1981-07-29",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "bani-sadr",
+    "bani sadr",
+    "banisadr"
+   ],
+   [
+    "paris",
+    "france",
+    "fled",
+    "escape"
+   ]
+  ],
+  "headline": "Bani-Sadr escapes Iran to Paris with Rajavi",
+  "category": "defection",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-29",
+  "date": "1985-07-29",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "moratorium"
+   ],
+   [
+    "nuclear explosion",
+    "nuclear test",
+    "nuclear explosions"
+   ],
+   [
+    "gorbachev"
+   ]
+  ],
+  "headline": "Gorbachev announces a unilateral nuclear test moratorium",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-30",
+  "date": "1985-07-30",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "helsinki"
+   ],
+   [
+    "shultz"
+   ],
+   [
+    "shevardnadze"
+   ]
+  ],
+  "headline": "Shultz meets Shevardnadze at the Helsinki anniversary",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-30",
+  "date": "1995-07-30",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "chechen"
+   ],
+   [
+    "military"
+   ],
+   [
+    "agreement",
+    "accord"
+   ]
+  ],
+  "headline": "Military accord signed in the Chechen talks in Grozny",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-30",
+  "date": "1981-07-30",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gambia"
+   ],
+   [
+    "coup",
+    "rebel",
+    "senegal"
+   ]
+  ],
+  "headline": "Coup attempt in The Gambia; Senegal intervenes",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-31",
+  "date": "1989-07-31",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "higgins"
+   ],
+   [
+    "execut",
+    "hang",
+    "killed"
+   ]
+  ],
+  "headline": "Hizballah group says it has hanged Lt Col William Higgins",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-31",
+  "date": "1987-07-31",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "mecca",
+    "makkah"
+   ],
+   [
+    "pilgrim"
+   ],
+   [
+    "iranian"
+   ]
+  ],
+  "headline": "Iranian pilgrims die in clashes in Mecca",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "07-31",
+  "date": "1994-07-31",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "940"
+   ],
+   [
+    "haiti"
+   ],
+   [
+    "security council"
+   ]
+  ],
+  "headline": "UN Security Council authorizes force in Haiti",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ }
+]

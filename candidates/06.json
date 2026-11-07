@@ -1,0 +1,1230 @@
+[
+ {
+  "md": "06-01",
+  "date": "1990-06-01",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "chemical weapons"
+   ],
+   [
+    "bush"
+   ],
+   [
+    "sign"
+   ]
+  ],
+  "headline": "Bush and Gorbachev sign a chemical weapons accord",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-01",
+  "date": "1993-06-01",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "serrano"
+   ],
+   [
+    "guatemala"
+   ],
+   [
+    "army",
+    "military",
+    "removed",
+    "ouster",
+    "resign"
+   ]
+  ],
+  "headline": "Guatemala's army forces out President Serrano",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-02",
+  "date": "1979-06-02",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "pope",
+    "pontiff",
+    "john paul"
+   ],
+   [
+    "warsaw",
+    "poland"
+   ],
+   [
+    "arriv",
+    "visit"
+   ]
+  ],
+  "headline": "John Paul II begins his first pilgrimage to Poland",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-03",
+  "date": "1982-06-03",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "argov"
+   ],
+   [
+    "ambassador",
+    "london"
+   ]
+  ],
+  "headline": "Israeli ambassador Shlomo Argov shot in London",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-03",
+  "date": "1989-06-03",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "khomeyni",
+    "khomeini"
+   ],
+   [
+    "death",
+    "died",
+    "passed away"
+   ]
+  ],
+  "headline": "Ayatollah Khomeyni dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-04",
+  "date": "1979-06-04",
+  "regions": [
+   "LAT",
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ghana"
+   ],
+   [
+    "rawlings",
+    "coup"
+   ]
+  ],
+  "headline": "Jerry Rawlings seizes power in Ghana",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-04",
+  "date": "1989-06-04",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "election"
+   ],
+   [
+    "solidarity",
+    "solidarnosc"
+   ]
+  ],
+  "headline": "Solidarity sweeps Poland's partially free elections",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-04",
+  "date": "1989-06-04",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "beijing"
+   ],
+   [
+    "tiananmen",
+    "troops",
+    "army"
+   ]
+  ],
+  "headline": "Troops clear Tiananmen Square",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-05",
+  "date": "1984-06-05",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "golden temple",
+    "amritsar"
+   ],
+   [
+    "army",
+    "troops"
+   ]
+  ],
+  "headline": "Indian army storms the Golden Temple at Amritsar",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-06",
+  "date": "1982-06-06",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "israel",
+    "zionist"
+   ],
+   [
+    "lebanon",
+    "invasion",
+    "invad"
+   ]
+  ],
+  "headline": "Israel invades Lebanon",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-07",
+  "date": "1981-06-07",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "reactor"
+   ],
+   [
+    "iraq",
+    "baghdad"
+   ],
+   [
+    "israel",
+    "zionist"
+   ]
+  ],
+  "headline": "Israeli jets destroy Iraq's Osirak reactor",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-08",
+  "date": "1995-06-08",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "o'grady",
+    "pilot"
+   ],
+   [
+    "rescue",
+    "f-16",
+    "bosnia"
+   ]
+  ],
+  "headline": "Downed US pilot Scott O'Grady rescued in Bosnia",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-09",
+  "date": "1985-06-09",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "sutherland"
+   ],
+   [
+    "american",
+    "kidnap",
+    "abduct"
+   ]
+  ],
+  "headline": "American educator Thomas Sutherland kidnapped in Beirut",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-09",
+  "date": "1990-06-09",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "election"
+   ],
+   [
+    "czechoslovak",
+    "civic forum"
+   ]
+  ],
+  "headline": "Czechoslovakia votes in its first free elections since 1946",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-10",
+  "date": "1990-06-10",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "fujimori"
+   ],
+   [
+    "elect",
+    "runoff",
+    "vote",
+    "victory"
+   ]
+  ],
+  "headline": "Fujimori wins Peru's presidential runoff",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-11",
+  "date": "1985-06-11",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "exchange",
+    "swap"
+   ],
+   [
+    "glienicke",
+    "agents",
+    "spies",
+    "potsdam"
+   ]
+  ],
+  "headline": "Spy swap on Berlin's Glienicke Bridge",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-12",
+  "date": "1978-06-12",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "crawford"
+   ],
+   [
+    "international harvester",
+    "harvester",
+    "american",
+    "smuggl",
+    "currency"
+   ]
+  ],
+  "headline": "Moscow arrests US businessman Jay Crawford after the Enger case",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-12",
+  "date": "1987-06-12",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "reagan"
+   ],
+   [
+    "berlin"
+   ],
+   [
+    "brandenburg",
+    "wall",
+    "speech"
+   ]
+  ],
+  "headline": "Reagan at the Brandenburg Gate: tear down this wall",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-12",
+  "date": "1991-06-12",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "yeltsin"
+   ],
+   [
+    "elect",
+    "president"
+   ]
+  ],
+  "headline": "Yeltsin elected president of Russia",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-13",
+  "date": "1982-06-13",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "khalid"
+   ],
+   [
+    "fahd",
+    "king"
+   ],
+   [
+    "death",
+    "died",
+    "passed away"
+   ]
+  ],
+  "headline": "Saudi King Khalid dies; Fahd succeeds",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-14",
+  "date": "1982-06-14",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "malvinas",
+    "falkland",
+    "puerto argentino"
+   ],
+   [
+    "ceasefire",
+    "cease-fire",
+    "surrender",
+    "capitulat"
+   ]
+  ],
+  "headline": "Argentine forces surrender at Port Stanley",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-14",
+  "date": "1985-06-14",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "twa",
+    "boeing",
+    "airliner"
+   ],
+   [
+    "hijack",
+    "beirut"
+   ]
+  ],
+  "headline": "TWA Flight 847 hijacked to Beirut",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-14",
+  "date": "1995-06-14",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "budennovsk",
+    "budyonnovsk",
+    "budenovsk"
+   ],
+   [
+    "hostage",
+    "basayev"
+   ]
+  ],
+  "headline": "Basayev's fighters seize the hospital at Budennovsk",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-15",
+  "date": "1991-06-15",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "pinatubo"
+   ],
+   [
+    "erupt"
+   ]
+  ],
+  "headline": "Mount Pinatubo erupts in the Philippines",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-15",
+  "date": "1994-06-15",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "carter"
+   ],
+   [
+    "pyongyang",
+    "dprk",
+    "kim il-song",
+    "kim il song"
+   ]
+  ],
+  "headline": "Jimmy Carter crosses to North Korea in the nuclear crisis",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-16",
+  "date": "1989-06-16",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "nagy"
+   ],
+   [
+    "reburial",
+    "funeral",
+    "burial"
+   ]
+  ],
+  "headline": "Imre Nagy reburied in Budapest",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-16",
+  "date": "1996-06-16",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "election"
+   ],
+   [
+    "yeltsin"
+   ],
+   [
+    "zyuganov"
+   ]
+  ],
+  "headline": "Russians vote in the first round of the presidential election",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-17",
+  "date": "1982-06-17",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "galtieri"
+   ],
+   [
+    "resign",
+    "replac",
+    "removed"
+   ]
+  ],
+  "headline": "Galtieri ousted after the Falklands defeat",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-17",
+  "date": "1991-06-17",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "population registration"
+   ],
+   [
+    "repeal",
+    "abolish"
+   ]
+  ],
+  "headline": "South Africa repeals the Population Registration Act",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-18",
+  "date": "1979-06-18",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "salt"
+   ],
+   [
+    "vienna"
+   ],
+   [
+    "sign"
+   ]
+  ],
+  "headline": "Carter and Brezhnev sign SALT II in Vienna",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-19",
+  "date": "1987-06-19",
+  "regions": [
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "barcelona"
+   ],
+   [
+    "eta",
+    "bomb",
+    "explo"
+   ]
+  ],
+  "headline": "ETA bomb at Barcelona's Hipercor supermarket",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-19",
+  "date": "1991-06-19",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hungary",
+    "hungarian"
+   ],
+   [
+    "withdrawal",
+    "last soviet",
+    "last train",
+    "troops"
+   ]
+  ],
+  "headline": "Last Soviet troops leave Hungary",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-20",
+  "date": "1979-06-20",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "stewart",
+    "journalist",
+    "abc"
+   ],
+   [
+    "nicaragua",
+    "managua"
+   ]
+  ],
+  "headline": "National Guard soldier kills ABC reporter Bill Stewart in Managua",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-20",
+  "date": "1991-06-20",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "bundestag"
+   ],
+   [
+    "berlin"
+   ],
+   [
+    "capital",
+    "seat"
+   ]
+  ],
+  "headline": "Bundestag votes to move the capital to Berlin",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-21",
+  "date": "1990-06-21",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "earthquake",
+    "quake"
+   ],
+   [
+    "gilan",
+    "zanjan",
+    "rudbar"
+   ]
+  ],
+  "headline": "Earthquake kills tens of thousands in northern Iran",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-22",
+  "date": "1990-06-22",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "checkpoint charlie"
+   ],
+   [
+    "remov",
+    "dismantl",
+    "ceremony"
+   ]
+  ],
+  "headline": "Checkpoint Charlie dismantled",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-23",
+  "date": "1985-06-23",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "air india",
+    "air-india"
+   ],
+   [
+    "crash",
+    "explo",
+    "bomb",
+    "jumbo",
+    "boeing"
+   ]
+  ],
+  "headline": "Air India Flight 182 destroyed by a bomb off Ireland",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-24",
+  "date": "1994-06-24",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "corfu"
+   ],
+   [
+    "partnership",
+    "agreement",
+    "european union"
+   ]
+  ],
+  "headline": "Russia signs a partnership agreement with the EU at Corfu",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-25",
+  "date": "1991-06-25",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "slovenia"
+   ],
+   [
+    "croatia"
+   ],
+   [
+    "independence"
+   ]
+  ],
+  "headline": "Slovenia and Croatia declare independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-25",
+  "date": "1996-06-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "khobar",
+    "al-khubar",
+    "dhahran",
+    "zahran"
+   ],
+   [
+    "explo",
+    "bomb",
+    "blast"
+   ]
+  ],
+  "headline": "Truck bomb hits Khobar Towers in Dhahran",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-26",
+  "date": "1993-06-26",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "intelligence"
+   ],
+   [
+    "missile",
+    "cruise",
+    "tomahawk"
+   ],
+   [
+    "baghdad"
+   ]
+  ],
+  "headline": "US cruise missiles strike Iraqi intelligence headquarters",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-26",
+  "date": "1995-06-26",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "mubarak"
+   ],
+   [
+    "addis ababa"
+   ],
+   [
+    "attempt",
+    "assassin",
+    "attack"
+   ]
+  ],
+  "headline": "Assassination attempt on Mubarak in Addis Ababa",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-27",
+  "date": "1991-06-27",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "slovenia"
+   ],
+   [
+    "army",
+    "jna",
+    "troops",
+    "tank"
+   ]
+  ],
+  "headline": "Yugoslav army moves into Slovenia",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-28",
+  "date": "1981-06-28",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "beheshti"
+   ],
+   [
+    "explo",
+    "blast",
+    "bomb",
+    "martyr"
+   ]
+  ],
+  "headline": "Bomb at IRP headquarters kills Ayatollah Beheshti and 72 others",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-28",
+  "date": "1989-06-28",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "kosovo"
+   ],
+   [
+    "milosevic"
+   ],
+   [
+    "gazimestan",
+    "anniversary",
+    "600"
+   ]
+  ],
+  "headline": "Milosevic speaks at Gazimestan on the 600th anniversary of Kosovo Polje",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-29",
+  "date": "1992-06-29",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "boudiaf",
+    "budiaf"
+   ],
+   [
+    "assassin",
+    "killed",
+    "martyr"
+   ]
+  ],
+  "headline": "Algerian head of state Mohamed Boudiaf assassinated",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-29",
+  "date": "1995-06-29",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "atlantis"
+   ],
+   [
+    "mir"
+   ],
+   [
+    "dock"
+   ]
+  ],
+  "headline": "Space shuttle Atlantis docks with Mir",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "06-30",
+  "date": "1985-06-30",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hostages"
+   ],
+   [
+    "twa",
+    "damascus",
+    "released",
+    "freed"
+   ]
+  ],
+  "headline": "TWA 847 hostages freed via Damascus",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ }
+]

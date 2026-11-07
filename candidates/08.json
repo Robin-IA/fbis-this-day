@@ -1,0 +1,1297 @@
+[
+ {
+  "md": "08-01",
+  "date": "1991-08-01",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bush"
+   ],
+   [
+    "kiev"
+   ],
+   [
+    "ukrain"
+   ]
+  ],
+  "headline": "Bush addresses Ukraine's Supreme Soviet in Kiev",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-02",
+  "date": "1990-08-02",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kuwait"
+   ],
+   [
+    "iraq"
+   ],
+   [
+    "invad",
+    "invasion",
+    "troops"
+   ]
+  ],
+  "headline": "Iraq invades Kuwait",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-03",
+  "date": "1990-08-03",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "baker"
+   ],
+   [
+    "shevardnadze"
+   ],
+   [
+    "joint statement"
+   ]
+  ],
+  "headline": "Baker and Shevardnadze issue a joint statement condemning Iraq",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-04",
+  "date": "1995-08-04",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "krajina"
+   ],
+   [
+    "croatia"
+   ],
+   [
+    "offensive",
+    "attack",
+    "operation"
+   ]
+  ],
+  "headline": "Croatia launches Operation Storm against Krajina",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-05",
+  "date": "1995-08-05",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "knin"
+   ],
+   [
+    "croatia",
+    "croat"
+   ]
+  ],
+  "headline": "Croatian forces take Knin",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-06",
+  "date": "1990-08-06",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "661"
+   ],
+   [
+    "sanctions",
+    "embargo"
+   ]
+  ],
+  "headline": "UN Resolution 661 imposes sanctions on Iraq",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-07",
+  "date": "1987-08-07",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "esquipulas",
+    "guatemala"
+   ],
+   [
+    "presidents"
+   ],
+   [
+    "peace",
+    "procedure",
+    "agreement"
+   ]
+  ],
+  "headline": "Central American presidents sign the Esquipulas II peace plan",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-08",
+  "date": "1995-08-08",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "kamil",
+    "kamel"
+   ],
+   [
+    "amman",
+    "jordan"
+   ],
+   [
+    "husayn",
+    "hussein"
+   ]
+  ],
+  "headline": "Saddam's son-in-law Husayn Kamil defects to Jordan",
+  "category": "defection",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-08",
+  "date": "1990-08-08",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "kuwait"
+   ],
+   [
+    "merger",
+    "annex",
+    "unity",
+    "return of the branch"
+   ]
+  ],
+  "headline": "Iraq announces the merger of Kuwait",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-08",
+  "date": "1988-08-08",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "ceasefire",
+    "cease-fire"
+   ],
+   [
+    "iran"
+   ],
+   [
+    "perez de cuellar",
+    "secretary general",
+    "secretary-general"
+   ]
+  ],
+  "headline": "UN announces an Iran-Iraq ceasefire date",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-09",
+  "date": "1993-08-09",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "hosokawa"
+   ],
+   [
+    "prime minister"
+   ],
+   [
+    "cabinet",
+    "inaugurat",
+    "sworn",
+    "installed",
+    "took office"
+   ]
+  ],
+  "headline": "Hosokawa takes office as Japan's first non-LDP prime minister since 1955",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-10",
+  "date": "1990-08-10",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "arab summit",
+    "summit"
+   ],
+   [
+    "cairo"
+   ],
+   [
+    "forces",
+    "troops"
+   ]
+  ],
+  "headline": "Cairo Arab summit votes to send forces to defend Saudi Arabia",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-11",
+  "date": "1991-08-11",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "tracy"
+   ],
+   [
+    "releas",
+    "freed",
+    "hostage"
+   ]
+  ],
+  "headline": "American hostage Edward Tracy freed in Lebanon",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-11",
+  "date": "1978-08-11",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "isfahan",
+    "esfahan"
+   ],
+   [
+    "martial law"
+   ]
+  ],
+  "headline": "Martial law declared in Isfahan",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-12",
+  "date": "1990-08-12",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "saddam",
+    "husayn"
+   ],
+   [
+    "initiative"
+   ],
+   [
+    "israel",
+    "palestin",
+    "golan"
+   ],
+   [
+    "withdraw"
+   ]
+  ],
+  "headline": "Saddam links withdrawal from Kuwait to Israel's occupied territories",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-12",
+  "date": "1982-08-12",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "beirut"
+   ],
+   [
+    "bombard",
+    "shell",
+    "raid",
+    "air"
+   ],
+   [
+    "israel"
+   ]
+  ],
+  "headline": "Israel's heaviest bombardment of West Beirut",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-13",
+  "date": "1978-08-13",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "beirut"
+   ],
+   [
+    "explosion",
+    "blast"
+   ],
+   [
+    "palestin"
+   ]
+  ],
+  "headline": "Bomb destroys a Palestinian group's building in Beirut",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-14",
+  "date": "1994-08-14",
+  "regions": [
+   "NES",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "carlos"
+   ],
+   [
+    "sudan",
+    "khartoum"
+   ],
+   [
+    "france",
+    "french",
+    "paris"
+   ]
+  ],
+  "headline": "Carlos the Jackal seized in Sudan and flown to France",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-14",
+  "date": "1980-08-14",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "gdansk"
+   ],
+   [
+    "strike",
+    "stoppage",
+    "work"
+   ]
+  ],
+  "headline": "Strike begins at the Lenin Shipyard in Gdansk",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-15",
+  "date": "1990-08-15",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "iran"
+   ],
+   [
+    "saddam",
+    "husayn"
+   ],
+   [
+    "1975",
+    "algiers"
+   ],
+   [
+    "prisoner",
+    "withdraw"
+   ]
+  ],
+  "headline": "Saddam offers Iran the 1975 border and a prisoner exchange",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-16",
+  "date": "1990-08-16",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "hotel"
+   ],
+   [
+    "british",
+    "briton",
+    "american"
+   ],
+   [
+    "kuwait"
+   ]
+  ],
+  "headline": "Iraq orders Westerners in Kuwait to gather at hotels",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-16",
+  "date": "1990-08-16",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "husayn",
+    "hussein"
+   ],
+   [
+    "kennebunkport"
+   ],
+   [
+    "bush"
+   ]
+  ],
+  "headline": "King Husayn meets Bush at Kennebunkport",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-17",
+  "date": "1988-08-17",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "crash"
+   ],
+   [
+    "zia"
+   ],
+   [
+    "aircraft",
+    "plane",
+    "c-130"
+   ]
+  ],
+  "headline": "Pakistan's President Zia killed in plane crash",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-18",
+  "date": "1989-08-18",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "galan"
+   ],
+   [
+    "assassin",
+    "murder",
+    "killed",
+    "shot"
+   ]
+  ],
+  "headline": "Colombian presidential candidate Luis Carlos Galan assassinated",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-18",
+  "date": "1991-08-18",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "foros"
+   ],
+   [
+    "gorbachev"
+   ]
+  ],
+  "headline": "Plotters isolate Gorbachev at Foros",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-19",
+  "date": "1991-08-19",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "emergency"
+   ],
+   [
+    "yanayev"
+   ],
+   [
+    "gorbachev"
+   ]
+  ],
+  "headline": "State Emergency Committee seizes power in Moscow",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-19",
+  "date": "1981-08-19",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "sidra",
+    "surt",
+    "sirte"
+   ],
+   [
+    "aircraft",
+    "planes",
+    "jets"
+   ],
+   [
+    "american",
+    "u.s."
+   ]
+  ],
+  "headline": "US Navy jets shoot down two Libyan fighters over the Gulf of Sidra",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-20",
+  "date": "1991-08-20",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "estonia"
+   ],
+   [
+    "independence"
+   ]
+  ],
+  "headline": "Estonia declares independence during the coup",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-20",
+  "date": "1988-08-20",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "ceasefire",
+    "cease-fire"
+   ],
+   [
+    "iran"
+   ],
+   [
+    "iraq"
+   ],
+   [
+    "effect"
+   ]
+  ],
+  "headline": "Iran-Iraq ceasefire takes effect",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-21",
+  "date": "1991-08-21",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "emergency committee"
+   ],
+   [
+    "collaps",
+    "fail",
+    "arrest",
+    "defeat"
+   ]
+  ],
+  "headline": "The August coup collapses",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-21",
+  "date": "1991-08-21",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "latvia"
+   ],
+   [
+    "independence"
+   ]
+  ],
+  "headline": "Latvia declares independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-22",
+  "date": "1991-08-22",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "dzerzhinskiy",
+    "dzerzhinsky"
+   ],
+   [
+    "monument",
+    "statue"
+   ]
+  ],
+  "headline": "Crowds topple Dzerzhinskiy's statue outside KGB headquarters",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-22",
+  "date": "1991-08-22",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kryuchkov"
+   ],
+   [
+    "arrest",
+    "detain"
+   ]
+  ],
+  "headline": "KGB chief Kryuchkov arrested with the coup plotters",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-23",
+  "date": "1989-08-23",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "chain",
+    "baltic way"
+   ],
+   [
+    "molotov",
+    "ribbentrop",
+    "1939"
+   ]
+  ],
+  "headline": "Baltic Way human chain on the pact's 50th anniversary",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-24",
+  "date": "1991-08-24",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ukrain"
+   ],
+   [
+    "independence"
+   ],
+   [
+    "act",
+    "declar"
+   ]
+  ],
+  "headline": "Ukraine declares independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-24",
+  "date": "1991-08-24",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gorbachev"
+   ],
+   [
+    "general secretary"
+   ],
+   [
+    "resign",
+    "dissolve",
+    "dissolution"
+   ]
+  ],
+  "headline": "Gorbachev resigns as CPSU general secretary",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-24",
+  "date": "1989-08-24",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "mazowiecki"
+   ],
+   [
+    "sejm",
+    "prime minister",
+    "premier"
+   ]
+  ],
+  "headline": "Sejm confirms Mazowiecki as Poland's prime minister",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-25",
+  "date": "1991-08-25",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "belorussia",
+    "byelorussia"
+   ],
+   [
+    "independence"
+   ]
+  ],
+  "headline": "Belorussia declares independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-25",
+  "date": "1990-08-25",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "665"
+   ],
+   [
+    "blockade",
+    "naval",
+    "shipping",
+    "force"
+   ]
+  ],
+  "headline": "UN Resolution 665 authorizes enforcing the Iraq embargo at sea",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-26",
+  "date": "1978-08-26",
+  "regions": [
+   "EEU",
+   "SOV",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "luciani",
+    "john paul"
+   ],
+   [
+    "pope",
+    "pontiff",
+    "elected"
+   ]
+  ],
+  "headline": "Cardinal Luciani elected Pope John Paul I",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-26",
+  "date": "1991-08-26",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "supreme soviet"
+   ],
+   [
+    "gorbachev"
+   ],
+   [
+    "session"
+   ]
+  ],
+  "headline": "USSR Supreme Soviet opens its post-coup session",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-27",
+  "date": "1979-08-27",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "mountbatten"
+   ]
+  ],
+  "headline": "IRA bomb kills Lord Mountbatten",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-28",
+  "date": "1990-08-28",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "province"
+   ],
+   [
+    "kuwait"
+   ],
+   [
+    "19th",
+    "nineteenth"
+   ]
+  ],
+  "headline": "Iraq declares Kuwait its 19th province",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-28",
+  "date": "1983-08-28",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "begin"
+   ],
+   [
+    "resign"
+   ]
+  ],
+  "headline": "Menachem Begin announces his resignation",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-29",
+  "date": "1991-08-29",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "supreme soviet"
+   ],
+   [
+    "cpsu",
+    "communist party"
+   ],
+   [
+    "suspend"
+   ]
+  ],
+  "headline": "USSR Supreme Soviet suspends the Communist Party's activities",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-30",
+  "date": "1986-08-30",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "daniloff"
+   ]
+  ],
+  "headline": "KGB arrests US correspondent Nicholas Daniloff in Moscow",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-30",
+  "date": "1981-08-30",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "raja'i",
+    "rajai",
+    "rajaie"
+   ],
+   [
+    "bahonar"
+   ],
+   [
+    "explosion",
+    "martyr",
+    "bomb",
+    "blast"
+   ]
+  ],
+  "headline": "Bomb kills Iran's President Raja'i and Prime Minister Bahonar",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-30",
+  "date": "1982-08-30",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "arafat"
+   ],
+   [
+    "beirut"
+   ],
+   [
+    "depart",
+    "leave",
+    "left",
+    "farewell"
+   ]
+  ],
+  "headline": "Arafat leaves Beirut",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-31",
+  "date": "1980-08-31",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "gdansk"
+   ],
+   [
+    "agreement",
+    "accord",
+    "signed"
+   ],
+   [
+    "walesa"
+   ]
+  ],
+  "headline": "Gdansk Agreement signed with the strikers",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "08-31",
+  "date": "1994-08-31",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "withdraw"
+   ],
+   [
+    "germany"
+   ],
+   [
+    "troops",
+    "group of forces",
+    "western group"
+   ]
+  ],
+  "headline": "Last Russian troops leave Germany",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ }
+]

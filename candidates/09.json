@@ -1,0 +1,1217 @@
+[
+ {
+  "md": "09-01",
+  "date": "1983-09-01",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "south korean",
+    "korean"
+   ],
+   [
+    "plane",
+    "aircraft",
+    "airliner"
+   ],
+   [
+    "sakhalin",
+    "airspace",
+    "intruder"
+   ]
+  ],
+  "headline": "Soviet fighter shoots down Korean Air Lines Flight 007",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-01",
+  "date": "1982-09-01",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "reagan"
+   ],
+   [
+    "initiative",
+    "plan",
+    "proposal"
+   ],
+   [
+    "palestin"
+   ],
+   [
+    "west bank"
+   ]
+  ],
+  "headline": "Reagan proposes his Middle East peace plan",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-02",
+  "date": "1991-09-02",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bush"
+   ],
+   [
+    "recogni"
+   ],
+   [
+    "estonia",
+    "latvia",
+    "lithuania",
+    "baltic"
+   ],
+   [
+    "diplomatic relations"
+   ]
+  ],
+  "headline": "United States recognizes Baltic independence",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-02",
+  "date": "1990-09-02",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "dnestr",
+    "dniester"
+   ],
+   [
+    "republic"
+   ],
+   [
+    "tiraspol",
+    "congress",
+    "proclaim"
+   ]
+  ],
+  "headline": "Dnestr region proclaims a separate republic in Moldova",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-03",
+  "date": "1993-09-03",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "massandra"
+   ],
+   [
+    "kravchuk",
+    "yeltsin"
+   ]
+  ],
+  "headline": "Yeltsin and Kravchuk meet at Massandra over the Black Sea Fleet",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-03",
+  "date": "1994-09-03",
+  "regions": [
+   "SOV",
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "jiang zemin"
+   ],
+   [
+    "yeltsin"
+   ],
+   [
+    "declaration",
+    "statement"
+   ]
+  ],
+  "headline": "Jiang Zemin and Yeltsin sign a joint declaration in Moscow",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-04",
+  "date": "1987-09-04",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "mathias rust",
+    "matthias rust",
+    "m. rust"
+   ],
+   [
+    "sentenc",
+    "years",
+    "court"
+   ]
+  ],
+  "headline": "Mathias Rust sentenced for his Red Square landing",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-05",
+  "date": "1986-09-05",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "karachi"
+   ],
+   [
+    "hijack",
+    "pan am",
+    "pan american"
+   ]
+  ],
+  "headline": "Hijackers storm Pan Am Flight 73 at Karachi",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-06",
+  "date": "1986-09-06",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "istanbul"
+   ],
+   [
+    "synagogue"
+   ]
+  ],
+  "headline": "Gunmen massacre worshippers at Istanbul's Neve Shalom synagogue",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-07",
+  "date": "1986-09-07",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "pinochet"
+   ],
+   [
+    "attack",
+    "attempt",
+    "assassin",
+    "ambush"
+   ]
+  ],
+  "headline": "Pinochet survives an ambush on his motorcade",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-08",
+  "date": "1978-09-08",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "tehran"
+   ],
+   [
+    "martial law"
+   ]
+  ],
+  "headline": "Martial law and 'Black Friday' shootings in Tehran",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-09",
+  "date": "1990-09-09",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "helsinki"
+   ],
+   [
+    "joint statement"
+   ],
+   [
+    "bush"
+   ],
+   [
+    "gorbachev"
+   ]
+  ],
+  "headline": "Bush and Gorbachev meet in Helsinki on the Gulf crisis",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-09",
+  "date": "1991-09-09",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "tajik"
+   ],
+   [
+    "independen"
+   ],
+   [
+    "declar",
+    "proclaim"
+   ],
+   [
+    "supreme soviet"
+   ]
+  ],
+  "headline": "Tajikistan declares independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-10",
+  "date": "1989-09-10",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "horn"
+   ],
+   [
+    "border"
+   ],
+   [
+    "gdr",
+    "east german"
+   ]
+  ],
+  "headline": "Hungary opens its border to East German refugees",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-11",
+  "date": "1991-09-11",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "brigade",
+    "troops",
+    "military personnel"
+   ],
+   [
+    "cuba"
+   ],
+   [
+    "withdraw"
+   ]
+  ],
+  "headline": "Gorbachev announces withdrawal of the Soviet brigade from Cuba",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-11",
+  "date": "1990-09-11",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bush"
+   ],
+   [
+    "new world order"
+   ]
+  ],
+  "headline": "Bush's 'new world order' address to Congress",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-12",
+  "date": "1985-09-12",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "expel",
+    "expuls"
+   ],
+   [
+    "british",
+    "britain"
+   ],
+   [
+    "25",
+    "twenty-five"
+   ]
+  ],
+  "headline": "Britain expels 25 Soviet officials after Gordievskiy's defection",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-12",
+  "date": "1980-09-12",
+  "regions": [
+   "SOV",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "turkey",
+    "turkish"
+   ],
+   [
+    "armed forces",
+    "military",
+    "army"
+   ],
+   [
+    "takeover",
+    "seized power",
+    "took power",
+    "coup"
+   ]
+  ],
+  "headline": "Turkish military coup",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-12",
+  "date": "1990-09-12",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "two plus four",
+    "2 plus 4",
+    "2+4",
+    "two-plus-four"
+   ],
+   [
+    "sign",
+    "treaty"
+   ]
+  ],
+  "headline": "Two-plus-Four Treaty signed in Moscow",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-13",
+  "date": "1993-09-13",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "declaration of principles"
+   ],
+   [
+    "washington"
+   ],
+   [
+    "arafat",
+    "rabin"
+   ]
+  ],
+  "headline": "Israel and the PLO sign the Oslo Declaration of Principles",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-14",
+  "date": "1982-09-14",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "al-jumayyil",
+    "jumayyil",
+    "gemayel"
+   ],
+   [
+    "assassin",
+    "martyr",
+    "killed",
+    "death"
+   ],
+   [
+    "explosion",
+    "bomb"
+   ]
+  ],
+  "headline": "Lebanon's President-elect Bashir Gemayel assassinated",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-14",
+  "date": "1985-09-14",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "weir"
+   ],
+   [
+    "releas",
+    "freed"
+   ]
+  ],
+  "headline": "Rev. Benjamin Weir freed in Lebanon",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-15",
+  "date": "1982-09-15",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "west beirut"
+   ],
+   [
+    "israeli"
+   ],
+   [
+    "enter",
+    "advance",
+    "invad"
+   ]
+  ],
+  "headline": "Israeli forces enter West Beirut",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-16",
+  "date": "1982-09-16",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "sabra"
+   ],
+   [
+    "shatila"
+   ]
+  ],
+  "headline": "Sabra and Shatila massacre begins",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-16",
+  "date": "1979-09-16",
+  "regions": [
+   "SOV",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "taraki"
+   ],
+   [
+    "amin"
+   ]
+  ],
+  "headline": "Taraki ousted; Hafizullah Amin takes power in Kabul",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-17",
+  "date": "1978-09-17",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "camp david"
+   ],
+   [
+    "sign",
+    "agreement",
+    "framework"
+   ]
+  ],
+  "headline": "Camp David Accords signed",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-18",
+  "date": "1994-09-18",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "carter"
+   ],
+   [
+    "cedras"
+   ],
+   [
+    "agreement",
+    "accord"
+   ]
+  ],
+  "headline": "Carter mission reaches agreement with Cedras in Haiti",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-18",
+  "date": "1988-09-18",
+  "regions": [
+   "SOV",
+   "EEU",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "burma"
+   ],
+   [
+    "saw maung",
+    "army",
+    "military",
+    "armed forces"
+   ],
+   [
+    "power",
+    "coup",
+    "takeover"
+   ]
+  ],
+  "headline": "Burmese army seizes power",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-19",
+  "date": "1994-09-19",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "haiti"
+   ],
+   [
+    "landed",
+    "arrived",
+    "disembark",
+    "landing"
+   ],
+   [
+    "troops"
+   ],
+   [
+    "u.s.",
+    "american"
+   ]
+  ],
+  "headline": "US troops land in Haiti",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-19",
+  "date": "1985-09-19",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "earthquake"
+   ],
+   [
+    "mexico"
+   ]
+  ],
+  "headline": "Earthquake devastates Mexico City",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-20",
+  "date": "1984-09-20",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "embassy"
+   ],
+   [
+    "beirut",
+    "awkar",
+    "'awkar"
+   ],
+   [
+    "explosion",
+    "bomb",
+    "car"
+   ]
+  ],
+  "headline": "Car bomb hits the US embassy annex in East Beirut",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-21",
+  "date": "1993-09-21",
+  "regions": [
+   "SOV",
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "edict no. 1400",
+    "decree no. 1400",
+    "edict of 21 september",
+    "decree of 21 september",
+    "21 september 1993 edict",
+    "21 september edict"
+   ],
+   [
+    "yeltsin"
+   ]
+  ],
+  "headline": "Yeltsin's Decree 1400 dissolves the Russian parliament",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-21",
+  "date": "1991-09-21",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "armenia"
+   ],
+   [
+    "referendum"
+   ],
+   [
+    "independence"
+   ]
+  ],
+  "headline": "Armenians vote for independence in a referendum",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-22",
+  "date": "1980-09-22",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "iraq"
+   ],
+   [
+    "iran"
+   ],
+   [
+    "airport",
+    "air raid",
+    "airfield",
+    "aircraft"
+   ],
+   [
+    "tehran",
+    "war"
+   ]
+  ],
+  "headline": "Iraq invades Iran",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-23",
+  "date": "1991-09-23",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "armenia"
+   ],
+   [
+    "independence"
+   ]
+  ],
+  "headline": "Armenia declares independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-24",
+  "date": "1991-09-24",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "mann"
+   ],
+   [
+    "releas",
+    "freed"
+   ]
+  ],
+  "headline": "British hostage Jack Mann freed in Lebanon",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-25",
+  "date": "1985-09-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "larnaca"
+   ],
+   [
+    "israeli"
+   ],
+   [
+    "yacht",
+    "boat"
+   ]
+  ],
+  "headline": "Three Israelis killed aboard a yacht in Larnaca",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-26",
+  "date": "1989-09-26",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "vietnam"
+   ],
+   [
+    "kampuchea",
+    "cambodia"
+   ],
+   [
+    "withdraw"
+   ]
+  ],
+  "headline": "Vietnam completes its withdrawal from Cambodia",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-27",
+  "date": "1991-09-27",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bush"
+   ],
+   [
+    "nuclear"
+   ],
+   [
+    "tactical"
+   ],
+   [
+    "initiative",
+    "proposal",
+    "reduc"
+   ]
+  ],
+  "headline": "Bush announces sweeping cuts in tactical nuclear weapons",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-27",
+  "date": "1993-09-27",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "sukhumi"
+   ],
+   [
+    "abkhaz"
+   ]
+  ],
+  "headline": "Abkhaz forces capture Sukhumi",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-28",
+  "date": "1995-09-28",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "interim agreement",
+    "oslo"
+   ],
+   [
+    "washington"
+   ],
+   [
+    "arafat",
+    "rabin"
+   ]
+  ],
+  "headline": "Oslo II interim agreement signed in Washington",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-28",
+  "date": "1978-09-28",
+  "regions": [
+   "EEU",
+   "SOV",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "john paul"
+   ],
+   [
+    "died",
+    "death",
+    "dies"
+   ]
+  ],
+  "headline": "Pope John Paul I dies after 33 days",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-28",
+  "date": "1994-09-28",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "estonia"
+   ],
+   [
+    "ferry"
+   ]
+  ],
+  "headline": "The ferry Estonia sinks in the Baltic",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-29",
+  "date": "1986-09-29",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "daniloff"
+   ],
+   [
+    "leave",
+    "left",
+    "depart",
+    "releas",
+    "free"
+   ]
+  ],
+  "headline": "Daniloff freed and leaves Moscow",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-30",
+  "date": "1991-09-30",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "aristide"
+   ],
+   [
+    "coup",
+    "military",
+    "rebel",
+    "army"
+   ]
+  ],
+  "headline": "Military coup overthrows Haiti's President Aristide",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "09-30",
+  "date": "1986-09-30",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "zakharov"
+   ],
+   [
+    "leave",
+    "left",
+    "depart",
+    "releas",
+    "free"
+   ]
+  ],
+  "headline": "Zakharov freed in the Daniloff exchange",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ }
+]

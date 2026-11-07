@@ -1,0 +1,1337 @@
+[
+ {
+  "md": "04-01",
+  "date": "1979-04-01",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "islamic republic"
+   ],
+   [
+    "khomeyni",
+    "khomeini"
+   ]
+  ],
+  "headline": "Khomeyni proclaims the Islamic Republic of Iran",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-02",
+  "date": "1982-04-02",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "malvinas",
+    "falkland"
+   ],
+   [
+    "landed",
+    "landing",
+    "recover",
+    "occup"
+   ]
+  ],
+  "headline": "Argentina seizes the Falkland (Malvinas) Islands",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-03",
+  "date": "1982-04-03",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "502",
+    "security council"
+   ],
+   [
+    "malvinas",
+    "falkland"
+   ]
+  ],
+  "headline": "UN Security Council demands Argentine withdrawal from the Falklands",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-03",
+  "date": "1996-04-03",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "brown"
+   ],
+   [
+    "dubrovnik",
+    "crash"
+   ]
+  ],
+  "headline": "US Commerce Secretary Ron Brown killed in air crash near Dubrovnik",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-04",
+  "date": "1979-04-04",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bhutto"
+   ],
+   [
+    "hang",
+    "execut"
+   ]
+  ],
+  "headline": "Pakistan hangs former prime minister Zulfikar Ali Bhutto",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-05",
+  "date": "1983-04-05",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "expel",
+    "expuls"
+   ],
+   [
+    "french",
+    "france",
+    "paris"
+   ],
+   [
+    "diplomat"
+   ]
+  ],
+  "headline": "France expels 47 Soviet diplomats and officials for espionage",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-05",
+  "date": "1986-04-05",
+  "regions": [
+   "EEU",
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "discotheque",
+    "disco"
+   ],
+   [
+    "berlin"
+   ]
+  ],
+  "headline": "Bomb wrecks La Belle discotheque in West Berlin",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-05",
+  "date": "1988-04-05",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "kuwaiti airliner",
+    "kuwaiti plane",
+    "kuwaiti aircraft",
+    "hijack"
+   ],
+   [
+    "mashhad",
+    "mashad",
+    "kuwait"
+   ]
+  ],
+  "headline": "Kuwait Airways Flight 422 hijacked to Mashhad",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-06",
+  "date": "1980-04-06",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "peruvian embassy",
+    "embassy of peru"
+   ],
+   [
+    "havana",
+    "cuban"
+   ]
+  ],
+  "headline": "Thousands of Cubans crowd into the Peruvian Embassy in Havana",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-06",
+  "date": "1994-04-06",
+  "regions": [
+   "EEU",
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "rwanda"
+   ],
+   [
+    "burundi"
+   ],
+   [
+    "plane",
+    "aircraft"
+   ]
+  ],
+  "headline": "Presidents of Rwanda and Burundi killed as their plane is shot down",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-07",
+  "date": "1980-04-07",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "carter"
+   ],
+   [
+    "sever",
+    "break",
+    "broke"
+   ],
+   [
+    "relations"
+   ]
+  ],
+  "headline": "United States breaks diplomatic relations with Iran",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-07",
+  "date": "1989-04-07",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "submarine"
+   ],
+   [
+    "norwegian sea",
+    "fire",
+    "sank"
+   ]
+  ],
+  "headline": "Soviet nuclear submarine Komsomolets sinks in the Norwegian Sea",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-08",
+  "date": "1992-04-08",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "bosnia"
+   ],
+   [
+    "emergency",
+    "sarajevo"
+   ]
+  ],
+  "headline": "Fighting spreads in Bosnia-Herzegovina after recognition",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-08",
+  "date": "1993-04-08",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "macedonia"
+   ],
+   [
+    "united nations",
+    "un "
+   ],
+   [
+    "admit",
+    "member"
+   ]
+  ],
+  "headline": "Macedonia admitted to the United Nations under a provisional name",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-09",
+  "date": "1989-04-09",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "tbilisi"
+   ],
+   [
+    "troops",
+    "dispers",
+    "demonstrat"
+   ]
+  ],
+  "headline": "Soviet troops break up a demonstration in Tbilisi, killing nineteen",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-09",
+  "date": "1991-04-09",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "georgia"
+   ],
+   [
+    "independence"
+   ],
+   [
+    "supreme council",
+    "act"
+   ]
+  ],
+  "headline": "Georgia declares independence from the Soviet Union",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-09",
+  "date": "1992-04-09",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "noriega"
+   ],
+   [
+    "guilty",
+    "convict",
+    "verdict"
+   ]
+  ],
+  "headline": "Noriega convicted of drug trafficking in Miami",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-10",
+  "date": "1988-04-10",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "ojhri",
+    "ojri",
+    "rawalpindi"
+   ],
+   [
+    "explo",
+    "ammunition",
+    "depot"
+   ]
+  ],
+  "headline": "Ojhri Camp ammunition depot explodes in Rawalpindi",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-10",
+  "date": "1993-04-10",
+  "regions": [
+   "EAS",
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hani"
+   ],
+   [
+    "assassin",
+    "murder",
+    "killed",
+    "shot"
+   ]
+  ],
+  "headline": "South African Communist Party leader Chris Hani assassinated",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-11",
+  "date": "1979-04-11",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kampala"
+   ],
+   [
+    "amin"
+   ]
+  ],
+  "headline": "Idi Amin's regime falls as Tanzanian-backed forces take Kampala",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-11",
+  "date": "1985-04-11",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hoxha"
+   ],
+   [
+    "death",
+    "died",
+    "passed away"
+   ]
+  ],
+  "headline": "Albanian leader Enver Hoxha dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-12",
+  "date": "1980-04-12",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "liberia"
+   ],
+   [
+    "tolbert",
+    "doe"
+   ]
+  ],
+  "headline": "Samuel Doe seizes power in Liberia; President Tolbert killed",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-13",
+  "date": "1990-04-13",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "katyn"
+   ],
+   [
+    "nkvd",
+    "beria"
+   ]
+  ],
+  "headline": "Moscow admits the NKVD carried out the Katyn massacre",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-14",
+  "date": "1988-04-14",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "geneva"
+   ],
+   [
+    "afghan"
+   ],
+   [
+    "sign"
+   ]
+  ],
+  "headline": "Geneva Accords on Afghanistan signed",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-14",
+  "date": "1993-04-14",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "bush"
+   ],
+   [
+    "kuwait"
+   ],
+   [
+    "plot",
+    "assassinat"
+   ]
+  ],
+  "headline": "Iraqi-linked plot to kill former President Bush in Kuwait",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-15",
+  "date": "1986-04-15",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "tripoli",
+    "benghazi",
+    "banghazi"
+   ],
+   [
+    "raid",
+    "aggression",
+    "attack"
+   ],
+   [
+    "american",
+    "u.s."
+   ]
+  ],
+  "headline": "US warplanes bomb Tripoli and Benghazi",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-15",
+  "date": "1989-04-15",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hu yaobang"
+   ],
+   [
+    "died",
+    "death"
+   ]
+  ],
+  "headline": "Former Chinese party leader Hu Yaobang dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-16",
+  "date": "1988-04-16",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "abu jihad",
+    "abu-jihad",
+    "al-wazir"
+   ],
+   [
+    "tunis",
+    "assassin",
+    "martyr"
+   ]
+  ],
+  "headline": "Israeli commandos assassinate PLO leader Abu Jihad in Tunis",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-17",
+  "date": "1984-04-17",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "libyan people's bureau",
+    "people's bureau",
+    "london"
+   ],
+   [
+    "libya",
+    "jamahiriya"
+   ],
+   [
+    "policewoman",
+    "shot",
+    "fire"
+   ]
+  ],
+  "headline": "British policewoman shot dead from the Libyan People's Bureau in London",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-17",
+  "date": "1986-04-17",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hindawi",
+    "el al"
+   ],
+   [
+    "heathrow",
+    "london",
+    "bomb"
+   ]
+  ],
+  "headline": "El Al bomb plot foiled at Heathrow",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-18",
+  "date": "1983-04-18",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "u.s. embassy",
+    "us embassy",
+    "american embassy"
+   ],
+   [
+    "beirut"
+   ],
+   [
+    "explo",
+    "bomb",
+    "blast"
+   ]
+  ],
+  "headline": "Suicide bombing destroys the US Embassy in Beirut",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-18",
+  "date": "1988-04-18",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "gulf"
+   ],
+   [
+    "platform",
+    "oil platforms"
+   ],
+   [
+    "american",
+    "u.s."
+   ]
+  ],
+  "headline": "US Navy strikes Iranian oil platforms and warships (Operation Praying Mantis)",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-18",
+  "date": "1996-04-18",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "qana"
+   ],
+   [
+    "shell",
+    "massacre"
+   ]
+  ],
+  "headline": "Israeli shelling kills over 100 at the UN post at Qana",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-19",
+  "date": "1995-04-19",
+  "regions": [
+   "EEU",
+   "LAT",
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "oklahoma"
+   ],
+   [
+    "explo",
+    "bomb",
+    "blast"
+   ]
+  ],
+  "headline": "Bombing of the federal building in Oklahoma City",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-20",
+  "date": "1978-04-20",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "south korean",
+    "korean"
+   ],
+   [
+    "aircraft",
+    "airliner",
+    "plane"
+   ],
+   [
+    "violat",
+    "airspace",
+    "kola",
+    "murmansk"
+   ]
+  ],
+  "headline": "Soviet fighters force down Korean Air Lines Flight 902 near Murmansk",
+  "category": "crisis",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-21",
+  "date": "1987-04-21",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "colombo"
+   ],
+   [
+    "bomb",
+    "blast",
+    "explo"
+   ]
+  ],
+  "headline": "Car bomb at Colombo bus station kills over 100",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-21",
+  "date": "1996-04-21",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "dudayev",
+    "dudaev"
+   ],
+   [
+    "killed",
+    "death",
+    "dead"
+   ]
+  ],
+  "headline": "Chechen leader Dzhokhar Dudayev killed by a Russian missile strike",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-22",
+  "date": "1989-04-22",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hu yaobang"
+   ],
+   [
+    "memorial",
+    "funeral",
+    "mourning"
+   ]
+  ],
+  "headline": "Memorial for Hu Yaobang as students fill Tiananmen Square",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-22",
+  "date": "1992-04-22",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "guadalajara"
+   ],
+   [
+    "explo",
+    "blast",
+    "sewer"
+   ]
+  ],
+  "headline": "Sewer explosions devastate Guadalajara",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-22",
+  "date": "1994-04-22",
+  "regions": [
+   "EAS",
+   "EEU",
+   "LAT",
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "nixon"
+   ],
+   [
+    "died",
+    "death",
+    "passed away",
+    "condolence"
+   ]
+  ],
+  "headline": "Former President Richard Nixon dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-23",
+  "date": "1990-04-23",
+  "regions": [
+   "EEU",
+   "LAT",
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "namibia"
+   ],
+   [
+    "united nations",
+    "un member",
+    "160th",
+    "member"
+   ]
+  ],
+  "headline": "Namibia admitted to the United Nations",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-23",
+  "date": "1991-04-23",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "nine union republics",
+    "nine republics",
+    "leaders of nine",
+    "nine-plus-one",
+    "nine plus one",
+    "9 plus 1"
+   ],
+   [
+    "gorbachev"
+   ]
+  ],
+  "headline": "Gorbachev and nine republic leaders agree the Novo-Ogarevo statement",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-24",
+  "date": "1980-04-24",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "tabas",
+    "tabbas"
+   ],
+   [
+    "american",
+    "u.s."
+   ]
+  ],
+  "headline": "US hostage rescue mission ends in disaster at Desert One, Iran",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-25",
+  "date": "1980-04-25",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "tabas",
+    "tabbas"
+   ],
+   [
+    "helicopter",
+    "aircraft"
+   ]
+  ],
+  "headline": "Carter announces the failure of the Iran hostage rescue mission",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-25",
+  "date": "1982-04-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "sinai"
+   ],
+   [
+    "withdraw",
+    "evacuat"
+   ]
+  ],
+  "headline": "Israel completes its withdrawal from Sinai",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-25",
+  "date": "1993-04-25",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "referendum"
+   ],
+   [
+    "yeltsin"
+   ]
+  ],
+  "headline": "Russians vote in Yeltsin's confidence referendum",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-26",
+  "date": "1986-04-26",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "chernobyl"
+   ],
+   [
+    "accident",
+    "reactor"
+   ]
+  ],
+  "headline": "Reactor explodes at Chernobyl",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-27",
+  "date": "1978-04-27",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "afghan"
+   ],
+   [
+    "daud",
+    "daoud",
+    "revolution"
+   ]
+  ],
+  "headline": "Communist coup in Afghanistan (the Saur Revolution)",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-28",
+  "date": "1992-04-28",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kabul"
+   ],
+   [
+    "mojaddedi",
+    "mujaddidi",
+    "mojadedi",
+    "mujahidin",
+    "mojahedin"
+   ]
+  ],
+  "headline": "Mujahidin leader Mojaddedi takes power in Kabul",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-29",
+  "date": "1991-04-29",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "cyclone",
+    "storm",
+    "tidal"
+   ],
+   [
+    "bangladesh",
+    "chittagong"
+   ]
+  ],
+  "headline": "Cyclone devastates coastal Bangladesh",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-29",
+  "date": "1992-04-29",
+  "regions": [
+   "EEU",
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "los angeles"
+   ],
+   [
+    "riot",
+    "disorder",
+    "unrest",
+    "violence",
+    "disturbance"
+   ]
+  ],
+  "headline": "Riots break out in Los Angeles after the King verdict",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ },
+ {
+  "md": "04-30",
+  "date": "1980-04-30",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "iranian embassy"
+   ],
+   [
+    "london"
+   ]
+  ],
+  "headline": "Gunmen seize the Iranian Embassy in London",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false
+ }
+]

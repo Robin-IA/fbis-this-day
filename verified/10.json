@@ -1,0 +1,1631 @@
+[
+ {
+  "md": "10-01",
+  "date": "1979-10-01",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "canal"
+   ],
+   [
+    "panama"
+   ],
+   [
+    "zone"
+   ]
+  ],
+  "headline": "Panama takes over the Canal Zone",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 1 October 1979 the Panama Canal treaties took effect: the Canal Zone ceased to exist and Panama assumed jurisdiction over the territory.",
+  "significance": "The handover began the twenty-year transfer of the canal under the Carter-Torrijos treaties, removing a long-standing grievance in US-Latin American relations.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_1651",
+   "issue_date": "1979-10-01",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Table of Contents, Vol. VI No. 191-212, October 1979",
+   "page": 2,
+   "snippet": "…Menendez Gives Up Position Menendez Said To Be 'Resting! at Home ll el ll ee WU NNN NDeEF WWW WWOOAANN AU FE EW Ye B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B ~ Ww PANAMA Preparations for Entry Into Canal Zone Continue Royo Message [LA ESTRELLA DE PANAMA 30 Sep] Planned Diplomatic Offensive Unified Entry Urged Royo To Curtail Visit to New York Briefs: Ambassador to El Salvador"
+  }
+ },
+ {
+  "md": "10-01",
+  "date": "1985-10-01",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "tunis"
+   ],
+   [
+    "raid",
+    "attack",
+    "bomb",
+    "aggression"
+   ],
+   [
+    "israel",
+    "zionist"
+   ]
+  ],
+  "headline": "Israeli jets bomb PLO headquarters in Tunis",
+  "category": "covert-action",
+  "spycraft": false,
+  "summary": "On 1 October 1985 Israeli aircraft bombed the PLO's headquarters at Hammam ash-Shatt near Tunis, killing some sixty people, in retaliation for the killing of three Israelis in Cyprus.",
+  "significance": "The long-range raid on a friendly Arab state embarrassed Washington, which first called it legitimate and then abstained on a UN condemnation. Days later PLO gunmen seized the Achille Lauro.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176912_0724",
+   "issue_date": "1985-10-01",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 190-211, October 1985",
+   "page": 4,
+   "snippet": "…ds Khowst Soldiers BAKHTAR Observer Writes on Radio Free Afghanistan INDIA Gandhi Returns From 3-Day Bhutan Visit Government Announces Recognition of SDAR Reaction to Moroccan Decision New Delhi Condemns Israeli Raid on Tunisia Deputy Speaker Resigns From Kashmir Ruling Party Editorial Says U.S. Changes Policy Again /NATIONAL HERALD 19 Sep] PAKISTAN Zia, Junejo Greet PRC Leaders on National Day Ziaul Haq To Visit FRG, New York 16-25 Oct ‘Ind…"
+  }
+ },
+ {
+  "md": "10-02",
+  "date": "1990-10-02",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "hijack"
+   ],
+   [
+    "guangzhou",
+    "baiyun",
+    "xiamen"
+   ]
+  ],
+  "headline": "Hijacked airliner crashes at Guangzhou airport",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 2 October 1990 a hijacked Xiamen Airlines Boeing 737 crashed into two other airliners while landing at Guangzhou's Baiyun airport, killing over 120 people.",
+  "significance": "It was the deadliest hijacking in China's history and one of the worst air disasters of its time.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 3 issue(s)",
+   "tried": [
+    "micro_IA1176901_0222",
+    "micro_IA1176901_0223",
+    "micro_IA1176901_0226"
+   ]
+  }
+ },
+ {
+  "md": "10-02",
+  "date": "1992-10-02",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "carandiru",
+    "sao paulo"
+   ],
+   [
+    "prison",
+    "inmate",
+    "prisoner"
+   ]
+  ],
+  "headline": "Police massacre at Carandiru prison in Sao Paulo",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 2 October 1992 military police stormed the Carandiru prison in Sao Paulo to put down a riot, killing 111 inmates.",
+  "significance": "The Carandiru massacre became Brazil's emblematic case of police violence.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176907_0394",
+   "issue_date": "1992-10-02",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No 192, 2 October 1992",
+   "page": 36,
+   "snippet": "…in Portuguese 1000 GMT 2 Oct 92 [Text] Charges were filed against Eduardo Teixeira, a former Economy Ministry executive secretary, at a Fed- eral Police inquest investigating irregularities in the privatization of Vasp [Sao Paulo Airline}. The charges were filed against Eduardo Te1eira based on the White Collar Law. He could receive a prison sentence of one to four years. During his testumony before Federal Police in Sao Paulo yesterday, Eduardo…"
+  }
+ },
+ {
+  "md": "10-03",
+  "date": "1990-10-03",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "unification",
+    "unity",
+    "reunification"
+   ],
+   [
+    "german"
+   ]
+  ],
+  "headline": "Germany is reunited",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "At midnight on 3 October 1990 the German Democratic Republic acceded to the Federal Republic, and Germany was reunited.",
+  "significance": "Reunification inside NATO, accepted by Moscow, was the end of the postwar settlement in Europe. The Stasi's files and agent networks passed into the hands of the united state.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_0191",
+   "issue_date": "1990-10-03",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 192, 3 October 1990",
+   "page": 11,
+   "snippet": "…any a won- derful future Up to now the two German states symbolized the division of Europe and the Berlin Wall was an absurd synthesis cast out of concrete, fear and suffering, the cable reads. It is emphasized that the unification of the country is a triumph of freedom, democracy and peace in Europe and the world, a triumph over ideological tyranny, over military confrontation and over hostility and suspicion between East and West. President Zhel…"
+  }
+ },
+ {
+  "md": "10-03",
+  "date": "1993-10-03",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ostankino"
+   ]
+  ],
+  "headline": "Supporters of parliament storm the Ostankino TV centre",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 3 October 1993 armed supporters of the Russian parliament, which Boris Yeltsin had dissolved, broke through the cordon around the White House and attacked the Ostankino television centre in Moscow.",
+  "significance": "The fighting led Yeltsin to declare a state of emergency and send tanks against parliament the next day.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176916_0040",
+   "issue_date": "1993-10-04",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 190, 4 October 1993",
+   "page": 33,
+   "snippet": "…ssing the hope that the civilized world will not remain indifferent to the fate of hundreds of thousands of people who are facing a deadly threat Emergency Parliament Session Postponed ‘Indefinitely’ LDO310135293 Moscow Ostankino Television First Channel Network in Russian 1200 GMT 3 Oct 93 [From the “Novosti\" newscast] [Text] The emergency session of Georgia’s parliament which was scheduled to take place today in Tbilisi. has been postponed ind…"
+  }
+ },
+ {
+  "md": "10-03",
+  "date": "1993-10-03",
+  "regions": [
+   "NES",
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "mogadishu",
+    "somalia"
+   ],
+   [
+    "american",
+    "u.s.",
+    "us "
+   ]
+  ],
+  "headline": "Battle of Mogadishu",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 3-4 October 1993 US Rangers and Delta Force troops raiding in Mogadishu were caught in a battle with Somali militia after two helicopters were shot down; eighteen Americans and hundreds of Somalis died.",
+  "significance": "The losses led to the US withdrawal from Somalia and made Washington wary of intervention, including in Rwanda the next year.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176910_1325",
+   "issue_date": "1993-10-04",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 190, 4 October 1993",
+   "page": 17,
+   "snippet": "…that his talks with U.S. Administra- tion officials revolved around recent world develop- ments, the Middle East. and the chances of success for the peace process. He added that he also discussed the Lockerbie issue and Somalia. Minister Musa said he took part in the international economic conference in Washington yesterday, which decided to allocate $2.5 billion to the West Bank and Gaza over the next five years, a portion of which will be de…"
+  }
+ },
+ {
+  "md": "10-04",
+  "date": "1993-10-04",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "white house",
+    "supreme soviet",
+    "house of soviets"
+   ],
+   [
+    "tank",
+    "storm",
+    "shell"
+   ]
+  ],
+  "headline": "Yeltsin's tanks shell the Russian parliament",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 4 October 1993 army tanks shelled the White House in Moscow, and the parliamentary leaders who had defied Boris Yeltsin, Ruslan Khasbulatov and Aleksandr Rutskoy, surrendered.",
+  "significance": "Washington backed Yeltsin. The crisis ended with a new constitution that concentrated power in the presidency.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176916_0041",
+   "issue_date": "1993-10-06",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 192, 6 October 1993",
+   "page": 13,
+   "snippet": "…economy as a whole.” Grigoriy Yavlinskiy: “Economic questions cannot now be resolved properly until the political situation is settled. It is hard for me to separate forecasts from hope and I can only now hope that the “White House’ situation will end peacefully. I do not think that either Rutskoy or Khasbulatov are now autonomous figures. They are surrounded by suspicious characters at least. The situation can be peacefully sal- vaged by complyin…"
+  }
+ },
+ {
+  "md": "10-05",
+  "date": "1986-10-05",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hasenfus"
+   ]
+  ],
+  "headline": "Nicaragua shoots down a CIA-linked supply plane; Hasenfus captured",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "On 5 October 1986 Sandinista troops shot down a C-123 cargo plane carrying arms to the contras over southern Nicaragua. The sole survivor, the American Eugene Hasenfus, was captured.",
+  "significance": "Hasenfus's capture exposed the private supply network run from the White House by Oliver North, a month before the Iran arms sales were revealed; together they became the Iran-Contra affair.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176906_0435",
+   "issue_date": "1986-10-08",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 195, 8 October 1986",
+   "page": 30,
+   "snippet": "…hand, a Foreign Ministry spokesman said that, so far, the military has not received any official report from the Nicaraguan Government concerning this case. Meanwhile, U.S. Embassy sources told AFP the American Euguene Hasenfus, who was captured in Nicaragua because he was travelling in the plane that was shot down, does not belong to the group of U.S. advisers stationed here \"and has not had any connection with the embassy.\""
+  }
+ },
+ {
+  "md": "10-05",
+  "date": "1988-10-05",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "plebiscit"
+   ],
+   [
+    "chile",
+    "pinochet"
+   ]
+  ],
+  "headline": "Chileans vote No to Pinochet",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 5 October 1988 Chileans voted in a plebiscite to reject another eight years of rule by General Augusto Pinochet.",
+  "significance": "The vote opened Chile's transition to democracy and elections the following year.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176906_1106",
+   "issue_date": "1988-10-07",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 195, 7 October 1988",
+   "page": 3,
+   "snippet": "…AT-88-195 | 7 October 1988 Latin America Nicaragua yn Bans U se Approves Emergency sconciliation Meetings, | RN's Matamoros Says EPS Violating Truce LA PRENSA Ordered To Print Communique itega Letter to Allende Widow on Plebiscite W Panama Solis Palma Addresses PRD Businessmen Opposition Groups Meet With Msgr McGratt PRD President on Party, National Elections SOUTH AMERICA Argentina Military Chiets on ‘Tension’ Within Armed Force BLENOS AIRES HE…"
+  }
+ },
+ {
+  "md": "10-06",
+  "date": "1981-10-06",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "sadat"
+   ],
+   [
+    "assassinat",
+    "killed",
+    "shot",
+    "death"
+   ]
+  ],
+  "headline": "Anwar Sadat assassinated in Cairo",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 6 October 1981 Egyptian President Anwar Sadat was shot dead by soldiers of an Islamist cell while reviewing a military parade in Cairo.",
+  "significance": "Sadat had made peace with Israel at Camp David and aligned Egypt with the United States. His killing exposed an Islamist underground within the army, and Hosni Mubarak succeeded him.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176908_1017",
+   "issue_date": "1981-10-06",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 193, 6 October 1981",
+   "page": 48,
+   "snippet": "…rs, and the remnants of the reactionary civil servants, the insipid ones who boast of speaking in the name of the Libyan people and of patriotism. The Libyan people do not accept those who speak abroad in its name to As-Sadat, or in Rome, or America. Brothers: Today when standing next to my brother Goukouni and Adoum Togoi, the leader of Frolinat and the national liberation movement in Chad and the Chadian people, I say that the revolution w…"
+  }
+ },
+ {
+  "md": "10-07",
+  "date": "1985-10-07",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "achille lauro",
+    "lauro"
+   ]
+  ],
+  "headline": "Palestinian gunmen hijack the cruise ship Achille Lauro",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 7 October 1985 four gunmen of the Palestine Liberation Front seized the Italian cruise ship Achille Lauro off Egypt. They murdered a disabled American passenger, Leon Klinghoffer.",
+  "significance": "The hijacking and its aftermath strained US relations with Italy and Egypt and put Abu al-Abbas, a member of the PLO executive, at the centre of a terrorism case.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176912_0730",
+   "issue_date": "1985-10-08",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 195, 8 October 1985",
+   "page": 2,
+   "snippet": "…lian cruise ship in the Mediterranean have threatened to start executing U.S. pas- sengers aboard unless Fgyptian radio and television broadcast their demands, AFP reported citing radio messages monitored in Israel. The Achille Lauro was hijacked between Alexandria and Port Said on 7 October. The news agency said the hijackers have threatened to blow up the ship and its passengers if Israel does not release 50 Palestinian prisoners and if Italy does…"
+  }
+ },
+ {
+  "md": "10-07",
+  "date": "1989-10-07",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "hungarian socialist",
+    "socialist party"
+   ],
+   [
+    "hungar"
+   ]
+  ],
+  "headline": "Hungary's Communist Party dissolves itself",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 7 October 1989 the Hungarian Socialist Workers' Party voted at its congress to dissolve itself and form the Hungarian Socialist Party.",
+  "significance": "The ruling party of a Warsaw Pact state abandoning Leninism, on the same day the GDR celebrated its fortieth anniversary, showed the bloc's unravelling.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_1404",
+   "issue_date": "1989-10-10",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 194, 10 October 1989",
+   "page": 12,
+   "snippet": "…222289 Prague Domestic Service in Czech 1730 GMT 8 Oct 89 [Text] We shall begin this bulletin in Budapest where Tomas Borec, our correspondent, has been following the proceedings of the Congress of the newly established Hungarian Socialist Party: {Borec] The banner hanging on the building of the congres- sional center this morning was still welcoming delegates to the Congress ci the Hungarian Socialist Workers’ Party, although this was no longer true. Man…"
+  }
+ },
+ {
+  "md": "10-08",
+  "date": "1982-10-08",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "solidarity",
+    "solidarnosc"
+   ],
+   [
+    "trade union"
+   ],
+   [
+    "sejm",
+    "law"
+   ]
+  ],
+  "headline": "Polish parliament outlaws Solidarity",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 8 October 1982 the Polish Sejm passed a law dissolving all existing trade unions, including Solidarity.",
+  "significance": "The ban formalised the suppression begun with martial law; the United States responded by suspending Poland's most-favoured-nation trade status.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176902_1158",
+   "issue_date": "1982-10-08",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 196, 8 October 1982",
+   "page": 31,
+   "snippet": "…rities with the striking workers of Gdansk, Szczecin and Jastrzebie. Therefore, it is to be an independent movement, as in the formula taken down in the Gdansk postulates and not in that which was later distorted by the Solidarnosc leaders. There is no return to the situation from before December 13, 1981 which brought ample evidence that the Solidarnose extremists were striving to turn this union into an opposition political party. Also the [word…"
+  }
+ },
+ {
+  "md": "10-08",
+  "date": "1990-10-08",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "temple mount",
+    "al-aqsa",
+    "aqsa"
+   ],
+   [
+    "killed",
+    "martyr",
+    "massacre"
+   ]
+  ],
+  "headline": "Israeli police kill Palestinians on the Temple Mount",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 8 October 1990 Israeli police opened fire during clashes on the Temple Mount in Jerusalem, killing some twenty Palestinians.",
+  "significance": "The killings came as the US was building an Arab coalition against Iraq; Washington backed a UN Security Council condemnation of Israel.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 0 issue(s)",
+   "tried": []
+  }
+ },
+ {
+  "md": "10-09",
+  "date": "1983-10-09",
+  "regions": [
+   "SOV",
+   "NES",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "rangoon"
+   ],
+   [
+    "explo",
+    "bomb",
+    "blast"
+   ]
+  ],
+  "headline": "North Korean agents bomb South Korean delegation in Rangoon",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 9 October 1983 a bomb planted by North Korean agents exploded at the Martyrs' Mausoleum in Rangoon shortly before South Korean President Chun Doo-hwan was due, killing twenty-one people, among them four South Korean cabinet ministers.",
+  "significance": "Burma's investigation established North Korean responsibility and Burma broke relations with Pyongyang. It was one of the boldest state-sponsored assassination attempts of the Cold War.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176914_0337",
+   "issue_date": "1983-10-11",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 197, 11 October 1983",
+   "page": 3,
+   "snippet": "…A 11 [Sivakov] ‘Chemical Weapons’ Included in U.S. ‘Rearmament’ A 12 {Rusakov in PRAVDA 10 Oct] U.S. Draws Allies into Militarization of Space A 13 {Kuzin] Survey of U.S. Military Expenditures Cited A 14 NORTHEAST ASIA Rangoon Blast, Deaths of ROK Ministers Reported Chon Cancels Tour Plans Chon Spared by Late Arrival Incident To ‘Intensify Suppression’ AaAaAaAaAA eR SOUTHEAST ASIA & PACIFIC Lao Prime Minister Ends USSR Vacation So"
+  }
+ },
+ {
+  "md": "10-09",
+  "date": "1989-10-09",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "leipzig"
+   ],
+   [
+    "demonstrat"
+   ]
+  ],
+  "headline": "Seventy thousand march peacefully in Leipzig",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 9 October 1989 some seventy thousand people marched in Leipzig after the Monday prayers for peace, and the security forces did not intervene.",
+  "significance": "The decision not to shoot broke the East German regime's will; within six weeks the Wall was open.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_1404",
+   "issue_date": "1989-10-10",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 194, 10 October 1989",
+   "page": 16,
+   "snippet": "FBIS-EEU-89-194 10 October 1989 Police Beat Demonstrators in Leipzig LDO0710152289 Hamburg DPA in German 1455 GMT 7 Oct 89 [Text] East Berlin (DPA)}—On the 40th anniversary of the GDR, there were demonstrations in Leipzig for democracy and social reforms. According to information from th…"
+  }
+ },
+ {
+  "md": "10-10",
+  "date": "1985-10-10",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "achille lauro",
+    "lauro",
+    "hijack"
+   ],
+   [
+    "intercept",
+    "forced"
+   ],
+   [
+    "sigonella",
+    "egyptian"
+   ]
+  ],
+  "headline": "US fighters intercept the Achille Lauro hijackers' plane",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 10 October 1985 US Navy F-14s intercepted an Egyptian airliner carrying the Achille Lauro hijackers and forced it to land at Sigonella, Sicily.",
+  "significance": "The interception was a rare successful use of force against terrorists, but provoked a standoff with Italy, which let Abu al-Abbas leave.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176912_0733",
+   "issue_date": "1985-10-11",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 198, 11 October 1985",
+   "page": 2,
+   "snippet": "FBIS DAILY REPORT MIDDLE EAST & SOUTH ASIA REVIEW 11 OCTOBER 1985 Interception of Achille Lauro Hijackers Acknowledging the interception of the Egyptian plane carrying the hijackers, an Egyptian official cited by Cairo radio said the plane was intercepted by “unidentified” fighter planes and forced to land in Sici…"
+  }
+ },
+ {
+  "md": "10-11",
+  "date": "1986-10-11",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "reykjavik"
+   ]
+  ],
+  "headline": "Reagan and Gorbachev meet at Reykjavik",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 11-12 October 1986 Ronald Reagan and Mikhail Gorbachev met at Reykjavik and came close to agreeing to abolish ballistic missiles before deadlocking over the Strategic Defense Initiative.",
+  "significance": "The summit failed at the time but laid the groundwork for the INF Treaty of 1987.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_0696",
+   "issue_date": "1986-10-14",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, VOL. II NO. 198, 14 October 1986",
+   "page": 2,
+   "snippet": "…Atanasov Visits Plovdiv Youth Cooperation Protocol With Algeria Signed Popivanov-Led Delegation Visits DPRK {[RABOTNICHESKO DELO 10 Oct] Delegation Departs for Peace Congress in Denmark CZECHOSLOVAKIA Commentaries View Reykjavik Summit Outcome CTK Commentary [Stejskal] Prague Radio View ([Kostka] GERMAN DEMOCRATIC REPUBLIC Honecker Issues Statement on Reykjavik Outcome Further Reportage on Visit by Poland's Messner Dinner Speeches Press Confere…"
+  }
+ },
+ {
+  "md": "10-12",
+  "date": "1984-10-12",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "brighton"
+   ]
+  ],
+  "headline": "IRA bomb at Brighton hotel narrowly misses Thatcher",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 12 October 1984 an IRA bomb exploded at the Grand Hotel in Brighton during the Conservative Party conference, killing five people. Prime Minister Margaret Thatcher escaped unhurt.",
+  "significance": "The attack was the IRA's closest attempt on a British prime minister.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176914_0602",
+   "issue_date": "1984-10-12",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 199, 12 October 1984",
+   "page": 50,
+   "snippet": "…WESTERN EUROPE TASS REPORTS EXPLOSION IN THATCHER'S HOTEL LD120558 Moscow TASS International Service in Russian 0522 GMT 12 Oct 84 [Text] London, 12 Oct (TASS) -- Last night a powerful explosion rocked the building of a Brighton hotel where British Prime Minister Thatcher and members of her cabinet were Staying. They are taking part in the annual conference of the British Conservative Party which is being held there. According to preliminary re…"
+  }
+ },
+ {
+  "md": "10-13",
+  "date": "1990-10-13",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "'awn",
+    "awn",
+    "aoun"
+   ],
+   [
+    "ba'abda",
+    "baabda",
+    "french embassy",
+    "surrender"
+   ]
+  ],
+  "headline": "Syrian forces oust General Aoun in Lebanon",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 13 October 1990 Syrian forces attacked the presidential palace at Ba'abda, and General Michel Aoun, who had rejected the Taif Agreement, took refuge in the French Embassy.",
+  "significance": "Syria's move, tolerated by Washington as Damascus joined the coalition against Iraq, ended the civil war and confirmed Syrian dominance in Lebanon.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176910_0644",
+   "issue_date": "1990-10-16",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 200, 16 October 1990",
+   "page": 28,
+   "snippet": "…nternational conference. The conferees also reviewed the situation in Lebanon and the efforts aimed at achieving national reconcilia- tion and spreading legitimacy throughout its territory after the surrender of Michel ‘Awn, and the restoration of security and stability in this sisterly Arab country."
+  }
+ },
+ {
+  "md": "10-14",
+  "date": "1994-10-14",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "waxman"
+   ]
+  ],
+  "headline": "Kidnapped Israeli soldier killed in failed rescue",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "On 14 October 1994 Israeli commandos stormed a house near Jerusalem where Hamas held the kidnapped soldier Nachshon Waxman. Waxman, an officer and three kidnappers were killed.",
+  "significance": "The kidnapping was a challenge to the Oslo process and to Arafat's authority; Rabin took responsibility for the failed rescue. The same day the Nobel Peace Prize went to Arafat, Peres and Rabin.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 2 issue(s)",
+   "tried": [
+    "micro_IA1176911_0114",
+    "micro_IA1176911_0115"
+   ]
+  }
+ },
+ {
+  "md": "10-14",
+  "date": "1994-10-14",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "nobel"
+   ],
+   [
+    "peace"
+   ],
+   [
+    "arafat",
+    "rabin"
+   ]
+  ],
+  "headline": "Arafat, Rabin and Peres awarded the Nobel Peace Prize",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 14 October 1994 the Nobel Committee awarded the Peace Prize to Yasir Arafat, Yitzhak Rabin and Shimon Peres for the Oslo accords.",
+  "significance": "The award marked the high point of the Oslo process.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176911_0114",
+   "issue_date": "1994-10-14",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 199, 14 October 1994",
+   "page": 41,
+   "snippet": "FBIS-NES-94-199 14 October 1994 Rabin Issues Statement on Nobel Peace Prize TA 1410123294 Jerusalem Qol Yisra’el in English 1100 GMT 14 Oct 94 [Statement read by Beni Kohen, the prime minister’s media adviser, in Jerusalem on 14 October, following the announcement that Prime Ministe…"
+  }
+ },
+ {
+  "md": "10-15",
+  "date": "1979-10-15",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "salvador"
+   ],
+   [
+    "romero"
+   ],
+   [
+    "coup",
+    "junta",
+    "overthr",
+    "ousted"
+   ]
+  ],
+  "headline": "Young officers overthrow General Romero in El Salvador",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 15 October 1979 reformist military officers overthrew President Carlos Humberto Romero of El Salvador and formed a civilian-military junta.",
+  "significance": "Washington backed the junta as an alternative to revolution after Somoza's fall in Nicaragua, but its reforms failed and El Salvador slid into civil war.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176905_0265",
+   "issue_date": "1979-10-15",
+   "region": "LAT",
+   "title": "FBIS DAILY REPORT—Latin America, Vol. VI No. 200, 15 October 1979",
+   "page": 19,
+   "snippet": "VI. 15 Oct 79 P 3 CENTRAL AMERICA EL SALVADOR ABORTIVE COUP REPORTED, INFORMATION DENIED ID141128 Madrid Domestic Service in Spanish 1100 GMT 14 oot 79 LI [Text] The latest dispateoh from our special correspondent in Central America reports that there could be a co…"
+  }
+ },
+ {
+  "md": "10-15",
+  "date": "1990-10-15",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "nobel"
+   ],
+   [
+    "gorbachev"
+   ]
+  ],
+  "headline": "Gorbachev awarded the Nobel Peace Prize",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 15 October 1990 the Nobel Committee awarded the Peace Prize to Mikhail Gorbachev.",
+  "significance": "The prize honoured his part in ending the Cold War, but was greeted coolly at home, where the economy was failing.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_0199",
+   "issue_date": "1990-10-16",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 200, 16 October 1990",
+   "page": 13,
+   "snippet": "…guilt because the decisions have been taken collectively. At present, Zhivkov is under house arrest. He lives together with his granddaughter’s family because he has no home of his own. Zhelev Congragulates Gorbachev on Nobel Prize AU1510190690 Sofia BTA in English 1839 GMT 15 Oct 90 [Text] Sofia, 15 Oct (BTA)}—The president of Bulgaria, Dr. Zhelyu Zhelev, has sent a cable to Mr. Mikhail Gorbachev, president of the USSR, congratulating him o…"
+  }
+ },
+ {
+  "md": "10-16",
+  "date": "1978-10-16",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "wojtyla"
+   ]
+  ],
+  "headline": "Cardinal Karol Wojtyla of Krakow elected Pope",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 16 October 1978 the conclave elected Cardinal Karol Wojtyla, Archbishop of Krakow, as Pope John Paul II, the first non-Italian pope in over four centuries.",
+  "significance": "A Polish pope transformed the politics of the Soviet bloc. The Polish security service and the KGB watched him closely, and his 1979 visit to Poland preceded the rise of Solidarity.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176902_0148",
+   "issue_date": "1978-10-17",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol II No. 201, 17 October 1978",
+   "page": 3,
+   "snippet": "…ople's Party Delegation Ends Visit MTI Correspondent Reports on PRC Space Research MAGYAR HIRLAP Comments on PRC's 'Anti-Soviet!' Policy Briefs: Aid to Vietnam; Romanian Economic Delegation Warsaw Radio Reports Cardinal Wojtyla's Elect..n as Pope PAP Report Government Spokesman Comments Press Coverage Reported PAP PFeports Fress Comment Premier Jaroszewicz Receives Hungary's Biro Olszewski Talks With Biro Iukaszewicz Attends Warsaw Media Confe…"
+  }
+ },
+ {
+  "md": "10-17",
+  "date": "1979-10-17",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "teresa"
+   ],
+   [
+    "nobel"
+   ]
+  ],
+  "headline": "Mother Teresa awarded the Nobel Peace Prize",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 17 October 1979 the Nobel Committee awarded the Peace Prize to Mother Teresa for her work among the poor of Calcutta.",
+  "significance": "The award made her one of the world's best-known figures.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 3 issue(s)",
+   "tried": [
+    "micro_IA1176908_0465",
+    "micro_IA1176908_0466",
+    "micro_IA1176908_0467"
+   ]
+  }
+ },
+ {
+  "md": "10-17",
+  "date": "1989-10-17",
+  "regions": [
+   "SOV",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "earthquake"
+   ],
+   [
+    "san francisco",
+    "california"
+   ]
+  ],
+  "headline": "Loma Prieta earthquake strikes San Francisco",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "On 17 October 1989 an earthquake struck the San Francisco Bay Area during a World Series game, killing sixty-three people and collapsing part of the Bay Bridge.",
+  "significance": "Gorbachev's government, which had received US help after the Armenian earthquake ten months earlier, offered assistance.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176906_1207",
+   "issue_date": "1989-10-19",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 201, 19 October 1989",
+   "page": 16,
+   "snippet": "…Falklands islands in the south Atlantic in 1982 and have had no diplomatic relations since. The sources close to the Argentine delegation gave no timetable for the resumption of ties. Menem Sends Condolences to U.S. on Earthquake PY1910025489 Buenos Aires TELAM in Spanish 0125 GMT 19 Oct 89 [Text] Buenos Aires, 18 Oct (TELAM)—It was officially reported today that President Carlos Menem has sent a message to U.S. President George Bush expressing…"
+  }
+ },
+ {
+  "md": "10-18",
+  "date": "1989-10-18",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "honecker"
+   ],
+   [
+    "krenz"
+   ]
+  ],
+  "headline": "Erich Honecker forced out; Egon Krenz takes over",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 18 October 1989 Erich Honecker was removed as leader of East Germany and replaced by Egon Krenz, the Politburo member responsible for security.",
+  "significance": "Honecker's fall showed the East German regime cracking under mass flight and protest; Krenz lasted barely seven weeks.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_1410",
+   "issue_date": "1989-10-18",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 200, 18 October 1989",
+   "page": 23,
+   "snippet": "18 GERMAN DEMOCRATIC REPUBLIC irenz Replaces Honecker as General Secretary LD1810131889 East Berlin ADN International Service in German 1312 GMT 18 Oct 89 [Text] Berlin (ADN)}—The ninth session of the Central Committee elected Egon Krenz on Wednesday afternoon as the Gener…"
+  }
+ },
+ {
+  "md": "10-19",
+  "date": "1983-10-19",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "bishop"
+   ],
+   [
+    "grenada"
+   ]
+  ],
+  "headline": "Maurice Bishop killed in Grenada coup",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 19 October 1983 Grenadian Prime Minister Maurice Bishop and several ministers were executed by soldiers loyal to a hard-line faction of his own party.",
+  "significance": "The killing gave the Reagan administration its grounds to invade Grenada six days later.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176905_1271",
+   "issue_date": "1983-10-19",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 203, 19 October 1983",
+   "page": 5,
+   "snippet": "…ana] CUBA \"International Commentary’ on Kissinger Commission FAR Commentary Accuses U.S. of Using CONDECA Day of Solidarity With £1 Salvador Celebrated CARIBBEAN ANTICUA AND BARBUDA ACLM Leader Concerned About Grenada’s Bishop BAHAMAS Foreign Minister Derides U.S. Bahamian Policy [THE TRIBUNE 7 Oct] BARBADOS Paper Says USSR ‘Manipulating’ Grenada Situation Briefs: New Senator Installed GRENADA Bishop-Coard Struggle Still Not Resolved Bishop R…"
+  }
+ },
+ {
+  "md": "10-19",
+  "date": "1984-10-19",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "popieluszko"
+   ]
+  ],
+  "headline": "Polish security officers abduct Father Jerzy Popieluszko",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 19 October 1984 three officers of Poland's Interior Ministry security service abducted Father Jerzy Popieluszko, a priest who supported Solidarity. His body was found in a reservoir eleven days later.",
+  "significance": "The murder caused national outrage. In an unprecedented trial, the officers and their superior were convicted, exposing the secret police's methods to public view.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_0206",
+   "issue_date": "1984-10-22",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 205, 22 October 1984",
+   "page": 37,
+   "snippet": "…t 84 POLAND OFFICIALS, PUBLIC REACT TO 'KIDNAPPING' OF PRIEST 19 Oct Incident Described LD202012 Warsaw Television Service in Polish 1830 GMT 20 Oct 84 [Text] On 19 October 1984 at approximately 2200, the Reverend Jerzy Popieluszko, born on 23 September 1947 and resident of Warsaw, was kidnapped by unknown perpetrators in the vicinity of (Trzesiek) near Torun [northern Poland]. Description: height about 170 cm, slim, oval face, pale complexion, bl…"
+  }
+ },
+ {
+  "md": "10-19",
+  "date": "1986-10-19",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "expel",
+    "persona non grata",
+    "leave the country"
+   ],
+   [
+    "american",
+    "u.s.",
+    "us "
+   ],
+   [
+    "diplomat"
+   ]
+  ],
+  "headline": "Moscow expels five US diplomats in spy dispute",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 19 October 1986 the Soviet Union ordered five American diplomats to leave, in retaliation for the US expulsion of Soviet officials it accused of espionage.",
+  "significance": "The tit-for-tat expulsions came days after the Reykjavik summit and escalated into the largest diplomatic expulsion of the Cold War.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA41152803_0499",
+   "issue_date": "1986-10-20",
+   "region": "SOV",
+   "title": "Daily Report: Soviet Union",
+   "page": 165,
+   "snippet": "…sentatives in unlawful activities in the USSR. Four staff members of the U.S. Embassy and one staff member of the U.S. Consulate in Leningrad are known to have been declared personas non grata on October 19. They are to leave the country by November l. The Soviet Foreign Ministry's spokesman recuiled that way back in New York Eduard Shevardnadze, minister of foreign affairs of the USSR, had warned the U.S. side that if the United States insisted on its…"
+  }
+ },
+ {
+  "md": "10-20",
+  "date": "1986-10-20",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "shamir"
+   ],
+   [
+    "peres"
+   ],
+   [
+    "rotation",
+    "prime minister"
+   ]
+  ],
+  "headline": "Yitzhak Shamir takes over as Israeli prime minister under rotation",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 20 October 1986 Yitzhak Shamir took over as Israel's prime minister from Shimon Peres under the rotation agreement of their national unity government.",
+  "significance": "Shamir, a former Lehi commander and Mossad officer, opposed the land-for-peace diplomacy Peres had pursued.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA41152803_0422",
+   "issue_date": "1986-10-20",
+   "region": "NES",
+   "title": "Daily report. Middle East & South Asia review",
+   "page": 43,
+   "snippet": "ISRAEL Shamir Tells Herzog New Government Formed TA171114 Jerusalem Domestic Service in Hebrew 1100 GMT 17 Oct 86 [Text] Prime Minister-designate Yitzhaq Shamir has informed President Herzog that he has managed to form a new govern-…"
+  }
+ },
+ {
+  "md": "10-21",
+  "date": "1986-10-21",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "expel",
+    "persona non grata",
+    "leave the"
+   ],
+   [
+    "55",
+    "fifty-five"
+   ]
+  ],
+  "headline": "United States expels 55 Soviet diplomats",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 21 October 1986 the United States ordered 55 Soviet diplomats to leave, saying they were intelligence officers, and cut the size of the Soviet missions to equal the American ones.",
+  "significance": "It was the largest expulsion of Soviet officials in US history, and the sharpest round of the spy war that followed the arrest of Gennadiy Zakharov and Nicholas Daniloff.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176914_1213",
+   "issue_date": "1986-10-21",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 203, 21 October 1986",
+   "page": 76,
+   "snippet": "…tee; and Talyzin, candidate member of the CPSU Central Committee Politiburo. Ryzhkov, member of the CPSU Central Committee Politburo and chairman of the USSR Council of Ministers addressed the meeting. TURKMEN CP SACKS, EXPELS ATAYEV, MOLLAYEV LD201455 Moscow Domestic Service in Russian 1400 GMT 20 Oct 86 [Text] A plenum of the Central Committee of the Communist Party of Turkmenistan today examined the question of gross violation of party an…"
+  }
+ },
+ {
+  "md": "10-22",
+  "date": "1986-10-22",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "expel",
+    "persona non grata"
+   ],
+   [
+    "staff",
+    "employees",
+    "personnel"
+   ],
+   [
+    "embassy"
+   ]
+  ],
+  "headline": "Moscow retaliates by withdrawing Soviet staff from the US Embassy",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 22 October 1986 the Soviet Union retaliated for the US expulsions by ordering five more American diplomats out and withdrawing all Soviet employees from the US Embassy and consulate.",
+  "significance": "Losing its local staff forced the embassy to do its own cooking, driving and cleaning, a lasting blow to its operations.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176914_1214",
+   "issue_date": "1986-10-22",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 204, 22 October 1986",
+   "page": 23,
+   "snippet": "…n would take measures in reply. \"So we have found out now,\" Gennidiy Gerasimov said, \"that the U.S. diplomats use their position for purposes which have nothing in common with their status. This is why it was decided to expel them\". \"If the U.S. side insists on a continuation of the game according to the 'tit-for-tat' principle, all this may go on endlessly. It seems to us that it is time this whole affair be rounded off\", the Soviet Foreign…"
+  }
+ },
+ {
+  "md": "10-22",
+  "date": "1989-10-22",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "ta'if",
+    "taif"
+   ],
+   [
+    "agreement",
+    "accord",
+    "document"
+   ]
+  ],
+  "headline": "Lebanese deputies approve the Taif Agreement",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 22 October 1989 Lebanese parliamentarians meeting in Taif, Saudi Arabia, approved a national reconciliation charter to end the civil war.",
+  "significance": "The agreement rebalanced power between Christians and Muslims and was backed by the US, Saudi Arabia and Syria.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176910_0398",
+   "issue_date": "1989-10-23",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 203, 23 October 1989",
+   "page": 49,
+   "snippet": "…[Text] Following his meeting wit), Prime Minister Gen- eral Michel ‘Awn from 2200 to 2300 tonight. Arab envoy Lakhdar Ibrahimi said: I have nothing to say. I had the honor of informing Gen “Awn of the results of the al-Taif meetings and we exchanged views on these results and on the future phases, just as | did earlier during my meeting with Dr Salim al-Huss. Ibrahimi added: Very regrettably. | have nothing more to say at this stage other…"
+  }
+ },
+ {
+  "md": "10-23",
+  "date": "1983-10-23",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "marine"
+   ],
+   [
+    "beirut"
+   ],
+   [
+    "explo",
+    "blast",
+    "bomb"
+   ]
+  ],
+  "headline": "Suicide bombers destroy US Marine and French barracks in Beirut",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 23 October 1983 suicide truck bombs destroyed the US Marine barracks and a French paratroop building in Beirut, killing 241 American servicemen and 58 French soldiers.",
+  "significance": "It was the deadliest single day for the US Marine Corps since Iwo Jima, and led to the withdrawal of the multinational force from Lebanon in 1984. US intelligence attributed it to Iranian-backed militants.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176909_0269",
+   "issue_date": "1983-10-24",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 206, 24 October 1983",
+   "page": 2,
+   "snippet": "…VIEW 24 OCTOBER 1983 Lebanon US., French Headquarters Bombings — Two massive and almost simultaneous explosions demolished the US. and French military headquarters in Beirut carly on 23 October, killing at least 162 US. Marines and 41 French sold) +s, Beirut radio reported. Around |00 Marines and 14 French.a:en were injured in the explosions and rescue teams came under sniper fire as they worked throughout the day to evacuate the dead and wou…"
+  }
+ },
+ {
+  "md": "10-23",
+  "date": "1989-10-23",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "republic"
+   ],
+   [
+    "hungar"
+   ],
+   [
+    "proclaim"
+   ]
+  ],
+  "headline": "Hungary proclaims itself a republic",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 23 October 1989, the anniversary of the 1956 uprising, acting President Matyas Szuros proclaimed the Republic of Hungary, dropping 'People's' from its name.",
+  "significance": "The proclamation marked Hungary's formal break with communist rule.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_1413",
+   "issue_date": "1989-10-23",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 203, 23 October 1989",
+   "page": 33,
+   "snippet": "…ay, a referendum will decide, according to the government’s proposal. We can describe as peculiar the circumstance that it was near this day that the National Assembly adopted the new Constitutional Law of the Hungarian Republic, which declares our country a Republic, and which law comes into force on the day of its proclamation. I announce to the esteemed National Assembly that the government is ready to create the conditions for 23 October to…"
+  }
+ },
+ {
+  "md": "10-24",
+  "date": "1986-10-24",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hindawi"
+   ]
+  ],
+  "headline": "Britain breaks relations with Syria after the Hindawi verdict",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 24 October 1986 a London court convicted Nizar Hindawi of trying to blow up an El Al airliner by planting a bomb on his pregnant girlfriend. Britain broke diplomatic relations with Syria the same day, citing evidence of Syrian intelligence involvement.",
+  "significance": "The case was the clearest exposure of Syrian intelligence in international terrorism; the United States withdrew its ambassador from Damascus in support.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 3 issue(s)",
+   "tried": [
+    "micro_IA1176912_0993",
+    "micro_IA1176914_1216",
+    "micro_IA1176914_1217"
+   ]
+  }
+ },
+ {
+  "md": "10-25",
+  "date": "1983-10-25",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "grenada"
+   ],
+   [
+    "invasion",
+    "invad",
+    "landed",
+    "aggression"
+   ]
+  ],
+  "headline": "United States invades Grenada",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 25 October 1983 US forces, with troops from several Caribbean states, invaded Grenada, a week after the island's prime minister was killed.",
+  "significance": "Operation Urgent Fury removed Grenada's military government and expelled its Cuban and Soviet advisers. It was the first US use of force to roll back a pro-Soviet government.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176905_1275",
+   "issue_date": "1983-10-25",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 207, 25 October 1983",
+   "page": 51,
+   "snippet": "Service in Spanish 0000 GMT 24 Oct 83 Movement | rable events that have taken place in Grenada have undoubtedly litical and news media interest during the past week. The n the sidelines concerning this situation because, annot remain of the organization, the international fact that Grenada is a member renada’s re…"
+  }
+ },
+ {
+  "md": "10-26",
+  "date": "1979-10-26",
+  "regions": [
+   "SOV",
+   "EEU",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "pak chong-hui",
+    "park chung",
+    "pak chong hui"
+   ],
+   [
+    "killed",
+    "assassinat",
+    "shot",
+    "death"
+   ]
+  ],
+  "headline": "South Korean President Park assassinated by his intelligence chief",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "On 26 October 1979 President Park Chung-hee of South Korea was shot dead at a dinner by Kim Jae-gyu, director of the Korean Central Intelligence Agency.",
+  "significance": "The killing of a key US ally by his own intelligence chief led to General Chun Doo-hwan's seizure of power within months.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 6 issue(s)",
+   "tried": [
+    "micro_IA1176902_0411",
+    "micro_IA1176908_0472",
+    "micro_IA1176913_0351",
+    "micro_IA1176902_0412",
+    "micro_IA1176908_0473",
+    "micro_IA1176913_0352"
+   ]
+  }
+ },
+ {
+  "md": "10-26",
+  "date": "1994-10-26",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "jordan"
+   ],
+   [
+    "treaty"
+   ],
+   [
+    "israel"
+   ]
+  ],
+  "headline": "Israel and Jordan sign a peace treaty",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 26 October 1994 Israel and Jordan signed a peace treaty at the Arava border crossing, with President Clinton in attendance.",
+  "significance": "Jordan became the second Arab state to make peace with Israel.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176911_0124",
+   "issue_date": "1994-10-26",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 207, 26 October 1994",
+   "page": 10,
+   "snippet": "…doubtedly. This is the first step. Another steps, additional steps will follow sooner or later. It’s a matter of time. He emphasized this point very heavily. It’s just a matter of time. [end recording] ‘Source’: Israel, Jordan To Cooperate Against Terror TA2510115894 Tel Aviv YEDI'OT AHARONOT in Hebrew 25 Oct 94 p 9 [Report by Gabi Brunn, David Regev, and Tzvi Zinger] [FBIS Translated Excerpt] Israel and Jordan have decided to cooperate in cu…"
+  }
+ },
+ {
+  "md": "10-27",
+  "date": "1978-10-27",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "nobel"
+   ],
+   [
+    "sadat",
+    "begin"
+   ]
+  ],
+  "headline": "Sadat and Begin awarded the Nobel Peace Prize",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 27 October 1978 the Nobel Committee awarded the Peace Prize to Anwar Sadat and Menachem Begin for the Camp David accords.",
+  "significance": "The prize honoured the first peace between Israel and an Arab state, but was condemned across most of the Arab world.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176908_0210",
+   "issue_date": "1978-10-30",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Vol V No 210, 30 October 1978",
+   "page": 4,
+   "snippet": "…joals Trade jerations Joint St Paris Bourguiba Travels t ,ologne Foreign Minister Reports 'Ver if y Seriously 4 Baghdas +a ests! 0 Leaves Jonf ere Ben-Elisar Dayan, Begin Reacts Discusses Fleshing Weizman Interviewed to Nobel sarter mt Impact Washington Peace Negotiations R vabinet; Sends Rep Hold pected oposals Draft Autonomy Plan May Sta Demands for Oil Comp: rael Into Expanding on on Award: To Begin Reads Letter to Israeli, Egyptian Cabin…"
+  }
+ },
+ {
+  "md": "10-27",
+  "date": "1991-10-27",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "turkmen"
+   ],
+   [
+    "independen"
+   ]
+  ],
+  "headline": "Turkmenistan declares independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 27 October 1991, after a referendum, Turkmenistan's Supreme Soviet declared the republic independent of the USSR.",
+  "significance": "The Soviet Union was coming apart republic by republic in the weeks after the failed August coup.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_1110",
+   "issue_date": "1991-10-28",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 208, 28 October 1991",
+   "page": 99,
+   "snippet": "…n mid-September, the Kyrgyz Government approved a number of regulations for export-import quotas and licensing, as well as for the opening of foreign company officies and the operation of joint ventures in the republic. Turkmenia Constitutional Law on Independence Adopted LD2710141491 Moscow TASS in English 1349 GMT 27 Oct 91 [By TASS correspondent Nina Chunakova] [Text] Ashkhabad October 27 TASS—A Turkmenistan parliament session, held here to…"
+  }
+ },
+ {
+  "md": "10-28",
+  "date": "1982-10-28",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "spain",
+    "spanish"
+   ],
+   [
+    "socialist"
+   ],
+   [
+    "election",
+    "elect"
+   ]
+  ],
+  "headline": "Felipe Gonzalez's Socialists win Spanish elections",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 28 October 1982 the Spanish Socialist Workers' Party led by Felipe Gonzalez won a landslide in the general election.",
+  "significance": "It was the first left-wing government in Spain since the civil war, and came eighteen months after a failed coup.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176905_1027",
+   "issue_date": "1982-10-29",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 210, 29 October 1982",
+   "page": 9,
+   "snippet": "ARCE GOMEZ' PRESS STATEMENTS CAUSE INDIGNATION PY281608 La Paz Radio Illimani Network in Spanish 1100 GMT 28 Oct 82 [Text] The confession of Col Luis Arce Gomez that he created the paramilitary groups which committed crimes in the country during General Garcia Meza's regime with the protection of police organizatio…"
+  }
+ },
+ {
+  "md": "10-28",
+  "date": "1990-10-28",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "georgia"
+   ],
+   [
+    "election"
+   ],
+   [
+    "round table",
+    "gamsakhurdia"
+   ]
+  ],
+  "headline": "Gamsakhurdia's Round Table wins Georgia's elections",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 28 October 1990 Georgia's first multi-party elections were won by the Round Table bloc of the nationalist Zviad Gamsakhurdia.",
+  "significance": "Georgia's vote put a pro-independence government in power in a Soviet republic.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_0878",
+   "issue_date": "1990-10-30",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 210, 30 October 1990",
+   "page": 89,
+   "snippet": "FBIS-SOV-90-210 3 October 1990 Abkhaziya, in the north-west corner of Georgia, has a population of 525,000, of whom only 17.1 per cent are Abkhazians, 44 per cent are Georgian and 16 per cent are Russian. The candidates from 13 parties or coalitions were standing for 250 seats in the Georgian par…"
+  }
+ },
+ {
+  "md": "10-29",
+  "date": "1991-10-29",
+  "regions": [
+   "SOV",
+   "NES",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "madrid"
+   ],
+   [
+    "bush"
+   ],
+   [
+    "gorbachev"
+   ]
+  ],
+  "headline": "Bush and Gorbachev meet in Madrid",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 29 October 1991 George Bush and Mikhail Gorbachev met in Madrid on the eve of the Middle East peace conference they co-sponsored.",
+  "significance": "It was their last summit; Gorbachev's government was disintegrating after the failed August coup and the USSR ended two months later.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_1111",
+   "issue_date": "1991-10-29",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 209, 29 October 1991",
+   "page": 8,
+   "snippet": "…nts Aleksandr Kro- likov and Sergey Nikishov] [Text] Moscow October 28 TASS—The Soviet Foreign Ministry’s spokesman Vitaliy Churkin told a briefing here today about the program of Soviet President Gor- bachev’s visit to Madrid, which begins today. Gorbachev will attend the opening ceremony of the peace conference on the Middle East and have several bilateral meetings. A meeting between Gorbachev and Bush, scheduled for October 29, is expected…"
+  }
+ },
+ {
+  "md": "10-30",
+  "date": "1983-10-30",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "alfonsin"
+   ],
+   [
+    "election",
+    "elect"
+   ]
+  ],
+  "headline": "Raul Alfonsin elected president of Argentina",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 30 October 1983 Raul Alfonsin of the Radical Civic Union won Argentina's presidential election, ending seven years of military rule.",
+  "significance": "His government prosecuted the junta leaders for the 'dirty war' disappearances.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176905_1279",
+   "issue_date": "1983-10-31",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 211, 31 October 1983",
+   "page": 2,
+   "snippet": "…Election Results Tallied; UCR Victorious Government Vote Count JCKR Takes 13 Districts DYN Eatirate PJ Officit.’: Manipulation Luder Notes UCR ‘Trend’ PJ Spokesman Admits Defeat Defeat Admission Dented AF Congratulates Alfonsin Alfonsin Ends Campaign, Calls for Reconciliation Alfonsin Delivers Victory Speech 31 Oct Promise of No Exclusion Alfonsin Sets Foreign Policy Guidelines President Bignone's Election Eve Speech to Nation Argentine Author…"
+  }
+ },
+ {
+  "md": "10-30",
+  "date": "1991-10-30",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "madrid"
+   ],
+   [
+    "conference"
+   ],
+   [
+    "peace"
+   ]
+  ],
+  "headline": "Madrid Middle East peace conference opens",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 30 October 1991 the Middle East peace conference opened in Madrid, bringing Israel face to face with Syria, Lebanon and a joint Jordanian-Palestinian delegation.",
+  "significance": "The conference, co-sponsored by the US and USSR after the Gulf War, began the direct negotiations that led to the Oslo accords.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176910_0901",
+   "issue_date": "1991-10-30",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 210, 30 October 1991",
+   "page": 7,
+   "snippet": "…teral and multilateral talks. Will we accept this offer? [Netanyahu] We have already said that we have no objection to discussing the framework and the venue of the direct negotiations in the course of the conference in Madrid. As far as Israel is concerned, however, I think everybody understands that peace negotiations should not be conducted in Europe. Peace already exists ir Europe, whereas there is as yet no peace in the Middle East. Hold…"
+  }
+ },
+ {
+  "md": "10-31",
+  "date": "1984-10-31",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gandhi"
+   ],
+   [
+    "assassinat",
+    "killed",
+    "shot",
+    "murder"
+   ]
+  ],
+  "headline": "Indira Gandhi assassinated by her bodyguards",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 31 October 1984 Indian Prime Minister Indira Gandhi was shot dead in New Delhi by two of her Sikh bodyguards.",
+  "significance": "Her killing, months after the army stormed the Golden Temple, set off anti-Sikh massacres. Her son Rajiv succeeded her.",
+  "fbis": "",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176909_0539",
+   "issue_date": "1984-10-31",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 212, 31 October 1984",
+   "page": 2,
+   "snippet": "FBIS MIDDLE EAST & SOUTH DAILY REPORT ASIA REVIEW 31 OCTOBER 1984 INDIA The prime minister of India, Mrs Indira Gandhi, was shot and killed by two of her own security men at her home this morning, according to Delhi radio. State mourning will be observed for |2 days. Rajiv Gandhi, son of the assassinated prime minister, was sworn in as…"
+  }
+ }
+]

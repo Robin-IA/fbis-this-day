@@ -5,12 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>FBIS This Day</title>
 <meta name="description" content="One day, one Daily Report: what the Foreign Broadcast Information Service heard from the world's radio and press on this date between 1978 and 1996, with why it mattered. A new day at midnight.">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <div class="masthead">
   <div class="wrap">
+    <a class="brand" href="./"><img src="img/fbis-logo.jpg" alt="" width="34" height="34"><span>FBIS This Day</span></a>
     <div class="logos">
       <a href="https://archive.org/"><img src="img/internet-archive.png" alt="Internet Archive" width="38" height="38"></a>
       <a href="https://archive.org/details/democracys-library" class="dl"><img src="img/democracys-library.png" alt="Democracy's Library" width="34" height="34"></a>
@@ -23,12 +24,21 @@
   </div>
 </div>
 
-<main id="main" class="wrap">
-  <header class="intro">
-    <p class="slug">Democracy's Library · Foreign Broadcast Information Service · 1978–1996</p>
-    <h1>FBIS This Day</h1>
-    <p class="lede">One day, one Daily Report: what the Foreign Broadcast Information Service heard from the world's radio and press on this date between 1978 and 1996, and why it mattered. A new day arrives at midnight.</p>
+<main id="main">
+  <header class="band">
+    <div class="wrap">
+      <div>
+        <p class="slug">Democracy's Library · Foreign Broadcast Information Service · 1978–1996</p>
+        <h1>FBIS This Day</h1>
+        <p class="lede">One day, one Daily Report: what the Foreign Broadcast Information Service heard from the world's radio and press on this date between 1978 and 1996, and why it mattered. A new day arrives at midnight.</p>
+      </div>
+      <figure>
+        <img src="img/laurel-listening-post.jpg" width="500" height="373" alt="Monitors wearing headphones sit at desks of radio receivers in a listening room.">
+        <figcaption>Monitors at the Federal Communications Commission listening post in Laurel, Maryland. FBIS began at the FCC in 1941. Lewis Walker, <a href="https://commons.wikimedia.org/wiki/File:Laurel_maryland_monitoring_8d42303u.tif">Library of Congress</a>, public domain.</figcaption>
+      </figure>
+    </div>
   </header>
+  <div class="wrap">
 
   <div class="daybar">
     <button type="button" id="prev" aria-label="Previous day">← <span id="prevLabel">Previous</span></button>
@@ -57,6 +67,7 @@
     <p class="small" id="issuesNote"></p>
     <div class="issues" id="issues"></div>
   </section>
+  </div>
 </main>
 
 <footer class="site">
@@ -65,6 +76,6 @@
     <p>Feedback? <a href="mailto:robin.fay@archive.org?subject=Feedback%20about%20Explorers%3A%20FBIS%20This%20Day">Email us</a></p>
   </div>
 </footer>
-<script src="app.js"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>

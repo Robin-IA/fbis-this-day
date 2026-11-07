@@ -5,12 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>About · FBIS This Day</title>
 <meta name="description" content="About FBIS This Day: its source in the Internet Archive's us-fbis collection, the dates it covers, what it leaves out, and how each day's entry is made and checked.">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <div class="masthead">
   <div class="wrap">
+    <a class="brand" href="./"><img src="img/fbis-logo.jpg" alt="" width="34" height="34"><span>FBIS This Day</span></a>
     <div class="logos">
       <a href="https://archive.org/"><img src="img/internet-archive.png" alt="Internet Archive" width="38" height="38"></a>
       <a href="https://archive.org/details/democracys-library" class="dl"><img src="img/democracys-library.png" alt="Democracy's Library" width="34" height="34"></a>
@@ -33,6 +34,17 @@
     <p>For most of the Cold War the U.S. government listened to the world's radio, television, news agencies and press in their own languages and published what it heard, in English, as the FBIS Daily Report. Each issue is a record of what governments were telling their own people, and each other, on that day.</p>
     <p>This site picks one event for every day of the year, shows the Daily Report that carried it, and explains why it mattered to the United States and to world events at the time. The focus is spycraft (espionage, defections, covert action and the intelligence services), then the wars, coups and crises that the monitors followed. The home page moves to the next day at midnight, by the visitor's own clock.</p>
     <p>Built for <a href="https://archive.org/details/democracys-library">Democracy's Library</a> at the Internet Archive. For FBIS's history and everything else that survives of its record, see the <a href="https://wayback-labs.sf.archive.org/fbis/">FBIS explorer</a> in Wayback Machine Labs.</p>
+
+    <div class="figs">
+      <figure class="figure">
+        <img src="img/fbis-tito-message-1980.jpg" width="960" height="768" loading="lazy" alt="A teletype message on tan paper headed FM FBIS VIENNA AU, reporting a Bucharest Radio announcement that President Tito has died.">
+        <figcaption>What the monitors filed: FBIS's Vienna bureau relays Bucharest Radio's report of President Tito's death, 4 May 1980. Central Intelligence Agency, <a href="https://commons.wikimedia.org/wiki/File:FBIS_Text_Message_Announcing_Yugoslavian_President_Tito%27s_Death_-_Flickr_-_The_Central_Intelligence_Agency.jpg">Wikimedia Commons</a>, public domain.</figcaption>
+      </figure>
+      <figure class="figure">
+        <img src="img/fbis-equipment-1945.jpg" width="600" height="436" loading="lazy" alt="A monitor in headphones sits before a wall of radio receivers.">
+        <figcaption>Members of the Foreign Broadcast Information Service at a bank of equipment, January 1945. U.S. government photograph, <a href="https://commons.wikimedia.org/wiki/File:Foreign_Broadcast_Information_Service_equipment_1945.jpg">Wikimedia Commons</a>, public domain.</figcaption>
+      </figure>
+    </div>
 
     <h2>Source of materials</h2>
     <p>Every report comes from the <a href="https://archive.org/details/us-fbis">United States Foreign Broadcast Information Service (FBIS)</a> collection at the <a href="https://archive.org/">Internet Archive</a>, scanned from microfiche. Each entry links to the archive.org item and to the page where the event appears.</p>
@@ -73,6 +85,15 @@
       <li>The summary, the "Why it mattered" and the "What FBIS heard" paragraphs were written with AI assistance (Claude) and checked against that page. They are <strong>drafts</strong>, not yet reviewed by a historian. Corrections are welcome through the feedback link below.</li>
     </ol>
     <p>The quoted text is the Internet Archive's uncorrected OCR of the microfiche, and has errors.</p>
+
+    <h2>Images</h2>
+    <p>All images are public domain, from Wikimedia Commons, and are kept in this site's own files.</p>
+    <ul>
+      <li>FBIS emblem: <a href="https://commons.wikimedia.org/wiki/File:Foreign_Broadcast_Information_Service_logo.jpg">Foreign Broadcast Information Service logo</a>.</li>
+      <li>Listening post: Lewis Walker, <a href="https://commons.wikimedia.org/wiki/File:Laurel_maryland_monitoring_8d42303u.tif">Laurel, Maryland. Monitoring at the United States Federal Communications Commission listening post</a>, Library of Congress Prints and Photographs Division.</li>
+      <li>Teletype message: Central Intelligence Agency, <a href="https://commons.wikimedia.org/wiki/File:FBIS_Text_Message_Announcing_Yugoslavian_President_Tito%27s_Death_-_Flickr_-_The_Central_Intelligence_Agency.jpg">FBIS Text Message Announcing Yugoslavian President Tito's Death</a>.</li>
+      <li>Monitoring equipment: U.S. government photograph, <a href="https://commons.wikimedia.org/wiki/File:Foreign_Broadcast_Information_Service_equipment_1945.jpg">Foreign Broadcast Information Service equipment 1945</a>.</li>
+    </ul>
 
     <h2>How it was built</h2>
     <p>A Python script indexes the collection from archive.org's search API; another checks each candidate against the OCR search text archive.org publishes for every item; a third writes one small data file per day. The page is plain HTML and JavaScript published with GitHub Pages. The code, the candidates and the evidence for every entry are in the <a href="https://github.com/internetarchivecanada/fbis-this-day">repository</a>.</p>

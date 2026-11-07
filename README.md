@@ -64,7 +64,13 @@ reviewed by a historian. The site says so on every entry.
 ### The code
 
 Plain HTML, CSS and JavaScript, no build step, published with GitHub Pages
-from `main`. `index.html` + `app.js` is the day view; `calendar.html` and
+from `main`. The palette is red, dark blue, gold and white (tokens at the
+top of `style.css`; gold is never used as text on white, and every text
+pair meets WCAG AA in light and dark modes). Images in `img/` are public
+domain, from Wikimedia Commons, credited on the About page: the FBIS logo,
+the FCC Laurel, Maryland listening post (Library of Congress), the FBIS
+teletype message reporting Tito's death (CIA, 1980) and FBIS monitoring
+equipment (1945). `index.html` + `app.js` is the day view; `calendar.html` and
 `about.html` are self-contained. Python 3 standard library only.
 
 ### Rebuilding it

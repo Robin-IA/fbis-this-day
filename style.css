@@ -53,7 +53,8 @@ a:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid
 .masthead .wrap { display: flex; align-items: center; gap: 14px; padding-top: 10px; padding-bottom: 10px; flex-wrap: wrap; }
 .masthead .logos { display: flex; gap: 10px; align-items: center; }
 .masthead .logos img { display: block; }
-.masthead .dl { background: #fff; border-radius: 4px; padding: 2px; }
+.masthead .dl { background: #fff; border-radius: 6px; padding: 3px 5px; line-height: 0; }
+.masthead .dl img { width: auto; height: 34px; }
 .masthead nav { margin-left: auto; display: flex; gap: 18px; }
 .masthead nav a { color: var(--head-ink); text-decoration: none; font-weight: 600; font-size: 15px; }
 .masthead nav a:hover, .masthead nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 4px; }

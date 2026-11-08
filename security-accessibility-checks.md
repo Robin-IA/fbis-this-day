@@ -1,11 +1,11 @@
 # Security and accessibility checks
 
-**Status: passing.** All three checks passed on 2026-11-08 at commit `99fb0ec2f0`. Nothing is open. Advisory items below are optional.
+**Status: passing.** All three checks passed on 2026-11-08 at commit `4e1ef82915`. Nothing is open. Advisory items below are optional.
 
 | | |
 |---|---|
 | Explorer | https://github.com/Robin-IA/fbis-this-day |
-| Commit | `99fb0ec2f0` on `explorer-checks` |
+| Commit | `4e1ef82915` on `explorer-checks` |
 | Date | 2026-11-08 |
 | Pages checked | `./`, `./?d=11-07`, `calendar.html`, `about.html` |
 | Served from | repository root, served locally |
@@ -26,7 +26,7 @@
 
 ## Standards met
 
-Checked 8 November 2026 at commit `99fb0ec2f0`, on the pages listed above:
+Checked 8 November 2026 at commit `4e1ef82915`, on the pages listed above:
 
 - **WCAG 2.2 Level AA**: every Level A and AA success criterion, by automated tests and a manual review of each criterion (checklists under each check below).
 - **WCAG 2.1 Level AA** and **WCAG 2.0 Level AA**, which WCAG 2.2 includes. 4.1.1 Parsing, dropped from 2.2 but still in 2.0 and 2.1, is covered by the code validity check (no HTML parse errors, no duplicate ids).
@@ -74,8 +74,8 @@ No open items.
 | `S-c4bc29` | String rendered as markup or code (innerHTML) | `app.js:116` | Clears the list with an empty string literal. |
 | `S-381a62` | String rendered as markup or code (innerHTML) | `app.js:157` | Fixed literal error message, no data. |
 | `S-35d42f` | String rendered as markup or code (innerHTML) | `app.js:196` | Clears the day <select> with an empty string literal; options are added with el() and String(number). |
-| `S-b2f073` | String rendered as markup or code (innerHTML) | `calendar.html:53` | Clears the calendar with an empty string literal. |
-| `S-b4b3fe` | String rendered as markup or code (insertAdjacentHTML) | `calendar.html:65` | Calendar rows (calendar.html:65): mm is a zero-padded loop counter, name from the fixed MONTHS array; r.md, r.headline and r.year go through esc() (calendar.html:49, escapes & < > " '); the day number is numeric. |
+| `S-b2f073` | String rendered as markup or code (innerHTML) | `calendar.html:60` | Clears the calendar with an empty string literal. |
+| `S-b4b3fe` | String rendered as markup or code (insertAdjacentHTML) | `calendar.html:72` | Calendar rows (calendar.html:65): mm is a zero-padded loop counter, name from the fixed MONTHS array; r.md, r.headline and r.year go through esc() (calendar.html:49, escapes & < > " '); the day number is numeric. |
 | `S-19e802` | Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected. | `tools/build_index.py:67` | tools/build_index.py:65 opens a fixed https://archive.org/services/search/v1/scrape URL whose query is built with urllib.parse.urlencode; no file: or custom scheme can reach it. Build-time tool, not served. |
 | `S-782ce8` | Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected. | `tools/verify.py:41` | tools/verify.py:41 opens https://archive.org/download/<ident>/<ident><suffix>, where ident comes from data/issues.json (validated against an archive.org identifier pattern in build_index.py) and suffix is one of two literals. Build-time tool, not served. |
 
@@ -136,4 +136,4 @@ Optional. These items never block a pass.
 | `S-a955d4` | security | No content-security-policy header | `https://internetarchivecanada.github.io/fbis-this-day/` | A02:2025 · ASVS V3 | Set it; it limits the damage of any XSS that gets through; a <meta http-equiv> CSP works on static hosts. |
 | `S-6f66da` | security | No x-content-type-options header | `https://internetarchivecanada.github.io/fbis-this-day/` | A02:2025 · ASVS V3 | Set it; it stops browsers guessing content types. It has no <meta> form, so on a host that cannot set headers (GitHub Pages) it stays open; the explorer's owners decide whether that matters enough to change host. |
 
-<!-- explorer-checks:state {"passing": true, "date": "2026-11-08", "commit": "99fb0ec2f0e20db2f95898ead49825f996344e9f", "open": [], "titles": {}} -->
+<!-- explorer-checks:state {"passing": true, "date": "2026-11-08", "commit": "4e1ef829150cc409dfc70f52b71994010459da8f", "open": [], "titles": {}} -->

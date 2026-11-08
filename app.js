@@ -88,7 +88,7 @@
       '<a class="cta" href="' + pageUrl(ev) + '">Read the ' + esc(longDate(ev.issue_date)) + " Daily Report</a>" +
       '<p class="draft">This Daily Report was confirmed to carry the event.<br>' +
       '<a href="about.html#method">How entries are made</a><br>' +
-      '<a href="mailto:robin.fay@archive.org?subject=Feedback%20about%20Explorers%3A%20FBIS%20This%20Day">Report a mistake</a></p>';
+      '<a href="mailto:robin.fay@archive.org?subject=Explorer%20Feedback%20USFBIS-Democracy%27s%20Library">Report a mistake</a></p>';
   }
 
   function renderAlts(data) {

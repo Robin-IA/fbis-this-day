@@ -1,0 +1,1742 @@
+[
+ {
+  "md": "06-01",
+  "date": "1990-06-01",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "chemical weapons"
+   ],
+   [
+    "bush"
+   ],
+   [
+    "sign"
+   ]
+  ],
+  "headline": "Bush and Gorbachev sign a chemical weapons accord",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Soviet Union Daily Report of 1 June 1990 carried Moscow TASS on Baker saying the Soviets had agreed a chemical weapons destruction accord, and Moscow Television on Gorbachev's White House welcome.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0769",
+   "issue_date": "1990-06-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 106, 1 June 1990",
+   "page": 12,
+   "snippet": "…ed out at the superpower summit. INTERNATIONAL AFFAIRS FBIS-SOV-90-106 1 June 1990 In an interview with the ABC’s “Good Morning, Amer- ica” programme, Baker said: “The Soviets have now agreed with the United States on a chemical weapons destruction agreement. “So these two superpowers can lead the way toward, perhaps, a global ban on chemical weapons, and that is very, very important.” President George Bush and President Mikhail Gor- bachev “have a goo…"
+  }
+ },
+ {
+  "md": "06-01",
+  "date": "1993-06-01",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "serrano"
+   ],
+   [
+    "guatemala"
+   ],
+   [
+    "army",
+    "military",
+    "removed",
+    "ouster",
+    "resign"
+   ]
+  ],
+  "headline": "Guatemala's army forces out President Serrano",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Latin America Daily Report of June 2, 1993, carried Bridgetown CANA on Barbados' OAS ambassador condemning Serrano's suspension of Guatemala's constitution; it says nothing of his removal.",
+  "pick": false,
+  "doubt": "Page covers regional reaction to Serrano's self-coup, not his ouster.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Reaction to self-coup, not ouster",
+  "evidence": {
+   "identifier": "micro_IA1176907_0535",
+   "issue_date": "1993-06-02",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 104, 2 June 1993",
+   "page": 10,
+   "snippet": "…n and anxiety over yet another interruption of the democratic process in 2 country in this hemisphere, according to a statement from the Foreign Minsitry He said the Barbados delegation condemned the action of President Serrano in orchestrating what amounted to a military coup against his own government. There was, the ambassador continued, no justification for resorting to non-democratic means to solve the problems of Guatemala Tuesday, Serra…"
+  }
+ },
+ {
+  "md": "06-02",
+  "date": "1979-06-02",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "pope",
+    "pontiff",
+    "john paul"
+   ],
+   [
+    "warsaw",
+    "poland"
+   ],
+   [
+    "arriv",
+    "visit"
+   ]
+  ],
+  "headline": "John Paul II begins his first pilgrimage to Poland",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Eastern Europe Daily Report of 4 June 1979 listed how bloc media reported the Pope's arrival: Sofia radio, ADN on his activities in Warsaw, and Budapest radio.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176902_0307",
+   "issue_date": "1979-06-04",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 108, 4 June 1979",
+   "page": 2,
+   "snippet": "Eastern E urope 4 June 1979 Sofia Radio Reports Pope's Arrival in Poland Indian Defense Minister Departs, Press Release Reported Kubadinski Conveys Greetings to Portuguese CP Congress Romanian Deputy Prime Minister Oprea Arrives 3 June CZECHOSLOVAKIA Angolan Foreign Minis…"
+  }
+ },
+ {
+  "md": "06-03",
+  "date": "1982-06-03",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "argov"
+   ],
+   [
+    "ambassador",
+    "london"
+   ]
+  ],
+  "headline": "Israeli ambassador Shlomo Argov shot in London",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Middle East & South Asia review of 4 June 1982 reported Jerusalem radio on Argov shot in the head in London, Shamir blaming Arab terrorists, and a PLO denial; Shamir also called for the PLO's 'final liquidation'.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_1190",
+   "issue_date": "1982-06-04",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 108, 4 June 1982",
+   "page": 2,
+   "snippet": "DAILY REPORT MIDDLE EAST AND >. OU Tt AS tA REVIEW 4 JUNE 1982 Israel Shooting of London Ambassador -- israel's Ambassador to Britain Shlomo Argov was rushed to the hospital in critical condition after being shot in the head near a London hotel late on 3 June, Jerusalem radio reported. His assailant was wounded and captured by police and two more suspects were sub…"
+  }
+ },
+ {
+  "md": "06-03",
+  "date": "1989-06-03",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "khomeyni",
+    "khomeini"
+   ],
+   [
+    "death",
+    "died",
+    "passed away"
+   ]
+  ],
+  "headline": "Ayatollah Khomeyni dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Near East & South Asia Daily Report of June 7, 1989, carried a KUNA interview in which Arafat, discussing the intifada, wished the Iranian leadership success in overcoming problems after the passing of Ayatollah Khomeyni.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176910_0302",
+   "issue_date": "1989-06-07",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 108, 7 June 1989",
+   "page": 12,
+   "snippet": "…njured including 6,000 maimed and 50,000 detained of whom 32,000 are still in jail. The Palestinian leader wished the Iranian leadership success in overcoming all problems that might follow the passing away of Ayatollah Khomeyni. DFLP’s Hawatimah on ‘Commando Operation’ LD0606224189 Kuwait KUNA in English 1020 GMT 6 Jun 89 [By Talal Kayed] [Text] Damascus, June 6 (KUNA)—Secretary General of the Democratic Front for Liberation of Palestine Nayif…"
+  }
+ },
+ {
+  "md": "06-04",
+  "date": "1979-06-04",
+  "regions": [
+   "LAT",
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ghana"
+   ],
+   [
+    "rawlings",
+    "coup"
+   ]
+  ],
+  "headline": "Jerry Rawlings seizes power in Ghana",
+  "category": "coup",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Soviet Union Daily Report of 6 June 1979 carried Moscow TASS in English: Accra Radio announced junior officers had overthrown General Akuffo's government, imposed a curfew, and kept the 18 June election date.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176913_0244",
+   "issue_date": "1979-06-06",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 110, 6 June 1979",
+   "page": 44,
+   "snippet": "…significantly included the familiar name, Ian Smith, writes our observer in conclusion. GHANIAN GOVERNMENT OVERTHROWN IN MILITARY COUP LDO051000 Moscow TASS in English 0951 GMT 5 Jun 79 LD [Text] Cotonou, June 5, TASS--Ghana's former government, headed by General F. Akuffo, was replaced as a result of a military coup, says a communique broadcast by Accra Radio on behalf of 2 grouv of junior officers. The forces, siding with those officers,…"
+  }
+ },
+ {
+  "md": "06-04",
+  "date": "1989-06-04",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "election"
+   ],
+   [
+    "solidarity",
+    "solidarnosc"
+   ]
+  ],
+  "headline": "Solidarity sweeps Poland's partially free elections",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 7 June 1989 carried Prague Domestic Service citing Polish dailies: Solidarity candidates won 'considerable success', many seats faced a second round, and almost 40 percent stayed home.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_1315",
+   "issue_date": "1989-06-07",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 108, 7 June 1989",
+   "page": 25,
+   "snippet": "…U-89-108 7 June 1989 The Presidium made note of information on the course of the visit made by Georges Hawi, general secretary of the Lebanese Communist Party, to the CSSR on 15 to 17 May. Prague Cites Polish Dailies on Election Results LD0606230789 Prague Domestic Service in Slovak 1100 GMT 6 Jun 89 {Text} Poland—Candidates representing the Solidarity Citizens’ Committee achieved considerable success in last Sunday's parliamentary elections, s…"
+  }
+ },
+ {
+  "md": "06-04",
+  "date": "1989-06-04",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "beijing"
+   ],
+   [
+    "tiananmen",
+    "troops",
+    "army"
+   ]
+  ],
+  "headline": "Troops clear Tiananmen Square",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 7 June 1989 carried Bratislava PRAVDA via CTK: Chinese television confirmed tanks, tear gas and firearms were used to clear Tiananmen Square, with victims put at dozens to hundreds.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_1315",
+   "issue_date": "1989-06-07",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 108, 7 June 1989",
+   "page": 19,
+   "snippet": "FBIS-EEU-89-108 7 June 1989 Bratislava PRAVDA Reports Clashes in Beijing AU0606 130689 Bratislava PRAVDA in Slovak 5 Jun 89 p 1 [CTK report: “The Firearms Have Also Had Their Say; A Tense Situation in Beijing After the Army’s Intervention”] [Text] Beijing—Yesterday evening Chinese state tele…"
+  }
+ },
+ {
+  "md": "06-05",
+  "date": "1984-06-05",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "golden temple",
+    "amritsar"
+   ],
+   [
+    "army",
+    "troops"
+   ]
+  ],
+  "headline": "Indian army storms the Golden Temple at Amritsar",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The South Asia Daily Report of 5 June 1984 carried Delhi Domestic Service and AFP on hours of gunfire between security forces and militants in the Golden Temple, which an official called 'an arsenal'; the army had not yet entered.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176912_0377",
+   "issue_date": "1984-06-05",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 109, 5 June 1984",
+   "page": 7,
+   "snippet": "VII. 5 Jun 84 Reports on Continuing Sectarian Violence in Punjab Golden Temple ‘Arsenal’ Besieged BK041549 Delhi Domestic Service in English 1530 GMT 4 Jun 84 [Text] In Amritsar, the security forces were fired upon from the Golden Temple complex this morning. Hand grenades and hand bombs were also…"
+  }
+ },
+ {
+  "md": "06-06",
+  "date": "1982-06-06",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "israel",
+    "zionist"
+   ],
+   [
+    "lebanon",
+    "invasion",
+    "invad"
+   ]
+  ],
+  "headline": "Israel invades Lebanon",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Middle East & South Asia review of 7 June 1982 reported Jerusalem radio on the 'Peace of Galilee Operation' pushing 40 km into Lebanon, the capture of Beaufort Castle, and Lebanese radios on fighting at Nabatiyah, Tyre and Sidon.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_1191",
+   "issue_date": "1982-06-07",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 109, 7 June 1982",
+   "page": 2,
+   "snippet": "DAILY REPORT MIDDLE EAST AND SOUTH ASIA REVIEW 7 JUNE 1982 Israeli Invasion of Lebanon Military Situation -- Israeli forces moved into southern Lebanon along three axes: the coast, the central sector and the \"Fatahland\" area, the IDF spokesman announced on 6 June in a statement report…"
+  }
+ },
+ {
+  "md": "06-07",
+  "date": "1981-06-07",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "reactor"
+   ],
+   [
+    "iraq",
+    "baghdad"
+   ],
+   [
+    "israel",
+    "zionist"
+   ]
+  ],
+  "headline": "Israeli jets destroy Iraq's Osirak reactor",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Middle East & Africa review of 9 June 1981, partly garbled, reported Israel's announcement that its planes destroyed the Iraqi reactor, Begin saying it was meant for atomic bombs, and an Iraqi RCC statement in reply.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0930",
+   "issue_date": "1981-06-09",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 110, 9 June 1981",
+   "page": 2,
+   "snippet": ", lis Announce, Comment on Raid--In a speci announcement io, the Israeli Government ann } ij that « 7 June the he Iraqi nuclear reactor near Baghdad, mpletely destroying i returned safely to base. Explaini its < ior 1e government the Iraqi atomic reactor with grave < f ong time and reliable sources that the reactor as meant to produce atomic b w been ca…"
+  }
+ },
+ {
+  "md": "06-08",
+  "date": "1995-06-08",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "o'grady",
+    "pilot"
+   ],
+   [
+    "rescue",
+    "f-16",
+    "bosnia"
+   ]
+  ],
+  "headline": "Downed US pilot Scott O'Grady rescued in Bosnia",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of June 9, 1995, carried a Paris LE FIGARO commentary calling the U.S. pilot's recovery by NATO's American helicopters \"an exploit with political connotation\" and arguing Europe must handle Bosnia itself.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176904_1316",
+   "issue_date": "1995-06-09",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 111, 9 June 1995",
+   "page": 25,
+   "snippet": "20 BOSNIA-HERZEGOVINA Pilot Rescue: ‘Exploit With Political Connotation’ BRO906115195 Paris LE FIGARO in French 9 Jun 95 pl [Commentary by Georges Suffert: “Europeans Con- fronted by Themselves\") {FBIS Translated Text] The recovery of the U.S. pil…"
+  }
+ },
+ {
+  "md": "06-09",
+  "date": "1985-06-09",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "sutherland"
+   ],
+   [
+    "american",
+    "kidnap",
+    "abduct"
+   ]
+  ],
+  "headline": "American educator Thomas Sutherland kidnapped in Beirut",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 4 issue(s)",
+   "tried": [
+    "micro_IA1176912_0642",
+    "micro_IA1176912_0643",
+    "micro_IA1176912_0644",
+    "micro_IA1176912_0645"
+   ]
+  }
+ },
+ {
+  "md": "06-09",
+  "date": "1990-06-09",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "election"
+   ],
+   [
+    "czechoslovak",
+    "civic forum"
+   ]
+  ],
+  "headline": "Czechoslovakia votes in its first free elections since 1946",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 11 June 1990 carried Prague CTK on television projections: Civic Forum and Public Against Violence winning about 48 percent for the Federal Assembly, the Communists about 13 percent.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0116",
+   "issue_date": "1990-06-11",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 112, 11 June 1990",
+   "page": 37,
+   "snippet": "FBIS-EEU-90-112 11 June 1990 Civic Forum Wins Federal Assembly Elections Television Projects Results LD0906224490 Prague ( TK in E nelisn 2113 GMT 9 Jun 90 [Text] Prague June 9 (CTK}—The Czechoslovak Televi- sion published in its last election service a precise elections’ estimate tonight A…"
+  }
+ },
+ {
+  "md": "06-10",
+  "date": "1990-06-10",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "fujimori"
+   ],
+   [
+    "elect",
+    "runoff",
+    "vote",
+    "victory"
+   ]
+  ],
+  "headline": "Fujimori wins Peru's presidential runoff",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Latin America Daily Report of June 11, 1990, carried the end of a closing campaign speech and Paris AFP on voting beginning in Peru's runoff amid tight security, with Vargas Llosa and Fujimori \"almost neck and neck.\"",
+  "pick": false,
+  "doubt": "Page has the closing campaign address; the runoff result is not reported.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Voting opens; no result",
+  "evidence": {
+   "identifier": "micro_IA1176906_1507",
+   "issue_date": "1990-06-11",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 112, 11 June 1990",
+   "page": 61,
+   "snippet": "…e was close to 20 percent. According to the National Election Jury (JNE), 87,161 people living abroad must cast their votes. Writer Mario Vargas Llosa, of the neolibere! Democratic Front (Fredemo) and agronomist Alberto Fujimori, of Change 90 —winners in the first round on 8 April—are running “almost neck and neck,” according to observers. Owing to security measures prompted by threats from subversives to voters, the electoral authorities of th…"
+  }
+ },
+ {
+  "md": "06-11",
+  "date": "1985-06-11",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "exchange",
+    "swap"
+   ],
+   [
+    "glienicke",
+    "agents",
+    "spies",
+    "potsdam"
+   ]
+  ],
+  "headline": "Spy swap on Berlin's Glienicke Bridge",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Soviet Union Daily Report of 11 June 1985 carried IZVESTIYA items on Soviet aviation ties with France and science ties with Spain; no exchange in Berlin appears.",
+  "pick": true,
+  "doubt": "Page covers Soviet-French and Soviet-Spanish cooperation, not the Glienicke Bridge swap.",
+  "window": 400,
+  "start": 1,
+  "fail": {
+   "fail": "no page matched all keyword groups in 6 issue(s)",
+   "tried": [
+    "micro_IA1176903_0364",
+    "micro_IA1176914_0775",
+    "micro_IA1176903_0365",
+    "micro_IA1176914_0776",
+    "micro_IA1176903_0366",
+    "micro_IA1176914_0777"
+   ]
+  }
+ },
+ {
+  "md": "06-12",
+  "date": "1978-06-12",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "crawford"
+   ],
+   [
+    "international harvester",
+    "harvester",
+    "american",
+    "smuggl",
+    "currency"
+   ]
+  ],
+  "headline": "Moscow arrests US businessman Jay Crawford after the Enger case",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 5 issue(s)",
+   "tried": [
+    "micro_IA1176912_1235",
+    "micro_IA1176912_1236",
+    "micro_IA1176912_1237",
+    "micro_IA1176912_1238",
+    "micro_IA1176912_1239"
+   ]
+  }
+ },
+ {
+  "md": "06-12",
+  "date": "1987-06-12",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "reagan"
+   ],
+   [
+    "berlin"
+   ],
+   [
+    "brandenburg",
+    "wall",
+    "speech"
+   ]
+  ],
+  "headline": "Reagan at the Brandenburg Gate: tear down this wall",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 15 June 1987 listed under Poland that PAP 'Attacks Reagan Statements at Berlin Wall', saying they showed 'nerve' and signalled an 'anticommunist crusade', after a long run of papal-visit items.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_0861",
+   "issue_date": "1987-06-15",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 114, 15 June 1987",
+   "page": 3,
+   "snippet": "…10 Jun] Pope Speaks at 8 June Ecumenical Council Session [SLOWO POWSZECHNE 10 Jun] Pope Addresses Nuns at Warsaw Cathedral 8 June ([SLOWO POWSZECHNE 10 Jun] Official Says Church Government's 'Partner' [DPA] PAP Attacks Reagan Statements at Berlin Wall Shows 'Nerve' With Accusations Signals 'Anticommunist Crusade’"
+  }
+ },
+ {
+  "md": "06-12",
+  "date": "1991-06-12",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "yeltsin"
+   ],
+   [
+    "elect",
+    "president"
+   ]
+  ],
+  "headline": "Yeltsin elected president of Russia",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 0 issue(s)",
+   "tried": []
+  }
+ },
+ {
+  "md": "06-13",
+  "date": "1982-06-13",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "khalid"
+   ],
+   [
+    "fahd",
+    "king"
+   ],
+   [
+    "death",
+    "died",
+    "passed away"
+   ]
+  ],
+  "headline": "Saudi King Khalid dies; Fahd succeeds",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Middle East & South Asia review of 14 June 1982 reported SPA on King Khalid's death and Fahd's succession, and condolences from Mubarak, Saddam and Asad; Tehran radio linked the death to a dispute in the royal family.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_1196",
+   "issue_date": "1982-06-14",
+   "region": "NES",
+   "title": "FBIS DAILY REPORT: Middle East & Africa, Vol. V No. 114, 14 June 1982",
+   "page": 5,
+   "snippet": "Death of Saudi King Announcement of Khalid Death, Fahd Appointment -- On 13 June a royal court statement broadcast by SPA announced the death of King Khalid ibn ‘Abd al-'Aziz following a heart attack. SPA subsequently announced that Crown Prince Fahd ibn ‘Abd al…"
+  }
+ },
+ {
+  "md": "06-14",
+  "date": "1982-06-14",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "malvinas",
+    "falkland",
+    "puerto argentino"
+   ],
+   [
+    "ceasefire",
+    "cease-fire",
+    "surrender",
+    "capitulat"
+   ]
+  ],
+  "headline": "Argentine forces surrender at Port Stanley",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Latin America Daily Report of June 15, 1982, opened its Argentina section with war items: fighting around Port Stanley, a \"de facto\" cease-fire, a delayed Menendez-Moore meeting, and agreement on a neutral zone in Port Stanley.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176905_0932",
+   "issue_date": "1982-06-15",
+   "region": "LAT",
+   "title": "FBIS DAILY REPORT—Latin America, Vol. VI No. 115, 15 June 1982",
+   "page": 2,
+   "snippet": "GA>iuG4Y Yj Yiyyy WY ° . ulin WIS OV 7 Latin America YY) , Wf ti ; ItZy Wis YY Vol VI No 115 15 June 1982 ARGENTINA Galtieri Tells Pope Cease-Fire Wanted Foreign Minister on Negotiations Efforts Falklands Governor Authorized To Taik to British Negotiating in Port Stanley Menendez to Buenos Aires Air Force Commander at Theater of Operations Details of Southern Trip Interviewed on Return Further Details Mass Media Directo…"
+  }
+ },
+ {
+  "md": "06-14",
+  "date": "1985-06-14",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "twa",
+    "boeing",
+    "airliner"
+   ],
+   [
+    "hijack",
+    "beirut"
+   ]
+  ],
+  "headline": "TWA Flight 847 hijacked to Beirut",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Middle East & South Asia review of 14 June 1985 reported Voice of Lebanon and Radio Free Lebanon on the hijacked U.S. airliner landing at Beirut, its hijackers demanding release of prisoners held by Israel, and 25 women and children freed.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176912_0646",
+   "issue_date": "1985-06-14",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 115, 14 June 1985",
+   "page": 2,
+   "snippet": "FBIS MIDDLE EAST & SOUTH DAILY REPORT ASIA REVIEW 14 JUNE 1985 Hijacking An American airliner hijacked enroute from Athens to Rome 14 June landed at Beirut Airport for refueling. According to Voice of Lebanon radio reports, an unidentified telephone caller told the radio station the three hijackers belonged to t…"
+  }
+ },
+ {
+  "md": "06-14",
+  "date": "1995-06-14",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "budennovsk",
+    "budyonnovsk",
+    "budenovsk"
+   ],
+   [
+    "hostage",
+    "basayev"
+   ]
+  ],
+  "headline": "Basayev's fighters seize the hospital at Budennovsk",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Central Eurasia Daily Report of 14 June 1995 listed under Chechnya ITAR-TASS and Moscow Radio on gunmen seizing hostages in Budennovsk, 'terrorists' moving toward Chechnya, and a plan to blow up a factory.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176916_0517",
+   "issue_date": "1995-06-14",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 114, 14 June 1995",
+   "page": 5,
+   "snippet": "…Law [ITAR-TASS] Federation Council To Debate Agriculture Plight [INTERFAX] Regional Affairs Further Reportage on Situation in Chechnya Missing U.S. Citizen ‘Alive’ [KOMSOMOLSKAYA PRAVDA 14 Jun] Gunmen Seize Hostages in Budennovsk [ITAR-TASS] ‘Terrorists’ Moving Toward Chechnya [ITAR-TASS] Further Details on Budennovsk Incident [Moscow Radio] Plan To Blow Up Factory Revealed [ITAR-TASS] Downed Helicopter Crewmen Survive [Radio Rossii] Ministry Co…"
+  }
+ },
+ {
+  "md": "06-15",
+  "date": "1991-06-15",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "pinatubo"
+   ],
+   [
+    "erupt"
+   ]
+  ],
+  "headline": "Mount Pinatubo erupts in the Philippines",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Asia Daily Report of June 19, 1991, carried Philippine reports that U.S. bases talks were suspended because of Mount Pinatubo's eruption, and that the eruption had shut Luzon's airports.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176901_0431",
+   "issue_date": "1991-06-19",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1991-06-19: Vol 91 Iss 118",
+   "page": 39,
+   "snippet": "…agalog 0400 GMT 19 Jun 91 [Text] The Philippines and the United States have cur- rently suspended negotiations on the American military SOUTHEAST ASIA 35 bases in the country, as a result of the volcanic eruption of Mt. Pinatubo. U.S. Defense Secretary Dick Cheney told newsmen in Detroit that the damage must first be assessed, and the evacuation of 20,000 American servicemens’ fam- ilies at Subic and Clark must be completed. He added that the e…"
+  }
+ },
+ {
+  "md": "06-15",
+  "date": "1994-06-15",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "carter"
+   ],
+   [
+    "pyongyang",
+    "dprk",
+    "kim il-song",
+    "kim il song"
+   ]
+  ],
+  "headline": "Jimmy Carter crosses to North Korea in the nuclear crisis",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Asia Daily Report of 15 June 1994 carried Tokyo NHK's interview with North Korea's ambassador to Thailand, who said Carter's visit would be a good chance to break 'the nuclear impasse' through dialogue.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176901_1207",
+   "issue_date": "1994-06-15",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1994-06-15: Vol 94 Iss 115",
+   "page": 21,
+   "snippet": "…mbassador to Thailand, by NHK on 15 June; place not given— recorded; from the “NHK News 5” program] [Text] In an interview with NHK today, Yi To-sop, North Korean ambassador to Thailand, said a visit by former President Carter to North Korea would provide a good opportunity for North Korea to manifest its enthu- siasm for a settlement of the nuclear issue. [Begin Yi recording in English] I think that his visit will provide a good opportunity…"
+  }
+ },
+ {
+  "md": "06-16",
+  "date": "1989-06-16",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "nagy"
+   ],
+   [
+    "reburial",
+    "funeral",
+    "burial"
+   ]
+  ],
+  "headline": "Imre Nagy reburied in Budapest",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 16 June 1989 carried Budapest MTI in English: the coffins of Nagy and his associates lay in Heroes' Square, a crowd over 300,000 filed past, and the day was broadcast live.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_1321",
+   "issue_date": "1989-06-16",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 115, 16 June 1989",
+   "page": 39,
+   "snippet": "FBIS-EEU-89-115 16 June 1989 Imre Nagy Funeral Ceremony Begins in Capital LD1606100289 Budapest MTI in English 0819 GMT 16 Jun 89 [Text] Budapest, June 16 (MTI)—At 4 a.m. on June 16, the coffins of Imre Nagy, Miklos Gimes, Geza Losonczy, Pal Maleter and Jozs…"
+  }
+ },
+ {
+  "md": "06-16",
+  "date": "1996-06-16",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "election"
+   ],
+   [
+    "yeltsin"
+   ],
+   [
+    "zyuganov"
+   ]
+  ],
+  "headline": "Russians vote in the first round of the presidential election",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Central Eurasia Daily Report of 17 June 1996 listed first-round reaction: Zyuganov denying Yeltsin won, Lebed predicting he would be president 'sooner or later', and a second round proposed for 3 July.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176916_0814",
+   "issue_date": "1996-06-17",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 117, 17 June 1996",
+   "page": 4,
+   "snippet": "FBIS-SOV-96-117 17 June 1996 Russia: Zyuganov Satisfied With Election Results [Moscow NTV] Russia: Zyuganov Denies Yeltsin Won Elections [INTERFAX] Russia: Zyuganov Says Yeltsin Must Change Policies [INTERFAX] Russia: Zyuganov Issues Appeal for Support to Lebed, Others [INTERFAX] Russia:…"
+  }
+ },
+ {
+  "md": "06-17",
+  "date": "1982-06-17",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "galtieri"
+   ],
+   [
+    "resign",
+    "replac",
+    "removed"
+   ]
+  ],
+  "headline": "Galtieri ousted after the Falklands defeat",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Latin America Daily Report of June 18, 1982, opened its Argentina section with reportage on President Galtieri's resignation, including that he was reportedly forced to resign and Nicolaides named the new army head.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176905_0935",
+   "issue_date": "1982-06-18",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 118, 18 June 1982",
+   "page": 2,
+   "snippet": "Z a¥Y ABZ A BAe gb AR Y Z te VY yj Latin America 18 June 1982 ARGENTINA Reportage on President Galtieri's Resignation Retirement Request Accepted Reportedly Forced To Resign Reasons for Resigning Further Details Navy Chief Resigns Civilians To Join Junta Nicolaides New Army Head Security Measures Tightened in Buenos Aires…"
+  }
+ },
+ {
+  "md": "06-17",
+  "date": "1991-06-17",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "population registration"
+   ],
+   [
+    "repeal",
+    "abolish"
+   ]
+  ],
+  "headline": "South Africa repeals the Population Registration Act",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 2 issue(s)",
+   "tried": [
+    "micro_IA1176915_1016",
+    "micro_IA1176915_1017"
+   ]
+  }
+ },
+ {
+  "md": "06-18",
+  "date": "1979-06-18",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "salt"
+   ],
+   [
+    "vienna"
+   ],
+   [
+    "sign"
+   ]
+  ],
+  "headline": "Carter and Brezhnev sign SALT II in Vienna",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Eastern Europe Daily Report of 18 June 1979 opened with a run of bloc media views on the Vienna summit and SALT II, including TANJUG expecting 'No Surprises' and Prague saying the pact 'Could Have Been Better'.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176902_0317",
+   "issue_date": "1979-06-18",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 118, 18 June 1979",
+   "page": 2,
+   "snippet": "Eastern E urope Vol II No 118 18 June 1979 CSCE/MBFR/DISARMAMENT East European Media View Carter-Brezhnev Summit, SALT II TANGUNG: 'No Surprises Expected! Yugoslav Press Review GDR's Molle on Summit Molle on U.S. Negotiating Stance GDR Commentator on Summit Delay [Foerster] NEUES DEUTSCHLAND Commentary GDR Press Review Warsaw Radio Comm…"
+  }
+ },
+ {
+  "md": "06-19",
+  "date": "1987-06-19",
+  "regions": [
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "barcelona"
+   ],
+   [
+    "eta",
+    "bomb",
+    "explo"
+   ]
+  ],
+  "headline": "ETA bomb at Barcelona's Hipercor supermarket",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Latin America Daily Report of 22 June 1987 listed under Brazil that Spain's Gonzalez ended his trip early after the Barcelona ETA attack, the only item on the bombing on this page.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176906_0787",
+   "issue_date": "1987-06-22",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 119, 22 June 1987",
+   "page": 3,
+   "snippet": "…9 Jun] SOUTH AMERICA ARGENTINA President Raul Alfonsin's Mexico Visit Previewed Thatcher ‘Gesture’ Viewed Caputo Trip Tied to Falklands Explosion at House of Journalist Investigated BRAZIL Gonzalez Ends Trip Early After Barcelona ETA Attack Sarney Defends Freeze, New Cruzado Plan Finance Minister Views Freeze Bresser Says Government Wants To Lift Moratorium [EFE] Bresser Economic Comments Cited Minister Bresser Takes Charge of Debt Negotiations…"
+  }
+ },
+ {
+  "md": "06-19",
+  "date": "1991-06-19",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hungary",
+    "hungarian"
+   ],
+   [
+    "withdrawal",
+    "last soviet",
+    "last train",
+    "troops"
+   ]
+  ],
+  "headline": "Last Soviet troops leave Hungary",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of June 20, 1991, carried Budapest MTI in English on Hungarian parliament sessions, including an urgent bill on damage caused by Soviet troops and policy after their withdrawal.",
+  "pick": false,
+  "doubt": "Page covers parliamentary business on Soviet withdrawal, not the last troops leaving.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Parliament business, not departure",
+  "evidence": {
+   "identifier": "micro_IA1176904_0360",
+   "issue_date": "1991-06-20",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 119, 20 June 1991",
+   "page": 28,
+   "snippet": "…ngly it was agreed to debate urgently under exceptional pro- cedures the bill concerning the fulfillment of claims for the compensation of damage caused by the Soviet troops temporarily stationed on the territory of the Hungarian People’s Republic. The bill on the implementation of Hungary's 1990 budget and the co-operative bill will also be put up for urgent discussion In his contribution prior to the agenda proper, Matyas Szuros of the Hungari…"
+  }
+ },
+ {
+  "md": "06-20",
+  "date": "1979-06-20",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "stewart",
+    "journalist",
+    "abc"
+   ],
+   [
+    "nicaragua",
+    "managua"
+   ]
+  ],
+  "headline": "National Guard soldier kills ABC reporter Bill Stewart in Managua",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Latin America Daily Report of 22 June 1979 listed under Nicaragua that Stewart's murderer was 'said to be killed in action' and a driver testified at a hearing, among items on Somoza vowing to 'die fighting'.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176905_0184",
+   "issue_date": "1979-06-22",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 122, 22 June 1979",
+   "page": 3,
+   "snippet": "…e Assembly Extends State of Siege Nicaraguan Officer Seeks Asylum in Venezuelan Embassy NICARAGUA Somoza Discusses OAS Meeting, Situation in Managua Vows To 'Die Fighting! Resignation Contingency Plans Reportedly Set Up Stewart Murderer Said To Be Killed in Action Driver Testifies at Hearing FSLN Communique Makes Appeal to Foreign Countries Reconstruction Government Vows Fairness, Reason Radio Reports on Progress of Fighting Throughout Country…"
+  }
+ },
+ {
+  "md": "06-20",
+  "date": "1991-06-20",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "bundestag"
+   ],
+   [
+    "berlin"
+   ],
+   [
+    "capital",
+    "seat"
+   ]
+  ],
+  "headline": "Bundestag votes to move the capital to Berlin",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 3 issue(s)",
+   "tried": [
+    "micro_IA1176904_0360",
+    "micro_IA1176904_0361",
+    "micro_IA1176904_0362"
+   ]
+  }
+ },
+ {
+  "md": "06-21",
+  "date": "1990-06-21",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "earthquake",
+    "quake"
+   ],
+   [
+    "gilan",
+    "zanjan",
+    "rudbar"
+   ]
+  ],
+  "headline": "Earthquake kills tens of thousands in northern Iran",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 0 issue(s)",
+   "tried": []
+  }
+ },
+ {
+  "md": "06-22",
+  "date": "1990-06-22",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "checkpoint charlie"
+   ],
+   [
+    "remov",
+    "dismantl",
+    "ceremony"
+   ]
+  ],
+  "headline": "Checkpoint Charlie dismantled",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 25 June 1990 carried East Berlin ADN: Checkpoint Charlie dismantled before the four Allied, FRG and GDR foreign ministers, with Dumas calling it 'a ceremony for freedom'.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0126",
+   "issue_date": "1990-06-25",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 122, 25 June 1990",
+   "page": 35,
+   "snippet": "…army. The difference between him (Eppelmann) and Stolten- berg is in the fact that the federal minister of defense can imagine the period of time leading to actual implemen- tation as being shorter than he does. Allied Checkpoint Charlie Dismantled LD2206095290 East Berlin ADN International Service in German 0816 GMT 22 Jun 90 [Text] Berlin (ADN)}—In the presence of the foreign ministers from the United States, the USSR, France, and Britain and of the F…"
+  }
+ },
+ {
+  "md": "06-23",
+  "date": "1985-06-23",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "air india",
+    "air-india"
+   ],
+   [
+    "crash",
+    "explo",
+    "bomb",
+    "jumbo",
+    "boeing"
+   ]
+  ],
+  "headline": "Air India Flight 182 destroyed by a bomb off Ireland",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The South Asia Daily Report of 24 June 1985 carried Dhaka Domestic Service in English: President Ershad expressed shock and grief to Rajiv Gandhi at the Air India jumbo crash in the Atlantic; no bomb is mentioned.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176912_0652",
+   "issue_date": "1985-06-24",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 121, 24 June 1985",
+   "page": 8,
+   "snippet": "…fected people. President Expresses Grief Over Indian Plane Crash BK 240148 Dhaka Domestic Service in English 0110 GMT 24 Jun 85 [Text] President Ershad has expressed deep shock and grief at the heavy loss of life in the Air India jumbo jet crash in the Atlantic In a message to the Indian prime minister, Mr Rajiv Gandhi, the president said we are deeply shocked and grieved at the tragic {words indistinct] of the crash. The president conveyed to t…"
+  }
+ },
+ {
+  "md": "06-24",
+  "date": "1994-06-24",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "corfu"
+   ],
+   [
+    "partnership",
+    "agreement",
+    "european union"
+   ]
+  ],
+  "headline": "Russia signs a partnership agreement with the EU at Corfu",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Central Eurasia Daily Report of 24 June 1994 carried ITAR-TASS from Corfu: Yeltsin signed the partnership and cooperation agreement with the EU, calling it a document of 'tremendous historical importance'.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176916_0226",
+   "issue_date": "1994-06-24",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 122, 24 June 1994",
+   "page": 10,
+   "snippet": "…94 Yeltsin Signs European Union Agreement LD2406085994 Moscow ITAR-TASS World Service in Russian 0815 GMT 24 Jun 94 [By ITAR-TASS special correspondents Yuriy Sizov, Vladimir Malyshev, and Yuriy Malinin] [Text] Kerkira (Corfu), 24 Jun—A full-scale document comprising over 80 pages and translated into the 12 [as received] languages of the EU [European Union] mem- ber-countries has not yet been circulated in the press center in Kerkira. Howeve…"
+  }
+ },
+ {
+  "md": "06-25",
+  "date": "1991-06-25",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "slovenia"
+   ],
+   [
+    "croatia"
+   ],
+   [
+    "independence"
+   ]
+  ],
+  "headline": "Slovenia and Croatia declare independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 25 June 1991 listed a long Yugoslavia section: draft Slovene independence acts, Belgrade rejecting secession, and TANJUG expecting Croatia's independence proclamation that day.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_0363",
+   "issue_date": "1991-06-25",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 122, 25 June 1991",
+   "page": 4,
+   "snippet": "…Discusses Slovene Dissociation TANIUG Press Comments on Upcoming Slovene Independence TANIUG Draft Slovene Act of Autonomy, Independence /JANJUG Press Views Slovene, Croatian Independence LANIUG Federal Chamber Against Slovenia’s Secession /Belgrade Radi Slovenia Criticizes EC Decision on Nonrecognition /7ANJUG Peterle on Slovenia's Independence TANIUG Slovene Assembly Discusses More Independence Laws /Ljubljana Rad Slovenia To Adopt “Constitu…"
+  }
+ },
+ {
+  "md": "06-25",
+  "date": "1996-06-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "khobar",
+    "al-khubar",
+    "dhahran",
+    "zahran"
+   ],
+   [
+    "explo",
+    "bomb",
+    "blast"
+   ]
+  ],
+  "headline": "Truck bomb hits Khobar Towers in Dhahran",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Near East & South Asia Daily Report of 26 June 1996 carried Riyadh SPA on an explosion at a building for foreigners in Khubar, and Amman Radio Jordan reporting a truck blast at a U.S. military compound killing 23 Americans.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176911_0570",
+   "issue_date": "1996-06-26",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 124, 26 June 1996",
+   "page": 27,
+   "snippet": "…ng which belongs to the Ministry of Defense and Aviation, and which is inhabited by foreigners. Deaths and injuries have occurred. Details will be given in a subsequent statement. Saudi Arabia: Explosion at U.S. Base in Dhahran Reported JN2606061996 Amman Radio Jordan in English 0400 GMT 26 Jun 96 {[FBIS Transcribed Text] A fuel truck has exploded at a U.S. military compound in Saudi Arabia, killing 23 Americans and wounding more than 300 hund…"
+  }
+ },
+ {
+  "md": "06-26",
+  "date": "1993-06-26",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "intelligence"
+   ],
+   [
+    "missile",
+    "cruise",
+    "tomahawk"
+   ],
+   [
+    "baghdad"
+   ]
+  ],
+  "headline": "US cruise missiles strike Iraqi intelligence headquarters",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Near East & South Asia Daily Report of 28 June 1993 shows a garbled contents page; legible items under Iraq include an RCC statement, INA on four U.S. missiles, Baghdad TV showing wounded, and reporters visiting damaged sites.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176910_1260",
+   "issue_date": "1993-06-28",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 122, 28 June 1993",
+   "page": 5,
+   "snippet": "FBIS-NES-93-122 28 June 1993 Yemen Foreign Ministry Den IRAQ RCC Issues Statement on US Saddam Chairs Joint Meeting Foreign Ministry Summ Interior Minister, Intell Intelligence ¢ href Vows Ambassador to Et Security Council Told of “ INA Says 4 U.S. Missiles Baghdad Radio ( Reporters Visit Damaged ¢ Baghdad TV Shows Woundes Health Minister Sees ‘Victin AFP Reports 10,000 March Prayers Performed…"
+  }
+ },
+ {
+  "md": "06-26",
+  "date": "1995-06-26",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "mubarak"
+   ],
+   [
+    "addis ababa"
+   ],
+   [
+    "attempt",
+    "assassin",
+    "attack"
+   ]
+  ],
+  "headline": "Assassination attempt on Mubarak in Addis Ababa",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Near East & South Asia Daily Report of 26 June 1995 carried Cairo radio live from Mubarak's airport news conference after the Addis Ababa attempt, warning countries that 'harbor terrorists' they will pay a heavy price.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176911_0307",
+   "issue_date": "1995-06-26",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 122, 26 June 1995",
+   "page": 24,
+   "snippet": "…oached that point with caution and in the suspicion that the aim of the authorities was to split the FIS. But some other parties intervened to convince the FIS to accept this compromise solution. [passage omitted] Egypt Mubarak Gives Address After Assassination Attempt NC2606113095 Cairo Arab Republic of Egypt Radio Network in Arabic 1003 GMT 26 Jun 95 [News conference by President Husni Mubarak with unidentified correspondents at Cairo Airpor…"
+  }
+ },
+ {
+  "md": "06-27",
+  "date": "1991-06-27",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "slovenia"
+   ],
+   [
+    "army",
+    "jna",
+    "troops",
+    "tank"
+   ]
+  ],
+  "headline": "Yugoslav army moves into Slovenia",
+  "category": "war",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 27 June 1991 listed Yugoslavia items via TANJUG: tanks heading for the Slovene-Italian border, army armored units moving toward the Austrian border, and Slovenia protesting.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0365",
+   "issue_date": "1991-06-27",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 124, 27 June 1991",
+   "page": 5,
+   "snippet": "…lgrade Radio] VMRO Prepares Macedonian Independence Call /Belgrade Radio] International Britain Confirms Support for Federal Government /74ANJUG/ TANJUG Cites EC ‘Circles’ on Situation Greece Fails To Recognize Croatia, Slovenia /7TANJUG/ Belgrade Diplomatic Community Briefed on Situation /74NJUG/ Bulgaria’s Vulkov Denies Recognition of Croatia /7TANJUG/ External Reactions to Republics’ Declaration /4FP/ Tanks Heading for Slovene-Italian Border…"
+  }
+ },
+ {
+  "md": "06-28",
+  "date": "1981-06-28",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "beheshti"
+   ],
+   [
+    "explo",
+    "blast",
+    "bomb",
+    "martyr"
+   ]
+  ],
+  "headline": "Bomb at IRP headquarters kills Ayatollah Beheshti and 72 others",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The South Asia Daily Report of 29 June 1981 listed under Iran the bombing of the Islamic Republican Party headquarters, Beheshti and others killed, mourning proclaimed, and Ardabili named his successor.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176911_0924",
+   "issue_date": "1981-06-29",
+   "region": "NES",
+   "title": "FBIS DAILY REPORT: South Asia, Vol. VIII No. 124, 29 June 1981",
+   "page": 5,
+   "snippet": "…on Khamene'i Injured in Assassination Attempt wu ' 4 2 Khamene’i Assails Details of Injuries <i Meu : iZ Arrested 1 2 2 2 3 Khomeyni Sends Message Montazeri Sends Condolences Islamic Republican Party Headquarters Bombed Beheshti, Others Killed Presidential Council Statement Raja'i Message Raja'i Proclaims Mourning Montazeri Statement Rafsanjani Statement Joint Staff Statement Qoddusi Statement Khomeyni Appoints Ardabili as Beheshti Successor Le…"
+  }
+ },
+ {
+  "md": "06-28",
+  "date": "1989-06-28",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "kosovo"
+   ],
+   [
+    "milosevic"
+   ],
+   [
+    "gazimestan",
+    "anniversary",
+    "600"
+   ]
+  ],
+  "headline": "Milosevic speaks at Gazimestan on the 600th anniversary of Kosovo Polje",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The East Europe Daily Report of 28 June 1989 carried Belgrade and Ljubljana radio on the Gazimestan anniversary: Milosevic expected to speak, and huge crowds from Serbia and Montenegro jamming every road.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_1329",
+   "issue_date": "1989-06-28",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 123, 28 June 1989",
+   "page": 60,
+   "snippet": "…e bodies in Serbia are good, and that they have been developing on the basis of the law and the Constitution. It was said that all prob- lems should continue to be solved with mutual respect and understanding. Battle of Kosovo Anniversary Celebration Begins Milosevic To Speak AU2706 145489 [Editorial Report] Belgrade Domestic in Serbo-Croatian at 1300 GMT on 27 June carries in its regular main newscast, a report by Kosta Krajincanic on prepar…"
+  }
+ },
+ {
+  "md": "06-29",
+  "date": "1992-06-29",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "boudiaf",
+    "budiaf"
+   ],
+   [
+    "assassin",
+    "killed",
+    "martyr"
+   ]
+  ],
+  "headline": "Algerian head of state Mohamed Boudiaf assassinated",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 0 issue(s)",
+   "tried": []
+  }
+ },
+ {
+  "md": "06-29",
+  "date": "1995-06-29",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "atlantis"
+   ],
+   [
+    "mir"
+   ],
+   [
+    "dock"
+   ]
+  ],
+  "headline": "Space shuttle Atlantis docks with Mir",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Central Eurasia Daily Report of 29 June 1995 carried INTERFAX and ITAR-TASS on Gore in Moscow citing the Atlantis-Mir docking set for that day as proof the Gore-Chernomyrdin commission worked.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176916_0535",
+   "issue_date": "1995-06-29",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 125, 29 June 1995",
+   "page": 8,
+   "snippet": "…ng part in the meeting of what is known as the Gore-Chernomyrdin Commission is the main purpose of the vice president’s current four-day official visit to Moscow. Gore said a docking between the American space shut- tle Atlantis and Russia’s Mir space station scheduled for Thursday showed the high effectiveness of the com- mission’s work. The planned docking is the result of an agreement made at one of the commission’s previous sittings. Gore s…"
+  }
+ },
+ {
+  "md": "06-30",
+  "date": "1985-06-30",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hostages"
+   ],
+   [
+    "twa",
+    "damascus",
+    "released",
+    "freed"
+   ]
+  ],
+  "headline": "TWA 847 hostages freed via Damascus",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "",
+  "significance": "",
+  "fbis": "The Middle East & South Asia review of 1 July 1985 reported Beirut radio on Birri announcing the 'happy ending': 39 Americans freed on U.S. pledges via Syria's Asad, with Israel reportedly ready to release 'Atlit detainees.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176912_0658",
+   "issue_date": "1985-07-01",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 126, 1 July 1985",
+   "page": 2,
+   "snippet": "FBIS MIDDLE EAST & DAILY REPORT SOUTH ASIA REVIEW 1 JULY 1985 Hostages’ Release Announcing the “happy ending” of the hostages affair at a 30 June press conference reported by Beirut radio, Ama! movement leader Nabih Birri stressed that the decision to release the 39 Americans was in accord…"
+  }
+ },
+ {
+  "md": "06-21",
+  "date": "1990-06-21",
+  "regions": [
+   "SOV",
+   "EEU",
+   "EAS",
+   "LAT",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "earthquake",
+    "quake"
+   ],
+   [
+    "iran"
+   ]
+  ],
+  "headline": "Earthquake devastates northern Iran",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "Shortly after midnight on 21 June 1990 an earthquake struck Gilan and Zanjan provinces in northern Iran, destroying towns such as Rudbar and Manjil and killing tens of thousands of people.",
+  "significance": "Iran accepted aid from many countries, including a small amount from the United States, the first since the break in relations in 1980.",
+  "fbis": "The Soviet Union Daily Report of June 21, 1990, carried Moscow TASS in English: tremors from a quake in Iran hit southern Azerbaijan early that day, damaging old buildings in Baku but hurting no one.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0786",
+   "issue_date": "1990-06-21",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 120, 21 June 1990",
+   "page": 123,
+   "snippet": "…-and-file communists. Delegates to the congress are now working in sections; the most topical problems of the life and activity of the Republican Communist Party have been submitted to their exami- nation. Caucasus Iran Earthquake Causes Tremors in Azerbaijan LD2106092990 Moscow TASS in English 0906 GMT 21 Jun 90 [Text] Baku June 21 TASS—Tremors from a quake in Iran, measuring from six to 6.5 on the Soviet scale, hit southern Azerbaijan at 01:01…"
+  }
+ },
+ {
+  "md": "06-11",
+  "date": "1987-06-11",
+  "regions": [
+   "EEU",
+   "SOV",
+   "NES",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "thatcher"
+   ],
+   [
+    "election",
+    "elections"
+   ],
+   [
+    "conservative",
+    "victory",
+    "win",
+    "third"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "Thatcher wins a third term",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "In the British general election of June 11, 1987, Margaret Thatcher's Conservatives won a third consecutive victory, with a reduced but still large majority over Neil Kinnock's Labour Party.",
+  "significance": "Thatcher's third term kept Reagan's closest ally in power through the end of the Cold War. In Buenos Aires the vote was watched for what it meant for the Falklands/Malvinas: Labour had been seen as more open to talks.",
+  "fbis": "The Latin America report of June 12, 1987, carried Argentine reaction on election day: a Radical senator said Buenos Aires would negotiate over the Malvinas if Labour won, but expected a Thatcher victory, perhaps with a majority small enough to force talks on sovereignty.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176906_0781",
+   "issue_date": "1987-06-12",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 113, 12 June 1987",
+   "page": 51,
+   "snippet": "…tina's attitude towards the Malvinas was best described as “active patience\". Gass said if the Labour Party wins today's elections in Britain, the Argentine Government would sit down to negotiations. He added a Margaret Thatcher victory was the more likely outcome but a reduced majority might force the Conservatives to respect United Nations resolutions and discuss sovereignty. The Centre of Malvinas War Veterans said that British property in A…"
+  }
+ },
+ {
+  "md": "06-10",
+  "date": "1990-06-10",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "fujimori"
+   ],
+   [
+    "win",
+    "won",
+    "victory",
+    "elected",
+    "triumph",
+    "president-elect"
+   ]
+  ],
+  "window": 300,
+  "start": 1,
+  "headline": "Peru votes in the Fujimori-Vargas Llosa runoff",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On June 10, 1990, Peruvians voted in the presidential runoff between the novelist Mario Vargas Llosa of the Democratic Front and Alberto Fujimori, an agronomist and political newcomer of the Change 90 movement. Fujimori won decisively.",
+  "significance": "Fujimori's victory brought in a decade of economic shock therapy, war against the Shining Path, and in 1992 his own 'self-coup' closing Congress. He later fled to Japan and was convicted of human rights abuses and corruption.",
+  "fbis": "The Latin America report of June 11, 1990, carried election-day reporting from Lima: President Garcia voting as polls opened under tight security, observers calling Vargas Llosa and Fujimori 'almost neck and neck,' and indelible ink dropped in emergency zones because of guerrilla threats to voters.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176906_1507",
+   "issue_date": "1990-06-11",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 112, 11 June 1990",
+   "page": 61,
+   "snippet": "…e was close to 20 percent. According to the National Election Jury (JNE), 87,161 people living abroad must cast their votes. Writer Mario Vargas Llosa, of the neolibere! Democratic Front (Fredemo) and agronomist Alberto Fujimori, of Change 90 —winners in the first round on 8 April—are running “almost neck and neck,” according to observers. Owing to security measures prompted by threats from subversives to voters, the electoral authorities of th…"
+  }
+ }
+]

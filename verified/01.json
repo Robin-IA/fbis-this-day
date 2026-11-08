@@ -1,0 +1,1915 @@
+[
+ {
+  "md": "01-01",
+  "date": "1979-01-01",
+  "regions": [
+   "SOV",
+   "EEU",
+   "NES",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "diplomatic relations"
+   ],
+   [
+    "united states",
+    "u.s.",
+    "washington"
+   ],
+   [
+    "peking",
+    "prc",
+    "china",
+    "chinese"
+   ]
+  ],
+  "headline": "US and China establish diplomatic relations",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 1 January 1979 the United States and the People's Republic of China formally established diplomatic relations, and Washington ended official relations with Taiwan.",
+  "significance": "Normalization completed the opening begun by Nixon and aligned Washington and Beijing against Moscow. Soviet media treated it as an anti-Soviet combination.",
+  "fbis": "The Soviet Union Daily Report's January 1979 table of contents listed a Moscow question-and-answer feature on the international situation with an item on \"U.S.-PRC Normalization; Taiwan\", alongside SALT and a United States section on Brezhnev's TIME interview about the U.S., the PRC and detente.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176913_0127",
+   "issue_date": "1979-01-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 001 - 022, Table of Contents, January 1979",
+   "page": 31,
+   "snippet": "…Debate on Cambodia Cambodian Foreign Ministry Cited Session Concludes AAPSO Presidium 7th Session Opens in Hanoi 13 Jan Pham Van Dong Speech KNUFNS Delegate Speaks Telegram to UN KNUFNS Greetings to Presidium KNUFNS on Diplomatic Relations Concluding Resolutions Geneva Meeting on Links Between Disarmament, Development U.S. , Soviet Scientists Address Nuclear Engineering Symposium rrrrrrrrrrrrrrrr > UNITED STATES Brezhnev Interview With TIME on U.S., PRC,…"
+  }
+ },
+ {
+  "md": "01-01",
+  "date": "1993-01-01",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "czech"
+   ],
+   [
+    "slovak"
+   ],
+   [
+    "independen",
+    "sovereign",
+    "split",
+    "dissol"
+   ]
+  ],
+  "headline": "Czechoslovakia splits into two states",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "At midnight on 1 January 1993 Czechoslovakia ceased to exist, peacefully dividing into the Czech Republic and Slovakia.",
+  "significance": "The 'Velvet Divorce' was a rare negotiated break-up of a state, in sharp contrast to Yugoslavia's wars. It redrew Central Europe a little over three years after the fall of communism.",
+  "fbis": "The East Europe Daily Report of 4 January 1993 carried a run of Prague Radiozurnal bulletins from 1 January as Canada, Germany, the United Kingdom, the Netherlands and Switzerland recognized the new Czech and Slovak republics, Britain naming one ambassador to both.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_0690",
+   "issue_date": "1993-01-04",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 001, 04 January 1993",
+   "page": 25,
+   "snippet": "20 CZECH REPUBLIC Independence of New Republics Recognized Canada Recognizes Republics LDO0101095993 Prague Radiozurnal Radio Network in Czech 0900 GMT 1 Jan 93 [Text] This is is Radiozurnal, the news and current affairs channe!…"
+  }
+ },
+ {
+  "md": "01-01",
+  "date": "1994-01-01",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "chiapas"
+   ],
+   [
+    "zapatist",
+    "san cristobal"
+   ]
+  ],
+  "headline": "Zapatista rebels seize towns in Chiapas",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 1 January 1994, the day NAFTA took effect, the Zapatista National Liberation Army seized San Cristobal de las Casas and other towns in the Mexican state of Chiapas.",
+  "significance": "The rising was timed to the start of the North American Free Trade Agreement and put Mexico's indigenous south and its ruling party under international scrutiny. It opened a year of crisis for Mexico, Washington's new free-trade partner.",
+  "fbis": "The Latin America Daily Report of 3 January 1994 relayed Madrid EFE and Paris AFP dispatches of 1 January: rebels of the Zapatista National Liberation Army seized mayoral offices in San Cristobal de las Casas, Ocosingo and Las Margaritas, declared war on the Mexican Army, and burned files.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176907_0677",
+   "issue_date": "1994-01-03",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 001, 3 January 1994",
+   "page": 24,
+   "snippet": "…ssued a communique this morning. In the com- munique, the group proclaims itself a guerrilla move- ment and declares war on the Mexican Army, which it challenges to fight in the mountainous area of the southern state of Chiapas. So far, there are no reports of any casualties, but the rebels have closed off the entries and exits of those three towns. Further on Rebc! Group PA0101200694 Paris AFP in Spanish i908 GMT I Jan 94 [Text] Mexico City,…"
+  }
+ },
+ {
+  "md": "01-02",
+  "date": "1992-01-02",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "price"
+   ],
+   [
+    "liberaliz",
+    "freeing",
+    "free prices",
+    "decontrol"
+   ]
+  ],
+  "headline": "Russia frees prices: shock therapy begins",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 2 January 1992 the Russian government lifted state controls on most consumer prices, the opening move of Yegor Gaidar's economic reform.",
+  "significance": "Prices multiplied within weeks, wiping out savings and making the reform programme politically explosive. It set the terms of Russia's turbulent transition to a market economy.",
+  "fbis": "The Soviet Union Daily Report of January 3, 1992, listed under Turkmenia items including salary and wage ceilings lifted and the republic parliament to free prices on January 6, from INTERFAX; nothing on the Russian price liberalization.",
+  "pick": false,
+  "doubt": "Page only mentions a forecast about price liberalization; it does not report the 2 January price release itself.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Turkmenia price items, not Russia",
+  "evidence": {
+   "identifier": "micro_IA1176915_0900",
+   "issue_date": "1992-01-03",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 002, 3 January 1992",
+   "page": 7,
+   "snippet": "…ture Minister /Ashkabad Radio] Foreign Minister on Central Asian Relations /7ASS/ President, Iranian Foreign Minister Meet /Tehran Radio] Ceilings Lifted on Salaries, Wages, Raises /7NTERFAX] Republic Parliament To Free Prices 6 Jan /INTERFAX] New Republican Bank To Be Established /JNTERFAX] Uzbekistan Economic, Trade Agreement Signed With PRC /Radio Rossii] Accord Signed With Saudi Arabia on Workers /Russian TV] Convicted ‘Cotton Case’ Pris…"
+  }
+ },
+ {
+  "md": "01-03",
+  "date": "1990-01-03",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "noriega"
+   ],
+   [
+    "surrender",
+    "gave himself up",
+    "turned himself",
+    "handed over"
+   ]
+  ],
+  "headline": "Noriega surrenders to US forces",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "On 3 January 1990 Panamanian strongman Manuel Noriega, who had taken refuge in the Vatican nunciature after the US invasion, surrendered to American troops and was flown to Miami to face drug charges.",
+  "significance": "Noriega had for years been a paid US intelligence asset before becoming an indictment target. His capture ended Operation Just Cause and raised enduring questions about Washington's dealings with him.",
+  "fbis": "The Latin America Daily Report of January 4, 1990, carried Havana Radio Reloj reporting that deposed General Noriega had turned himself over to U.S. forces surrounding the Vatican Embassy and would be tried in Miami on drug charges, as announced by President Bush.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176906_1256",
+   "issue_date": "1990-01-04",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 003, 4 January 1990",
+   "page": 7,
+   "snippet": "CARIBBEAN Cuba Havana Notes Bush Statement on Noriega Surrender FL0401034690 Havana Radio Reloj Network in Spanish 0333 GMT 4 Jan 90 [Text] Deposed General Manuel Antonio Noriega today turned himself over to the U.S. forces that surround the Vatican Embassy in Panama City.…"
+  }
+ },
+ {
+  "md": "01-03",
+  "date": "1993-01-03",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "start ii",
+    "start-2",
+    "start-ii",
+    "start 2"
+   ],
+   [
+    "sign"
+   ]
+  ],
+  "headline": "Bush and Yeltsin sign START II",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 3 January 1993 Presidents George Bush and Boris Yeltsin signed the START II treaty in Moscow, agreeing to cut strategic nuclear warheads by about two-thirds and eliminate land-based multiple-warhead missiles.",
+  "significance": "It was the deepest arms-reduction agreement yet negotiated, signed weeks before Bush left office. Its ratification became entangled in Russian domestic politics.",
+  "fbis": "The East Europe Daily Report of 4 January 1993 carried a Budapest Kossuth Radio interview with a Hungarian official who called the signing of START II \"so important\", saying it would stabilize Yeltsin's position and that ratification depended on how far the United States helped Russia.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0690",
+   "issue_date": "1993-01-04",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 001, 04 January 1993",
+   "page": 43,
+   "snippet": "…army may extend. The other issue is the territory of the former Soviet Union, where we are fully aware what crucial events are under way. That is why the Bush-Yeltsin meeting was so important, as was the signing of the START II today; and at the same time it will stabilize the position of President Yeltsin as well. In Russia there was no tearing test between the army, possessing nuclear and conventional weapons, and the political leadership, a…"
+  }
+ },
+ {
+  "md": "01-04",
+  "date": "1980-01-04",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "grain"
+   ],
+   [
+    "carter"
+   ],
+   [
+    "embargo",
+    "suspen",
+    "halt",
+    "ban"
+   ]
+  ],
+  "headline": "Carter imposes grain embargo on the USSR",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 4 January 1980 President Carter announced a partial embargo on grain sales to the Soviet Union and other measures in response to the Soviet invasion of Afghanistan.",
+  "significance": "The embargo marked the end of detente in practical terms. It also hurt American farmers and was lifted by Reagan in 1981.",
+  "fbis": "The Eastern Europe Daily Report of 7 January 1980 grouped Prague radio commentary on Carter's \"anti-Soviet\" television speech, listing his measures including halting grain deliveries to the USSR, and casting them as abandoning detente for reelection purposes.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176902_0457",
+   "issue_date": "1980-01-07",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 004, 7 January 1980",
+   "page": 13,
+   "snippet": "…and the USSR will be postponed, Carter also intends, in cooperation with Western allies, to limit sales of modern technology to the USSR, ban Soviet ships from fishing in American waters and stop deliveries of American grain to the USSR, even of that for which valid contracts have already been concluded, Carter is aware of the fact that especially the latter measure will meet with resistance on the part of American farmers, He tried, theref…"
+  }
+ },
+ {
+  "md": "01-04",
+  "date": "1989-01-04",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "libya",
+    "jamahiriyah"
+   ],
+   [
+    "aircraft",
+    "plane",
+    "fighter"
+   ],
+   [
+    "shot down",
+    "downed",
+    "shooting down"
+   ]
+  ],
+  "headline": "US Navy F-14s shoot down two Libyan MiGs",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 4 January 1989 two US Navy F-14s from the carrier John F. Kennedy shot down two Libyan MiG-23 fighters over the Mediterranean off Libya.",
+  "significance": "It came amid US charges that Libya was building a chemical-weapons plant at Rabta. Tripoli called the jets unarmed reconnaissance planes; Washington said they had acted with hostile intent.",
+  "fbis": "The Near East & South Asia Daily Report of 4 January 1989 opened its review with the first monitored Libyan reaction: a Tripoli radio statement calling the U.S. Navy downing of two Libyan planes a \"premeditated attack\" on a routine reconnaissance patrol.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176910_0211",
+   "issue_date": "1989-01-04",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 002, 4 January 1989",
+   "page": 7,
+   "snippet": "FBIS-NES-89-002 4 January 1989 4 January Middle East and South Asia Review LD0401 143689 (Editorial Report] Downing of Libyan Planes In the first monitored Libyan reaction to the downing of two Libyan aircraft by U.S. Navy jets on 4 January, a Foreign Liaison Bureau statement broadcast by Tripoli radio claimed that U.S. aircraft carried out a…"
+  }
+ },
+ {
+  "md": "01-05",
+  "date": "1996-01-05",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "ayyash"
+   ],
+   [
+    "kill",
+    "killed",
+    "martyr",
+    "assassinat"
+   ]
+  ],
+  "headline": "Hamas bombmaker Yahya Ayyash killed by booby-trapped phone",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "On 5 January 1996 Yahya Ayyash, the Hamas bombmaker known as 'the Engineer', was killed in Gaza when an explosive-laden mobile phone detonated as he took a call; Israel's Shin Bet was widely held responsible.",
+  "significance": "Ayyash had built the bombs for a wave of suicide attacks in Israel. His killing was followed by a deadly Hamas bombing campaign in February and March 1996 that reshaped Israeli politics.",
+  "fbis": "The Near East & South Asia Daily Report of 5 January 1996 carried Jerusalem Qol Yisra'el reports that Yahya 'Ayyash, \"the Engineer\", was killed in a blast in Jabalyah, citing sources that Israeli security forces did it and a studio exchange that he had died \"with someone's help\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176911_0448",
+   "issue_date": "1996-01-05",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 004, 5 January 1996",
+   "page": 10,
+   "snippet": "…tes on the fight against terrorism and the proposal to set up a regional center for training and research on crime prevention and criminal justice in the Mediter- ranean states. Palestinian Affairs ‘The Engineer’ Yahya 'Ayyash Said Killed in Blast TAOS01132096 Jerusalem Qol Yisra'el in Hebrew 1300 GMT 5 Jan 96 {[FBIS Translated Text] Terrorist Yahya ‘Ayyash, the Engineer, was killed this morning in an explosion in a house in Jabalyah in the G…"
+  }
+ },
+ {
+  "md": "01-06",
+  "date": "1992-01-06",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gamsakhurdia"
+   ],
+   [
+    "fled",
+    "flee",
+    "left tbilisi",
+    "escape"
+   ]
+  ],
+  "headline": "Georgian President Gamsakhurdia flees Tbilisi",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 6 January 1992 Georgia's President Zviad Gamsakhurdia fled Tbilisi after two weeks of fighting with armed opposition forces besieging his government building.",
+  "significance": "His ouster opened the way for Eduard Shevardnadze's return and years of civil conflict in Georgia. It was one of the first violent changes of power in the post-Soviet states.",
+  "fbis": "The Central Eurasia Daily Report of January 7, 1992, carried AFP reports that Gamsakhurdia, who fled early on January 6, was in Armenia, with opposition calls for his trial, gunfire on a pro-Gamsakhurdia demonstration, and INTERFAX on a delegation demanding his extradition.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176915_1159",
+   "issue_date": "1992-01-07",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 004, 7 January 1992",
+   "page": 86,
+   "snippet": "…o those ol : > nrice nkea t price engthen the Deralization is social welfare of college litary academy cadets, postgraduates ry . | ~~ 4 dary specialized vocational and nts. This decree doubles their grant Georgia 2,000 Gamsakhurdia Supporters Demonstrate 156 GMT AFP)}—More thar 4 eader Zviad supporte (samsakfNurdia massed T r . anuary); Call must CAUCASUS 79 Some reports said armed men were among the demon- Strators and the provisional Prime Minis…"
+  }
+ },
+ {
+  "md": "01-06",
+  "date": "1995-01-06",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "manila"
+   ],
+   [
+    "bomb",
+    "explosive"
+   ],
+   [
+    "apartment",
+    "police",
+    "yousef",
+    "pope"
+   ]
+  ],
+  "headline": "Manila apartment fire exposes the Bojinka plot",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "On 6 January 1995 a chemical fire in a Manila apartment led police to bomb-making materials and a laptop belonging to Ramzi Yousef's cell, exposing plans to kill the Pope and bomb US airliners over the Pacific.",
+  "significance": "The discovery foiled what became known as the Bojinka plot and led to Yousef's arrest a month later. Elements of the plan prefigured the September 11 attacks.",
+  "fbis": "The East Asia Daily Report of January 10, 1995, carried Philippine reports on Abu Sayyaf acquiring \"high-tech weaponry\" and beheading Christians in Basilan; nothing on the Manila apartment fire or the bomb plot.",
+  "pick": false,
+  "excluded": "Abu Sayyaf arms story, not the Bojinka fire",
+  "evidence": {
+   "identifier": "micro_IA1176901_1365",
+   "issue_date": "1995-01-10",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1995-01-10: Vol 95 Iss 006",
+   "page": 78,
+   "snippet": "…pects were indeed Paki- stanis. Qadir said he would coordinate with Interior and Local Government Secretary Rafael Alunan III in trying to get to the bottom of the controversy. ‘High-Tech Weaponry’ Procured BK0901063795 Manila PHILIPPINE DAILY INQUIRER in English 3 Jan 95 pp 1, 4 [Report by Cynthia D. Balana, Rolly San Juan] {FBIS Transcribed Text] Abu Sayyaf extremists are acquiring state-of-the-art weapons from neighboring countries in an a…"
+  }
+ },
+ {
+  "md": "01-07",
+  "date": "1979-01-07",
+  "regions": [
+   "SOV",
+   "EEU",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "phnom penh"
+   ],
+   [
+    "liberat",
+    "captur",
+    "fell",
+    "fall"
+   ]
+  ],
+  "headline": "Vietnamese forces take Phnom Penh",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 7 January 1979 Vietnamese troops and Cambodian rebels captured Phnom Penh, ending the Khmer Rouge regime of Pol Pot.",
+  "significance": "The invasion ended a regime responsible for mass killing but installed a Hanoi-backed government that China, ASEAN and the US refused to recognize. Weeks later China attacked Vietnam.",
+  "fbis": "The Eastern Europe Daily Report of 8 January 1979 opened with a contents list showing Kampuchea items under its Albania, Bulgaria and Czechoslovakia headings, among them \"Tirana Radio Cites News Agencies on Phnom Penh's Fall\" and Bratislava PRAVDA on the \"Cambodian Patriots\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176902_0203",
+   "issue_date": "1979-01-08",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 005, 8 Jan 79",
+   "page": 2,
+   "snippet": "…T PAP Cites Polish Paper on Disarmament Efforts BB l Polish Army Daily Comments on Effects of NATO Arms Race BB 2 ALBANIA Tirana Radio Views Guadeloupe Meeting of Western Leaders -_ 2 Tirana Radio Cites News Agencies on Phnom Penh!s Fall Bil ATA Comments on Normalization of U.S.-PRC Relations B 2 Tirana Radio Reports, Comments on EEC-PRC Links B 3 Hoxha Thanks Individuals, Collectives for New Year Greetings B 3 Italian Trade Delegation Arrives 7…"
+  }
+ },
+ {
+  "md": "01-08",
+  "date": "1993-01-08",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "turajlic"
+   ],
+   [
+    "kill",
+    "murder",
+    "shot"
+   ]
+  ],
+  "headline": "Bosnian deputy premier shot dead under UN escort",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 8 January 1993 Bosnian Deputy Prime Minister Hakija Turajlic was shot dead by a Serb soldier at a checkpoint near Sarajevo while riding in a UN armoured vehicle.",
+  "significance": "The killing, in the custody of UN peacekeepers, became a symbol of the UN's inability to protect anyone in Bosnia. It came as the Geneva peace talks were under way.",
+  "fbis": "The East Europe Daily Report of 11 January 1993 carried a Geneva report in which Cyrus Vance deplored the killing of Bosnian Deputy Prime Minister Hakija Turajlic, shot by a Bosnian Serb soldier while UN peacekeepers drove him from Sarajevo airport; the Bosnian Serb army protested that the UN had abused its airport mission.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0695",
+   "issue_date": "1993-01-11",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 006, 11 January 1993",
+   "page": 8,
+   "snippet": "…ies of the provinces, Vance said. Unlike them, Bosnian Serb leader Radovan Karadzic has his vision of both the Constitution and the map, he added. Deploring the assasination of Bosnian Moslem Deputy Prime Minister Hakia Turajlic, Vance said he had been informed by the Bosnian Moslem Prime Minister Mile Akmacic about the assassination of another government official, Croat Josip Gogava, on January 7. Croatian Radio said that Gogava was killed by…"
+  }
+ },
+ {
+  "md": "01-08",
+  "date": "1996-01-08",
+  "regions": [
+   "EEU",
+   "SOV",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "mitterrand"
+   ],
+   [
+    "died",
+    "death",
+    "passed away"
+   ]
+  ],
+  "headline": "Francois Mitterrand dies",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 8 January 1996 former French President Francois Mitterrand died in Paris, eight months after leaving office.",
+  "significance": "Mitterrand had led France for fourteen years, through the end of the Cold War, German unification and the Maastricht treaty.",
+  "fbis": "The East Europe Daily Report of 11 January 1996 carried Warsaw TV Polonia's report that President Kwasniewski, leaving for Germany and France, said Mitterrand's death changed his schedule and he would attend the funeral ceremonies at Notre Dame.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_1462",
+   "issue_date": "1996-01-11",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 008, 11 January 1996",
+   "page": 72,
+   "snippet": "…these accusations. However, he added that the world approaches these events in a considerably calmer fashion than our politicians and media. He would like everyone to accept the clarification of these issues. To Attend Mitterrand Funeral LD0901164896 Warsaw TV Polonia Network in Polish 1600 GMT 9 Jan 96 {[FBIS Translated Excerpt] President A.cksander Kwas- niewski said before leaving for Germany and France that he wants to discuss the schedule f…"
+  }
+ },
+ {
+  "md": "01-09",
+  "date": "1991-01-09",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "aziz"
+   ],
+   [
+    "baker"
+   ],
+   [
+    "geneva"
+   ]
+  ],
+  "headline": "Baker and Tariq Aziz meet in Geneva",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 9 January 1991 US Secretary of State James Baker and Iraqi Foreign Minister Tariq Aziz met in Geneva for over six hours; Aziz refused to accept a letter from President Bush to Saddam Hussein.",
+  "significance": "It was the last high-level attempt to avert war before the UN's 15 January deadline for Iraq to leave Kuwait.",
+  "fbis": "The Near East & South Asia Daily Report of 9 January 1991 listed, under its Iraq heading, a run of Baghdad radio and INA items on the \"'Aziz-Baker Talks in Geneva\": Aziz arriving \"ready for 'positive' talks\", meeting the Swiss foreign minister, and the first and second rounds of talks.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0698",
+   "issue_date": "1991-01-09",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 006, 9 January 1991",
+   "page": 4,
+   "snippet": "…After Talks Greek Minister Confirms Support Against Iraq Duties of CSFR Anti-Chemical Unit Defined //\" Arabian Militant Clergy Condemn Shiite Treatm« Yemen Iraq: Trade Minister Departs After ‘Construc IRAQ Reportage on ‘Aziz-Baker Talks in Geneva Aziz Arrives in Geneva /Baghdad Rad Ready for ‘Positive’ Talks //NA Meets Swiss Foreign Minister //NA Talks Begin //NA/ Second Round of Talks //NA Third Round of Talks Scheduled //NA Saddam Reorgan…"
+  }
+ },
+ {
+  "md": "01-09",
+  "date": "1992-01-09",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "serb"
+   ],
+   [
+    "republic"
+   ],
+   [
+    "bosnia",
+    "hercegovina",
+    "herzegovina"
+   ],
+   [
+    "proclaim",
+    "declar"
+   ]
+  ],
+  "headline": "Bosnian Serbs proclaim their own republic",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 9 January 1992 Bosnian Serb leaders proclaimed a Serb republic within Bosnia-Hercegovina.",
+  "significance": "The proclamation prefigured the partition of Bosnia and the war that began three months later.",
+  "fbis": "The East Europe Daily Report of January 13, 1992, carried TANJUG on Yugoslav Presidency Vice President Kostic's view of EC recognition, Bosnia staying in Yugoslavia, and the Vance plan for Krajina; it does not report a Bosnian Serb proclamation.",
+  "pick": false,
+  "excluded": "Kostic on EC recognition, not the proclamation",
+  "evidence": {
+   "identifier": "micro_IA1176904_0506",
+   "issue_date": "1992-01-13",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 008, 13 January 1992",
+   "page": 34,
+   "snippet": "…v Republics of Bosnia- Hercegovina and Macedonia which had also applied to the E.C. for recognition. It was realistic to expect, as Kostic put it, that the leaderships of the latter two republics, together with those of Serbia and Montenegro which had not asked E.C. recognition because of already having their state- hood, would re-define their relations. He emphasized that none o° the nations was being denied the right and possibility to de…"
+  }
+ },
+ {
+  "md": "01-10",
+  "date": "1981-01-10",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "offensive"
+   ],
+   [
+    "fmln",
+    "farabundo"
+   ],
+   [
+    "salvador"
+   ]
+  ],
+  "headline": "FMLN launches 'final offensive' in El Salvador",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 10 January 1981 the FMLN guerrillas launched what they called a final offensive against the Salvadoran government, days before Ronald Reagan took office.",
+  "significance": "The offensive failed to topple the government but began a decade of full-scale civil war. It led the outgoing Carter administration to resume military aid and made El Salvador a central front of Reagan's Central America policy.",
+  "fbis": "The Latin America Daily Report of 12 January 1981 listed under El Salvador the opening of the offensive: Radio Liberation airing the FMLN's \"General Battle Orders\" Nos. 1 and 2, FMLN command sources describing the general offensive, and an army spokesman saying the situation was \"under control\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176905_0580",
+   "issue_date": "1981-01-12",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 007, 12 January 1981",
+   "page": 3,
+   "snippet": "…’ Duarte, Gutierrez, Garcia Hold News Conference Army Spokesman Says Situation ‘Under Control’ Radio Liberation Airs FMLN General Battle Orders General Order No 1 General Order No 2 FMLN Command Sources Describe General Offensive Cienfuegos Report FDR Reveals Seven-Point Platform for Future FDR Calls Duarte's Government ‘Merry-Go-Round ' FDR President Ungo Sends Open Letter to Duarte [API NEWS Vol 3 No 6] FARN Reports Majano Has Called For Army…"
+  }
+ },
+ {
+  "md": "01-11",
+  "date": "1991-01-11",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "vilnius"
+   ],
+   [
+    "press",
+    "paratroop",
+    "troops",
+    "seized"
+   ]
+  ],
+  "headline": "Soviet troops seize buildings in Vilnius",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 11 January 1991 Soviet troops seized the press building and other sites in Vilnius as Moscow moved against Lithuania's independence government.",
+  "significance": "The seizures were the prelude to the bloody storming of the Vilnius television tower two days later, which ended hopes that Gorbachev would let the Baltic republics go peacefully.",
+  "fbis": "The Soviet Union Daily Report of 11 January 1991 carried Vilnius Domestic Service broadcasts from the Supreme Council building: crowds keeping vigil at the parliament and the Press Building, armored vehicles on the streets overnight, and 400 more soldiers arriving from Kaliningrad.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_0908",
+   "issue_date": "1991-01-11",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 008, 11 January 1991",
+   "page": 47,
+   "snippet": "…cil building. We have information to the effect that disguised soldiers of the foreign country will also participate, or it is planned to make use of them at this gathering.” Telephone Service Reported Lost LD1001213291 Vilnius Domestic Service in Lithuanian 1958 GMT 10 Jan 91 [Excerpt] During this broadcast, due to certain circum- stances—since, as you can see, we are broadcasting this from the Supreme Council building, not from the televi- s…"
+  }
+ },
+ {
+  "md": "01-11",
+  "date": "1992-01-11",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "chadli",
+    "bendjedid",
+    "bin jadid",
+    "benjedid"
+   ],
+   [
+    "resign"
+   ]
+  ],
+  "headline": "Algeria's President Chadli resigns under army pressure",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 11 January 1992 Algerian President Chadli Bendjedid resigned; the army then cancelled the second round of elections the Islamic Salvation Front was poised to win.",
+  "significance": "The military's intervention plunged Algeria into a decade of civil war that killed well over 100,000 people.",
+  "fbis": "The Near East & South Asia Daily Report of 13 January 1992 opened its Algeria section with Algiers ENTV television's bulletin of 11 January showing President Chadli Bendjedid handing his resignation letter to the Constitutional Council, saying he did not want to be an obstacle to national unity.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0955",
+   "issue_date": "1992-01-13",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 008, 13 January 1992",
+   "page": 17,
+   "snippet": "ARAB AFRICA il Algeria President Bendjedid Resigns 11 Jan LD1101203892 Algiers ENTV Television Network in Arabic 1920 GMT 11 Jan 92 [Text] [Announcer] Before we continue this bulletin, it seems that there is something new that is reported to us by Abdelkader Mam…"
+  }
+ },
+ {
+  "md": "01-12",
+  "date": "1991-01-12",
+  "regions": [
+   "NES",
+   "EEU",
+   "LAT",
+   "EAS",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "congress"
+   ],
+   [
+    "authoriz",
+    "resolution"
+   ],
+   [
+    "force",
+    "war"
+   ]
+  ],
+  "headline": "Congress authorizes war against Iraq",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 12 January 1991 the US Congress voted to authorize the use of force to expel Iraq from Kuwait.",
+  "significance": "The votes gave President Bush domestic backing for war three days before the UN deadline.",
+  "fbis": "The East Asia report of January 14, 1991, carried Pyongyang Domestic Service's account of the vote: the U.S. Congress had given Bush 'the supreme power to wage war' if Iraq did not leave Kuwait by January 15, proof, it said, that the 'U.S. imperialists' had no wish for a peaceful settlement.",
+  "pick": true,
+  "window": 300,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176901_0310",
+   "issue_date": "1991-01-14",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1991-01-14: Vol 91 Iss 009",
+   "page": 15,
+   "snippet": "…Jan(MONTSAME)—R._ Gonchig- dorj, vice president of the MPR [Mongolian People’s Republic] and chairman of State Small Hural, today received Chong Yun-ho, DPRK ambassador to MPR, at the latter's request. North Korea U.S. Congressional Vote on Use of Force Noted SK 1301140391 Pyongyang Domestic Service in Korean 1300 GMT 13 Jan 91 [Text] According to a report, today the U.S. Congress passed a resolution to use force against Iraq if it does not wi…"
+  }
+ },
+ {
+  "md": "01-13",
+  "date": "1986-01-13",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "aden"
+   ],
+   [
+    "fighting",
+    "clash",
+    "events",
+    "bloody"
+   ]
+  ],
+  "headline": "Civil war erupts in South Yemen",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 13 January 1986 a shoot-out at a Politburo meeting in Aden began a short, bloody civil war within South Yemen's ruling Marxist party.",
+  "significance": "Thousands were killed in less than two weeks, and Soviet citizens had to be evacuated. The conflict weakened Moscow's only Marxist client state in the Arab world.",
+  "fbis": "The Middle East and South Asia review of January 14, 1986, led with the PDRY coup attempt: fighting in Aden's port and around embassies, the airport closed, and Amman radio reporting Presidium Chairman Ali Nasir Muhammad killed.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176912_0797",
+   "issue_date": "1986-01-14",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 009, 14 January 1986",
+   "page": 2,
+   "snippet": "…SOUTS ASIA BEVIED 14 JANUARY 1986 PDRY Coup Attempt Egvpt-Israel Following a 13 January attempted coup QNA reported fighting [he Egyptian charge d'affaires in Israel, Muhammad B in the port area and around embassies in Aden early 14 January flew to Cairo to brief Foreign Minister ‘Ismat ‘Abd al-M Diplomatic sources cited by Radio Monte Carlo also spoke of the Israeli Inner Cabinet decision on arbitration of the 1 heavy fighting between reb…"
+  }
+ },
+ {
+  "md": "01-13",
+  "date": "1991-01-13",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "vilnius"
+   ],
+   [
+    "tower",
+    "television",
+    "tv"
+   ],
+   [
+    "killed",
+    "dead",
+    "victims"
+   ]
+  ],
+  "headline": "Soviet troops storm the Vilnius TV tower",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "Early on 13 January 1991 Soviet troops and tanks stormed the television tower in Vilnius, killing fourteen civilians.",
+  "significance": "The 'Bloody Sunday' crackdown hardened Baltic resolve and Western opposition to Moscow's use of force. It discredited Gorbachev's claimed ignorance of the operation.",
+  "fbis": "The East Europe Daily Report of 14 January 1991 carried Prague Domestic Service reports of 13 January: Czechoslovakia's Foreign Ministry voiced strong concern at news from Vilnius, and the Civic Forum congress held a minute's silence for the victims of \"the Soviet Army's armed operation\" in Lithuania.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0261",
+   "issue_date": "1991-01-14",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 009, 14 January 1991",
+   "page": 25,
+   "snippet": "20 CZECHOSLOVAKIA expresses strong concern at reports emanating from Vilnius. A declaration issued yesterday by the Federal Assembly deputies had cautioned against the occupation of state institutions and vitally important installations by military force and the wounding of civilians. Czech- osl…"
+  }
+ },
+ {
+  "md": "01-14",
+  "date": "1994-01-14",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ukrain"
+   ],
+   [
+    "trilateral",
+    "tripartite",
+    "statement"
+   ],
+   [
+    "nuclear"
+   ]
+  ],
+  "headline": "US, Russia and Ukraine agree to remove Ukraine's nuclear arms",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 14 January 1994 Presidents Clinton, Yeltsin and Kravchuk signed a trilateral statement in Moscow under which Ukraine would give up the nuclear weapons left on its soil by the USSR.",
+  "significance": "The agreement settled one of the gravest proliferation risks of the Soviet collapse. Ukraine's security assurances were formalized later in the Budapest Memorandum.",
+  "fbis": "The Central Eurasia Daily Report of January 18, 1994, carried Moscow ITAR-TASS in English reviewing evening TV news of January 14, which called the tripartite Russian-U.S.-Ukrainian agreement on eliminating Ukraine's nuclear arms \"historic.\"",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176916_0111",
+   "issue_date": "1994-01-18",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 011, 18 January 1994",
+   "page": 10,
+   "snippet": "…hip, said Novosti. A proof to it is the Moscow declaration and other documents signed here today. In the opinion of the Russian TV Vesti news program, the tripartite agreement on elimination of nuclear arms stationed in Ukraine signed today by the Russian, U:S. and Ukrainian presidents is “historic”. The document confirms non-nuclear status of Ukraine. Novosti offered a report from the Spaso-Perovskiy Hos- pital visited by wife of the Russian…"
+  }
+ },
+ {
+  "md": "01-15",
+  "date": "1990-01-15",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "stasi",
+    "state security",
+    "security service",
+    "office for national security",
+    "nasi"
+   ],
+   [
+    "normannen",
+    "storm",
+    "headquarters",
+    "demonstrat"
+   ]
+  ],
+  "headline": "Crowds storm Stasi headquarters in East Berlin",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 15 January 1990 demonstrators broke into the East German Ministry for State Security headquarters on Normannenstrasse in East Berlin.",
+  "significance": "The storming came amid fears that the Stasi was destroying its files. The archive that survived later let millions of East Germans read what had been gathered on them.",
+  "fbis": "The East Europe Daily Report of January 16, 1990, carried Sofia BTA on Bulgaria's National Assembly debating rehabilitation of the Nikola Petkov Agrarian Party; nothing on East Berlin.",
+  "pick": false,
+  "doubt": "Coincidental match: page is about Bulgaria's State Security, not the storming of the Stasi headquarters.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Bulgarian parliament, not the Stasi storming",
+  "evidence": {
+   "identifier": "micro_IA1176904_0010",
+   "issue_date": "1990-01-16",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 010, 16 January 1990",
+   "page": 27,
+   "snippet": "…that an inquiry be held into the circumstances surrounding the death of Mara Racheva, secretary of G.M. Dimitrov, one of the BZNS leaders before 1947. Racheva was found dead after jumping out of the fourth floor of the State Security headquarters. Mr Zhelezan Raykov, another BZNS M.P.. said that senior military officers had testified in his presence that they had not conspired with Nikola Petkov to stage a coup. Mr Raykov demanded a name-by-name reh…"
+  }
+ },
+ {
+  "md": "01-15",
+  "date": "1992-01-15",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "croatia"
+   ],
+   [
+    "sloven"
+   ],
+   [
+    "recogni"
+   ]
+  ],
+  "headline": "European Community recognizes Croatia and Slovenia",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 15 January 1992 the European Community member states recognized Croatia and Slovenia as independent states.",
+  "significance": "Recognition, pressed by Germany, marked the international end of Yugoslavia and turned attention to Bosnia.",
+  "fbis": "The East Europe Daily Report of 15 January 1992 carried Bulgarian Foreign Minister Ganev, via FRANKFURTER ALLGEMEINE, urging that Macedonia be recognized alongside Slovenia and Croatia on 15 January, warning that refusing it would encourage Serbian annexation.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0508",
+   "issue_date": "1992-01-15",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 010, 15 January 1992",
+   "page": 12,
+   "snippet": "FBIS-EEU-92-010 15 January 1992 the abovementioned EC declaration, and should be treated on an equal footing with Slovenia and Croatia. Bulgarian is convinced that any postponement of the international recognition that the Republic of Mace- donia should receive will do little to promote stability in the Balkans. Ganev Favors Recognition of Macedonia AU…"
+  }
+ },
+ {
+  "md": "01-16",
+  "date": "1979-01-16",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "shah"
+   ],
+   [
+    "left",
+    "leave",
+    "departure",
+    "depart",
+    "fled"
+   ]
+  ],
+  "headline": "The Shah leaves Iran",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 16 January 1979 Shah Mohammad Reza Pahlavi left Iran, ostensibly on vacation, amid months of mass protest.",
+  "significance": "He never returned. His departure cleared the way for Ayatollah Khomeini's return and the collapse of America's closest ally in the Gulf, with heavy costs for US intelligence and policy in the region.",
+  "fbis": "The Middle East & North Africa Daily Report of 16 January 1979 listed under Egypt \"Shah Expected To Arrive in Aswan 16 January\" and under Syria ATH-THAWRAH's charge that the Shah and the U.S. were planning counterrevolution in Iran.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176908_0265",
+   "issue_date": "1979-01-16",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Vol. V No. 011, 16 January 1979",
+   "page": 3,
+   "snippet": "V. 16 Jan 79 MIDDLE EAST & NORTH AFRICA EGYPT Shahn Expected To Arrive in Aswan 16 Jarmary AL-AHRAN Says Atherton's Mission Aimed at Israel Prime Minister Khalil Returns From Khartoum Khalil Grants Interview to SUNA Defense Minister Returns From Inspection of Western Ar…"
+  }
+ },
+ {
+  "md": "01-16",
+  "date": "1992-01-16",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "chapultepec",
+    "peace agreement",
+    "peace accord"
+   ],
+   [
+    "salvador"
+   ]
+  ],
+  "headline": "El Salvador peace accords signed in Mexico City",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 16 January 1992 the Salvadoran government and the FMLN signed peace agreements at Chapultepec Castle in Mexico City, ending a twelve-year civil war.",
+  "significance": "The UN-brokered accords ended one of the bloodiest Cold War conflicts in the hemisphere, in which Washington had backed the government.",
+  "fbis": "The Latin America Daily Report of 16 January 1992 carried Mexico City XHTV television on guests arriving for the \"historic signing\" of the Salvadoran peace agreement: Presidents Endara, Gaviria, Perez and Calderon, Felipe Gonzalez, Boutros-Ghali, a delayed James Baker, and Cristiani's delegation.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176907_0246",
+   "issue_date": "1992-01-16",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 011, 16 January 1992",
+   "page": 6,
+   "snippet": "…Mexico.” [passage omitted] Guests Arrive in Mexico for Agreement Signing PA1601042192 Mexico City XHTV Television Network in Spanish 0200 GMT 16 Jan 92 [Text] The guests invited to the historic signing of the Salvadoran peace agreement continued to arrive in Mexico City on 15 January. Panamanian President Guillermo Endara arrived at 1100 and Colombian President Cesar Gaviria, Spanish Prime Minister Felipe Gonzalez, Venezuelan President Carlos Andres P…"
+  }
+ },
+ {
+  "md": "01-17",
+  "date": "1991-01-17",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "baghdad"
+   ],
+   [
+    "air",
+    "raid",
+    "bomb",
+    "strike"
+   ],
+   [
+    "attack",
+    "war"
+   ]
+  ],
+  "headline": "Operation Desert Storm air war begins",
+  "category": "war",
+  "spycraft": false,
+  "summary": "In the early hours of 17 January 1991, Baghdad time, US-led coalition aircraft and cruise missiles began attacking Iraq.",
+  "significance": "The air campaign opened the war to liberate Kuwait and displayed precision weapons and stealth aircraft to the world.",
+  "fbis": "The East Europe Daily Report of 17 January 1991 carried Sofia BTA items on Bulgaria's response as the Gulf war began: Bulgarian Radio reporting every 15 minutes and airing the U.S. President's speech, no Bulgarian casualties in Baghdad, CNN retransmitted, and guards reinforced at embassies.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0264",
+   "issue_date": "1991-01-17",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 012, 17 January 1991",
+   "page": 9,
+   "snippet": "…spokesman for the National Service points out in TRUD that for the time being there are not categorical data to show that arrangements are made for acts of terrorism against Bulgaria. ‘No Casualties’ Among Nationals in Baghdad 1U'1701105691 Sofia BTA in English 0837 GMT 17 Jan 91 [From the “Press Review” [Excerpt] Sofia, January 17 (BTA)}—Every 15 minutes the Bulgarian Radio reports of the progress of the events in the Gulf. It aired directly…"
+  }
+ },
+ {
+  "md": "01-17",
+  "date": "1995-01-17",
+  "regions": [
+   "EAS",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kobe",
+    "hanshin",
+    "hyogo"
+   ],
+   [
+    "earthquake",
+    "quake"
+   ]
+  ],
+  "headline": "Earthquake devastates Kobe",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "On 17 January 1995 a magnitude 6.9 earthquake struck the Kobe region of Japan, killing more than 6,000 people.",
+  "significance": "It was Japan's deadliest earthquake since 1923, and the slow official response shook confidence in the Japanese government.",
+  "fbis": "The East Asia Daily Report of 17 January 1995 carried Tokyo KYODO reports that the earthquake shut four petrochemical plants in the Kinki region and Kansai Electric generating units including a nuclear plant, and that the Social Democratic Party suspended its feud to put \"the top priority on quake measures\".",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176901_1369",
+   "issue_date": "1995-01-17",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1995-01-17: Vol 95 Iss 010",
+   "page": 19,
+   "snippet": "…he earthquake earlier in the day, the Ministry of International Trade and Industry (MITI) said. The affected plants included an oil refinery complex of Idemitsu Kosan Co., Japan's leading oil company, at Himeji, west of Kobe in Hyogo Prefecture. There was no damage such as leakage of oil or explosions at the refinery, a MITI official said. Meanwhile, Kansai Electric Power Co. shut down cight of its electric power generating facilities, incl…"
+  }
+ },
+ {
+  "md": "01-18",
+  "date": "1991-01-18",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "israel",
+    "tel aviv",
+    "haifa"
+   ],
+   [
+    "missile",
+    "scud",
+    "al-husayn",
+    "al-husseyn"
+   ]
+  ],
+  "headline": "Iraqi Scuds hit Israel",
+  "category": "war",
+  "spycraft": false,
+  "summary": "Early on 18 January 1991 Iraq fired Scud missiles at Tel Aviv and Haifa.",
+  "significance": "Saddam Hussein aimed to draw Israel into the war and split the Arab members of the coalition. Washington pressed Israel not to retaliate and rushed Patriot batteries to it.",
+  "fbis": "The East Europe Daily Report of January 22, 1991, carried Belgrade TANJUG on Foreign Secretary Loncar's Gulf diplomacy, noting that Yugoslavia regretted the Iraqi missile attack on Israel and urged Israel not to retaliate.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176904_0266",
+   "issue_date": "1991-01-22",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 014, 22 January 1991",
+   "page": 7,
+   "snippet": "…. “We believe this to be a prerequisite for truce and the basis for resolving the problem by political means”, explained Loncar. He added that Yugoslavia had expressed regret and concern over the Iraqi missile attack on Israel, and had appealed to the Israeli Govern- ment to refrain from retaliating as it would result in an escalation of the conflict. Loncar said that the Yugoslav diplomatic and military representatives in Baghdad had been re…"
+  }
+ },
+ {
+  "md": "01-19",
+  "date": "1981-01-19",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "algeria",
+    "algiers"
+   ],
+   [
+    "hostage"
+   ],
+   [
+    "agree",
+    "accord",
+    "declaration",
+    "sign"
+   ]
+  ],
+  "headline": "Algiers Accords signed to free US hostages",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "On 19 January 1981 the United States and Iran, through Algerian mediation, signed the Algiers Accords providing for the release of the American hostages and the unfreezing of Iranian assets.",
+  "significance": "The agreement ended fourteen months of negotiations over the hostages seized at the US Embassy in Tehran.",
+  "fbis": "The Middle East and South Asia Review of 19 January 1981 led with the hostages: Algiers radio announced agreement after Warren Christopher signed the Algerian statement, while Iran's Behzad Nabavi stressed on Tehran radio that Iran had signed nothing with the United States, only with Algeria.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0827",
+   "issue_date": "1981-01-19",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 012, 19 January 1981",
+   "page": 2,
+   "snippet": "DAILY REPORT MIDDLE EAST AND SOUTH ASIA REVIEW 19 JANUARY 1981 American Hostages Following a flurry of diplomatic exchanges, Algeria announced that the United States and Iran have reached agreement for the release of the hostages. Algiers radio reported the conclusion of the agreement shortly after U.S. Deputy Secretary of State Warren Christopher si…"
+  }
+ },
+ {
+  "md": "01-20",
+  "date": "1981-01-20",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "hostage"
+   ],
+   [
+    "freed",
+    "release",
+    "left tehran",
+    "plane",
+    "flew"
+   ]
+  ],
+  "headline": "US hostages freed from Iran",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "On 20 January 1981, minutes after Ronald Reagan was sworn in, the 52 Americans held in Iran for 444 days were flown out of Tehran.",
+  "significance": "The hostage crisis had broken Carter's presidency and changed US policy toward Iran for decades. Among the hostages were CIA officers whose presence Iran had used as propaganda.",
+  "fbis": "The Eastern Europe Daily Report of 21 January 1981 listed \"U.S.-Iranian Agreement on Hostages Reported\" under Czechoslovakia and \"U.S., Iran Agree on Release of U.S. Citizens\" under the GDR, beside Bulgarian dailies on \"Carter's Presidential Fiasco\" and GDR comment on Reagan's inaugural.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176902_0720",
+   "issue_date": "1981-01-21",
+   "region": "EEU",
+   "title": "FBIS DAILY REPORT—Eastern Europe, Vol. II No. 013, 21 January 1981",
+   "page": 2,
+   "snippet": "…iversary [SPK] Zhivkov Attends Party Conference in Blagoevgrad Briefs: Support for Palestinians; Protocol With Sweden; Cooperation With Mexico eAhaAaARAR AG GS WWN DN DN DN FR ee CZECHOSLOVAKIA U.S.-Iranian Agreement on Hostages Reported Commentators Score ‘Solidarity,’ Polish Sitvation Antisocialists in Union Wroclaw ‘Blackmail’ Activities AFL-CIO Support [Jelinek in RUDE PRAVO 16 Jan] Minarik on Causes [Bratislava PRAVDA 16 Jan] Party Nation…"
+  }
+ },
+ {
+  "md": "01-20",
+  "date": "1987-01-20",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "waite"
+   ],
+   [
+    "kidnap",
+    "abduct",
+    "missing",
+    "disappear",
+    "held"
+   ]
+  ],
+  "headline": "Terry Waite disappears in Beirut",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "On 20 January 1987 Terry Waite, the Archbishop of Canterbury's envoy who had been negotiating for the release of Western hostages, was seized in Beirut.",
+  "significance": "Waite had unknowingly been entangled in the arms-for-hostages dealings exposed weeks earlier as the Iran-Contra affair. He was held for nearly five years.",
+  "fbis": "The South Asia Daily Report (Middle East and South Asia review) of January 21, 1987, reported via Voice of Lebanon that Terry Waite had postponed his departure from Beirut after further talks with the kidnappers; it predates his disappearance.",
+  "pick": false,
+  "doubt": "Page shows Waite still negotiating; it does not report his seizure.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Run-up only; Waite still negotiating",
+  "evidence": {
+   "identifier": "micro_IA1176912_1052",
+   "issue_date": "1987-01-21",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 013, 21 January 1987",
+   "page": 2,
+   "snippet": "…he interna- tional oil market with Soviet Foreign Minister Eduard Shevard- nadze in Moscow 20 January, SPA reported. The Soviet news agency TASS described the talks as “constructive.” \\ebanon Anglican Church envoy Terry Waite postponed his departure from Beirut following further talks with the kidnappers of for- eigners, Voice of Lebanon radio disclosed. In another develop- ment, AFP noted that an organization calling itself the “partisans o…"
+  }
+ },
+ {
+  "md": "01-20",
+  "date": "1990-01-20",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "baku"
+   ],
+   [
+    "troops",
+    "army",
+    "soldiers"
+   ],
+   [
+    "killed",
+    "dead",
+    "victims"
+   ]
+  ],
+  "headline": "Soviet troops storm Baku",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "In the night of 19-20 January 1990 Soviet troops forced their way into Baku under a state of emergency, killing more than a hundred people.",
+  "significance": "The crackdown, ordered after anti-Armenian pogroms and a nationalist challenge to Communist rule, turned Azerbaijani opinion decisively against Moscow.",
+  "fbis": "The Soviet Union Daily Report of 22 January 1990 carried a Soviet leadership address announcing the state of emergency in Baku: Interior Ministry troops and army units had entered the city and seized key facilities, deaths were admitted \"with profound regret\", and the violence was blamed on nationalist extremists.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0681",
+   "issue_date": "1990-01-22",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 014, 22 January 1990",
+   "page": 62,
+   "snippet": "…ightly demanded that the country’s leadership take resolute measures to restore legality and law and order and to guarantee the safety of people’s lives. You already know that a state of emergency has been introduced in Baku by decree of the USSR Supreme Soviet Presidium. Subunits of MVD [Interior Ministry] troops and of the Soviet Army have entered the city. They have occupied key facilities and taken control of state establishments. Decis…"
+  }
+ },
+ {
+  "md": "01-21",
+  "date": "1992-01-21",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "lockerbie"
+   ],
+   [
+    "security council",
+    "resolution",
+    "731"
+   ]
+  ],
+  "headline": "UN demands Libya hand over Lockerbie suspects",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "On 21 January 1992 the UN Security Council adopted Resolution 731, urging Libya to respond to US, British and French requests concerning the bombings of Pan Am 103 and UTA 772.",
+  "significance": "The two suspects in the Lockerbie bombing were alleged to be Libyan intelligence officers. Libya's refusal led to UN sanctions in March 1992.",
+  "fbis": "The Near East & South Asia Daily Report of 21 January 1992 carried Cairo MENA's report that the Arab League Council asked the UN Secretary General to mediate the Lockerbie crisis between Libya and the U.S., Britain and France, reaffirming its support for Libya.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0959",
+   "issue_date": "1992-01-21",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 013, 21 January 1992",
+   "page": 10,
+   "snippet": "…g their Participation in Middle East peace negotiations. The same source made it clear, in answer to a question by MAP, that the ministry has no knowledge of any initiative of this kind Arab League Asks UN To Mediate on Lockerbie VC 1601203492 Cairo MENA in Arabic 1927 GMT 16 Jan 92 [Text] Cairo, 16 Jan (MENA)}—The Arab League Council decided at its meeting this evening to ask Arab League Secretary General Dr. ‘Ismat “Abd-al-Majid to contact UN…"
+  }
+ },
+ {
+  "md": "01-22",
+  "date": "1980-01-22",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "sakharov"
+   ],
+   [
+    "gorkiy",
+    "gorky",
+    "exile",
+    "stripped",
+    "deprived"
+   ]
+  ],
+  "headline": "Sakharov exiled to Gorky",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 22 January 1980 the dissident physicist Andrei Sakharov was detained in Moscow and sent into internal exile in the closed city of Gorky.",
+  "significance": "His banishment, weeks after the Afghanistan invasion, symbolized the Brezhnev regime's crackdown on dissent. Gorbachev released him in December 1986.",
+  "fbis": "The Soviet Union Daily Report of 22 January 1980 listed, in its contents under National Affairs, a \"Late Report: Sakharov Deprived of Titles, Arrest Rumored\", among routine Supreme Soviet election and personnel items.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176913_0410",
+   "issue_date": "1980-01-22",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 015, 22 January 1980",
+   "page": 4,
+   "snippet": "…Minister of Internal Affairs Appointed Background to Uzbek Forestry Minister's Dismissal Reported [PRAVDA VOSTOKA 4 Jan] Armenian SSR Supreme Court Discusses Juvenile Crime Issues [Yerevan KOMMUNIST 11 Jan] Late Report: Sakharov Deprived of Titles, Arrest Rumored ECONOMIC DEVELOPMENTS PRAYDA Appeals for Greater Efficiency in Power Industry (Editorial, 11 Jan] PRAVDA Calls for Management Reform in Construction Sector {Editor, 17 Jan] Party, Stat…"
+  }
+ },
+ {
+  "md": "01-23",
+  "date": "1989-01-23",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "tablada"
+   ],
+   [
+    "attack",
+    "assault",
+    "barracks",
+    "regiment"
+   ]
+  ],
+  "headline": "Guerrillas attack La Tablada barracks in Argentina",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 23 January 1989 members of the leftist Movimiento Todos por la Patria attacked the army barracks at La Tablada near Buenos Aires; the army retook it after over a day of fighting.",
+  "significance": "The bloody attack, the last of its kind in Argentina, strengthened the military's hand against the civilian government of Raul Alfonsin.",
+  "fbis": "The Latin America Daily Report of 23 January 1989 opened its Argentina section with Buenos Aires NOTICIAS ARGENTINAS and DYN flashes: unknown attackers crashed a truck through the gate of the 3d Infantry Regiment at La Tablada, a firefight continued for hours, and police took casualties.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176906_1180",
+   "issue_date": "1989-01-23",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 013, 23 January 1989",
+   "page": 41,
+   "snippet": "…os Aires NOTICIAS ARGENTINAS in Spanish 1009 GMT 23 Jan 89 [Text] Buenos Aires, 23 Jan (NA)}—This morning at 0630 a group of unknown persons reportedly attacked the installations of the 3d Infantry Regiment, based in La Tablada [Buenos Aires City]. The attack was repelled by a guard, and there was a fierce firefight that caused panic and concern among the neighbors of the area. In repeated telephone calls to the media, the neighbors indicated…"
+  }
+ },
+ {
+  "md": "01-24",
+  "date": "1978-01-24",
+  "regions": [
+   "NES",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "satellite",
+    "cosmos",
+    "kosmos"
+   ],
+   [
+    "canada",
+    "canadian"
+   ]
+  ],
+  "headline": "Soviet nuclear-powered satellite crashes in Canada",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 24 January 1978 the Soviet ocean-surveillance satellite Cosmos 954 re-entered the atmosphere and scattered radioactive debris across Canada's Northwest Territories.",
+  "significance": "The reactor-powered reconnaissance satellite exposed the hazards of military surveillance in space and led to a joint US-Canadian clean-up operation.",
+  "fbis": "The Middle East & North Africa Daily Report of 27 January 1978 carried a Cairo MENA commentary on the fall of Cosmos 954 in Canada, arguing for a UN space information center and against any state keeping secret what the Soviet Union had kept secret.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0019",
+   "issue_date": "1978-01-27",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & North Africa, Vol. V No. 19, 27 January 1978",
+   "page": 21,
+   "snippet": "…t the next step with regard to what is taking place between Egypt and Israel has not yet been defined and that new developments in this respect might appear in the next 2 days. MENA COMMENTS ON DISINTEGRATION OF SOVIL ' SATELLITE sade NC271058Y Cairo MENA in Arabic 0940 GMT 27 Jan 78 NC Cairo, 27 January--The fallof the Soviet satellite, Cosmos 954, in Canadian [Excerpts ] a number of questions being asked by observers concerned territory last T…"
+  }
+ },
+ {
+  "md": "01-25",
+  "date": "1993-01-25",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "cia",
+    "central intelligence"
+   ],
+   [
+    "shoot",
+    "shot",
+    "gunman",
+    "killed"
+   ]
+  ],
+  "headline": "Gunman kills two outside CIA headquarters",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "On 25 January 1993 a gunman opened fire on cars waiting to enter CIA headquarters in Langley, Virginia, killing two agency employees.",
+  "significance": "The killer, Mir Aimal Kasi, fled to Pakistan and was captured there in 1997. The attack was an early sign of anti-American terrorism linked to the Afghan war's aftermath.",
+  "fbis": "The Near East and South Asia Daily Report of January 26, 1993, carried Iraqi clandestine radio claims of attacks on Iraqi security forces in Basra and Kirkuk; nothing on the CIA shooting.",
+  "pick": false,
+  "doubt": "Coincidental match: Middle East contents page with no mention of the Langley shooting.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Iraqi clandestine radio, unrelated",
+  "evidence": {
+   "identifier": "micro_IA1176910_1146",
+   "issue_date": "1993-01-26",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 015, 26 January 1993",
+   "page": 41,
+   "snippet": "…y men dead. inciuding an officer and noncommis woned officers. and dozens wounded. All the grows members returned safely to their Mases Describing the confusion and pani that gripped the regime's troops and partisan officials following the attack. our sources noted that the authorities m al Basrah placed all security. intethgence. and special secu- rity units on maximum alert. Popular corcies were very satisfied with the operation Ba'th, I…"
+  }
+ },
+ {
+  "md": "01-25",
+  "date": "1995-01-25",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "rocket",
+    "missile"
+   ],
+   [
+    "norw"
+   ]
+  ],
+  "headline": "Norwegian research rocket triggers Russian nuclear alert",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 25 January 1995 Russian early-warning radar detected a Norwegian scientific rocket launched from Andoya, and President Yeltsin's nuclear briefcase was activated.",
+  "significance": "Norway had notified Russia of the launch, but the warning never reached the right people. It was among the most dangerous false alarms of the nuclear age.",
+  "fbis": "The Central Eurasia Daily Report of 26 January 1995 carried Moscow ITAR-TASS reports that Russian air defenses \"did not shoot down\" a missile said to have violated Russian airspace from a North European country, and that Washington doubted the incident had happened.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176916_0383",
+   "issue_date": "1995-01-26",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 017, 26 January 1995",
+   "page": 12,
+   "snippet": "…mic relations— particularly in the area of trade—and also the progress of the preparation of an interstate treaty on friendship, cooperation, and partnership, and other questions. Air Defense Forces ‘Did Not Shoot Down’ Missile LD2501151495 Moscow ITAR-TASS World Service in Russian 1454 GMT 25 Jan 95 [By ITAR-TASS correspondents Sergey Ostanin and Boris Zaytsev] [FBIS Translated Text] Moscow, 25 Jan (ITAR- TASS)—Russian air defense forces did…"
+  }
+ },
+ {
+  "md": "01-26",
+  "date": "1993-01-26",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "havel"
+   ],
+   [
+    "elect",
+    "president"
+   ]
+  ],
+  "headline": "Havel elected first president of the Czech Republic",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 26 January 1993 the Czech parliament elected Vaclav Havel the first president of the independent Czech Republic.",
+  "significance": "The dissident playwright had led the Velvet Revolution and was the last president of Czechoslovakia.",
+  "fbis": "The East Europe Daily Report of 26 January 1993 carried a Prague CTK report from 21 January in which Havel, campaigning \"if elected\" Czech president, rejected Sudeten German restitution demands and promised talks with Germany on compensation for Czech victims of Nazism.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0704",
+   "issue_date": "1993-01-26",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 015, 26 January 1993",
+   "page": 16,
+   "snippet": "…efugees by applying a more rigid visa policy against the Balkan states, the CIS republics, and the countries of Southeast Asia. However, the introduction of this measure depends on the govern- ment’s political decision. Havel Opposes Sudeten German Restitution Demands AU2501193093 Prague CTK in English 2036 GMT 21 Jan 93 [Text] Prague, Jan 21 (CTK)—If Vaclav Havel is elected president of the Czech Republic, one of his first steps will be to…"
+  }
+ },
+ {
+  "md": "01-27",
+  "date": "1981-01-27",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "hostage"
+   ],
+   [
+    "white house",
+    "reagan",
+    "washington"
+   ],
+   [
+    "welcom",
+    "return",
+    "arriv",
+    "ceremony"
+   ]
+  ],
+  "headline": "Freed hostages welcomed home in Washington",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "On 27 January 1981 the 52 Americans released by Iran arrived in Washington and were welcomed by President Reagan at the White House.",
+  "significance": "Reagan used the occasion to warn that future acts of terrorism against Americans would meet swift and effective retribution.",
+  "fbis": "The Eastern Europe Daily Report of January 27, 1981, carried a Warsaw GLOS PRACY commentary of January 22 on Reagan's inauguration that noted the hostages' release; it does not report their Washington welcome.",
+  "pick": false,
+  "excluded": "Inauguration commentary, not the homecoming",
+  "evidence": {
+   "identifier": "micro_IA1176902_0724",
+   "issue_date": "1981-01-27",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 017, 27 January 1981",
+   "page": 43,
+   "snippet": "…gan saw to it that the ceremony of his accession should be most sumptuous: It was attended by hundreds of thousands of Americans, not only from Washington but from the entire country as well. The freeing of the American hostages who had been imprisoned in Iran for 444 days, was an important element of the inauguration. The long and tiresome negotiations and parleys at last produced specific results and one of the serious factors that had weigh…"
+  }
+ },
+ {
+  "md": "01-28",
+  "date": "1980-01-28",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "canad"
+   ],
+   [
+    "american",
+    "u.s."
+   ],
+   [
+    "embassy",
+    "diplomat"
+   ],
+   [
+    "escape",
+    "smuggl",
+    "fled",
+    "left iran",
+    "passport"
+   ]
+  ],
+  "headline": "Six US diplomats escape Iran with Canadian help",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "On 28 January 1980 six American diplomats who had evaded capture when the US Embassy was seized flew out of Tehran on Canadian passports.",
+  "significance": "The 'Canadian caper', publicly credited to Canada's embassy, was a joint operation with the CIA, whose role was declassified only in 1997.",
+  "fbis": "The Soviet Union Daily Report of 31 January 1980 listed under United States & Canada a \"Report of U.S. Diplomats' Escape From Iran Cited\", among Moscow attacks on the Carter Doctrine and on the U.S. Olympic boycott campaign.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176913_0417",
+   "issue_date": "1980-01-31",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 022, 31 January 1980",
+   "page": 2,
+   "snippet": "…edonin] WwW WwW w& NNO! eH Se act's Kulikov Ww WORLD & REGIONAL ISSUES USSR Olympics Committee Condemns western Boycott Campaign Soviet Activists Call for Olympic Boycott or Change of Venue (Hamburg DPA] UNITED STATES & CANADA savrilov on Military Aspects of State of Union Message (KRASNAYA ZVEZDA 27 Jan] ‘Dangerous Old! Elements in New 'Carter Doctrine! [Vlasov in SOVETSKAYA ROSSIYA 24 Jan] 'New Iranian Policy': Consolidation of Position at…"
+  }
+ },
+ {
+  "md": "01-28",
+  "date": "1986-01-28",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "challenger"
+   ],
+   [
+    "shuttle"
+   ]
+  ],
+  "headline": "Space shuttle Challenger explodes",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "On 28 January 1986 the space shuttle Challenger broke apart 73 seconds after launch, killing all seven crew.",
+  "significance": "The disaster grounded the shuttle fleet for nearly three years and delayed US military and reconnaissance satellite launches.",
+  "fbis": "The Eastern Europe Daily Report of January 29, 1986, listed a late report of Polish reaction to the shuttle disaster, with AFP on the Pentagon's \"weaknesses\" and Urban's sympathies, and under Romania, Ceausescu's condolences on the Challenger explosion.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176903_0521",
+   "issue_date": "1986-01-29",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 019, 29 January 1986",
+   "page": 3,
+   "snippet": "…ddresses Military Economic Meeting [ZOLNIERZ WOLNOSCI 9 Jan] LATE REPORT: Reaction to Shuttle Disaster Part of SDI Program Proof of Pentagon ‘Weaknesses' [AFP] Urban Expresses Sympathies ROMANTA Ceausescu Condolences on Challenger Explosion News Media Hail Ceausescu on Birth Anniversary Ceausescu Inaugurates Bucharest Subway Line YUGOSLAVIA LCY Central Committee Discusses Economy, Incomes Economic Discussion [BORBA 16 Jan] Discussion of Incomes P…"
+  }
+ },
+ {
+  "md": "01-29",
+  "date": "1979-01-29",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "deng",
+    "teng hsiao"
+   ],
+   [
+    "washington",
+    "united states",
+    "carter"
+   ],
+   [
+    "visit"
+   ]
+  ],
+  "headline": "Deng Xiaoping begins US visit",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 29 January 1979 Chinese leader Deng Xiaoping began an official visit to Washington, the first by a PRC leader.",
+  "significance": "Deng's visit followed normalization and preceded China's attack on Vietnam by weeks. Moscow watched for an anti-Soviet alignment.",
+  "fbis": "The Eastern Europe Daily Report of 29 January 1979 listed \"Press Comments on Deng Xiaoping's U.S. Visit\" under Hungary and \"Deng Xiaoping's Arrival in United States Reported\" under Romania.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176902_0218",
+   "issue_date": "1979-01-29",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 020, 29 January 1979",
+   "page": 3,
+   "snippet": "…USSR Ovari Receives GDR Culture Minister Hoffmann Marjai Meets GDR's Rauchfuss in Berlin 26 Jan Ends Visit, Returns Gaspar-Led TU Delegation Returns From Bulgaria Iranian Tudeh Party Member Interviewed Press Comments on Deng Xiaoping's U.S. Visit Briefs: Health Delegatio1. to Libya POLAND Polish 'Specialists' Are Evacuated From Iran Reportage on Visit by Warsaw Pact's Marshal Kulikov Received by Gierek, Jaroszewicz Others Attending Meeting…"
+  }
+ },
+ {
+  "md": "01-29",
+  "date": "1991-01-29",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "khafji",
+    "al-khafji",
+    "ra's al-khafji"
+   ]
+  ],
+  "headline": "Iraqi forces attack Khafji",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On the night of 29 January 1991 Iraqi forces crossed into Saudi Arabia and occupied the town of Khafji; Saudi, Qatari and US forces retook it by 1 February.",
+  "significance": "It was the only major Iraqi ground offensive of the Gulf War.",
+  "fbis": "The Soviet Union contents for February 1991 listed, among Moscow comment on the Gulf war, KRASNAYA ZVEZDA's view that \"Iraq's Attack on Khafji Has Psychological Aims\", with items calling the U.S. \"bogged down\" and the hostilities protracted.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_0922",
+   "issue_date": "1991-02-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Table of Contents, No. 022-040, February 1991",
+   "page": 12,
+   "snippet": "…Said ‘Bogged Down’ [SOVETSKAYA ROSSIYA 2 Feb] Coalition Disinformation Scored [SELSKAYA ZHIZN 1 Feb] Coverage Seen as Contradictory [Tehran IRNA] Soviet Reporters Describe Life in Baghdad [Tehran IRNA] iraq’s Attack on Khafji Has Psychological Aims [KRASNAYA ZVEZDA I Feb] Possible Scenarios for Gulf Ground War Viewed [SOVETSKAYA ROSSIYA 30 Jan] Defense Ministry Not To Enlist Gulf Volunteers [KRASNAYA ZVEZDA 5 Feb] Scientists Offer Help With…",
+   "contents_only": true
+  }
+ },
+ {
+  "md": "01-29",
+  "date": "1996-01-29",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "chirac"
+   ],
+   [
+    "nuclear"
+   ],
+   [
+    "test"
+   ],
+   [
+    "end",
+    "final",
+    "halt",
+    "stop"
+   ]
+  ],
+  "headline": "France announces end of nuclear testing",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 29 January 1996 President Jacques Chirac announced that France had permanently ended nuclear testing after a final series in the South Pacific.",
+  "significance": "The resumed tests of 1995 had provoked worldwide protest. France then backed the Comprehensive Test Ban Treaty signed later in 1996.",
+  "fbis": "The Central Eurasia Daily Report of 31 January 1996 carried Moscow ITAR-TASS: Foreign Ministry spokesman Karasin said Russia was \"very much satisfied\" with Chirac's decision to stop nuclear tests for good, calling it a major contribution to ending all testing.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176916_0712",
+   "issue_date": "1996-01-31",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 021, 31 January 1996",
+   "page": 33,
+   "snippet": "…45296 Moscow ITAR-TASS in English 1423 GMT 30 Jan 96 [By ITAR-TASS correspondent Denis Perkin} (FBIS Transcribed Text} MOSCOW, January 30 (ITAR- TASS) — “We are very much satisfied with the decision of President Jacques Chirac of France to stop RUSSIA INTERNATIONAL AFFAIRS 2s nuclear tests once and for ail,\" Russian Foreign Ministry spokesman Grigoriy Karasin told a briefing on Tuesday. He said that Russia, which “consistently supports” a mor…"
+  }
+ },
+ {
+  "md": "01-30",
+  "date": "1995-01-30",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "algiers"
+   ],
+   [
+    "car bomb",
+    "booby-trapped car",
+    "explosion"
+   ]
+  ],
+  "headline": "Car bomb kills dozens in Algiers",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 30 January 1995 a car bomb exploded outside the central police station in Algiers, killing more than forty people.",
+  "significance": "It was one of the deadliest single attacks of Algeria's civil war.",
+  "fbis": "The Near East & South Asia Daily Report of 31 January 1995 carried Paris AFP's first report of the car bomb near the central police station in Algiers, then counting at least four dead, set in a three-year conflict between Islamic radicals and the government.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176911_0198",
+   "issue_date": "1995-01-31",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 020, 31 January 1995",
+   "page": 19,
+   "snippet": "…adow of a pluralistic democracy, chosen finally by them, which will contribute toward uprooting the last seeds of disunity and division. [passage omitted] Government Asks Libya To Clarify al-Fazzani Comment LD3001175195 Algiers Radio Algiers Network in Arabic 1700 GMT 30 Jan 95 {FBIS Translated Text] Today the Foreign Ministry summoned ‘Ashur Muhammad Gargum [name as FBIS-NES-95-020 31 January 1995 heard], secretary of the Libyan Arab Brotherh…"
+  }
+ },
+ {
+  "md": "01-31",
+  "date": "1980-01-31",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "spain",
+    "spanish"
+   ],
+   [
+    "embassy"
+   ],
+   [
+    "guatemala"
+   ],
+   [
+    "fire",
+    "burn",
+    "killed",
+    "dead"
+   ]
+  ],
+  "headline": "Spanish Embassy burned in Guatemala City",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 31 January 1980 Guatemalan police stormed the Spanish Embassy, which had been occupied by peasant protesters; a fire killed 37 people, and Spain broke relations.",
+  "significance": "The massacre became a defining atrocity of Guatemala's civil war; the only peasant survivor was later abducted from hospital and killed.",
+  "fbis": "The Latin America tables of contents for February 1980 listed under Guatemala the minister approving an OAS resolution on the Spanish Embassy incident and claims that the peasants were massacred to benefit U.S. firms.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176904_1654",
+   "issue_date": "1980-02-01",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Tables of Contents, Vol. VI No. 023-042, February 1980",
+   "page": 33,
+   "snippet": "…UWWW UW Ww oOo o-~ Univereity ipation Ends Six per rn Killed ir evernal Clasnet PPL Kills Five People in Chalatenang Intensive Patrolling rdered n North Pp I I P I Pp P Pp P GUATEMALA Minieter Approves OAS \"esolution on Spanish Embassy Inetdent [lL IMPARCIAL & Feb) inionteate Say Peasant Massacred To Renerit U.S, Firme ROP Takes Credit for Attacks on Government Official Vice President Withdrawa Resignation Zone Commander Ambushed by Unidentifi…"
+  }
+ },
+ {
+  "md": "01-31",
+  "date": "1990-01-31",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "mcdonald"
+   ],
+   [
+    "moscow"
+   ]
+  ],
+  "headline": "McDonald's opens in Moscow",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 31 January 1990 the first McDonald's in the Soviet Union opened on Pushkin Square in Moscow.",
+  "significance": "Thousands queued on opening day. The restaurant became a symbol of perestroika's opening to the West.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 4 issue(s)",
+   "tried": [
+    "micro_IA1176915_0688",
+    "micro_IA1176915_0667",
+    "micro_IA1176915_0689",
+    "micro_IA1176915_0690"
+   ]
+  }
+ },
+ {
+  "md": "01-27",
+  "date": "1987-01-27",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "plenum"
+   ],
+   [
+    "gorbachev"
+   ],
+   [
+    "democratiz",
+    "restructuring",
+    "perestroyka",
+    "cadre"
+   ]
+  ],
+  "headline": "Gorbachev calls for democratization at the January plenum",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 27 January 1987 Mikhail Gorbachev opened a plenum of the Soviet Communist Party's Central Committee on cadre policy with a call for 'democratization': secret ballots and a choice of candidates in party and local elections.",
+  "significance": "The January plenum turned perestroika from economic repair into political reform. It began the opening of the Soviet system that led, within three years, to contested elections, to the end of the party's monopoly and to the loss of Moscow's hold on Eastern Europe.",
+  "fbis": "The Eastern Europe Daily Report of January 28, 1987, carried Belgrade TANJUG in English on Gorbachev's plenum address: restructuring linked to socialist democracy, elections of enterprise managers, and a choice of candidates for one post.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_0767",
+   "issue_date": "1987-01-28",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 018, 28 January 1987",
+   "page": 38,
+   "snippet": "II. 28 Jan 87 YUGOSLAVIA GORBACHEV ADDRESS AT PARTY PLENUM REPORTED LD271953 Belgrade TANJUG in English 1738 GMT 27 Jan 87 [Text] Moscow, Jan 27 (TANJUG) -- The chief criterion of cadre policy of the Communist Party of the Soviet Union is the cadres' relationship towards the pa…"
+  }
+ },
+ {
+  "md": "01-27",
+  "date": "1995-01-27",
+  "regions": [
+   "EEU",
+   "NES",
+   "EAS",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "auschwitz",
+    "oswiecim"
+   ],
+   [
+    "anniversary",
+    "liberation"
+   ]
+  ],
+  "headline": "Auschwitz marks fifty years since its liberation",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 27 January 1995 survivors and heads of state gathered at Auschwitz-Birkenau to mark the fiftieth anniversary of the camp's liberation by the Red Army, with Polish President Lech Walesa as host.",
+  "significance": "The commemoration was the first at Auschwitz held in a free Poland with the leaders of Germany and Israel present, and the planning was marked by disputes over how far the ceremony would name the Jewish victims who were the great majority of those murdered there.",
+  "fbis": "The East Europe Daily Report of January 27, 1995, carried Warsaw TV Polonia's live broadcasts of President Walesa's two speeches at the Auschwitz-Birkenau ceremony for the 50th anniversary of the camp's liberation.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_1216",
+   "issue_date": "1995-01-27",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 018, 27 January 1995",
+   "page": 19,
+   "snippet": "M4 POLAND Walesa Addresses Auschwitz Commemoration Ceremony LD2701110495 Warsaw TV Polonia Network in Polish 0927 GMT 27 Jan 95 [Speech by Polish President Lech Walesa to a commem- oration ceremony at the Auschwitz-Birkenau concentra- tion camp—live] [FBIS…"
+  }
+ },
+ {
+  "md": "01-02",
+  "date": "1993-01-02",
+  "regions": [
+   "EEU",
+   "NES",
+   "LAT",
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "owen"
+   ],
+   [
+    "vance"
+   ],
+   [
+    "geneva",
+    "plan",
+    "map"
+   ]
+  ],
+  "window": 400,
+  "headline": "Vance and Owen put their peace plan for Bosnia on the table",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On January 2, 1993, at talks in Geneva, the cochairmen of the international conference on the former Yugoslavia, Cyrus Vance for the UN and Lord Owen for the European Community, presented the leaders of Bosnia's three warring sides with a plan dividing the republic into ten largely autonomous provinces.",
+  "significance": "The Vance-Owen plan was the main international attempt to end the Bosnian war in 1993. The new Clinton administration was cool toward it, the Bosnian Serb assembly rejected it in May, and the war went on until Dayton in 1995.",
+  "fbis": "The East Europe report of January 4, 1993, carried TANJUG from Geneva: the three Bosnian leaders were shown two maps, the one Vance and Owen had presented the day before and a rival from Izetbegovic, and the Croat leader Mate Boban objected from the start.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0690",
+   "issue_date": "1993-01-04",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 001, 04 January 1993",
+   "page": 6,
+   "snippet": "…ina. At today’s second session of the political group, the participants were presented with two maps—yesterday’s one proposed by the cochairmen of the Geneva confer- ence on former Yugoslavia, Cyrus Vance and Lord David Owen, and a map proposed by Alija Izetbegovic. Sparks flared in the very beginning of the talks. The leader of the Bosnian Croats, Mate Boban, objected to the name of Izetbegovic’s proposal. The Muslim leader presented his m…"
+  }
+ }
+]

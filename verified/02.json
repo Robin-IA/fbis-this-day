@@ -1,0 +1,1911 @@
+[
+ {
+  "md": "02-01",
+  "date": "1979-02-01",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "khomeyni",
+    "khomeini"
+   ],
+   [
+    "return",
+    "arriv"
+   ],
+   [
+    "tehran"
+   ]
+  ],
+  "headline": "Khomeini returns to Iran",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 1 February 1979 Ayatollah Ruhollah Khomeini returned to Tehran after nearly fifteen years in exile, greeted by millions.",
+  "significance": "Within ten days the Shah's last government collapsed. The revolution cost Washington its main regional ally and its intelligence posts in Iran.",
+  "fbis": "The Middle East & North Africa contents for February 1979 listed, under Iran, Bakhtiar addressing the nation before Khomeyni's return, Tehran's preparations for his arrival, \"Tehran Radio Reports Khomeyni's Arrival 1 Feb\", and an AFP item that he would proclaim a \"revolutionary government\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0277",
+   "issue_date": "1979-02-01",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Table of Contents, Vol. V No. 023-041, February 1979",
+   "page": 4,
+   "snippet": "…emark [31 Jan] Report Issued on Demonstrations, Attack on General Latifi Ministry Announces Pre-1955 Papers May Resume Publication Atomic Organization Ends Foreign Employees! Contracts Bakhtiar Addresses Nation Prior to Khomeyni'e Return Tehran Reports Preparations for Khomeyni's Arrival Tehran Military Governor Issues Communique on Meetings Kerman Police Chief Seriously Wounded in Shooting Striking Tehran Broadcasters Called In Committee Prepa…"
+  }
+ },
+ {
+  "md": "02-01",
+  "date": "1992-02-01",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "camp david"
+   ],
+   [
+    "yeltsin"
+   ],
+   [
+    "bush"
+   ]
+  ],
+  "headline": "Bush and Yeltsin declare end of Cold War rivalry at Camp David",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 1 February 1992 Presidents Bush and Yeltsin met at Camp David and issued a declaration that Russia and the United States no longer regarded each other as potential adversaries.",
+  "significance": "It was the first US-Russian summit after the Soviet Union's dissolution, and set the tone for early post-Soviet cooperation.",
+  "fbis": "The Central Eurasia Daily Report of 3 February 1992 carried a Moscow commentary comparing the Washington and Moscow arms-cut packages ahead of Camp David, saying the two leaders could now hold their dialogue there \"not in secret\"; the excerpt previews the meeting rather than reporting its declaration.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_1177",
+   "issue_date": "1992-02-03",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 022, 3 February 1992",
+   "page": 8,
+   "snippet": "…e world over the fate of the nuclear potential of the former Soviet Union. Now that the leaders of the two major nuclear powers have placed their cards on the table in advance, they will be able to conduct a dialogue at Camp David not in secret, but taking fully into account the comments toth of their own peoples and of the world communit ."
+  }
+ },
+ {
+  "md": "02-02",
+  "date": "1982-02-02",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "hama",
+    "hamah"
+   ],
+   [
+    "muslim brother",
+    "brotherhood",
+    "gang",
+    "rebel"
+   ]
+  ],
+  "headline": "Syrian forces besiege Hama",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 2 February 1982 an uprising by the Muslim Brotherhood in the Syrian city of Hama began, and Hafiz al-Asad's forces crushed it over the following weeks, killing thousands.",
+  "significance": "The Hama massacre ended the Islamist challenge to Asad for a generation. Damascus media largely kept silent about it.",
+  "fbis": "The Middle East & Africa Daily Report of 4 February 1982 carried Beirut's Voice of Lebanon reporting that Hamah had been encircled and under shelling and explosions since midnight, with dead seen on roads into the city and unrest spreading to Aleppo; the reasons were \"not yet clear\".",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176908_1102",
+   "issue_date": "1982-02-04",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 024, 4 February 1982",
+   "page": 30,
+   "snippet": "V. 4 Feb 82 VOL NOTES DISTURBANCES IN HAMAH, ALEPPO NCO31818 Beirut Voice of Lebanon in Arabic 1715 GMT 3 Feb 82 [Text] Reports reaching the Voice of Lebanon indicate that the Syrian town of Hamah has been the scene of explosions and artillery shelling which sta…"
+  }
+ },
+ {
+  "md": "02-02",
+  "date": "1990-02-02",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "de klerk"
+   ],
+   [
+    "anc",
+    "african national congress"
+   ],
+   [
+    "ban",
+    "legaliz",
+    "unban"
+   ]
+  ],
+  "headline": "De Klerk unbans the ANC",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 2 February 1990 South African President F. W. de Klerk lifted the ban on the African National Congress and other organizations and announced that Nelson Mandela would be released.",
+  "significance": "The speech began the dismantling of apartheid and the negotiations that led to majority rule in 1994.",
+  "fbis": "The Soviet Union Daily Report of 5 February 1990 carried a Moscow TASS text of a Soviet Foreign Ministry statement welcoming de Klerk's decision to free Mandela and lift the ban on the ANC and Communist Party as \"a step in the right direction\", while urging an end to the state of emergency.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0691",
+   "issue_date": "1990-02-05",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 024, 5 February 1990",
+   "page": 35,
+   "snippet": "…TASS in English 1912 GMT 2 Feb 90 [Text] Moscow February 2 TASS—Follows a full text of an official statement of a Soviet Foreign Ministry spokesman issued tonight. ““Good news came from South Africa. President Frederik de Klerk of South Africa announced in parliament the government's decision to release from prison soon Nelson Mandela, a prominent figure of the national liberation movement and leader of the African National Congress, to lift a…"
+  }
+ },
+ {
+  "md": "02-03",
+  "date": "1989-02-03",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "stroessner"
+   ],
+   [
+    "rodriguez"
+   ],
+   [
+    "coup",
+    "overthrow",
+    "ousted",
+    "uprising",
+    "revolt"
+   ]
+  ],
+  "headline": "Stroessner overthrown in Paraguay",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 3 February 1989 General Andres Rodriguez overthrew Paraguay's dictator Alfredo Stroessner in an overnight coup, ending 34 years of rule.",
+  "significance": "Stroessner had been one of the Cold War's longest-ruling anti-communist dictators in the hemisphere. Paraguay began a slow transition to elected government.",
+  "fbis": "The Latin America Daily Report of 3 February 1989 carried a Havana Radio Rebelde commentary hailing the fall of \"the oldest dictatorship in the continent\": General Rodriguez's ouster of Stroessner, cast as a move by the military and Colorado Party without the real opposition.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176906_1337",
+   "issue_date": "1989-02-03",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 022, 3 February 1989",
+   "page": 10,
+   "snippet": "…io Rebelde Network in Spanish 1143 GMT 3 Feb 89 [Station commentary by Orlando Contreras during “Haciendo Radio” program] [Text] The oldest dictatorship in the continent was toppled this morning when 76-year old Alfredo Stroessner, who was being treated for cancer and a severe cardiac condition, was removed from office in a bloody riot by General Andres Rodriguez, chief of the I Army Corps, the principal military contingent in the country. Accord…"
+  }
+ },
+ {
+  "md": "02-04",
+  "date": "1992-02-04",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "venezuela",
+    "caracas"
+   ],
+   [
+    "coup",
+    "uprising",
+    "insurrect",
+    "rebel"
+   ]
+  ],
+  "headline": "Hugo Chavez leads failed coup in Venezuela",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 4 February 1992 army officers led by Lieutenant Colonel Hugo Chavez attempted to overthrow President Carlos Andres Perez; the coup failed within hours and Chavez surrendered on television.",
+  "significance": "The attempt revealed the fragility of one of Latin America's oldest democracies and made Chavez a national figure who would be elected president in 1998.",
+  "fbis": "The Latin America Daily Report of February 5, 1992, carried Latin American presidents backing President Perez and Buenos Aires TELAM on the Rio Group condemning the attempted coup in Venezuela, with Bolivia seeking an emergency OAS session.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176907_0259",
+   "issue_date": "1992-02-05",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 024, 5 February 1992",
+   "page": 6,
+   "snippet": "…Andres Rodriguez (Pazaguay), and Luis Alberto Lacalle (Uruguay). Bolivian Foreign Minister Carlos Iturraide has said that Bolivia will request the holding of an emergency OAS session to express institutional support for Venezuelan democracy and to block future events similar the one that occurred in the predawn hours of today in Caracas. Rio Group Condemns Attempted Coup in Venezuela PY0402220892 Buenos Aires TELAM in Spanish 1839 GMT 4 Feb 92 […"
+  }
+ },
+ {
+  "md": "02-05",
+  "date": "1994-02-05",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "market"
+   ],
+   [
+    "sarajevo"
+   ],
+   [
+    "shell",
+    "mortar",
+    "massacre",
+    "explosion"
+   ]
+  ],
+  "headline": "Mortar shell kills dozens in Sarajevo market",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 5 February 1994 a mortar shell struck the Markale open-air market in Sarajevo, killing 68 people.",
+  "significance": "The massacre prompted a NATO ultimatum for the withdrawal of Serb heavy weapons from around Sarajevo, the first step toward NATO military involvement in Bosnia.",
+  "fbis": "The East Europe Daily Report of 7 February 1994 carried Paris AFP on Lord Owen, after meeting Milosevic, saying \"nobody but a fool\" wanted air strikes in retaliation for the Saturday mortar attack on a Sarajevo market that killed 68 people, but nobody could go on tolerating it either.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0963",
+   "issue_date": "1994-02-07",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 025, 7 February 1994",
+   "page": 6,
+   "snippet": "…ation in which as many people can lose their lives as it happened Saturday in Sarajevo,” Owen said following a meeting with Serbian President Slobodan Milosevic. The mortar attack Saturday occurred in a crowded Sarajevo market killing 68 people and injuring about 200. Owen said his meeting with Milosevic centered on what could be done to avoid a similar tragedy in the future. He added that the meeting to be held Thursday in Geneva between Bos…"
+  }
+ },
+ {
+  "md": "02-06",
+  "date": "1989-02-06",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "round table",
+    "roundtable"
+   ],
+   [
+    "solidarity"
+   ],
+   [
+    "talk",
+    "begin",
+    "began",
+    "open"
+   ]
+  ],
+  "headline": "Round Table talks open in Poland",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 6 February 1989 Poland's Communist government and the Solidarity opposition opened Round Table negotiations in Warsaw.",
+  "significance": "The talks produced semi-free elections in June 1989 and the first non-communist-led government in the Soviet bloc.",
+  "fbis": "The East Europe Daily Report of 6 February 1989 carried Warsaw PAP in English announcing that the Roundtable talks would open on 6 February and be broadcast at prime time, with Lech Walesa telling KURIER POLSKI he would not give up pluralism, Solidarity included.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_1245",
+   "issue_date": "1989-02-06",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 023, 6 February 1989",
+   "page": 26,
+   "snippet": "FBIS-EEU-89-023 6 February 1989 Roundtable Talks Set To Open 6 Feb in Warsaw Radio, TV To Air Talks LD0502221389 Warsaw PAP in English 2120 GMT 5 Feb 89 [Text] Warsaw, Feb 5—Roundtable talks are due to start at the Council of Ministers here at 14:00 hrs Warsaw t…"
+  }
+ },
+ {
+  "md": "02-07",
+  "date": "1986-02-07",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "duvalier"
+   ],
+   [
+    "left",
+    "fled",
+    "flee",
+    "departure",
+    "exile"
+   ]
+  ],
+  "headline": "Jean-Claude Duvalier flees Haiti",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 7 February 1986 Haitian dictator Jean-Claude Duvalier fled to France aboard a US Air Force plane after weeks of protest.",
+  "significance": "The fall of 'Baby Doc' ended 29 years of Duvalier family rule in Haiti but began years of military-dominated instability.",
+  "fbis": "The Latin America Daily Report of February 10, 1986, listed under Haiti Duvalier's recorded message aired after his departure, Namphy explaining the takeover, looting and a curfew, the dissolution of parliament, and plans to disband the Tontons Macoutes.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176906_0277",
+   "issue_date": "1986-02-10",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 027, 10 February 1986",
+   "page": 4,
+   "snippet": "…Report Castro Remarks Fidel, Raul Castro Address 7 Feb PCC Congress Opening Session Fidel Castro Names PCC Officials Central Committee, Alternates Named Raul Castro Address Fidel Castro's Closing Speech CARIBBEAN HAITI Duvalier Recorded Message Aired After Departure Namphy Explains Takeover, Appeals for Calm Violence, Looting Reported; Cabinet Appointed Curfew Imposed for Third Consecutive Day Council Announces Dissolution of Parliament New Go…"
+  }
+ },
+ {
+  "md": "02-07",
+  "date": "1990-02-07",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "article 6",
+    "leading role",
+    "monopoly"
+   ],
+   [
+    "plenum",
+    "central committee"
+   ]
+  ],
+  "headline": "Soviet Communist Party gives up its monopoly",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 7 February 1990 the CPSU Central Committee agreed to give up the party's constitutional monopoly on power under Article 6 of the Soviet constitution.",
+  "significance": "The decision opened the way to a multiparty system and marked a decisive step in the unravelling of Communist rule in the USSR.",
+  "fbis": "The Soviet Union Daily Report of February 8, 1990, carried Hamburg DPA reporting that the CPSU Central Committee approved abandoning the party's constitutional power monopoly, with TASS's information report on the plenum.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176915_0695",
+   "issue_date": "1990-02-08",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 027, 8 February 1990",
+   "page": 45,
+   "snippet": "…rently won a con- vincing victory in his reform efforts. According to a well-informed member of the PRAVDA staff, the CPSU Central Committee today approved by an overwhelming majority an abandonment of the party’s power monopoly, which is established in the constitution. The journalist said that 249 Central Committee mem- bers approved the discussion proposal for the coming congress, submitted by Gorbachev, in which the removal of Article 6 is…"
+  }
+ },
+ {
+  "md": "02-07",
+  "date": "1995-02-07",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "yousef",
+    "yusuf"
+   ],
+   [
+    "arrest",
+    "extradit",
+    "captur"
+   ],
+   [
+    "islamabad",
+    "pakistan"
+   ]
+  ],
+  "headline": "Ramzi Yousef arrested in Pakistan",
+  "category": "terrorism",
+  "spycraft": true,
+  "summary": "On 7 February 1995 Ramzi Yousef, wanted for the 1993 World Trade Center bombing, was arrested in Islamabad by Pakistani agents and US officials and flown to the United States.",
+  "significance": "His capture followed a tip from an informant and a worldwide manhunt. It was an early case of rendering a terrorism suspect to the US for trial.",
+  "fbis": "The Near East & South Asia Daily Report of 9 February 1995 carried Hong Kong AFP quoting Pakistan's Foreign Office that Ramzi Ahmed Yusuf, arrested in Islamabad and flown to the United States over the 1993 World Trade Center bombing, was an Iraqi national on Interpol's \"red alert list\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176911_0205",
+   "issue_date": "1995-02-09",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 027, 9 February 1995",
+   "page": 74,
+   "snippet": "…horities said Thursday [9 February] the suspect they extradited to the United States in connec- tion with the 1993 Worid Trade Centre bombings was an Iraqi national. A Foreign Office spokesman here said that Ramzi Ahmed Yusuf, who was flown to the United States Tuesday, was arrested in Islamabad a few days ago. “Papers showed that he is an Iraqi national,” the spokesman said. FBIS-NES-95-027 9 February 1995 Asked if the government was convin…"
+  }
+ },
+ {
+  "md": "02-08",
+  "date": "1983-02-08",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "kahan"
+   ],
+   [
+    "commission",
+    "report"
+   ]
+  ],
+  "headline": "Kahan Commission blames Sharon for Sabra and Shatila",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 8 February 1983 Israel's Kahan Commission published its report on the Sabra and Shatila massacres, finding Defence Minister Ariel Sharon personally responsible for ignoring the danger of bloodshed.",
+  "significance": "Sharon resigned as defence minister. The report was a rare official reckoning with the conduct of the Lebanon war.",
+  "fbis": "The Middle East & Africa Daily Report of 8 February 1983 listed \"Kahan Commission Findings Elicit Reaction\" under Lebanon, with Ihdin radio and Radio Free Lebanon comment, and under Israel a run of reportage on the inquiry's findings on major figures, Yaron's comments and coalition reactions.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176909_0083",
+   "issue_date": "1983-02-08",
+   "region": "NES",
+   "title": "FBIS DAILY REPORT—Middle East & Africa, Vol. V No. 027, 8 February 1983",
+   "page": 6,
+   "snippet": "…ting Future Relations Discussed Jordan Reportedly To Join Talks in Mid-February [London ASH-SHARQ AL-AWSAT 7 Feb] AR-RA'Y Attacks Village Leagues’ U.S. Visit Husayn Confers With Bangladesh's Ershad Departs 7 Feb LEBANON Kahan Commission Findings Elicit Reaction Ihdin Radio on Findings Radio Free Lebanon Comments Al-Jumayyil Calls Israeli Conditions 'Impossible' Remote-Controlled Rockets Fired at Khaldah Hotel VOL Reports on Signing of Agreem…"
+  }
+ },
+ {
+  "md": "02-09",
+  "date": "1984-02-09",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "andropov"
+   ],
+   [
+    "died",
+    "death",
+    "passed away",
+    "funeral"
+   ]
+  ],
+  "headline": "Yuri Andropov dies",
+  "category": "politics",
+  "spycraft": true,
+  "summary": "On 9 February 1984 Soviet leader Yuri Andropov, who had headed the KGB for fifteen years before succeeding Brezhnev, died after fifteen months in office.",
+  "significance": "Andropov was the first KGB chairman to become party leader. His death, announced the next day, brought the elderly Konstantin Chernenko to power.",
+  "fbis": "The Soviet Union Daily Report of February 10, 1984, listed a section on the death of Andropov: the official announcement, TASS, Moscow radio and TV reports, TANJUG on the cause of death, and Soviet media behavior on February 10.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176914_0425",
+   "issue_date": "1984-02-10",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 029, 10 February 1984",
+   "page": 4,
+   "snippet": "…MERICA & CARIBBEAN Shultz' L. American Tour 'No Benefit to Relations' [Chigir] Bolivian Strike Part of U.S. 'Destabilization' [Mnatsakanov] Demichev Holds Talks With Cuba's Hart [PRAVDA 10 Feb] NATIONAL AFFAIRS DEATH OF ANDROPOV Official Announcement on Death of Yuriy Andropov TASS Reports Death Moscow Radio Announces Death Moscow TV Reports Death TANJUG Reports Cause of Andropov Death Soviet Central Media Behavior on 10 February France's Cheys…"
+  }
+ },
+ {
+  "md": "02-09",
+  "date": "1991-02-09",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "lithuania"
+   ],
+   [
+    "poll",
+    "referendum",
+    "plebiscite",
+    "survey"
+   ]
+  ],
+  "headline": "Lithuanians vote for independence",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 9 February 1991 Lithuanians voted overwhelmingly for an independent, democratic state in a poll Moscow declared invalid.",
+  "significance": "The vote, weeks after the Vilnius killings, pre-empted Gorbachev's all-union referendum on preserving the USSR.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 0 issue(s)",
+   "tried": []
+  }
+ },
+ {
+  "md": "02-10",
+  "date": "1990-02-10",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "kohl"
+   ],
+   [
+    "gorbachev"
+   ],
+   [
+    "unity",
+    "unification",
+    "reunification"
+   ]
+  ],
+  "headline": "Gorbachev accepts German unity in talks with Kohl",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 10 February 1990 Chancellor Helmut Kohl said after talks in Moscow that Gorbachev had agreed that the Germans themselves should decide on unity.",
+  "significance": "Moscow's acceptance removed the main obstacle to German unification, which took place in October 1990.",
+  "fbis": "The Soviet Union Daily Report of February 12, 1990, carried a report that Shevardnadze briefed Warsaw Treaty foreign ministers on Gorbachev's Sunday talks with Kohl and Genscher, with the ministers saying German reunification required particular responsibility.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176915_0697",
+   "issue_date": "1990-02-12",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 029, 12 February 1990",
+   "page": 9,
+   "snippet": "…a treaty on reducing conventional armed forces in Europe this year. FBIS-SOV-90-029 12 February 1990 Shevardnadze gave a thorough account of president Mikhail Gorbachev's talks in Moscow on Sunday with Chancellor Helmut Kohl of West Germany and with West German Foreign Minister Hans-Dietrich Gen- scher. In this connection the foreign ministers stressed that the German reunification issue required particular respon- sibility and a well thoug…"
+  }
+ },
+ {
+  "md": "02-11",
+  "date": "1979-02-11",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "army"
+   ],
+   [
+    "neutral"
+   ],
+   [
+    "bakhtiar",
+    "bakhtiyar"
+   ]
+  ],
+  "headline": "Iranian army declares neutrality; revolution triumphs",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 11 February 1979 Iran's military declared itself neutral, Prime Minister Shapur Bakhtiar's government fell and revolutionaries took control of Tehran.",
+  "significance": "The date is marked in Iran as the victory of the Islamic Revolution. The new regime soon turned against the United States.",
+  "fbis": "The Soviet Union Daily Report of 12 February 1979 carried Moscow World Service in English on 11 February: Iran's Supreme Military Council declared neutrality and sent troops to barracks, and Tehran was then \"practically in the hands of the insurgents\", who seized the government residence and television station.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176913_0158",
+   "issue_date": "1979-02-12",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 030, 12 February 1979",
+   "page": 47,
+   "snippet": "III, 12 Feb 79 F 7 USSR INTERNATIONAL AFFAIRS MIDDLE EAST & NORTH AFRICA Tehran Calmer After Army Withdrawal ID111840 Moscow World Service in English 1500 GMT 11 Feb 79 ID [Text] Today Iran's Supreme Military Council withdrew its support of Premier Shahpur Bakhtiar, The council said that it had unanimously decided t…"
+  }
+ },
+ {
+  "md": "02-11",
+  "date": "1986-02-11",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "shcharanskiy",
+    "shcharansky",
+    "sharansky",
+    "shcharanski"
+   ],
+   [
+    "exchange",
+    "swap",
+    "bridge",
+    "glienicke",
+    "released",
+    "freed"
+   ]
+  ],
+  "headline": "Shcharansky freed in Glienicke Bridge spy swap",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 11 February 1986 Soviet dissident Anatoly Shcharansky walked across the Glienicke Bridge between West Berlin and Potsdam, freed in an exchange that also traded several Western-held Eastern bloc agents for people held in the East.",
+  "significance": "Moscow had convicted Shcharansky of spying for the CIA, a charge Washington denied. The swap was the most celebrated exchange on the 'bridge of spies'.",
+  "fbis": "The Soviet Union Daily Report of 11 February 1986 carried Hamburg DPA's account of the East-West \"agent\" exchange on Berlin's Glienicke Bridge: Shcharanskiy handed over and driven off in the U.S. ambassador's car, alongside the Koechers, Zemlyakov and others traded by the West.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176914_0983",
+   "issue_date": "1986-02-11",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 028, 11 February 1986",
+   "page": 11,
+   "snippet": "…bridge which links West Berlin and the GDR amid worldwide media interest and with a wide area cordoned off. The most prominent figure on the exchange list, made known on Monday, is Soviet civil rights activist Anatoliy Shcharanskiy, 37. From the Eastern side, the release of two prisoners from GDR prisons, Dietrich Niestroj and Wolf Georg Frohn, who had been sentenced to life imprisonment for activity as agents for the West, was also planned. Jaros…"
+  }
+ },
+ {
+  "md": "02-11",
+  "date": "1990-02-11",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "mandela"
+   ],
+   [
+    "release",
+    "freed",
+    "free"
+   ]
+  ],
+  "headline": "Nelson Mandela freed",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 11 February 1990 Nelson Mandela walked out of Victor Verster prison after 27 years in custody.",
+  "significance": "His release launched the negotiations that ended apartheid.",
+  "fbis": "The East Europe Daily Report of 12 February 1990 carried East Berlin ADN: the GDR Foreign Ministry welcomed Mandela's release \"with deep satisfaction\" as a strong impulse toward democratic change in South Africa, and floated future relations with a changed South Africa.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_0032",
+   "issue_date": "1990-02-12",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 029, 12 February 1990",
+   "page": 47,
+   "snippet": "…d East Berlin have coordinated matters on German unity. Modrow also informed Gorbachev prior to the publication of his gradual plan “Germany, united father- land” at the end of January. Foreign Ministry Hails Release of Mandela LD1102154890 East Berlin ADN International Service in German 1526 GMT I1 Feb 90 [Text] Berlin (ADN)—The GDR welcomes with deep satisfaction the release of Nelson Mandela, the leading South African patriot who had been k…"
+  }
+ },
+ {
+  "md": "02-12",
+  "date": "1990-02-12",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "dushanbe"
+   ],
+   [
+    "disorder",
+    "riot",
+    "unrest",
+    "curfew",
+    "emergency"
+   ]
+  ],
+  "headline": "Riots erupt in Dushanbe",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "In mid-February 1990 rioting broke out in Dushanbe, the capital of Soviet Tajikistan, over rumours that Armenian refugees would be given housing; a state of emergency was imposed.",
+  "significance": "The unrest, which left over twenty dead, showed ethnic tensions spreading to Soviet Central Asia.",
+  "fbis": "The Soviet Union Daily Report of 13 February 1990 carried an editorial report on a Moscow Domestic Service broadcast from Dushanbe: rumors that Armenian refugees would get new housing drove a crowd shouting \"Down with Armenians!\" to storm the party Central Committee building, and a state of emergency followed.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0698",
+   "issue_date": "1990-02-13",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 030, 13 February 1990",
+   "page": 87,
+   "snippet": "…t get Ourseives set up and more or less equip ourselves. I have in mind technica! equipment. In our difficult time, this 1s also a problem. Even in the center of the capital Regional Affairs ‘Enraged’ Residents Rally in Dushanbe Five Reportedly Killed LD1302063390 {Editorial Report] Moscow Domestic Service at 0430 GMT on 13 February carnes a five-minute report on the Situation in Dushanbe, Tajikistan, where a state of emergency was declared on…"
+  }
+ },
+ {
+  "md": "02-13",
+  "date": "1984-02-13",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "chernenko"
+   ],
+   [
+    "general secretary"
+   ],
+   [
+    "elect"
+   ]
+  ],
+  "headline": "Chernenko named Soviet leader",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 13 February 1984 a Central Committee plenum elected Konstantin Chernenko general secretary of the CPSU, succeeding Andropov.",
+  "significance": "The ailing 72-year-old's selection reflected the old guard's reluctance to hand power to a younger generation. He lived only another thirteen months.",
+  "fbis": "The Soviet Union Daily Report of 13 February 1984 listed Andropov's mourning and world condolences, then \"Konstantin Chernenko Elected General Secretary\" with the 13 February plenum, Chernenko's speech on \"Ensuring Continuity\", Tikhonov's nomination and a TASS biography.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176914_0426",
+   "issue_date": "1984-02-13",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 030, 13 February 1984",
+   "page": 4,
+   "snippet": "…DELO 11 Feb] Bulgarian Leaders Visit Embassy [Sofia] Hungarian Leaders [Budapest ] W. European Leaders European Leaders, Harriman W. European Communists vuUvUVUUU UU vu UT ae) POLITICAL & SOCIAL DEVELOPMENTS Konstantin Chernenko Elected General Secretary CPSU Central Committee Plenum Held 13 Feb Chernenko Speech at CPSU CC Plenum Cited ‘Ensuring Continuity' ‘Text’ Published Tikhonov Plenum Speech to Nominate Chernenko Chernenko's Biography Repo…"
+  }
+ },
+ {
+  "md": "02-13",
+  "date": "1990-02-13",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "two plus four",
+    "2 plus 4",
+    "2+4",
+    "four plus two",
+    "two-plus-four"
+   ],
+   [
+    "ottawa"
+   ]
+  ],
+  "headline": "Two-plus-Four formula on Germany agreed in Ottawa",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 13 February 1990 the foreign ministers of the two German states and the four wartime Allies agreed in Ottawa to hold 'Two plus Four' talks on the external aspects of German unity.",
+  "significance": "The format led to the treaty of September 1990 that restored full German sovereignty.",
+  "fbis": "The East Europe Daily Report of 15 February 1990 carried Czechoslovak Foreign Minister Dienstbier, interviewed at Ottawa, explaining that a \"two plus four\" system had been agreed for German unification, alongside the new ceiling on Soviet and U.S. troops in Europe.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_0034",
+   "issue_date": "1990-02-15",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 032, 15 February 1990",
+   "page": 21,
+   "snippet": "…of Soviet troops in Czecho- slovakia will be included in its limits. The next question concerned the reunification of Ger- many. Jiri Dienstbier said in this connection: An agreement has also been reached here: A system two plus four will be set up—both German states will be holding talks and at the same time all four victorious powers will be holding talks—so that this entire process is under control, so that it is not only spontaneous but also bas…"
+  }
+ },
+ {
+  "md": "02-13",
+  "date": "1991-02-13",
+  "regions": [
+   "SOV",
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "shelter",
+    "amiriyah",
+    "amiriya",
+    "ameriyah"
+   ],
+   [
+    "baghdad"
+   ],
+   [
+    "civilian",
+    "killed",
+    "dead"
+   ]
+  ],
+  "headline": "US bombs Baghdad's Amiriyah shelter",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 13 February 1991 two US laser-guided bombs struck the Amiriyah air-raid shelter in Baghdad, killing hundreds of civilians.",
+  "significance": "Washington said the bunker was a military command centre. The deaths caused international outrage and led to tighter controls on targets in Baghdad.",
+  "fbis": "The East Asia Daily Report of 14 February 1991 carried Hong Kong AFP from Jakarta: Indonesian Foreign Minister Alatas said the U.S. raid on a Baghdad shelter showed war \"always\" claims innocent victims, as Iraq reported 94 bodies recovered and allied commanders called it a command center.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176901_0338",
+   "issue_date": "1991-02-14",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 9910-02-14: Vol 91 Iss 031-A",
+   "page": 50,
+   "snippet": "…ses Civilian Casualties in Gulf BK 1402151791 Hong Kong AFP in English 1417 GMT 14 Feb 91 [Text] Jakarta, Feb 14 (AFP)}—Indonesian Foreign Min- ister Ali Alatas said Thursday the casualties in a U.S. air raid on a Iraqi shelter showed that war will always make victims of innocent civilians. “It only shows that no matter what, war always result in civilian victims, innocent victims... Even though the war, as the U.S. always says, is only direct…"
+  }
+ },
+ {
+  "md": "02-14",
+  "date": "1979-02-14",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "dubs"
+   ],
+   [
+    "kabul"
+   ],
+   [
+    "kill",
+    "death",
+    "murder",
+    "kidnap"
+   ]
+  ],
+  "headline": "US Ambassador Dubs killed in Kabul",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 14 February 1979 US Ambassador Adolph Dubs was kidnapped in Kabul and killed when Afghan security forces, advised by Soviet officials, stormed the hotel room where he was held.",
+  "significance": "Washington protested the handling of the rescue and cut aid to Afghanistan. The killing deepened the US-Soviet distrust that preceded the invasion that December.",
+  "fbis": "The Middle East & North Africa Daily Report of 14 February 1979 carried Kabul radio's Urdu service account: \"terrorists\" in traffic-police dress seized Ambassador Dubs and held him at the Kabul Hotel, and he was shot when security forces acted; Taraki sent Carter a message of sorrow.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0287",
+   "issue_date": "1979-02-14",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Vol. V No. 032, 14 February 1979",
+   "page": 82,
+   "snippet": "Ve. 14 Feb 79 SOUTH AFGHANISTAN KABUL DESCRIBES ASSASSINATION OF U.S, AMBASSADOR DUBS BK141524 Kabul in Urdu to South Asia 1342 GMT 14 Feb 79 BK {Text] Here is a report we have just received: It is announced with deep regret that some terrorists and enemies of the people of Afghanistan shot dead the U.S.…"
+  }
+ },
+ {
+  "md": "02-14",
+  "date": "1979-02-14",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "embassy"
+   ],
+   [
+    "tehran"
+   ],
+   [
+    "attack",
+    "storm",
+    "occupied",
+    "seiz"
+   ]
+  ],
+  "headline": "Guerrillas briefly seize US Embassy in Tehran",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "On 14 February 1979 leftist guerrillas stormed the US Embassy in Tehran and held its staff for several hours before forces loyal to Khomeini evicted them.",
+  "significance": "The 'Valentine's Day open house' foreshadowed the far longer seizure of November 1979.",
+  "fbis": "The Middle East & North Africa Daily Report of 14 February 1979 carried Tehran Domestic Service: the revolution's provisional staff said \"soldiers of the revolution\" were guarding the U.S. Embassy, and, citing AP, that attackers had taken it over and held 70 Americans including Ambassador Sullivan.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176908_0287",
+   "issue_date": "1979-02-14",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Vol. V No. 032, 14 February 1979",
+   "page": 75,
+   "snippet": "…to the temporary headquarters of the Prime Ministry. The PARS reporter said that he had seen ten blindfolded people who are said to be members of the dissolved SAVAK and had been taken to the ayatollah!s committee, U.S. EMBASSY GUARDED BY 'tSOLDIERS OF REVOLUTION! LD140948 Tehran Domestic Service in Persian 0930 GMT 14 Feb 79 LD (Text ] The provisional staff of the government of Islamic revolution issued its 52d message minutes ago. Here is th…"
+  }
+ },
+ {
+  "md": "02-14",
+  "date": "1989-02-14",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "rushdie"
+   ],
+   [
+    "khomeyni",
+    "khomeini",
+    "death",
+    "sentence"
+   ]
+  ],
+  "headline": "Khomeini issues fatwa against Salman Rushdie",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 14 February 1989 Ayatollah Khomeini issued a religious decree calling for the death of British author Salman Rushdie over his novel The Satanic Verses.",
+  "significance": "Rushdie went into hiding under police protection. The decree led to a break in Iranian-British relations and a long campaign of threats against the book's translators and publishers.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 3 issue(s)",
+   "tried": [
+    "micro_IA1176915_0445",
+    "micro_IA1176906_1347",
+    "micro_IA1176903_1254"
+   ]
+  }
+ },
+ {
+  "md": "02-15",
+  "date": "1989-02-15",
+  "regions": [
+   "LAT",
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "afghan"
+   ],
+   [
+    "withdraw",
+    "last soviet",
+    "pullout",
+    "complet"
+   ]
+  ],
+  "headline": "Last Soviet troops leave Afghanistan",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 15 February 1989 General Boris Gromov crossed the bridge over the Amu Darya, the last Soviet soldier to leave Afghanistan after nine years of war.",
+  "significance": "The withdrawal ended the Soviet Union's longest war, which had become a sink of lives and money and the largest CIA covert-action programme of the Cold War.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 2 issue(s)",
+   "tried": [
+    "micro_IA1176906_1347",
+    "micro_IA1176903_1254"
+   ]
+  }
+ },
+ {
+  "md": "02-16",
+  "date": "1992-02-16",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "musawi",
+    "musavi",
+    "mussawi"
+   ],
+   [
+    "kill",
+    "martyr",
+    "assassin",
+    "raid"
+   ]
+  ],
+  "headline": "Israeli helicopters kill Hizballah leader Abbas Musawi",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "On 16 February 1992 Israeli helicopter gunships attacked the motorcade of Hizballah Secretary General Abbas al-Musawi in southern Lebanon, killing him with his wife and son.",
+  "significance": "The targeted killing was followed by the bombing of the Israeli embassy in Buenos Aires a month later. Musawi's successor was Hassan Nasrallah.",
+  "fbis": "The Near East & South Asia Daily Report of 18 February 1992 opened its Lebanon section with a long run of items on the Hizballah leader killed in an Israeli air attack: Beirut and Tehran radio reports, Hizballah's call for vengeance, a new secretary general, the funeral, and Lebanese and Syrian reaction.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0981",
+   "issue_date": "1992-02-18",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 032, 18 February 1992",
+   "page": 5,
+   "snippet": "…Attack Beirut Radio Reports Attack Tehran Radio Describes Attack Hizballah Reacts to Killing of al-Musaw Radio Issucs Call For Vengeance Official Statement Issued /Vowe of the Stnke, Penod of Mourning Called /' Final al-Musawi Speech Reported /RFI New Secretary General Elected j ‘ Lebanese Government Reacts to Israch Action Al-Husayni, Karam View Attack /)OI Chamber of Deputies Calls for Unnty /1OM Security Council Session Urged /) Ol Ambassa…"
+  }
+ },
+ {
+  "md": "02-17",
+  "date": "1979-02-17",
+  "regions": [
+   "LAT",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "vietnam"
+   ],
+   [
+    "china",
+    "chinese",
+    "peking"
+   ],
+   [
+    "aggression",
+    "attack",
+    "invade",
+    "invasion"
+   ]
+  ],
+  "headline": "China invades Vietnam",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 17 February 1979 Chinese forces attacked across Vietnam's northern border in what Beijing called a punitive war.",
+  "significance": "The month-long war, launched weeks after Deng Xiaoping's visit to Washington, tested the Sino-Soviet split and the Soviet-Vietnamese alliance.",
+  "fbis": "The Latin America Daily Report of February 21, 1979, listed under Cuba a GRANMA editorial condemning the Chinese attack on Vietnam and statements of support for the SRV from workers and mass organizations.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176905_0098",
+   "issue_date": "1979-02-21",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 036, 21 Feb 79",
+   "page": 3,
+   "snippet": "…of Emergency Decree Banana Workers To Resume Work in Southern Region Nicaraguan Guardsmen Die in Clash With Sandinists NICARAGUA Violent Situation Contimes Throughout Country GRANMA Editorial Condemns Chinese Attack on Vietnam Workers, Mass Organizations Express Support for SRV Movement for Peace Statement 21 February 1979 mM nM OO wo Be"
+  }
+ },
+ {
+  "md": "02-17",
+  "date": "1988-02-17",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "higgins"
+   ],
+   [
+    "kidnap",
+    "abduct"
+   ]
+  ],
+  "headline": "US Marine Lt Col Higgins kidnapped in Lebanon",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "On 17 February 1988 Lieutenant Colonel William Higgins, the US Marine officer heading a UN truce observer group in southern Lebanon, was abducted near Tyre.",
+  "significance": "His captors accused him of working for the CIA. He was later killed, and a videotape of his body was released in July 1989.",
+  "fbis": "The Near East & South Asia Daily Report of 19 February 1988 listed under Lebanon \"More on U.S. Kidnapping Victim Lt Col Higgins\", with Voice of Lebanon reporting the kidnappers wanted an exchange and Amal saying it had \"clues\" to the abductors.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176909_1364",
+   "issue_date": "1988-02-19",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 033, 19 February 1988",
+   "page": 4,
+   "snippet": "FBIS-NES-88-033 February 19 1988 Near East & South Asia LEBANON More on U.S. Kidnapping Victim Lt Col Higgins Kidnappers Want Exchange /VOL/ Amal Has ‘Clues’ to Abductors SYRIA Libyan Secretary Received by Economy Minister Information Minister Receives Ambassadors SOUTH ASIA Afghanistan Envoy Rejects Pakistani Call for Interim…"
+  }
+ },
+ {
+  "md": "02-18",
+  "date": "1978-02-18",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "siba'i",
+    "sibai",
+    "sebai",
+    "siba i"
+   ],
+   [
+    "assassin",
+    "kill",
+    "murder"
+   ]
+  ],
+  "headline": "Egyptian editor Yusuf al-Sibai assassinated in Nicosia",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 18 February 1978 the Egyptian editor Yusuf al-Sibai, a close associate of President Sadat, was shot dead in Nicosia by Palestinian gunmen who then took hostages and seized an airliner.",
+  "significance": "The killing was revenge for Sadat's peace initiative toward Israel. It led to the deadly Egyptian commando raid at Larnaca the next day.",
+  "fbis": "The Middle East & North Africa Daily Report of 21 February 1978 opened with Arab reaction to the Cyprus assassination: the PLO denied responsibility, Arafat sent condolences, and a section of materials from Cairo radio and MENA on the killing of as-Siba'i and the hijacking, including Egypt seeking extradition.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0035",
+   "issue_date": "1978-02-21",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & North Africa, Vol. V No. 35, 21 February 1978",
+   "page": 1,
+   "snippet": "…Y: eH ba ee | DAIL bs R ayy ALY Yj “Yj, Vii fy Vol V No 35 Middle East FS North Afi liad TAMOT DA ’\\PRATEC INTER=-ARAB AFFAIR: PLO Denies Responsibility for Cyprus Incident [VOP] ‘Arafat Sends Condolences to AAPSO on As=Siba'i Death Cyrpus Incident Said To Serve As-Sadat's ‘Arafat Presides Over Joint Military ZionisteIsolationist Movements in S. alestinians [VOP} ommand Meeting [VOP] Lebanon Reported [VOP] Slaim Credit for Hebrew University E…"
+  }
+ },
+ {
+  "md": "02-19",
+  "date": "1978-02-19",
+  "regions": [
+   "NES",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "larnaca",
+    "larnaka"
+   ],
+   [
+    "commando"
+   ]
+  ],
+  "headline": "Egyptian commando raid at Larnaca ends in bloodshed",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "On 19 February 1978 Egyptian commandos landed at Larnaca airport to free hostages held on a plane by the killers of Yusuf al-Sibai; Cypriot forces opened fire and fifteen commandos died.",
+  "significance": "The botched raid led Egypt to break relations with Cyprus.",
+  "fbis": "The Middle East & North Africa Daily Report of 21 February 1978 listed under Egypt the Larnaca raid and its fallout: a \"Fierce Battle\" at Larnaca, Cairo radio saying Cyprus \"interfered\", Cyprus insisting on disarming the commandos, their return to Cairo, and a move to suspend ties.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0035",
+   "issue_date": "1978-02-21",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & North Africa, Vol. V No. 35, 21 February 1978",
+   "page": 2,
+   "snippet": "…on Plane Body of As-Siba'i Flown to Cair: Funeral Held in Cairo Palestinians, 'Arafat Denounced ommando Operation Reported urther Details on Operation 1 Hostages Released iro Radio: Cyrpus 'Interfered! Fierce Battle’ at Larnaca ilim Contacts Cyprus Officials ‘ubarak Contacts Kiprianou information Minister's Statement reign Ministry Official's Statement yprus Insists on Disarming Commandos ihali Leaves for Cyprus \"find } ee ee nt nation Ministe…"
+  }
+ },
+ {
+  "md": "02-20",
+  "date": "1988-02-20",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "karabakh"
+   ],
+   [
+    "armenia"
+   ],
+   [
+    "session",
+    "soviet",
+    "request",
+    "appeal",
+    "transfer"
+   ]
+  ],
+  "headline": "Nagorno-Karabakh votes to join Armenia",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 20 February 1988 the regional soviet of Nagorno-Karabakh, an Armenian-majority enclave in Azerbaijan, asked to be transferred to Soviet Armenia.",
+  "significance": "The vote launched the first of the ethnic conflicts that would tear the Soviet Union apart, and a war between Armenia and Azerbaijan.",
+  "fbis": "The Soviet Union Daily Report of 23 February 1988 carried Vienna radio's report that some 50,000 people demonstrated in Yerevan for reintegrating the Karabakh region, about 80 percent Armenian and assigned to Azerbaijan under Stalin; the regional soviet vote itself is not mentioned.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0188",
+   "issue_date": "1988-02-23",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 035, 23 February 1988",
+   "page": 56,
+   "snippet": "…t Armenia Reported AU230817 Vienna Domestic Service in German 0600 GMT 23 Feb 88 [Text] In the capital of the Soviet Republic of Armenia, Yerevan, some 50,000 persons demonstrated for the reintegration of the autonomous Karabakh region [no NATIONAL AFFAIRS date given]. About 80 percent of the inhabitants of the Karabakh region are Armenians. The region was incor- porated into the neighboring Republic of Azerbaijan under Stalin. Uzbek Central Co…"
+  }
+ },
+ {
+  "md": "02-21",
+  "date": "1994-02-21",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "ames"
+   ],
+   [
+    "cia",
+    "central intelligence"
+   ],
+   [
+    "arrest",
+    "spy",
+    "espionage"
+   ]
+  ],
+  "headline": "CIA officer Aldrich Ames arrested as a Russian spy",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 21 February 1994 the FBI arrested Aldrich Ames, a CIA counterintelligence officer, and his wife on charges of spying for Moscow since 1985.",
+  "significance": "Ames had betrayed many US agents in the Soviet Union, at least ten of whom were executed. It was the most damaging penetration in CIA history and strained US-Russian relations.",
+  "fbis": "The Central Eurasia Daily Report of 23 February 1994 carried Moscow ITAR-TASS on the arrest of CIA officer Aldrich Ames and his wife for spying since 1985; Russia's foreign intelligence spokesman declined comment, saying the question \"should be put, rather, to the CIA\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176916_0135",
+   "issue_date": "1994-02-23",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Central Eurasia, No. 036, 23 February 1994",
+   "page": 10,
+   "snippet": "…r Russia LD2302090594 Moscow ITAR-TASS World Service in Russian 0751 GMT 23 Feb 94 [By ITAR-TASS correspondent Andrey Palariya] [Text] Moscow, 23 Feb— The U.S. Government has brought charges against CIA employee Aldrich Ames and his wife Maria Ames, accusing them of spying for the former Soviet Union and then Russia. The U.S. Justice Department said that Ames and his wife were arrested on Monday during a joint operation conducted by the CIA…"
+  }
+ },
+ {
+  "md": "02-22",
+  "date": "1986-02-22",
+  "regions": [
+   "SOV",
+   "LAT",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "enrile"
+   ],
+   [
+    "ramos"
+   ],
+   [
+    "marcos"
+   ]
+  ],
+  "headline": "Enrile and Ramos revolt against Marcos",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 22 February 1986 Defence Minister Juan Ponce Enrile and armed forces vice-chief Fidel Ramos broke with President Ferdinand Marcos, setting off the People Power revolution.",
+  "significance": "Crowds protected the rebels at Camp Aguinaldo. Within three days Marcos, long backed by Washington, had fled.",
+  "fbis": "The Soviet Union Daily Report of 24 February 1986 carried Moscow TASS, citing Reuters, on Marcos's televised claim that Enrile and Ramos were in a plot to oust and kill him, after the two seized the Defense Ministry and declared they were \"breaking up with Marcos\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176914_0995",
+   "issue_date": "1986-02-24",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 036, 24 February 1986",
+   "page": 47,
+   "snippet": "…Philippines President Ferdinand Marcos today told the country in a televised address that a plot to oust and kill him had been uncovered. REUTER reports from Manila that Marcos said National Defence Minister Juan Ponce Enrile and Deputy Chief of Staff Fidel Ramos were implicated in the conspiracy. According to the president, the other senior military commanders remained loyal to the government and were ordered to crush the conspiracy. He cal…"
+  }
+ },
+ {
+  "md": "02-22",
+  "date": "1991-02-22",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "ultimatum",
+    "deadline"
+   ],
+   [
+    "bush"
+   ],
+   [
+    "kuwait"
+   ]
+  ],
+  "headline": "Bush gives Iraq ultimatum to leave Kuwait",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 22 February 1991 President Bush gave Iraq until noon Washington time the next day to begin a large-scale withdrawal from Kuwait.",
+  "significance": "The ultimatum rejected a Soviet peace plan's terms and preceded the coalition ground offensive.",
+  "fbis": "The East Europe Daily Report of 25 February 1991 carried a Czechoslovak radio interview in which President Havel, as the U.S. ultimatum to Iraq ran out, said peaceful attempts seemed exhausted and he fully understood Bush \"expressing himself as forcefully as he has\".",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_0282",
+   "issue_date": "1991-02-25",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 037, 25 February 1991",
+   "page": 28,
+   "snippet": "…knows better than the numerous agitators who appeared, no matter whether they arrived from California or from any other place [ Vejyvoda] Mr. President, you are speaking into our radio microphone at a time when the U.S. ultimatum—f I can call it that—to Iraq and Saddam Husayn that he should begin to withdraw from Kuwait ts just running out This week, there have been a number of diplomatic negots tions regarding the Persian Gulf. Are you followin…"
+  }
+ },
+ {
+  "md": "02-23",
+  "date": "1981-02-23",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "spain",
+    "spanish",
+    "madrid"
+   ],
+   [
+    "coup",
+    "putsch"
+   ],
+   [
+    "civil guard",
+    "cortes",
+    "parliament",
+    "tejero"
+   ]
+  ],
+  "headline": "Civil Guards seize Spain's parliament in failed coup",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 23 February 1981 Lieutenant Colonel Antonio Tejero led Civil Guards into the Spanish parliament and held the deputies hostage; the coup collapsed after King Juan Carlos denounced it on television.",
+  "significance": "The failure of the '23-F' coup consolidated Spain's young democracy.",
+  "fbis": "The Soviet Union Daily Report of 24 February 1981 carried Moscow TASS, citing EFE, on about 200 Civil Guards under Lieutenant Colonel Tejero, \"known by his Francoist views\", storming the Spanish parliament during the vote on Calvo Sotelo, and General Milans del Bosch declaring emergency in Valencia.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176913_0695",
+   "issue_date": "1981-02-24",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 036, 24 February 1981",
+   "page": 21,
+   "snippet": "SPANISH PARLIAMENT LD240027 Mos TASS in English 0010 GMT 24 Feb 81 Text r , eb, TASS--As is reported by the Spanish news agency EFE, about 200 men in the uniform of ivi uards today made an attempt to seize the national parliame…"
+  }
+ },
+ {
+  "md": "02-23",
+  "date": "1991-02-23",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "thai"
+   ],
+   [
+    "coup",
+    "seiz",
+    "takeover",
+    "took power"
+   ],
+   [
+    "chatchai",
+    "chatichai"
+   ]
+  ],
+  "headline": "Military coup in Thailand",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 23 February 1991 Thailand's military seized power and detained Prime Minister Chatichai Choonhavan.",
+  "significance": "The coup interrupted an elected government and led to the bloody protests of May 1992.",
+  "fbis": "The East Asia Daily Report of 25 February 1991 carried Tokyo KYODO on Japan's reaction to the military coup in Thailand: officials said ties would not be affected and that Japan, Thailand's main aid donor, was unlikely to follow the United States in suspending aid.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176901_0345",
+   "issue_date": "1991-02-25",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1991-02-25: Vol 91 Iss 037",
+   "page": 11,
+   "snippet": "…In fact, MITI is planning to permit domestic oil firms to boost the capacity of secondary refining facilities for production of kerosene and other petroleum products. NORTHEAST ASIA 7 Oficials React to Military Coup in Thailand Unlikely To Affect Ties OM 2302103891 Tokvo KYODO in English 1031 GMT 23 Feb 91 [Text] Tokyo, Feb. 23 KYODO—The military coup in Tha'land on Saturday is not likely to affect Tokyo- Bangkok ties, a Foreign Ministry o…"
+  }
+ },
+ {
+  "md": "02-24",
+  "date": "1991-02-24",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "ground"
+   ],
+   [
+    "offensive",
+    "attack",
+    "operation",
+    "war"
+   ],
+   [
+    "kuwait",
+    "iraq"
+   ]
+  ],
+  "headline": "Coalition ground offensive begins",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 24 February 1991 coalition forces began the ground offensive against Iraqi forces in Kuwait and southern Iraq.",
+  "significance": "Within 100 hours Iraq's army was routed and Kuwait liberated.",
+  "fbis": "The East Europe Daily Report of February 25, 1991, carried a Prague Domestic Service commentary noting that the allies' ground offensive began at 0200 local time and weighing the Soviet peace plan.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176904_0282",
+   "issue_date": "1991-02-25",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 037, 25 February 1991",
+   "page": 27,
+   "snippet": "…ast the situation is changing constantly—at first from one day to the next, and just lately with every passing hour. Up to the last minute there was uncertainty: Would we see a sudden truce or would the allies’ expected ground offensive really happen? As we know, the offensive began at 0200 our time last night. Iraqi President Saddam Husayn’s stubbornness in insisting that he would keep possession of Kuwait was a pointer that the laiter varia…"
+  }
+ },
+ {
+  "md": "02-24",
+  "date": "1996-02-24",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "brothers to the rescue",
+    "hermanos al rescate",
+    "aircraft",
+    "plane",
+    "airplane",
+    "aviones",
+    "avioneta"
+   ],
+   [
+    "shot down",
+    "downed",
+    "shooting down",
+    "airspace"
+   ]
+  ],
+  "headline": "Cuba shoots down Brothers to the Rescue planes",
+  "category": "crisis",
+  "spycraft": true,
+  "summary": "On 24 February 1996 Cuban MiGs shot down two civilian planes of the Miami exile group Brothers to the Rescue, killing four men.",
+  "significance": "Havana had been forewarned by a Cuban agent inside the group. The shootdown led Clinton to sign the Helms-Burton Act tightening the embargo.",
+  "fbis": "The Latin America Daily Report of 26 February 1996 opened its Cuba section with Paris AFP from Miami and Havana: anti-Castro sources confirmed Cuban MiGs downed two Brothers to the Rescue planes, Cuba's Foreign Ministry had no information \"so far\", and exile groups named the crew.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176907_1243",
+   "issue_date": "1996-02-26",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 038, 26 February 1996",
+   "page": 8,
+   "snippet": "FBIS-LAT-96-038 26 February 1996 Cuba Cuba: ‘Anti-Castro Sources’ on Downing of Planes PA2502003496 Paris AFP in Spanish 2340 GMT 24 Feb 96 (FBIS Translated Text] Miami, USA, Feb 24 (AFP) — Anti-Castro sources confirmed to AFP in Miami, that two of the three planes of tie Brothers to the Rescue {Hermanos…"
+  }
+ },
+ {
+  "md": "02-25",
+  "date": "1986-02-25",
+  "regions": [
+   "LAT",
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "marcos"
+   ],
+   [
+    "left",
+    "flee",
+    "fled",
+    "depart",
+    "guam",
+    "hawaii"
+   ]
+  ],
+  "headline": "Marcos flees the Philippines",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 25 February 1986 Ferdinand Marcos fled the Philippines on US aircraft as Corazon Aquino was sworn in as president.",
+  "significance": "The People Power revolution ended twenty years of Marcos rule and became a model for peaceful revolutions elsewhere.",
+  "fbis": "The Eastern Europe Daily Report of February 26, 1986, listed under Romania Ceausescu congratulating Marcos on his reelection (SCINTEIA, February 22); nothing on his flight.",
+  "pick": false,
+  "doubt": "Page shows only a Romanian congratulation on Marcos's reelection, not his fall.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Pre-flight congratulations, not the fall",
+  "evidence": {
+   "identifier": "micro_IA41152803_0333",
+   "issue_date": "1986-02-26",
+   "region": "EEU",
+   "title": "Daily Report, Eastern Europe",
+   "page": 2,
+   "snippet": "Il. 26 Feb 86 EASTERN EUROPE Church's Role in Society Overrated, Inflated {[Pardus in RZECZYWISTOSC 2 Feb] ROMANIA Ceausescu Congratulates Marcos on Reelection [SCINTEIA 22 Feb] Ceausescu Greets Cuba's Castro on Reelection [SCINTEIA 11 Feb] Ceausescu Message Notes Iran National Day [SCINTEIA 11 Feb] 1985 Plan Fulfillment Statistics Released Ceausescu Speech [SCIN…"
+  }
+ },
+ {
+  "md": "02-25",
+  "date": "1990-02-25",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "chamorro"
+   ],
+   [
+    "election",
+    "vote",
+    "won",
+    "victory"
+   ]
+  ],
+  "headline": "Violeta Chamorro defeats the Sandinistas",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 25 February 1990 Violeta Chamorro of the UNO opposition coalition defeated Daniel Ortega in Nicaragua's presidential election.",
+  "significance": "The Sandinistas' acceptance of defeat ended a decade of revolutionary rule and the US-backed Contra war.",
+  "fbis": "The Latin America Daily Report of 26 February 1990 carried an AFP-EFE report from contra camps in Honduras, before results were known, in which commanders vowed not to disarm if Ortega won and said the elections were useful only if Violeta Chamorro won.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176906_1292",
+   "issue_date": "1990-02-26",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 038, 26 February 1990",
+   "page": 14,
+   "snippet": "…ocated just eight km from Nicaragua, are all very interested in what is happening inside Nicaragua. The contras have the general impression that the elec- tions will be useful only if the opposition candidate Violeta de Chamorro wins, but if the votes favor the Sandinist Daniel Ortega, they said they will not lay down their weapons. To this effect, Benito Castro, Commander “Dimas,” emphasized that “the new leadership of the RN is determined eve…"
+  }
+ },
+ {
+  "md": "02-25",
+  "date": "1994-02-25",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "hebron",
+    "al-khalil"
+   ],
+   [
+    "massacre",
+    "mosque"
+   ]
+  ],
+  "headline": "Gunman massacres worshippers in Hebron",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 25 February 1994 Baruch Goldstein, an Israeli settler, opened fire on Muslim worshippers in the Ibrahimi Mosque in Hebron, killing 29.",
+  "significance": "The massacre nearly derailed the Oslo peace process and was followed by the first Hamas suicide bombings inside Israel.",
+  "fbis": "The Near East & South Asia Daily Report of 25 February 1994 carried Cairo MENA citing the Palestinian agency WAFA that victims of the \"massacre at the Ibrahimi Mosque\" exceeded 38 dead and 300 injured, blaming settlers, followed by a PLO statement holding Israel responsible.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_1436",
+   "issue_date": "1994-02-25",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 038, 25 February 1994",
+   "page": 8,
+   "snippet": "…onth, a Palestinian delegation led by Faruq dumi went to Amman and signed within two days a set of agreements at the beginning of January. Now the Pales- tinians seem to be tied by those WAFA Reports Deaths, Injuries in Hebron Mosque Attack NC2502100094 Cairo MENA in Arabic 0905 GMT 25 Feb 94 [Text] Tunis, 25 Feb (MENA)—The Palestinian news agency WAFA, citing its own sources in Hebron, reports that the number of victims in the massacre at th…"
+  }
+ },
+ {
+  "md": "02-26",
+  "date": "1993-02-26",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "world trade center"
+   ],
+   [
+    "explos",
+    "blast",
+    "bomb"
+   ]
+  ],
+  "headline": "Bomb explodes beneath the World Trade Center",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 26 February 1993 a truck bomb exploded in the garage beneath the World Trade Center in New York, killing six people.",
+  "significance": "The bombing, organized by Ramzi Yousef, was the first major foreign terrorist attack on US soil.",
+  "fbis": "The East Europe Daily Report of 1 March 1993 carried Belgrade RTB television: Radovan Karadzic dismissed a claim that a \"Serbian Liberation Front\" bombed New York's World Trade Center, saying Serbs did not want a military intervention and the investigation should be awaited.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0728",
+   "issue_date": "1993-03-01",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 038, 1 March 1993",
+   "page": 65,
+   "snippet": "…ion Front organization, Radovan Karadzic said that Serbs are liberated and do not need such an organization. Concerning the remark that such an organization claimed responsibility for yesterday's explosion in New York’s World Trade Center, Karadzic replied with a question—do you really believe that?—and said that he cannot comment on such assertions. Regarding the reaction presented in the media that Serbs may be responsible for the explosion, Karadzic d…"
+  }
+ },
+ {
+  "md": "02-27",
+  "date": "1980-02-27",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "dominican"
+   ],
+   [
+    "embassy"
+   ],
+   [
+    "bogota"
+   ],
+   [
+    "m-19",
+    "guerrilla",
+    "hostage"
+   ]
+  ],
+  "headline": "M-19 guerrillas seize Dominican Embassy in Bogota",
+  "category": "hostage",
+  "spycraft": false,
+  "summary": "On 27 February 1980 M-19 guerrillas seized the Dominican Republic's embassy in Bogota during a reception, taking about sixty hostages including the US ambassador.",
+  "significance": "The siege lasted 61 days and ended with the guerrillas flying to Cuba with some hostages, who were then freed.",
+  "fbis": "The Latin America Daily Report of 28 February 1980 carried live Bogota radio coverage: about two dozen heavily armed guerrillas stormed the Dominican embassy during its national day reception, taking the diplomatic corps hostage and wounding U.S. Ambassador Asencio, with radio first naming the Workers' Self-Defense Movement.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176905_0357",
+   "issue_date": "1980-02-28",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 041, 28 February 1980",
+   "page": 4,
+   "snippet": ";UERRILLAS SEIZE DOMINICAN EMBASSY; GUNFIRE REPORTED IN 6 Bogota Cedena [Excerpts] Unidentified guerrillas occupied the Dominican Republic Embas and are engaged in an exchange c crossfire with the army and police units. unconfirmed, it was report…"
+  }
+ },
+ {
+  "md": "02-27",
+  "date": "1988-02-27",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "sumgait",
+    "sumgayit"
+   ],
+   [
+    "disorder",
+    "riot",
+    "killed",
+    "victims"
+   ]
+  ],
+  "headline": "Anti-Armenian pogrom in Sumgait",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 27 February 1988 mobs began attacking Armenians in Sumgait, Azerbaijan; Soviet troops restored order after three days of violence.",
+  "significance": "The pogrom, a week after the Karabakh vote, made the Armenian-Azerbaijani conflict violent.",
+  "fbis": "The Soviet Union Daily Report of 1 March 1988 carried a terse Moscow TASS item that \"a group of hooligans\" provoked disturbances in Sumgait on 28 February, followed by \"rampage and violence\", and that order was being restored, next to Yerevan radio on party secretaries touring a plant.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_0193",
+   "issue_date": "1988-03-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 040, 1 March 1988",
+   "page": 46,
+   "snippet": "…that path”. Armenia Calm; Riots Reported in Azerbaijan ‘Rampage and Violence’ LD291352 Moscow TASS in English 1343 GMT 29 Feb 88 [Text] Moscow February 29 TASS—A group of hooli- gans provoked disturbances in the city of Sumgait, Soviet Azerbaijan, on February 28. Rampage and violence followed. Measures have been adopted to normalize the situation in the city and safeguard discipline and public order. An investigation has been launched. Dolgikh…"
+  }
+ },
+ {
+  "md": "02-27",
+  "date": "1991-02-27",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "kuwait"
+   ],
+   [
+    "liberat",
+    "suspen",
+    "cease"
+   ],
+   [
+    "bush"
+   ]
+  ],
+  "headline": "Bush halts the Gulf War",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On the evening of 27 February 1991 President Bush announced that Kuwait was liberated and offensive operations would be suspended.",
+  "significance": "The cease-fire left Saddam Hussein in power, with consequences for the uprisings that followed in Iraq.",
+  "fbis": "The Soviet Union Daily Report of February 28, 1991, carried TASS on Russian deputies welcoming Kuwait's liberation and a Moscow Domestic Service commentary reporting Bush's televised address announcing the suspension of military operations.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176915_0935",
+   "issue_date": "1991-02-28",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 040, 28 February 1991",
+   "page": 17,
+   "snippet": "…Yevgeniy Ambartsumov, people's deputy of Russia and deputy chairman of the republican parliament's Com- mittee for International Affairs and Foreign Econonmic Relations, described the withdrawal of the Iraqi troops from Kuwait as “a great triumph of the international community”. However, “the problem of an overall settlement in the Middle East remains topical. It is perfectly clear that, along with the United States, the Soviet Union should a…"
+  }
+ },
+ {
+  "md": "02-28",
+  "date": "1986-02-28",
+  "regions": [
+   "SOV",
+   "EEU",
+   "NES",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "palme"
+   ],
+   [
+    "murder",
+    "kill",
+    "assassin",
+    "shot"
+   ]
+  ],
+  "headline": "Swedish Prime Minister Olof Palme assassinated",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "Late on 28 February 1986 Swedish Prime Minister Olof Palme was shot dead on a Stockholm street while walking home from a cinema.",
+  "significance": "Palme was a prominent figure in East-West and North-South diplomacy. The killing went unsolved, fuelling theories that included foreign intelligence services.",
+  "fbis": "The Soviet Union contents for March 1986 listed under Western Europe \"Tributes to Olof Palme, Questions About Killing\": an Arbatov tribute in IZVESTIYA, speculation on motives in PRAVDA, a professional killer sought, and a commentary linking the murder to U.S. and Israeli \"terrorism\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176914_1000",
+   "issue_date": "1986-03-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union Tables of Contents, Vol. III No. 041, March 1986",
+   "page": 11,
+   "snippet": "…MES No 5, Feb 86] SOUTHEAST ASIA & PACIFIC Upcoming U.S.-Thai ‘Cobra Gold\" Exercise: [Korolev] Japanese Media Cited on U.S. Spies in Voronezh Plant Hosts Soviet-Vietnamese {[PRAVDA 1 Mar] WESTERN EUROPE Tributes to Olof Palme, Questions About Killing Arbatov Tribute [IZVESTIYA 2 Mar] CDE Session Pays Respects [Vukolov] Speculation on Motives [Aytmatov in PRAVDA 2 Mar] Professional Killer Sought Palme Murder Linked to U.S., Israeli 'Terrorism…"
+  }
+ },
+ {
+  "md": "02-28",
+  "date": "1993-02-28",
+  "regions": [
+   "SOV",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "waco"
+   ],
+   [
+    "sect",
+    "cult",
+    "koresh",
+    "davidian"
+   ]
+  ],
+  "headline": "ATF raid on Branch Davidians at Waco",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 28 February 1993 agents of the US Bureau of Alcohol, Tobacco and Firearms raided the Branch Davidian compound near Waco, Texas; four agents and six Davidians were killed.",
+  "significance": "The raid began a 51-day siege that ended in a deadly fire in April.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 10 issue(s)",
+   "tried": [
+    "micro_IA1176907_0472",
+    "micro_IA1176907_0720",
+    "micro_IA1176915_1356",
+    "micro_IA1176915_1378",
+    "micro_IA1176907_0473",
+    "micro_IA1176915_1357",
+    "micro_IA1176907_0474",
+    "micro_IA1176915_1358",
+    "micro_IA1176907_0475",
+    "micro_IA1176915_1359"
+   ]
+  }
+ },
+ {
+  "md": "02-29",
+  "date": "1984-02-29",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "trudeau"
+   ],
+   [
+    "resign",
+    "retire",
+    "step down",
+    "leave"
+   ]
+  ],
+  "headline": "Pierre Trudeau announces retirement",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 29 February 1984 Canadian Prime Minister Pierre Trudeau announced that he would retire, after a walk in a snowstorm.",
+  "significance": "Trudeau had spent his last months on a personal peace initiative between East and West.",
+  "fbis": "The Soviet Union contents for March 1984 listed, at the end of its United States & Canada heading, \"Canada's Trudeau Announces Plan To Resign\", among Moscow commentaries on Reagan and U.S. defense spending.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176914_0438",
+   "issue_date": "1984-03-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Tables of Contents, Vol. III No. 042-063, March 1984",
+   "page": 2,
+   "snippet": "…ential Mistakes’ Viewed [Mnat sakanov ] Hart Criticism of Foreign Policy ‘Accurate’ [Mnatsakanov] Level of U.S. Spending on Elections, Defense Hit + [Orlov] Supreme Court Upholds Ruling on Soviet Youth [Beglov] Canada's Trudeau Announces Plan To Resign 1 March 1984 AA BB BB"
+  }
+ },
+ {
+  "md": "02-29",
+  "date": "1992-02-29",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bosnia"
+   ],
+   [
+    "referendum"
+   ]
+  ],
+  "headline": "Bosnia votes on independence",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 29 February and 1 March 1992 Bosnia-Hercegovina held a referendum on independence; Bosnian Serbs boycotted it and the vote was overwhelmingly in favour.",
+  "significance": "Barricades went up in Sarajevo as results came in, and war began within weeks.",
+  "fbis": "The East Europe Daily Report of 3 March 1992 led its front page with Zagreb radio: turnout in Bosnia-Hercegovina's independence referendum was 56.31 percent, enough for validity, while the Serbian Democratic Party claimed the barricades thrown up across Sarajevo to hinder the vote.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0539",
+   "issue_date": "1992-03-03",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 041, 3 March 1992",
+   "page": 6,
+   "snippet": "FBIS-EEU-92-041 2 March 1992 FRONT PAGE Yugoslavia Bosnia-Hercegovina—Zagreb radio reports that Mirko Boskovic, chairman of the republic’s electoral commission, stated that voter turnout for the weekend referendum on the republic’s independence was 56.31 percent. “This implies…"
+  }
+ },
+ {
+  "md": "02-29",
+  "date": "1996-02-29",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "sarajevo"
+   ],
+   [
+    "siege"
+   ]
+  ],
+  "headline": "Siege of Sarajevo formally ends",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 29 February 1996 the Bosnian government declared the siege of Sarajevo officially over, as Serb-held suburbs passed to federation control under the Dayton agreement.",
+  "significance": "The siege had lasted nearly four years, the longest of a capital city in modern warfare.",
+  "fbis": "The East Europe Daily Report of 1 March 1996 carried Bosnian Serb SRNA and Sarajevo television items as Serb-held suburbs changed hands: Serbs said to be leaving Serb Sarajevo, a Serb Radical leader urging a hard inter-entity border, and federation assurances to Serbs in Ilijas.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_1497",
+   "issue_date": "1996-03-01",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 042, 1 March 1996",
+   "page": 34,
+   "snippet": "…not come back to Doboj until provisions have been made for the return of the Serb refugees from Tuzla, Gracanica, Zavidovici, Maglaj, Vozuca, and other towns, especially now that a large number of Serbs are leaving Serb Sarajevo. In the circumstances, it is unrealistic to talk about the Croats and Muslims return to Doboj, said Ljubicic and added that this problem must be solved on the state level, not on the local level. UNHCR representatives,…"
+  }
+ },
+ {
+  "md": "02-15",
+  "date": "1978-02-15",
+  "regions": [
+   "AFR",
+   "EEU",
+   "SOV",
+   "NES",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "muzorewa",
+    "sithole",
+    "chirau"
+   ],
+   [
+    "smith"
+   ],
+   [
+    "agree",
+    "settlement"
+   ]
+  ],
+  "headline": "Ian Smith agrees an internal settlement for Rhodesia",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 15 February 1978 Rhodesia's prime minister Ian Smith and three black leaders inside the country, Bishop Abel Muzorewa, the Reverend Ndabaningi Sithole and Chief Jeremiah Chirau, announced agreement on an 'internal settlement' providing for majority rule, without the guerrilla Patriotic Front.",
+  "significance": "The settlement was Smith's attempt to end the war on his own terms. The Patriotic Front of Nkomo and Mugabe rejected it, the war went on, and neither Britain nor the United States recognized the government that followed; the conflict ended only with the Lancaster House agreement of 1979.",
+  "fbis": "The Sub-Saharan Africa Daily Report of February 16, 1978, carried Maputo Domestic Service in Portuguese on the agreement between Ian Smith and the \"Zimbabwean puppets\" Sithole, Muzorewa and Chirau, listing its eight points.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176916_0903",
+   "issue_date": "1978-02-16",
+   "region": "AFR",
+   "title": "FBIS Daily Report: Sub-Saharan Africa, Vol. VIII No. 33, 16 February 1978",
+   "page": 20,
+   "snippet": "…ODESIAN INTERNAL SETTLEMENT ACCORD LD161208Y Maputo Domestic Service in Portuguese 0430 GMT 16 Feb 78 LD/EA [Text] More details have been revealed about the agreement reached between Ian Smith and the Zimbabwean puppets Sithole, Muzorewa and Chirau, on the so-called internal settlement for Rhodesia. The agreement signed by Smith and the puppets covers the retaining, in practice, of the whole colonial structure in Rhodesia. The eight points acc…"
+  }
+ },
+ {
+  "md": "02-15",
+  "date": "1990-02-15",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "britain",
+    "united kingdom",
+    "british"
+   ],
+   [
+    "relations"
+   ],
+   [
+    "madrid",
+    "malvinas",
+    "falkland"
+   ]
+  ],
+  "headline": "Argentina and Britain restore diplomatic relations",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 15 February 1990, meeting in Madrid, Argentina and Britain agreed to restore the diplomatic relations broken off over the 1982 Falklands/Malvinas war, setting aside the question of sovereignty over the islands.",
+  "significance": "The agreement closed the formal breach left by the war while leaving the sovereignty dispute unresolved, under a formula that let both governments keep their claims.",
+  "fbis": "The Latin America Daily Report of February 15, 1990, carried Buenos Aires TELAM quoting the Argentine Foreign Ministry as \"cautiously optimistic\" about the Madrid talks with Britain, with no agreement yet.",
+  "pick": false,
+  "excluded": "Run-up only; talks still under way",
+  "evidence": {
+   "identifier": "micro_IA1176906_1286",
+   "issue_date": "1990-02-15",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 032, 15 February 1990",
+   "page": 36,
+   "snippet": "…sly Optimistic’ on Talks PY1502023290 Buenos Aires TELAM in Spanish 2313 GMT 14 Dec 89 [Text] Buenos Aires, 14 Feb (TELAM)—An Argentine For- eign Ministry source today reported: “Negotiations between Argentina and Great Britain aimed at normalizing diplo- matic relations have made progress but are not finished. The Argentine Government would rather not release any advance information until the talks are over.” This was the Foreign Ministry spo…"
+  }
+ }
+]

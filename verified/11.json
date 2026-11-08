@@ -1,0 +1,1633 @@
+[
+ {
+  "md": "11-01",
+  "date": "1979-11-01",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "natusch"
+   ],
+   [
+    "bolivia"
+   ]
+  ],
+  "headline": "Colonel Natusch Busch seizes power in Bolivia",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 1 November 1979 Colonel Alberto Natusch Busch overthrew Bolivia's interim civilian president, Walter Guevara Arze, only months after elections.",
+  "significance": "The coup cut short Bolivia's return to civilian rule and met a general strike and bloody street resistance; Natusch gave way within about two weeks. It was one of a run of Bolivian coups that made the country a byword for instability in Washington's view of the Andes.",
+  "fbis": "The Latin America Daily Report of 1 November 1979 opened its Bolivia section with a run of coup items: the military ousting President Guevara, Colonel Natusch named as leader and new president, and a presidency spokeswoman condemning the coup.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176905_0278",
+   "issue_date": "1979-11-01",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 213, 1 November 1979",
+   "page": 2,
+   "snippet": "…NACION 27 oct] Economy Minister Optimistic Briefs: Automobile Production Increase Bondo Ww wD BOLIVIA Military Coup Ousts President Guevara ‘Subversive Coup! Reported Armored Regiment Revolt Further on Military Coup Col Natusch Reported Leader Natusch Busch New President Military, Civilians Meet at Government House Pereda Enters Government House Guevara, Aides 'Analyzing! Situation Presidency Spokeswoman Condemns Coup Guevara Calls Coup 'Isola…"
+  }
+ },
+ {
+  "md": "11-01",
+  "date": "1989-11-01",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "czechoslovak",
+    "cssr"
+   ],
+   [
+    "visa",
+    "travel",
+    "border"
+   ],
+   [
+    "gdr citizens",
+    "gdr nationals"
+   ],
+   [
+    "resum",
+    "lift",
+    "reopen",
+    "again"
+   ]
+  ],
+  "headline": "East Germany reopens its border with Czechoslovakia",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 1 November 1989 East Germany lifted the restrictions it had imposed on travel to Czechoslovakia, reopening the route by which thousands of its citizens were reaching the West through Prague.",
+  "significance": "The exodus through Czechoslovakia drained the GDR of young workers and showed that its leadership could no longer hold its population in. Eight days later the Berlin Wall opened.",
+  "fbis": "East Berlin's Voice of GDR reported on 1 November that thousands of GDR citizens had travelled to the CSSR that day after the passport and visa suspension was lifted, with more gathering at the West German embassy in Prague.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176903_1421",
+   "issue_date": "1989-11-02",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 211, 2 November 1989",
+   "page": 56,
+   "snippet": "…ongratulations, will be thoroughly evaluated and will be included in the preparation of the 10th SED Central Committee session and the 12th SED Congress. Egon Krenz. FBIS-EEU-89-211 2 November 1989 *Thousands* Travel to CSSR; More in Embassy AUO111184089 East Berlin Voice of GDR Domestic Service in German 1800 GMT 1 Nov 89 [Text] Thousands of GDR citizens have traveled to the CSSR today, after the temporary suspension of passport- and visa-…"
+  }
+ },
+ {
+  "md": "11-02",
+  "date": "1986-11-02",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "jacobsen"
+   ],
+   [
+    "release",
+    "freed"
+   ]
+  ],
+  "headline": "American hostage David Jacobsen freed in Beirut",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "On 2 November 1986 Islamic Jihad released David Jacobsen, director of the American University Hospital in Beirut, after some seventeen months in captivity.",
+  "significance": "Jacobsen's release was a product of the secret US arms sales to Iran. Within days a Lebanese magazine exposed the dealings, opening the Iran-Contra affair.",
+  "fbis": "The Middle East & South Asia review of 3 November 1986 relayed AFP's report of Islamic Jihad's release statement, which held the US government \"entirely responsible\" if it failed to pursue a solution to the hostage issue.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176912_0999",
+   "issue_date": "1986-11-03",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 212, 3 November 1986",
+   "page": 2,
+   "snippet": "FBIS MIDDLE EAST & SOUTH ASIA DAILY REPORT REVIEW 3 NOVEMBER 1986 Lebanon Hostage's Release The Islamic Jihad f U.S. hostage David Jacobsen in om! reported by AFP 2 November, stressing that it holds the Government “entirely respensible” for what happens if the latter fails to take this opportunity “to continue what it has begun to find a solution to the hos…"
+  }
+ },
+ {
+  "md": "11-03",
+  "date": "1986-11-03",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "mcfarlane"
+   ],
+   [
+    "tehran",
+    "iran"
+   ]
+  ],
+  "headline": "Beirut magazine exposes McFarlane's secret trip to Tehran",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "On 3 November 1986 the Beirut weekly Ash-Shiraa reported that former US National Security Adviser Robert McFarlane had secretly visited Tehran, revealing American arms sales to Iran.",
+  "significance": "The story broke open the Reagan administration's covert arms-for-hostages dealings with Iran, contradicting its public embargo and its refusal to bargain with hostage-takers. It led within weeks to the discovery that profits had been diverted to the Nicaraguan contras.",
+  "fbis": "FBIS's regional review reported that Majlis Speaker Hashemi-Rafsanjani, speaking at a Tehran rally on the embassy seizure anniversary, gave details of McFarlane's visit, saying the Americans had arrived in a cargo plane bearing a message from Reagan.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA41152803_0466",
+   "issue_date": "1986-11-04",
+   "region": "NES",
+   "title": "Daily Report: Middle East & South Asia Review",
+   "page": 18,
+   "snippet": "…EAST & SOUTH ASIA REVIEW 5 NOVEMBER 1986 Ata rally marking the seventh anniversary of the seizure of the U.S. Embassy, Majlis Speaker ‘Ali Akbar Hashemi-Rafsanjani disclosed details of an alleged visit to Iran by Robert McFarlane and several other special security advisers to President Reagan, claiming that the Americans arrived in a cargo plane and asked permission to deliver a message from Reagan to Iranian leaders. According to Hashemi-Rafsan…"
+  }
+ },
+ {
+  "md": "11-03",
+  "date": "1988-11-03",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "maldiv"
+   ],
+   [
+    "mercenar",
+    "coup",
+    "attempt"
+   ]
+  ],
+  "headline": "Mercenaries attempt a coup in the Maldives; India intervenes",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 3 November 1988 Sri Lankan Tamil mercenaries attacked Male in an attempt to overthrow President Maumoon Abdul Gayoom. Indian paratroops flown in that night put down the attempt.",
+  "significance": "India's swift intervention, at Gayoom's request, showed New Delhi acting as the security guarantor of the Indian Ocean region, and Washington and London welcomed it.",
+  "fbis": "Delhi radio's English service reported on the morning of 3 November that unidentified gunmen had attacked the presidential palace in Male, and that President Gayoom and his ministers were safe.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176910_0168",
+   "issue_date": "1988-11-03",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 213, 3 November 1988",
+   "page": 60,
+   "snippet": "…jlis ended, and the continuation of discussions on this bill was post- poned until the next session. The open session of the Majlis ended at |2 noon and the next session was announced for 8 am the following day, Sunday. Maldives Reportage on Coup Attempt Against President Gayoom, Ministers ‘Safe’ BK0311074588 Dethi Domestic Service in English 0730 GMT 3 Nov 88 [Text] In the Maldives, unidentified gunmen attacked the presidential palace in Mal…"
+  }
+ },
+ {
+  "md": "11-04",
+  "date": "1979-11-04",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "embassy"
+   ],
+   [
+    "student"
+   ],
+   [
+    "tehran"
+   ]
+  ],
+  "headline": "Students seize the US Embassy in Tehran",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "On 4 November 1979 Iranian students who followed Ayatollah Khomeini's line overran the US Embassy in Tehran and took its staff hostage.",
+  "significance": "Fifty-two Americans were held for 444 days. The crisis destroyed US-Iranian relations, dominated the last year of the Carter presidency, and the students later published embassy documents, many of them CIA papers reassembled from shreds.",
+  "fbis": "The Middle East & North Africa Daily Report of 5 November 1979 gathered Iranian reportage under a single heading on the occupation: students occupying the embassy, staff taken hostage, the seizure of documents and the students' own statement.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0478",
+   "issue_date": "1979-11-05",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Vol. V No. 215, 5 November 1979",
+   "page": 4,
+   "snippet": "…Sharon-Weizman Disagreement Over Elon More Affair N 5 [MAtARIV 2 Nov] Jerusalem POST Commentator Attacks Settlement Policy [2 Nov] N 6 U.S. Examines Possibility of W. Bank General Elections N 7 (HA'ARETZ 5 Nov] Austrian Embassy Courting Public Figures in W. Bank n 8 (MA'ARIV 4 Nov 79] TRAN Reportage on Occupation of U.S. Embassy Students Occupy U.S. Embassy Staff Taken Hostage Explanation of Occupation Seizure of Documents Students! Statement…"
+  }
+ },
+ {
+  "md": "11-04",
+  "date": "1995-11-04",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "rabin"
+   ],
+   [
+    "assassinat",
+    "killed",
+    "shot"
+   ]
+  ],
+  "headline": "Israeli Prime Minister Yitzhak Rabin assassinated",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 4 November 1995 Yitzhak Rabin was shot dead after a peace rally in Tel Aviv by Yigal Amir, an Israeli opponent of the Oslo accords.",
+  "significance": "The killing of the prime minister who had signed the Oslo agreements struck at the US-brokered peace process, and exposed a failure by the Shin Bet, which was responsible for his protection.",
+  "fbis": "The Near East & South Asia report of 6 November 1995 carried Palestinian coverage of an emergency meeting of the PA Council of Ministers to discuss the consequences of Rabin's assassination.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176911_0406",
+   "issue_date": "1995-11-06",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 214, 6 November 1995",
+   "page": 6,
+   "snippet": "…e Palestinian command and the National Authority's Ccuncil of Ministers held an urgent extraordinary meeting today. The conferees discussed the serious consequences of the assassination of Israeli Prime Minister Yitzhaq Rabin. The Council of Ministers will remain in continuous session to discuss all aspects of the situation. PA Decries Decision To Shut Washington Office NC0311150095 Paris AFP in English 1415 GMT 3 Nov 95 [FBIS Transcribed Te…"
+  }
+ },
+ {
+  "md": "11-05",
+  "date": "1990-11-05",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "kahane"
+   ],
+   [
+    "kill",
+    "assassinat",
+    "shot"
+   ]
+  ],
+  "headline": "Rabbi Meir Kahane assassinated in New York",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 5 November 1990 Meir Kahane, founder of the Jewish Defense League and the Kach movement, was shot dead in a Manhattan hotel by El Sayyid Nosair.",
+  "significance": "Kahane was an Israeli extremist figure, and his killing in the United States was later linked to the circle around the 1993 World Trade Center bombing.",
+  "fbis": "Poorly reproduced in the scan, the Near East & South Asia report of 8 November 1990 carried an unattributed commentary from the Baghdad-based Voice of the PLO under the FBIS heading that the Kahane killing was lauded.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0662",
+   "issue_date": "1990-11-08",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 217, 8 November 1990",
+   "page": 9,
+   "snippet": "…bane Killing Lauded, ‘Darter Pate’ fer Others PILLI0O Baghdad Vows of the PLO @ Arabe Ot40 GMT & New © [Uaattr®uted commentary! (Test) Brothers. eith tee ballets fired m@ the might derectiom by an Arad. the terrorwt Mew Kahane &0 @ Rew Dhowel aayong Thee wae for wfat | have commoetted | Rave urwn the thorns ancf Bere | am Rarveniong the wrnat be fell before the eves of Rew guchence and the Amerwan protectors of thew crumen eons feehage and hu…"
+  }
+ },
+ {
+  "md": "11-06",
+  "date": "1979-11-06",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bazargan"
+   ],
+   [
+    "resign"
+   ]
+  ],
+  "headline": "Iran's Prime Minister Bazargan resigns",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 6 November 1979, two days after the seizure of the US Embassy, Mehdi Bazargan resigned as prime minister of Iran's provisional government.",
+  "significance": "Bazargan's fall removed the last moderate leadership willing to deal with Washington and left power with Khomeini's Revolutionary Council, prolonging the hostage crisis.",
+  "fbis": "The 6 November 1979 Middle East & North Africa report listed Iranian items on Khomeyni accepting Bazargan's resignation and delegating power, with the text of the letter of resignation.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176908_0479",
+   "issue_date": "1979-11-06",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Vol. V No. 216, 6 November 1979",
+   "page": 3,
+   "snippet": "…. African Nuclear Ties [28 Oct] Weizman Interviewed on Territories, Settlement Policy IDF Litani Atrocity Reported by London Weekly IDF Spokesman's Denial Eytan Was Senior Officer Eytan Refers Questions Khomeyni Accepts Bazargan Resignation, Delegates Power Kordestan Mission Informed Letter of Resignation H H Sasa aaasaaaaaaaaa aww EAST & NORTH AFRICA WwW ouUw FWWS Pn Dd eB eRe o oO © ro"
+  }
+ },
+ {
+  "md": "11-06",
+  "date": "1985-11-06",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "yurchenko"
+   ],
+   [
+    "kidnapping",
+    "special services"
+   ]
+  ],
+  "headline": "Re-defected KGB officer Yurchenko flies home to Moscow",
+  "category": "defection",
+  "spycraft": true,
+  "summary": "On 6 November 1985 Vitaliy Yurchenko, the senior KGB officer who had defected to the United States in August, flew back to Moscow, two days after appearing at the Soviet Embassy in Washington to claim the CIA had drugged and abducted him.",
+  "significance": "Yurchenko's re-defection embarrassed the CIA and left lasting doubt about whether he had been genuine. His debriefings had already exposed Edward Lee Howard and Ronald Pelton.",
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Yurchenko story, but not his flight home",
+  "evidence": {
+   "identifier": "micro_IA1176914_0885",
+   "issue_date": "1985-11-07",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 216, 7 November 1985",
+   "page": 18,
+   "snippet": "…States unconscious. In the United States, CIA agents used various intensive methods continuously to affect his mentality in an attempt to coerce him for betrayal and cooperation with American intelligence officers. What Yurchenko described as a real torture lasted for nearly 3 months but he managed to escape and come to the Soviet Embassy. American officials are trying to outdo newspapers in assertions that Yurchenko's story is simply incredible…"
+  }
+ },
+ {
+  "md": "11-06",
+  "date": "1985-11-06",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "palace of justice",
+    "palacio de justicia",
+    "justice palace"
+   ],
+   [
+    "m-19",
+    "m19"
+   ]
+  ],
+  "headline": "M-19 guerrillas seize Colombia's Palace of Justice",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 6 November 1985 guerrillas of the M-19 movement stormed the Palace of Justice in Bogota and took the Supreme Court justices hostage. The army's assault over the next day left about a hundred dead, including eleven justices.",
+  "significance": "The siege and its violent end were among the darkest episodes of Colombia's conflicts, and fed suspicion of links between the guerrillas and the drug cartels then fighting extradition to the United States.",
+  "fbis": "The Latin America report of 7 November 1985 led its Colombia section with M-19 rebels occupying the Palace of Justice and taking hostages, including an M-19 communique and a spokesman saying the war begins now.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176906_0215",
+   "issue_date": "1985-11-07",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 216, 7 November 1985",
+   "page": 2,
+   "snippet": "…Personnel Reportedly Wound 24 Petitions Filed for Jailed Women Leaders Banishment Ends for Three Community Leaders Decree on Easter Island Agreement With U.S. Briefs: Domestic Sales Increase COLOMBIA M-19 Rebels Occupy Palace of Justice, Take Hostages Armed Individuals Enter Building M-19 Releases Communique M-19 Spokesman: ‘War Begins Now' SOwonenennoww eo) ococecocvovcye ie] rey ey oe 7 November 1985 FPP wwwwnre WWWNN PFE EE SN DODGCUU S NOK Ke"
+  }
+ },
+ {
+  "md": "11-07",
+  "date": "1987-11-07",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "bourguiba"
+   ],
+   [
+    "ben ali",
+    "bin 'ali",
+    "bin ali"
+   ]
+  ],
+  "headline": "Ben Ali removes Bourguiba in Tunisia",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 7 November 1987 Prime Minister Zine El Abidine Ben Ali had doctors declare President Habib Bourguiba unfit to rule and took power in Tunisia.",
+  "significance": "The bloodless 'medical coup' ended the rule of Tunisia's founding president. Ben Ali, a former security chief, would rule until 2011.",
+  "fbis": "FBIS's Near East & South Asia review reported Ben Ali replacing Bourguiba as president and supreme commander after Bourguiba was declared \"totally incapable\", citing the new leader's statement broadcast by Tunis radio.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176909_1299",
+   "issue_date": "1987-11-09",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 216, 09 November 1987",
+   "page": 7,
+   "snippet": "…porates the “special qualities” of those manufac- tured in the East and the West, is now built in Iran, IRNA also reported. Tunisia Zine El Abedine Ben Ali, who had been named prime minister on 2 October, replaced Habib Bourguiba as Tunisian president and supreme commander of the Armed Forces, after Bourguiba was declared “totally incapable of the duties of the presidency,” according to a statement issued by the new leader and broadcast by Tunis…"
+  }
+ },
+ {
+  "md": "11-07",
+  "date": "1990-11-07",
+  "regions": [
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "red square"
+   ],
+   [
+    "shot",
+    "fired",
+    "gun",
+    "rifle"
+   ]
+  ],
+  "headline": "Man fires at Gorbachev's parade on Red Square",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 7 November 1990, during the revolution anniversary parade, a Leningrad man fired a shotgun towards the reviewing stand on Red Square where Mikhail Gorbachev stood. He was overpowered and nobody was hit.",
+  "significance": "The attempt on the Soviet leader's life underlined how far the country's tensions had come into the open in the last year of the USSR.",
+  "fbis": "TASS in English reported the same day that several shots rang through Red Square during the official anniversary celebrations; FBIS ran it in that day's Soviet Union report.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0884",
+   "issue_date": "1990-11-07",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 216, 7 November 1990",
+   "page": 29,
+   "snippet": "FBIS-SOV-90-216 7 November 1990 Political & Social Shots Fired in Red Square During Celebration LD0711110290 Moscow TASS in English 1057 GMT 7 Nov 90 [Text] Moscow November 7 TASS—Several shots rang through Red Square during the official celebrations marking the 73rd anniversary of the October r…"
+  }
+ },
+ {
+  "md": "11-08",
+  "date": "1987-11-08",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "enniskillen"
+   ]
+  ],
+  "headline": "IRA bomb kills eleven at Enniskillen Remembrance service",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 8 November 1987 an IRA bomb exploded at a Remembrance Day ceremony in Enniskillen, Northern Ireland, killing eleven people.",
+  "significance": "The attack on civilians at a memorial caused revulsion across Ireland and Britain and damaged the IRA politically.",
+  "fbis": "TASS's Russian-language international service reported from London on 8 November a powerful explosion at the war memorial in Enniskillen, citing the Press Association on at least ten dead.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0121",
+   "issue_date": "1987-11-09",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 216, 09 November 1987",
+   "page": 20,
+   "snippet": "…land Bombing Reported LDO90117 Moscow TASS International Service in Russian 1248 GMT 8 Nov 87 [Text] London, 8 Nov (TASS)}—There was a powerful explosion today at the war memorial complex in the Northern Ireland town of Enniskillen. Large squads of police, firemen and ambulances arrived at the scene According to a police spokesman, there are many casu- alties among the visitors to the complex According to the Press Association, at least 10 people…"
+  }
+ },
+ {
+  "md": "11-09",
+  "date": "1986-11-09",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "vanunu",
+    "vaanunu",
+    "vanunu"
+   ]
+  ],
+  "headline": "Israel confirms it holds the nuclear whistle-blower Mordechai Vanunu",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 9 November 1986 the Israeli government announced that Mordechai Vanunu, a former technician at the Dimona nuclear centre who had given details of Israel's weapons programme to the Sunday Times, was in custody in Israel.",
+  "significance": "Vanunu had vanished from London weeks earlier; he had been lured to Rome by a Mossad agent and smuggled to Israel. His revelations exposed the scale of Israel's undeclared nuclear arsenal.",
+  "fbis": "FBIS's 10 November 1986 regional review reported, from IDF radio, the Israeli government secretariat's statement that Vanunu was being held in Israel under a court order, and its answer to rumours that he had been kidnapped.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176912_1004",
+   "issue_date": "1986-11-10",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 217, 10 November 1986",
+   "page": 2,
+   "snippet": "…several “misled” military personnel have been arrested for disseminating clandes- tine circulars “inspired by the counterrevolution,” the Intei- ligence Ministry announced in a statement reported by Tehran radio. Israel Vanunu Affair — Mordekhay Vanunu is being detained in Israel in accordance with a court order, the government Secretariat announced in a statement reported by IDF radio 9 November. All rumors alleging that Vanunu was kidnapped…"
+  }
+ },
+ {
+  "md": "11-09",
+  "date": "1990-11-09",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "treaty"
+   ],
+   [
+    "good-neighbor",
+    "good neighbor",
+    "good-neighbourliness",
+    "partnership"
+   ],
+   [
+    "bonn",
+    "germany"
+   ]
+  ],
+  "headline": "Gorbachev and Kohl sign a German-Soviet treaty in Bonn",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 9 November 1990, a year to the day after the Berlin Wall opened, Mikhail Gorbachev and Helmut Kohl signed a treaty of good-neighbourliness, partnership and cooperation in Bonn.",
+  "significance": "The treaty sealed the new relationship between Moscow and a united Germany, which was paying for the withdrawal of Soviet troops from the former GDR.",
+  "fbis": "The Soviet Union report of 9 November 1990 carried Moscow previews of Gorbachev's first visit to united Germany, at which he was expected to sign a treaty on good-neighbourly relations, partnership and cooperation.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_0886",
+   "issue_date": "1990-11-09",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 218, 9 November 1990",
+   "page": 23,
+   "snippet": "…l significance is very high. This is Gorbachev’s first visit to the united Germany and first visit to Germany as president of the Soviet Union. Gorbachev is expected to sign a number of important agreements, including a treaty on goodneighbourly rela- tions, partnership and cooperation. These agreements will lay the foundation for large-scale cooperation between the two countries in the spheres of economy, industry, science and technology. Ge…"
+  }
+ },
+ {
+  "md": "11-10",
+  "date": "1989-11-10",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "zhivkov"
+   ],
+   [
+    "releas",
+    "relieve",
+    "resign"
+   ]
+  ],
+  "headline": "Todor Zhivkov ousted in Bulgaria",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 10 November 1989 the Bulgarian Communist Party removed Todor Zhivkov, its leader since 1954, replacing him with Foreign Minister Petur Mladenov.",
+  "significance": "Zhivkov had been the longest-serving leader in the Soviet bloc; his fall, the day after the Berlin Wall opened, showed the collapse spreading across Eastern Europe.",
+  "fbis": "Albanian radio, citing BTA, reported on 11 November that Zhivkov had resigned his highest party and state posts at a Bulgarian Central Committee plenum held the day before.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_1425",
+   "issue_date": "1989-11-13",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 217, 13 November 1989",
+   "page": 8,
+   "snippet": "…, chancellor of the FRG, broke off his visit to Poland and went to West Berlin. Bulgaria’s Leadership Change Reported AU1111202089 Tirana Domestic Service in Albanian 1900 GMT 11 Nov 89 [Text] As announced by BTA, Todor Zhivkov has resigned from the highest party and state posts. It is pointed out that his resignation was announced in the course of a plenum of the Central Committee of the Communist Party of Bulgaria held yesterday in Sofia. Th…"
+  }
+ },
+ {
+  "md": "11-11",
+  "date": "1982-11-11",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "tyre",
+    "tyr",
+    "sur "
+   ],
+   [
+    "israel"
+   ],
+   [
+    "explo",
+    "blast"
+   ]
+  ],
+  "headline": "Bomb destroys Israeli military headquarters in Tyre",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 11 November 1982 a car bomb destroyed the Israeli military government headquarters in Tyre, southern Lebanon, killing scores of Israeli soldiers and border police and Lebanese prisoners.",
+  "significance": "Later attributed to the forerunners of Hizballah, it was one of the first suicide bombings of the Lebanon war, a tactic used against the US Embassy and Marines in Beirut in 1983.",
+  "fbis": "FBIS's Middle East review of 12 November 1982 reported, from Jerusalem radio, that an explosion had devastated the Israeli military headquarters in Tyre early on 11 November, killing at least 26.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176909_0021",
+   "issue_date": "1982-11-12",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 219, 12 November 1982",
+   "page": 2,
+   "snippet": "DAILY REPORT MIDDLE EAST AND SOUTH ASTA REVIEW 12 NOVEMBER L982 Lebanon Tyre Explosion -- An explosion devastated the Israeli military headquarters in Tyre early on 11 November, killing at least 26 people and wounding many others, Jerusalem radio reported. Noting that the building housed Israeli…"
+  }
+ },
+ {
+  "md": "11-11",
+  "date": "1982-11-11",
+  "regions": [
+   "SOV",
+   "EEU",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "brezhnev"
+   ],
+   [
+    "death",
+    "died",
+    "passed away"
+   ]
+  ],
+  "headline": "Moscow announces the death of Leonid Brezhnev",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 11 November 1982 Soviet radio and television announced that Leonid Brezhnev had died the previous morning.",
+  "significance": "Brezhnev had led the USSR since 1964. His death opened a period of rapid succession: Andropov, then Chernenko, then Gorbachev.",
+  "fbis": "The East Europe Daily Report of 12 November 1982 listed reaction across the bloc: Bucharest radio announcing Brezhnev's death, Poland paying homage, and Yugoslav condolences.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176902_1181",
+   "issue_date": "1982-11-12",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 219, 12 November 1982",
+   "page": 3,
+   "snippet": "…WMWWDWANAADAULSLSFWWNHNNEH FE OHmaagagaagagagagaagaagaagaagaagaagaanagaaaana Q [j) Ww Regional Production Performances 'Good' G 22 PAP Reports More New Trade Unions Registered G 22 Poland Pays Homage to Memory of Leonid Brezhnev G 23 Radio Eulogy G 24 Telegram of Condolence G 25 Officials Sign Embassy Book G 25 ROMANIA Bucharest Radio Announces Brezhnev's Death 11 Nov H 1 Ceausescu Message; Will Attend Funeral = 2 YUGOSLAVIA SFRY Leaders, Natio…"
+  }
+ },
+ {
+  "md": "11-11",
+  "date": "1989-11-11",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "fmln"
+   ],
+   [
+    "offensive"
+   ],
+   [
+    "san salvador"
+   ]
+  ],
+  "headline": "FMLN launches its offensive on San Salvador",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 11 November 1989 El Salvador's FMLN guerrillas launched their largest offensive of the war, fighting into San Salvador itself.",
+  "significance": "The offensive showed that neither side could win militarily and that US aid had not defeated the insurgency, pushing both towards the UN-brokered negotiations that ended the war in 1992.",
+  "fbis": "The Latin America report of 13 November 1989 carried Salvadoran radio accounts of rebel incursions in the capital, including FMLN urban commandos attacking the bodyguards of the Legislative Assembly president.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176906_1223",
+   "issue_date": "1989-11-13",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 217, 13 November 1989",
+   "page": 21,
+   "snippet": "…7 13 November 1989 station called “YSU” reported that two policemen were wounded in the rebel incursion. Another news station also reported that urban com- mando units of the Farabundo Marti National Libera- tion Front [FMLN] attacked the bodyguards of Ricardo Valdivieso, president of the Legislative Assembly and leader of the ruling ARENA [National Republican Alli- ance] Party. The attacks began shortly after 2000 (0200 GMT) and 2 hours la…"
+  }
+ },
+ {
+  "md": "11-12",
+  "date": "1982-11-12",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "andropov"
+   ],
+   [
+    "general secretary"
+   ],
+   [
+    "elected"
+   ]
+  ],
+  "headline": "Former KGB chief Yuriy Andropov becomes Soviet leader",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 12 November 1982 the Central Committee elected Yuriy Andropov General Secretary of the Communist Party of the Soviet Union, two days after Brezhnev's death.",
+  "significance": "Andropov had headed the KGB for fifteen years. His accession put an intelligence chief at the top of the Soviet system during one of the tensest periods of the Cold War.",
+  "fbis": "Sofia's Horizont radio broke into its programme on 12 November 1982: it had just received the news from Moscow that the Central Committee had elected Andropov general secretary.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176902_1181",
+   "issue_date": "1982-11-12",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 219, 12 November 1982",
+   "page": 7,
+   "snippet": "II. 12 Nov 82 BULGARIA ANDROPOV NAMED AS CPSU GENERAL SECRETARY AU121120 Sofia Domestic Service in Bulgarian 1113 GMT 12 Nov 82 [Horizont program] [Text] We have just received the news from Moscow that the CPSU Central Committee has elected Yuriy Andr…"
+  }
+ },
+ {
+  "md": "11-12",
+  "date": "1991-11-12",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "dili"
+   ],
+   [
+    "timor"
+   ]
+  ],
+  "headline": "Indonesian troops fire on mourners in Dili",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 12 November 1991 Indonesian troops opened fire on a funeral procession turned independence demonstration at the Santa Cruz cemetery in Dili, East Timor, killing many.",
+  "significance": "Filmed by a foreign journalist, the massacre turned international attention to Indonesia's occupation of East Timor and strained its relations with Washington.",
+  "fbis": "The East Asia report of 12 November 1991 carried AFP's same-day dispatch from Jakarta that Indonesian soldiers had fired on a crowd of mourners at a cemetery in Dili.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176901_0538",
+   "issue_date": "1991-11-12",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1991-11-12: Vol 91 Iss 218",
+   "page": 44,
+   "snippet": "…have been 250 letters addressed to a special post box run by the Information Department, 182 of which have been answered. The letters mostly complained about the inadequate showing of films in isolated areas. Funeral in Dili Exacerbates East Timor Situation Soldiers Kill ‘Dozens’ BK 1211035691 Hong Kong AFP in English 0348 GMT 12 Nov 9i [Text] Jakarta, Nov 12 (AFP)}—Indonesian soldiers fired on a crowd of mourners Tuesday at a cemetery in D…"
+  }
+ },
+ {
+  "md": "11-13",
+  "date": "1985-11-13",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "armero",
+    "nevado del ruiz",
+    "ruiz"
+   ],
+   [
+    "volcan"
+   ]
+  ],
+  "headline": "Nevado del Ruiz eruption buries Armero",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "On 13 November 1985 the Nevado del Ruiz volcano in Colombia erupted, and mudflows buried the town of Armero, killing over twenty thousand people.",
+  "significance": "It was one of the deadliest volcanic disasters of the century, coming a week after the Palace of Justice siege.",
+  "fbis": "AFP's Spanish service reported on 14 November that the town of Armero had disappeared under a layer of mud after the volcano erupted, according to the police.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176906_0219",
+   "issue_date": "1985-11-14",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 220, 14 November 1985",
+   "page": 27,
+   "snippet": "VI. 14 Nov 85 F 4 COLOMBIA LATE REPORT: TOWN DISAPPEARS AFTER VOLCANO ERUPTS PA141249 Paris AFP in Spanish 1224 GMT 14 Nov 85 [Text] Bogota, 14 Nov (AFP) -- The cotton-growing and agricultural town of Armero, 120 km west of Bogota, disappeared under a layer of mud this morning after Volcan del Nevado del Ruiz (5,399 m) erupted after snow melted, the police reported. According to a census of the population made in 1973, Arme…"
+  }
+ },
+ {
+  "md": "11-13",
+  "date": "1995-11-13",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "riyadh"
+   ],
+   [
+    "explo",
+    "blast",
+    "bomb"
+   ],
+   [
+    "national guard development",
+    "development mission"
+   ]
+  ],
+  "headline": "Car bomb at US military training mission in Riyadh",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 13 November 1995 a car bomb exploded outside a US-run training office for the Saudi National Guard in Riyadh, killing five Americans and two Indians.",
+  "significance": "It was the first major attack on the US military presence in Saudi Arabia, a precursor of the Khobar Towers bombing in 1996.",
+  "fbis": "The Near East & South Asia report of 13 November 1995 carried AFP's same-day dispatch that an explosion had ripped through the building housing the Saudi American National Guard development mission, causing American casualties.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176911_0410",
+   "issue_date": "1995-11-13",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 218, 13 November 1995",
+   "page": 40,
+   "snippet": "ARABIAN PENINSULA Saudi Arabia Riyadh Explosion Kills U.S. Personnel, Others Cause of Blast Unknown NC1311094695 Paris AFP in English 0939 GMT 13 Nov 95 (FBIS Transcribed Text] Riyadh, Nov 13 (AFP)}—An explosion ripped through a building used by US military…"
+  }
+ },
+ {
+  "md": "11-14",
+  "date": "1991-11-14",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "lockerbie"
+   ],
+   [
+    "libya"
+   ]
+  ],
+  "headline": "US and Britain charge two Libyan intelligence officers over Lockerbie",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 14 November 1991 the United States and Britain announced charges against two Libyans, Abdelbaset al-Megrahi and Lamin Khalifah Fhimah, alleged officers of Libyan intelligence, for the bombing of Pan Am flight 103.",
+  "significance": "The indictments ended speculation that Iran or Syria had been responsible, and led to UN sanctions on Libya when Tripoli refused to hand the men over.",
+  "fbis": "Tripoli's JANA carried a statement on 15 November from Libya's People's Bureau for Foreign Liaison denying any Libyan involvement in the Lockerbie bombing.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0914",
+   "issue_date": "1991-11-15",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 221, 15 November 1991",
+   "page": 21,
+   "snippet": "…we cannot deprive them of this right. They also respect our right, which does not stem from the personal interest of brother Mu’ammar, but from a revolutionary vision that knows no despair. Libya People’s Bureau Denies Lockerbie Involvement LD1511110591 Tripoli JANA in Arabic 1030 GMT 15 Nov 91 [Text] Tripoli, 15 Nov (JANA)}—The People’s Com- mittee of the People’s Bureau for Foreign Liaison and International Cooperation issued a statement toda…"
+  }
+ },
+ {
+  "md": "11-14",
+  "date": "1991-11-14",
+  "regions": [
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "sihanouk"
+   ],
+   [
+    "phnom penh"
+   ]
+  ],
+  "headline": "Prince Sihanouk returns to Phnom Penh",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 14 November 1991 Prince Norodom Sihanouk returned to Phnom Penh after nearly thirteen years in exile, under the Paris peace agreements signed the previous month.",
+  "significance": "His return was the visible start of the UN-supervised settlement that ended Cambodia's war.",
+  "fbis": "Phnom Penh's SPK news agency reported on 14 November that Prince Norodom Sihanouk had left China for Cambodia early that morning.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176901_0540",
+   "issue_date": "1991-11-14",
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1991-11-14: Vol 91 Iss 220",
+   "page": 41,
+   "snippet": "…ount in this area of the world. For us, however, they are an impor- tant, yet unexploited, wealth, which opens enormous possibilities for us. [Vargas] Thank you, Mr. President. [end recording] SOUTHEAST ASIA 37 Cambodia Sihanouk Leaves Beijing To Return to Country Says ‘Happy’ for Opportunity BK1411051791 Phnom Penh SPK in English 0429 GMT 14 Nov 91 [Text] Phnom Penh SPK November |4—Prince Norodom Sihanouk left China for Cambodia early Thursday…"
+  }
+ },
+ {
+  "md": "11-15",
+  "date": "1983-11-15",
+  "regions": [
+   "NES",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "turkish cypriot"
+   ],
+   [
+    "state",
+    "republic"
+   ]
+  ],
+  "headline": "Turkish Cypriots declare an independent state",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 15 November 1983 the Turkish Cypriot assembly declared the Turkish Republic of Northern Cyprus.",
+  "significance": "Only Turkey recognised it; the declaration hardened the division of Cyprus between two NATO allies' communities.",
+  "fbis": "Delhi radio reported on 16 November that India deplored the unilateral declaration of independence by the Turkish-occupied part of Cyprus.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176912_0232",
+   "issue_date": "1983-11-16",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 222, 16 November 1983",
+   "page": 7,
+   "snippet": "Vill. 16 Nov %3 Turkish Cypriot Assembly Declaration ‘Deplored’ BK 160601 Delhi Domestic Service in English 0240 GMI 16 Nov 83 [Text] India has deplored the unilateral declaration of indepen dence of the Turkish occupied part of Cyprus by the so-calle…"
+  }
+ },
+ {
+  "md": "11-15",
+  "date": "1988-11-15",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "palestin"
+   ],
+   [
+    "state"
+   ],
+   [
+    "algiers"
+   ]
+  ],
+  "headline": "Palestine National Council declares a Palestinian state",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 15 November 1988 the Palestine National Council, meeting in Algiers, proclaimed an independent State of Palestine.",
+  "significance": "The declaration's implicit acceptance of UN resolutions was a step towards the PLO's recognition of Israel, which opened a US dialogue with the PLO that December.",
+  "fbis": "An FBIS editorial report described Arafat formally proclaiming the \"State of Palestine\" at the final PNC session, broadcast live by Algiers television early on 15 November.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0175",
+   "issue_date": "1988-11-15",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 220, 15 November 1988",
+   "page": 6,
+   "snippet": "…15 November Middle East and South Asia Review LD1511143988 [Editorial Report] PNC Session: Independence Declaration PLO Executive Committee Chairman Yasir ‘Arafat for- mally proclaimed the establishment of the “State of Palestine” during the final session of the PNC, broadcast live by Algiers television early on 15 November. The “independence document” read by ‘Arafat refers to “the State of Palestine over our Palestinian soil and its capital h…"
+  }
+ },
+ {
+  "md": "11-16",
+  "date": "1989-11-16",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "jesuit"
+   ],
+   [
+    "murder",
+    "kill",
+    "assassinat"
+   ]
+  ],
+  "headline": "Six Jesuit priests murdered in San Salvador",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 16 November 1989 soldiers of the Salvadoran army killed six Jesuit priests, their housekeeper and her daughter at the Central American University in San Salvador.",
+  "significance": "The killings by a US-trained battalion turned the US Congress against military aid to El Salvador and helped force a negotiated end to the war.",
+  "fbis": "Madrid's EFE agency reported from San Salvador on 16 November that the Jesuit provincial had confirmed the killing of Ignacio Ellacuria, rector of the Central American University, and other priests, gunned down in their residence.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176906_1226",
+   "issue_date": "1989-11-16",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 220, 16 November 1989",
+   "page": 16,
+   "snippet": "…in El Salvador.” CENTRAL AMERICA El Salvador University Rector, 6 Clergymen Murdered PA1611140389 Madrid EFE in Spanish 1339 GMT 16 Nov 89 [Text] San Salvador, 16 Nov (EFE)—Jose Maria Doceira, provincial superior of the Jesuits, told EFE that Spanish priest Ignacio Ellacuria, rector of the Central American University, was killed this morning. He and six other priests were killed by unidentified men who machine-gunned their residence. Killers…"
+  }
+ },
+ {
+  "md": "11-17",
+  "date": "1989-11-17",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "prague"
+   ],
+   [
+    "student"
+   ],
+   [
+    "demonstrat"
+   ]
+  ],
+  "headline": "Police beat students in Prague, starting the Velvet Revolution",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "On 17 November 1989 riot police attacked a student march in Prague. The beating set off the mass protests that brought down Czechoslovakia's communist government within weeks.",
+  "significance": "The Velvet Revolution completed the collapse of communist rule in Central Europe in the autumn of 1989.",
+  "fbis": "Czechoslovak television's evening report of 17 November, which FBIS headed 'Antisocialist' Forces Demonstrate, followed the students' procession for International Students Day as it happened.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_1430",
+   "issue_date": "1989-11-20",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 222, 20 November 1989",
+   "page": 26,
+   "snippet": "FBIS-EEU-89-222 20 November 1989 ‘Antisocialist’ Forces Demonstrate 17 Nov LD1711192589 Prague Television Service in Czech 1830 GMT 17 Nov 89 [Text] [Unidentified reporter] It is exactly 1600, and participants in this year’s students’ procession, which is taking place on the occasion of International Students Day…"
+  }
+ },
+ {
+  "md": "11-18",
+  "date": "1991-11-18",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "waite"
+   ],
+   [
+    "release",
+    "freed"
+   ]
+  ],
+  "headline": "Terry Waite and Thomas Sutherland freed in Lebanon",
+  "category": "hostage",
+  "spycraft": true,
+  "summary": "On 18 November 1991 Terry Waite, the Archbishop of Canterbury's envoy, and Thomas Sutherland, an American dean at the American University of Beirut, were released after years as hostages in Lebanon.",
+  "significance": "Waite had been seized in 1987 while negotiating for hostages, and his contacts with Oliver North made him a figure in the Iran-Contra story. The releases were part of a UN-brokered winding up of the Lebanon hostage crisis.",
+  "fbis": "AFP reported from Beirut on 18 November that Islamic Jihad had announced the release of Terry Waite and Thomas Sutherland; FBIS carried it the same day.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0915",
+   "issue_date": "1991-11-18",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 222, 18 November 1991",
+   "page": 45,
+   "snippet": "PBIS-NES-91-222 18 November 1991 islamic Jihad Announces Waite, Sutherland Released WC1811121091 Paris AFP in English 1206 GMT 18 Nov 91 {Text] Beirut, Nov 18 (AFP)}—The Islamic Jihad on Monday announced the release of British hostage Terry Waite and U.S. college professor Thomas S…"
+  }
+ },
+ {
+  "md": "11-18",
+  "date": "1991-11-18",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "vukovar"
+   ]
+  ],
+  "headline": "Vukovar falls to the Yugoslav army",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 18 November 1991 the Croatian town of Vukovar fell to the Yugoslav People's Army and Serb forces after a siege of nearly three months.",
+  "significance": "The destruction of Vukovar and the killing of prisoners afterwards became emblems of the Yugoslav wars.",
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Vukovar evacuation offer, not its fall",
+  "evidence": {
+   "identifier": "micro_IA1176904_0469",
+   "issue_date": "1991-11-19",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 223, 19 November 1991",
+   "page": 42,
+   "snippet": "…nment it will be, and what its power in (the rest of) the country and abroad will be Markovic’s era has ended ingloriously. What will the new semi-war or war government aim for? Defense Ministry Denies Massacre Plans in Vukovar LD1811153991 Belgrade TANJUG Domestic Service in Serbo-Croatian 1332 GMT 18 Nov 91 [Text] Belgrade, 18 Nov (TANJUG)}—A representative of the Federal Secretariat for National Defense has told TANJUG that “the latest requ…"
+  }
+ },
+ {
+  "md": "11-19",
+  "date": "1985-11-19",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "first day"
+   ],
+   [
+    "geneva"
+   ],
+   [
+    "gorbachev"
+   ]
+  ],
+  "headline": "Reagan and Gorbachev meet in Geneva",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 19 November 1985 Ronald Reagan and Mikhail Gorbachev met in Geneva for the first US-Soviet summit in six years.",
+  "significance": "The summit produced little on paper but began the personal relationship that led to the INF Treaty and the end of the Cold War.",
+  "fbis": "The East Europe report of 20 November 1985 carried bloc coverage of the first day of the Geneva summit, including Warsaw radio's review of the morning papers and notes on the agreed news blackout on the talks.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_0476",
+   "issue_date": "1985-11-20",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 224, 20 November 1985",
+   "page": 11,
+   "snippet": "…liberations and how long the talks took. At end, the two s *s would find a way to inform about the course and the results of the talks. today's press conference also by White House spokesman Larry § After the end of the first day of the Soviet-American summit assessment or forecast could be made. The important thing will mutual constructive approach will prevail at the talks. mined to make use of the Geneva meeting for improving Sovi for making…"
+  }
+ },
+ {
+  "md": "11-19",
+  "date": "1990-11-19",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "conventional",
+    "cfe"
+   ],
+   [
+    "treaty"
+   ],
+   [
+    "paris"
+   ]
+  ],
+  "headline": "NATO and Warsaw Pact sign the CFE Treaty in Paris",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 19 November 1990 the members of NATO and the Warsaw Pact signed the Treaty on Conventional Armed Forces in Europe in Paris.",
+  "significance": "The treaty imposed deep cuts in tanks, artillery and aircraft, ending the Soviet superiority in Europe that NATO planning had faced for forty years.",
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Havel's departure only, run-up to signing",
+  "evidence": {
+   "identifier": "micro_IA1176904_0224",
+   "issue_date": "1990-11-20",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 224, 20 November 1990",
+   "page": 8,
+   "snippet": "INTERNATIONAL AFFAIRS CSFR Delegate Comments on Effect of CSCE Treaty LD1811232990 Prague CTK in English 1705 GMT 18 Nov 90 [Text] Vienna Nov 18 (CTK)}—Commitments arising for Czechoslovakia from the treaty on conventional armed forces cuts, initialled in Vienna by the heads of delegations of 22 Warsaw Pact and NATO member states today, were listed in an interview for CTK by head of the Czechoslovak delegation Ladislav Balcar. Czechoslova…"
+  }
+ },
+ {
+  "md": "11-20",
+  "date": "1979-11-20",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "grand mosque",
+    "holy mosque",
+    "haram",
+    "holy shrine",
+    "holy kaaba"
+   ],
+   [
+    "mecca",
+    "makkah"
+   ]
+  ],
+  "headline": "Armed militants seize the Grand Mosque in Mecca",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 20 November 1979 several hundred armed militants led by Juhayman al-Otaybi seized the Grand Mosque in Mecca. Saudi forces retook it after two weeks of fighting.",
+  "significance": "False rumours of US involvement led mobs to attack the US Embassy in Islamabad the next day. The siege pushed the Saudi monarchy towards stricter religious policies.",
+  "fbis": "The Middle East & North Africa report of 21 November 1979 listed Saudi coverage of the seizure of the Haram mosque: an Interior Ministry statement and Riyadh's assurance that the situation was under control.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0489",
+   "issue_date": "1979-11-21",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Vol. V No. 226, 21 November 1979",
+   "page": 2,
+   "snippet": "…Wells Not Within Reach of U.S. Invaders! [13 Nov] AL-WATAN Puzzled by Silence Over Maneuvers in Gulf Qaaaa NN RF Fe PDRY 'Ali Nasir Muhammad Appoints New Officials c 3 SAUDI ARABIA Developments Concerning Seizure of Al-Haram Mosque in Mecca Interior Ministry Statement APP Report Purther Report Riyadh: Situation 'Under Control! Outside Communications Reestablished Mosque Situation Unclear Egyptian Magazine on Iranian Activities During Hadj A…"
+  }
+ },
+ {
+  "md": "11-21",
+  "date": "1979-11-21",
+  "regions": [
+   "NES",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "islamabad"
+   ],
+   [
+    "embassy"
+   ]
+  ],
+  "headline": "Mob burns the US Embassy in Islamabad",
+  "category": "crisis",
+  "spycraft": false,
+  "summary": "On 21 November 1979 a mob, roused by false reports that the United States was behind the seizure of the Grand Mosque in Mecca, stormed and burned the US Embassy in Islamabad. Four people died, two of them Americans.",
+  "significance": "Coming weeks after the Tehran embassy seizure, it showed the vulnerability of American diplomats across the region.",
+  "fbis": "The 21 November 1979 report listed AFP's account of the mob attack on the US Embassy in Islamabad, staff taking refuge in the basement, and Karachi radio reporting that demonstrators had set the embassy on fire.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176908_0489",
+   "issue_date": "1979-11-21",
+   "region": "NES",
+   "title": "FBIS Daily Report: Middle East & N. Africa, Vol. V No. 226, 21 November 1979",
+   "page": 5,
+   "snippet": "…Secretary NEPAL Official Talks With PRC Begin Boundary Protocol Signed PAKISTAN President Haq Describes Saudi Situation as! '§ad! Karachi Radio Announcement Reaction of Populace AFP Reports Mob Attack on U.S. Embassy in Islamabad Further Details Staff Seeks Refuge in Basement Karachi Radio Reports Demonstrators Set Fire to U.S. Embassy SRI LANKA CEYLON DAILY NEWS Calls on Iran to Release Hostages R 25 w 25 26 es) AnRNnRNnNMN UV FFE ~”a UI UI NAN…"
+  }
+ },
+ {
+  "md": "11-21",
+  "date": "1995-11-21",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "dayton"
+   ],
+   [
+    "bosnia"
+   ]
+  ],
+  "headline": "Bosnian peace agreement initialled at Dayton",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 21 November 1995, after three weeks of talks at an Air Force base in Dayton, Ohio, the presidents of Serbia, Croatia and Bosnia initialled a peace agreement.",
+  "significance": "The Dayton agreement ended the Bosnian war and committed NATO, including US troops, to enforce it.",
+  "fbis": "The East Europe report of November 22, 1995, carried AFP from Geneva: EU negotiator Carl Bildt, speaking after President Clinton announced the Dayton deal, called it the 'beginning of peace' and said agreements would be signed in Paris.",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "evidence": {
+   "identifier": "micro_IA1176904_1433",
+   "issue_date": "1995-11-22",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 225, 22 November 1995",
+   "page": 6,
+   "snippet": "…Harmony’ in Bosnia AU2111203795 Paris AFP in English 2000 GMT 21 Nov 95 (FBIS Transcribed Text] Geneva, Nov 21 (AFP)—Carl Bildt, European Union negotiator in former Yugoslavia described Tuesday [21 November] the deal in Dayton, Ohio, between Bosnia, Serbia and Croatia to end four years of conflict as the “beginning of peace”. Speaking after the arrangement was announced by U.S. President Bill Clinton in Washington, Bildt, who co chairs the In…"
+  }
+ },
+ {
+  "md": "11-22",
+  "date": "1989-11-22",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "awwad",
+    "moawad",
+    "mu'aw"
+   ],
+   [
+    "assassinat",
+    "killed",
+    "explo",
+    "martyr"
+   ]
+  ],
+  "headline": "Lebanese President Rene Moawad assassinated",
+  "category": "assassination",
+  "spycraft": false,
+  "summary": "On 22 November 1989, seventeen days after taking office under the Taif Agreement, Lebanese President Rene Moawad was killed by a bomb in West Beirut.",
+  "significance": "His assassination struck at the Arab-brokered settlement meant to end the civil war; Elias Hrawi was elected in his place two days later.",
+  "fbis": "Beirut's Voice of Lebanon broke the news on 22 November: a booby-trapped car had exploded near the president's motorcade moments after he left Government House, and Mu'awwad was \"martyred\".",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176910_0419",
+   "issue_date": "1989-11-22",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 224, 22 November 1989",
+   "page": 32,
+   "snippet": "…s we receive them. Our correspondent in the Government House has just reported that the explosion which was heard in the al-Sana‘i‘ area was caused by a booby-trapped vehicle and occurred moments after President Rene Mu‘awwad left the Government House. The first explosion was closely followed by another blast. Mu‘awwad ‘Martyred’ in Explosion NC2211140789 Beirut Voice of Lebanon in Arabic 1400 GMT 22 Nov 89 [Text] At 1350 today, a booby-trap…"
+  }
+ },
+ {
+  "md": "11-23",
+  "date": "1985-11-23",
+  "regions": [
+   "NES"
+  ],
+  "keywords": [
+   [
+    "egyptair",
+    "egyptian airliner",
+    "egyptian plane",
+    "egyptian aircraft"
+   ],
+   [
+    "malta"
+   ]
+  ],
+  "headline": "EgyptAir flight 648 hijacked to Malta",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 23 November 1985 Abu Nidal gunmen hijacked an EgyptAir flight from Athens and forced it down in Malta. Egyptian commandos stormed the plane the next day and some sixty people died.",
+  "significance": "One of the deadliest hijackings of the decade, it came weeks after the Achille Lauro affair and fed US pressure to act against states sponsoring terrorism.",
+  "fbis": "FBIS's regional review of 26 November 1985 cited TANJUG on a joint communique in which Abu Nidal's faction and an 'Organization of Egypt's Revolutionaries' claimed the hijacking.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176912_0764",
+   "issue_date": "1985-11-26",
+   "region": "NES",
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 228, 26 November 1985",
+   "page": 2,
+   "snippet": "…In a joint communique released 26 November in Beirut, the dissident Palestinian faction led by Abu Nidal (Sabri al-Banna) and the “Organization of Egypt's Revolutionaries” claimed responsibility for the hijacking of an Egyptair airliner and warned that “in the coming surpise oper- ations, young heroes from many Arab countries will be engaged, but Egyptians and Palestinians will be in the front lines of martyrs and heroes,” TANJUG reported. A c…"
+  }
+ },
+ {
+  "md": "11-24",
+  "date": "1989-11-24",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "urbanek"
+   ],
+   [
+    "jakes"
+   ]
+  ],
+  "headline": "Czechoslovak communist leadership resigns",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 24 November 1989, after a week of mass demonstrations, Milos Jakes and the Czechoslovak Communist Party leadership resigned.",
+  "significance": "The resignation, a week after the student march was beaten, showed how fast the Velvet Revolution had broken the regime.",
+  "fbis": "Prague's domestic service reported on the night of 24 November that Milos Jakes had spoken at the emergency Central Committee session and that Karel Urbanek had been elected general secretary.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_1434",
+   "issue_date": "1989-11-27",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 226, 27 November 1989",
+   "page": 24,
+   "snippet": "…Army General Milan Vaclavik, minister of national defense; and Lubomir Strougal. The afternoon discussion has been also continuing in the open and critical spirit which corresponds to the current complicated situation. Urbanek Elected General Secretary LD2411211689 Prague Domestic Service in Slovak 2102 GMT 24 Nov 89 [Excerpts] Comrade Milos Jakes asked to speak at 1800 GMT at the emergency session of the Czechoslovak Communist Party Central…"
+  }
+ },
+ {
+  "md": "11-25",
+  "date": "1986-11-25",
+  "regions": [
+   "NES",
+   "SOV",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "poindexter"
+   ],
+   [
+    "contra"
+   ],
+   [
+    "resign",
+    "dismiss",
+    "fired"
+   ]
+  ],
+  "headline": "Iran-Contra diversion announced; Poindexter resigns, North fired",
+  "category": "covert-action",
+  "spycraft": true,
+  "summary": "On 25 November 1986 Attorney General Edwin Meese announced that proceeds from secret arms sales to Iran had been diverted to the Nicaraguan contras. National Security Adviser John Poindexter resigned and Lt. Col. Oliver North was dismissed.",
+  "significance": "The diversion turned an embarrassing arms deal into a constitutional scandal over a covert operation run from the White House in defiance of Congress's ban on aid to the contras.",
+  "fbis": "Havana's Radio Progreso said on 26 November that Reagan's credibility was in a 'spiraling descent', reporting Meese's disclosure that Iran's payments had gone to the contra leaders and that North and Poindexter had been fired.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA41152803_0380",
+   "issue_date": "1986-11-26",
+   "region": "LAT",
+   "title": "Daily Report: Latin America",
+   "page": 87,
+   "snippet": "…added that Lieutenant Colonel Oliver North, the second most-important member in the National Security Council, was in charge of the operations. North, as well as his immediate supervisor [National Security Adviser] John Poindexter, were immediately fired by Reagan in an attempt to avoid greater problems. [passage omitted] Reagan's ‘Watergate’ Worsens FL261906 Havana Te]e-Rebelde Network in Spanish 1324 GMT 26 Nov 86 (Gonzalez Martin international…"
+  }
+ },
+ {
+  "md": "11-26",
+  "date": "1989-11-26",
+  "regions": [
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "referendum"
+   ],
+   [
+    "hungar"
+   ],
+   [
+    "partial result",
+    "valid",
+    "turnout"
+   ]
+  ],
+  "headline": "Hungarians vote in the 'four yeses' referendum",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 26 November 1989 Hungarians voted narrowly to delay the presidential election until after a new parliament was chosen, and to abolish the party's workplace cells and militia.",
+  "significance": "The result denied the reform communists an early presidential vote they expected to win, opening the way to a fully democratic transition.",
+  "fbis": "The East Europe report of 27 November 1989 carried Budapest coverage around the referendum, including Hungarian political organisations' views on whether it sharpened domestic tensions.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_1434",
+   "issue_date": "1989-11-27",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 226, 27 November 1989",
+   "page": 71,
+   "snippet": "…sed the trilateral coordination talks, and con- tinue to observe the agreement in the issue of electing the president of the republic. Karoly Vigh (Endre-Bajcsy Zsilinszky Friendship Society) was of the opinion that the referendum unnec- essarily sharpens home political tensions. Attila Dobsai (Patriotic People’s Front) said the only positive element in initiating the referendum was that it made public the conflicts of political interests which h…"
+  }
+ },
+ {
+  "md": "11-27",
+  "date": "1989-11-27",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "avianca"
+   ],
+   [
+    "explo",
+    "bomb",
+    "blast"
+   ]
+  ],
+  "headline": "Medellin cartel bombs Avianca flight 203",
+  "category": "terrorism",
+  "spycraft": false,
+  "summary": "On 27 November 1989 a bomb planted by the Medellin cartel destroyed Avianca flight 203 shortly after take-off from Bogota, killing all 107 aboard.",
+  "significance": "The bombing was part of Pablo Escobar's war against extradition to the United States; two Americans were among the dead, which gave US courts jurisdiction.",
+  "fbis": "Madrid's EFE reported from Bogota on 27 November that an Avianca Boeing 727 with 107 people aboard had exploded shortly after take-off, with no survivors reported.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176906_1232",
+   "issue_date": "1989-11-27",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 226, 27 November 1989",
+   "page": 61,
+   "snippet": "…or the release of these prisoners through mobilizations or agitations. Insunza also criticized presidential candidate Hernan Buchi for his comments on human rights during his television electoral campaign spot. Colombia Avianca Plane Explodes; No Survivors Reported PA2711135689 Madrid EFE in Spanish 1335 GMT 27 Nov 89 [Text] Bogota, 27 Nov (EFE}—An Avianca Boeing 727 with 107 people on board exploded today at 07:18 hours (1218 GMT) about 22 km…"
+  }
+ },
+ {
+  "md": "11-27",
+  "date": "1992-11-27",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "venezuela"
+   ],
+   [
+    "coup"
+   ],
+   [
+    "attempt",
+    "rebel"
+   ]
+  ],
+  "headline": "Second coup attempt in a year in Venezuela",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On 27 November 1992 rebel officers tried for the second time that year to overthrow President Carlos Andres Perez of Venezuela, seizing a television station and bombing Caracas from the air before being defeated.",
+  "significance": "The failure of both 1992 coups left Perez weakened; he was impeached the following year. The February attempt had been led by Hugo Chavez.",
+  "fbis": "FBIS's Latin America summary of 27 November 1992 reported international and local media saying a coup led by the 'Revolutionary Bolivarian Movement 200' was under way, with fighting in Caracas.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176907_0410",
+   "issue_date": "1992-11-27",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, No. 229, 27 November 1992",
+   "page": 6,
+   "snippet": "…rtedly be carried out in the next 48 to 72 hours.” President Cristiani rejected the communique, saying the report of an alleged coup is “simply another excuse” created by the FMLN “to justify its failure to demobilize.” Venezuela International and local media report that a coup d'etat led by the “Revolutionary Bolivarian Movement 200,” is currently underway. Fighting has been reported in Caracas and other cities. The rebels took control of the t…"
+  }
+ },
+ {
+  "md": "11-28",
+  "date": "1989-11-28",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "ten-point",
+    "10-point",
+    "ten point",
+    "10 point"
+   ],
+   [
+    "kohl"
+   ]
+  ],
+  "headline": "Kohl presents his ten-point plan for German unity",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 28 November 1989 West German Chancellor Helmut Kohl presented a ten-point programme to the Bundestag for overcoming the division of Germany.",
+  "significance": "The plan was the first open step towards reunification, and surprised allies and Moscow alike.",
+  "fbis": "East Berlin's ADN reported on 28 November that Egon Krenz, interviewed on West German television, rejected preconditions for negotiations, under FBIS's heading on reaction to Kohl's 10-point programme.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_1436",
+   "issue_date": "1989-11-29",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 228, 29 November 1989",
+   "page": 51,
+   "snippet": "…bachev and George Bush, the GDR head of state refers both to the process of renewal of socialist society introduced in the GDR and current problems in international, particularly Euro- pean, relations Reaction to Kohl's 10-Point Program Krenz Comments LD2811202789 East Berlin ADN International Service in German 1945 & 7 28 Nov &Y [Text] Hamburg (ADN)—In an interview on First German Television today, Egon Krenz rejected precon- ditions for negot…"
+  }
+ },
+ {
+  "md": "11-28",
+  "date": "1990-11-28",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "thatcher"
+   ],
+   [
+    "major"
+   ]
+  ],
+  "headline": "Margaret Thatcher leaves office; John Major succeeds her",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 28 November 1990 Margaret Thatcher formally resigned as British prime minister and John Major took office.",
+  "significance": "Thatcher had been Reagan's closest ally in the late Cold War and one of the first Western leaders to embrace Gorbachev.",
+  "fbis": "The Soviet Union report's contents for early December listed a SOVETSKAYA ROSSIYA article of 29 November assessing John Major as 'Thatcher's man'.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176915_0890",
+   "issue_date": "1990-12-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Table of Contents, No. 232-251, December 1990",
+   "page": 10,
+   "snippet": "…U’s Falin Meets Austrian Officials in Vienna [TASS] ............ Falin on Relief Aid, Austria, EC [Vienna VOLKSSTIMME 4 Dec} Credit Agreement Signed With Austria3 Dec [TASS) ............. Article Assesses UK’s Major as ‘Thatcher’s Man’ [SOVETSKAYA R ROSSIYA 29 Nov) Gorbachev Receives Spanish Culture Minister [TASS] . Latin Amcrica & Caribbean Soviets To Raise U.S.-Cuban Relations at Summit [TASS/ ............. Foreign Ministry Officials Cited o…",
+   "contents_only": true
+  }
+ },
+ {
+  "md": "11-29",
+  "date": "1987-11-29",
+  "regions": [
+   "SOV",
+   "NES",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "korean jet",
+    "kal boeing",
+    "korean airliner"
+   ],
+   [
+    "bomb",
+    "suspect",
+    "crash",
+    "mystery"
+   ]
+  ],
+  "headline": "Korean Air flight 858 destroyed by North Korean agents",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On 29 November 1987 Korean Air flight 858 exploded over the Andaman Sea, killing all 115 aboard. A bomb had been planted by two North Korean intelligence agents; one, Kim Hyon-hui, survived to confess.",
+  "significance": "The bombing, aimed at disrupting the 1988 Seoul Olympics, led the United States to put North Korea on its list of state sponsors of terrorism.",
+  "fbis": "The Near East & South Asia report of 1 December 1987 listed, under Bahrain, a Tokyo KYODO item quoting a Bahraini official on the suspects in the South Korean jet bombing, the two North Korean agents detained there.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176909_1311",
+   "issue_date": "1987-12-01",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, Table of Contents, No. 230-251, December 1987",
+   "page": 11,
+   "snippet": "…/SP4/ Receives Kuwait's Al-Ahmad /AUN 4/ Sfar on Kuwait. Egyptian Relations. Gulf War /AUN 4, MTI Official Calls for “Sound Democracy’ /London AL SHARQ 1 1 SAT 29 Now ARABIAN PENINSULA Bahrain Official on Suspects in S. Korean Jet Bombing {Tokyo KYODO} Kuwait Foresgn Minister Denes Foreign Bases Approved Minster on Arab Assistance Oman Iraman Economic Delegation Arnves 30 Nov Ist Round of Talks Begins //R‘ 4/ Economic Cooperation PDRY Al-Bid Rece…"
+  }
+ },
+ {
+  "md": "11-30",
+  "date": "1980-11-30",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "uruguay"
+   ],
+   [
+    "plebiscit",
+    "referendum"
+   ],
+   [
+    "constitution"
+   ]
+  ],
+  "headline": "Uruguayans reject the military's constitution",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 30 November 1980 voters in Uruguay rejected, in a plebiscite, a draft constitution proposed by the ruling military that would have entrenched the armed forces' role in government.",
+  "significance": "The defeat was a rare instance of a military regime losing its own referendum, and began Uruguay's slow return to civilian rule in 1985.",
+  "fbis": "The Latin America report of 1 December 1980 listed Argentine reaction under the heading that Argentines voiced satisfaction at the Uruguayan vote.",
+  "pick": false,
+  "evidence": {
+   "identifier": "micro_IA1176904_1664",
+   "issue_date": "1980-12-01",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America - Tables of Contents, Vol. VI No. 232-253, December 1980",
+   "page": 5,
+   "snippet": "DAILY REPORT. Latin America Vol VI No 233 ARGENTINA Argentines Voice Satisfaction at Uruguay Elections British Official Returns From Malvinas Islands BRAZIL Finance Minister Discusses Economic Situation [O GLOBO 23 Nov] Decision Made To Amend Salary Readjustment Law [O ESTADO DE SAO PAULO 28 Nov} Foreign Minist…"
+  }
+ },
+ {
+  "md": "11-30",
+  "date": "1981-11-30",
+  "regions": [
+   "SOV",
+   "EEU"
+  ],
+  "keywords": [
+   [
+    "geneva negotiations",
+    "geneva talks"
+   ],
+   [
+    "intermediate-range",
+    "medium-range"
+   ]
+  ],
+  "headline": "US-Soviet talks on intermediate-range missiles open in Geneva",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On 30 November 1981 the United States and the Soviet Union opened negotiations in Geneva on intermediate-range nuclear forces in Europe.",
+  "significance": "The talks followed Reagan's 'zero option' proposal; they broke down in 1983 when Pershing II deployment began, but resumed and produced the INF Treaty in 1987.",
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Run-up only, not the talks' opening",
+  "evidence": {
+   "identifier": "micro_IA1176913_0911",
+   "issue_date": "1981-12-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Tables of Contents, Vol. III No. 230-251, December 1981",
+   "page": 51,
+   "snippet": "…the U.S. forward-based weapons and British and French medium-range nuclear weapons, there exists approximate parity in Europe. Soviet leaders have frequently cited the relevant facts and figures. The USSR approaches the Geneva talks most seriously and is seeking to find mutually acceptable solutions which would free Europe from the danger of nuclear war. Here our country believes that it is essential to use everything previously achieved in this fi…"
+  }
+ }
+]

@@ -306,3 +306,7 @@ footer.site p { margin: 0 0 6px; }
 .monitor-toggle:hover { background: rgba(212, 167, 44, .15); }
 .monitor-toggle:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
 .monitor.paused .dot { animation: none; opacity: .5; }
+
+/* The checker's dated statement sits at the end of the footer: give it the
+   footer's column and gutter. */
+footer.site .explorer-checks-note { max-width: 52rem; margin: 1em auto 0 !important; padding: 0 16px; color: #dfe5f2; }

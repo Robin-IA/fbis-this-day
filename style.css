@@ -272,7 +272,7 @@ footer.site p { margin: 0 0 6px; }
 .folder .sheet { margin-bottom: 26px; }
 
 /* The day controls are solid pastel divider tabs standing up from the
-   folder's edge, typed on directly. */
+   folder's edge, typed on directly, with no outline. */
 .folder .daybar { gap: 6px; align-items: flex-end; margin: 18px -26px 18px -40px; padding: 0 26px 0 40px; position: relative; }
 /* a soft shadow where the tabs meet the folder, not a drawn line */
 .folder .daybar::after { content: ""; position: absolute; left: 0; right: 0; bottom: -10px; height: 10px; pointer-events: none; background: linear-gradient(180deg, rgba(90, 70, 30, .18), rgba(90, 70, 30, 0)); }
@@ -281,10 +281,10 @@ footer.site p { margin: 0 0 6px; }
   min-height: 44px; margin-bottom: 0; padding: 6px 14px 5px;
   font: 700 15px "Courier Prime", "Courier New", Courier, monospace; letter-spacing: .02em; color: #1d1a14;
   background: var(--tab);
-  border: 1px solid #6b5a36; border-bottom: 0; border-radius: 11px 11px 0 0; padding: 10px 17px 10px;
-  /* the dark rim on top and sides gives each tab a 3:1 edge against the folder (WCAG 1.4.11) */
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .7), 0 -1px 4px rgba(12, 26, 54, .10);
+  border: 0; border-radius: 11px 11px 0 0; padding: 11px 18px 10px;
+  box-shadow: none;
 }
+.folder .daybar #next { --tab: #e7e0f3; }
 .folder .daybar #today { --tab: #f5dcd3; }
 .folder .daybar select { --tab: #f4e9c3; }
 .folder .daybar #day { --tab: #d9eee6; }

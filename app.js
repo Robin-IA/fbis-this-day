@@ -61,7 +61,7 @@
       '<p class="src">Found on page ' + (ev.page + 1) + ' of <a href="' + pageUrl(ev) + '">' + esc(ev.title) + "</a>" +
       (ev.contents_only ? " (in its list of contents)" : "") + ".</p>" +
       "<blockquote>" + esc(ev.snippet) + "</blockquote>" +
-      '<p class="ocrnote">Machine-read text from the microfiche scan, uncorrected.</p></div>';
+      '<p class="ocrnote">OCR text from the microfiche scan, uncorrected.</p></div>';
   }
 
   function renderSheet(md, data) {
@@ -75,7 +75,8 @@
     }
     var ev = e.evidence;
     s.innerHTML =
-      '<div class="classif"><span>Unclassified</span><span class="mono">' + esc(fileRef(ev)) + " · p. " + (ev.page + 1) + "</span></div>" +
+      '<p class="fileline">File ' + esc(fileRef(ev)) + " · p. " + (ev.page + 1) + "</p>" +
+      '<p class="cstamp">Unclassified</p>' +
       '<div class="dateline"><p class="bigdate">' + esc(label(md)) + '</p><span class="year">' + esc(e.date.slice(0, 4)) + "</span>" +
       (e.spycraft ? '<span class="stamp">Spycraft</span>' : "") +
       (e.category ? '<span class="tag">' + esc(CATEGORY[e.category] || e.category) + "</span>" : "") + "</div>" +
@@ -85,7 +86,7 @@
       "<h3>What FBIS heard</h3>" + (e.fbis ? "<p>" + esc(e.fbis) + "</p>" : "") +
       evidenceHtml(ev) +
       '<a class="cta" href="' + pageUrl(ev) + '">Read the ' + esc(longDate(ev.issue_date)) + " Daily Report</a>" +
-      '<p class="draft">Written with AI assistance (Claude). A script confirmed that this Daily Report carries the event; the history around it has not been checked by a specialist. ' +
+      '<p class="draft">Transcript (machine generated). ' +
       '<a href="about.html#method">How entries are made</a> · ' +
       '<a href="mailto:robin.fay@archive.org?subject=Feedback%20about%20Explorers%3A%20FBIS%20This%20Day">Report a mistake</a>.</p>';
   }

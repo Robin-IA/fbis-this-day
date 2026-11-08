@@ -100,10 +100,42 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 .daybar .pick { display: flex; gap: 6px; align-items: center; }
 
 /* The day card: a wire-service sheet */
-.sheet { background: var(--paper); border: 1px solid var(--rule); border-radius: 4px; padding: 0 24px 24px; position: relative; box-shadow: 0 2px 0 var(--gold), 0 8px 24px rgba(12, 26, 54, .08); overflow: hidden; }
-/* The classification strip FBIS printed at the head of each page */
-.classif { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 0 -24px 18px; padding: 7px 24px; background: var(--red); color: var(--white); font: 700 12px/1.3 var(--mono); letter-spacing: .18em; text-transform: uppercase; }
-.classif .mono { letter-spacing: .06em; font-weight: 600; }
+/* The bulletin is a typed sheet of paper in both light and dark mode, so it
+   carries its own colors. Every text pair here meets WCAG AA on the paper. */
+.sheet {
+  --paper: #fcf9f0; --tint: #f2ebd8; --ink: #1d1a14; --muted: #4e4637; --rule: #d9ceb0;
+  --heading: #14274e; --link: #1b3f86; --accent: #b31b2b; --accent-ink: #fff;
+  --chip: #f1e4bd; --chip-ink: #14274e;
+  --type: "American Typewriter", "Courier Prime", "Courier New", Courier, monospace;
+  color: var(--ink);
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .32 0 0 0 0 .26 0 0 0 0 .14 0 0 0 .09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
+    linear-gradient(180deg, transparent 33%, rgba(120, 100, 60, .07) 33.2%, transparent 33.6%),
+    radial-gradient(ellipse at 50% 40%, transparent 55%, rgba(120, 95, 50, .10) 100%),
+    var(--paper);
+  border: 1px solid #e3d8b8; border-radius: 3px; padding: 0 28px 26px; position: relative; isolation: isolate;
+  /* the sheet lifts off the page: a hard shadow down the right edge and a soft one below */
+  box-shadow: 1px 0 0 #e3d8b8, 12px 14px 0 -4px rgba(12, 26, 54, .10), 18px 22px 30px rgba(12, 26, 54, .28);
+  margin-right: 14px;
+}
+/* a second sheet underneath, slightly askew */
+/* the edges of two more sheets showing down the right-hand side */
+.sheet::before, .sheet::after { content: ""; position: absolute; top: 5px; bottom: -5px; z-index: -1; border-radius: 0 3px 3px 0; }
+.sheet::before { right: -7px; left: 7px; background: #efe6cd; border: 1px solid #d9ccaa; box-shadow: 3px 3px 6px rgba(12, 26, 54, .12); }
+.sheet::after { top: 10px; bottom: -10px; right: -13px; left: 13px; z-index: -2; background: #e7dcbf; border: 1px solid #d2c4a0; box-shadow: 4px 5px 10px rgba(12, 26, 54, .14); }
+.sheet h2, .sheet p { font-family: var(--type); }
+.sheet h2 { font-weight: 700; letter-spacing: -.01em; }
+.sheet p { font-size: 16px; line-height: 1.65; text-shadow: 0 0 .5px rgba(29, 26, 20, .35); }
+.sheet .bigdate { font-family: var(--type); }
+/* The file line typed at the head of the sheet, and a rubber stamp over it */
+.sheet p.fileline { margin: 0 -28px 18px; padding: 12px 28px 8px; border-bottom: 1px dashed var(--rule); font: 600 12px/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.sheet p.cstamp { position: absolute; top: 34px; right: 24px; z-index: 1; margin: 0; pointer-events: none; text-shadow: none;
+  font: 800 19px/1 var(--mono); letter-spacing: .2em; text-transform: uppercase; color: #a3121f;
+  padding: 7px 12px 6px 16px; border: 3px solid currentColor; border-radius: 6px; outline: 1.5px solid currentColor; outline-offset: 3px;
+  transform: rotate(-7deg); opacity: .86; mix-blend-mode: multiply;
+  /* uneven ink: a noise mask lets the paper show through in places */
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='60'%3E%3Cfilter id='s'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.2' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.2 1.6'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23s)'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='60'%3E%3Cfilter id='s'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.2' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.2 1.6'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23s)'/%3E%3C/svg%3E"); }
 .sheet .dateline { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; border-bottom: 2px solid var(--heading); padding-bottom: 10px; margin-bottom: 16px; }
 .sheet .bigdate { font: 700 1.9rem/1 var(--serif); margin: 0; color: var(--heading); }
 .sheet .year { font: 600 1.05rem var(--mono); color: var(--accent); }
@@ -175,11 +207,50 @@ footer.site p { margin: 0 0 6px; }
 @media (max-width: 560px) {
   body { font-size: 16px; }
   h1 { font-size: 1.7rem; }
-  .sheet { padding: 16px; }
+  .sheet { padding: 0 16px 16px; }
+  .sheet p.fileline { margin: 0 -16px 14px; padding: 10px 16px 8px; }
+  .sheet { margin-right: 10px; }
+  .sheet p.cstamp { position: static; display: inline-block; margin: 0 0 12px 4px; font-size: 15px; }
   .sheet .bigdate { font-size: 1.5rem; }
   .masthead nav { margin-left: 0; width: 100%; }
 }
 @media (prefers-reduced-motion: no-preference) {
   .sheet { animation: in .25s ease-out; }
   @keyframes in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+}
+.sheet p.draft { font: 13px/1.5 var(--sans); text-shadow: none; }
+.sheet .evidence p { text-shadow: none; }
+
+/* An open manila folder that holds each page's contents. It keeps its own
+   colors in both modes; every text pair on it meets WCAG AA. */
+.folder {
+  --paper: #f8f3e3; --tint: #efe7d0; --ink: #2a2115; --muted: #4f3f22; --rule: #d6c39a;
+  --heading: #14274e; --link: #1b3f86; --accent: #8a1420; --chip: #f1e4bd; --chip-ink: #14274e;
+  color: var(--ink); position: relative; margin-top: 52px; margin-bottom: 8px;
+  padding: 10px 26px 26px 40px; border-radius: 4px 8px 8px 8px;
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='m'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.7' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .4 0 0 0 0 .3 0 0 0 0 .12 0 0 0 .08 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E"),
+    linear-gradient(90deg, #dccaa0 0, #e8d9b6 10px, #cdb88a 13px, #f1e6cc 16px, #f1e6cc 100%);
+  box-shadow: inset 0 0 0 1px rgba(110, 80, 30, .25), 0 14px 34px rgba(12, 26, 54, .22);
+}
+/* the folder's index tab */
+.folder::before {
+  content: attr(data-label); position: absolute; left: 0; top: -34px; height: 34px; max-width: 80%;
+  padding: 9px 22px 0 18px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+  font: 700 12px/1.3 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: #3b2d14;
+  background: #f1e6cc; border-radius: 8px 14px 0 0;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .35), inset 1px 0 0 rgba(110, 80, 30, .25), inset -1px 0 0 rgba(110, 80, 30, .25);
+}
+/* the front flap folded back along the left edge */
+.folder::after {
+  content: ""; position: absolute; left: -8px; top: 14px; bottom: -6px; width: 14px; border-radius: 6px 0 0 6px;
+  background: linear-gradient(90deg, #cdb88a, #e2d1aa); box-shadow: -3px 4px 8px rgba(12, 26, 54, .18); z-index: -1;
+}
+.folder .daybar { margin-top: 14px; }
+.folder .daybar button, .folder .daybar select { color: var(--ink); background: var(--paper); border-color: #d6c39a; }
+.folder section.more h2, .folder .prose h2 { color: var(--heading); }
+.folder header.intro { padding-top: 16px; }
+@media (max-width: 560px) {
+  .folder { padding: 8px 14px 18px 22px; margin-top: 46px; }
+  .folder::after { left: -5px; width: 9px; }
 }

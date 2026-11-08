@@ -100,9 +100,30 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 .daybar .pick { display: flex; gap: 6px; align-items: center; }
 
 /* The day card: a wire-service sheet */
-.sheet { background: var(--paper); border: 1px solid var(--rule); border-radius: 4px; padding: 0 24px 24px; position: relative; box-shadow: 0 2px 0 var(--gold), 0 8px 24px rgba(12, 26, 54, .08); overflow: hidden; }
+/* The bulletin is a typed sheet of paper in both light and dark mode, so it
+   carries its own colors. Every text pair here meets WCAG AA on the paper. */
+.sheet {
+  --paper: #f8f3e3; --tint: #efe7d0; --ink: #1d1a14; --muted: #4e4637; --rule: #d9ceb0;
+  --heading: #14274e; --link: #1b3f86; --accent: #b31b2b; --accent-ink: #fff;
+  --chip: #f1e4bd; --chip-ink: #14274e;
+  --type: "American Typewriter", "Courier Prime", "Courier New", Courier, monospace;
+  color: var(--ink);
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .32 0 0 0 0 .26 0 0 0 0 .14 0 0 0 .09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
+    linear-gradient(180deg, transparent 33%, rgba(120, 100, 60, .07) 33.2%, transparent 33.6%),
+    radial-gradient(ellipse at 50% 40%, transparent 55%, rgba(120, 95, 50, .10) 100%),
+    var(--paper);
+  border: 1px solid #e3d8b8; border-radius: 3px; padding: 0 28px 26px; position: relative; isolation: isolate;
+  box-shadow: 0 1px 0 #e3d8b8, 0 10px 26px rgba(12, 26, 54, .18);
+}
+/* a second sheet underneath, slightly askew */
+.sheet::before { content: ""; position: absolute; inset: 6px -4px -6px 4px; z-index: -1; background: #eee5cc; border: 1px solid #ddd0ac; border-radius: 3px; transform: rotate(.6deg); box-shadow: 0 6px 18px rgba(12, 26, 54, .12); }
+.sheet h2, .sheet p { font-family: var(--type); }
+.sheet h2 { font-weight: 700; letter-spacing: -.01em; }
+.sheet p { font-size: 16px; line-height: 1.65; text-shadow: 0 0 .5px rgba(29, 26, 20, .35); }
+.sheet .bigdate { font-family: var(--type); }
 /* The classification strip FBIS printed at the head of each page */
-.classif { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 0 -24px 18px; padding: 7px 24px; background: var(--red); color: var(--white); font: 700 12px/1.3 var(--mono); letter-spacing: .18em; text-transform: uppercase; }
+.classif { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 0 -28px 18px; padding: 7px 28px; border-radius: 3px 3px 0 0; background: var(--red); color: var(--white); font: 700 12px/1.3 var(--mono); letter-spacing: .18em; text-transform: uppercase; }
 .classif .mono { letter-spacing: .06em; font-weight: 600; }
 .sheet .dateline { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; border-bottom: 2px solid var(--heading); padding-bottom: 10px; margin-bottom: 16px; }
 .sheet .bigdate { font: 700 1.9rem/1 var(--serif); margin: 0; color: var(--heading); }
@@ -175,7 +196,8 @@ footer.site p { margin: 0 0 6px; }
 @media (max-width: 560px) {
   body { font-size: 16px; }
   h1 { font-size: 1.7rem; }
-  .sheet { padding: 16px; }
+  .sheet { padding: 0 16px 16px; }
+  .sheet .classif { margin: 0 -16px 14px; padding: 7px 16px; }
   .sheet .bigdate { font-size: 1.5rem; }
   .masthead nav { margin-left: 0; width: 100%; }
 }
@@ -183,3 +205,5 @@ footer.site p { margin: 0 0 6px; }
   .sheet { animation: in .25s ease-out; }
   @keyframes in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
 }
+.sheet p.draft { font: 13px/1.5 var(--sans); text-shadow: none; }
+.sheet .evidence p { text-shadow: none; }

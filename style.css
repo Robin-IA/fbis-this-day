@@ -282,14 +282,14 @@ footer.site p { margin: 0 0 6px; }
   background: #f1e6cc; border-top: 1px solid rgba(255, 255, 255, .55);
   box-shadow: 0 -1px 4px rgba(60, 45, 20, .13); }
 .folder .daybar button, .folder .daybar select {
-  --tab: #cbd7e2;
+  --tab: #c3cbd3;
   min-height: 52px; margin-bottom: 0; padding: 6px 14px 5px;
   font: 700 15px "Courier Prime", "Courier New", Courier, monospace; letter-spacing: .02em; color: #1d1a14;
   background: var(--tab);
   border: 0; border-radius: 11px 11px 0 0; padding: 10px 18px 19px;
   box-shadow: none;
 }
-.folder .daybar #next { --tab: #d5cee2; }
+.folder .daybar #next { --tab: #cbc6d4; }
 .folder .daybar #today { --tab: #e6cdc4; }
 .folder .daybar select { --tab: #e6d9ab; }
 .folder .daybar #day { --tab: #c7dbd2; }

@@ -284,6 +284,7 @@ footer.site p { margin: 0 0 6px; }
   border: 0; border-radius: 11px 11px 0 0; padding: 11px 18px 10px;
   box-shadow: none;
 }
+.folder .daybar #next { --tab: #e7e0f3; }
 .folder .daybar #today { --tab: #f5dcd3; }
 .folder .daybar select { --tab: #f4e9c3; }
 .folder .daybar #day { --tab: #d9eee6; }

@@ -272,21 +272,25 @@ footer.site p { margin: 0 0 6px; }
 .folder .sheet { margin-bottom: 26px; }
 
 /* The day controls are plastic divider tabs standing up from the folder's
-   edge: translucent colored plastic around a white paper label. */
+   edge, each with a strip of typed paper slid into it. */
 .folder .daybar { gap: 6px; align-items: flex-end; margin: 18px -26px 18px -40px; padding: 0 26px 0 40px; border-bottom: 2px solid #c9b07c; }
 .folder .daybar button, .folder .daybar select {
-  --tab: rgba(120, 148, 176, .38);
-  min-height: 42px; margin-bottom: -2px; padding: 6px 14px 5px;
-  font: 700 14px var(--mono); letter-spacing: .04em; color: #1f2a3d;
-  background: #fffdf7; background-clip: padding-box;
-  border: 6px solid var(--tab); border-bottom: 0; border-radius: 10px 10px 0 0;
-  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .08), 0 -1px 0 rgba(255, 255, 255, .6), 0 2px 4px rgba(12, 26, 54, .12);
+  --tab: #8fb3d9;
+  min-height: 44px; margin-bottom: -2px; padding: 6px 14px 5px;
+  font: 700 15px "Courier Prime", "Courier New", Courier, monospace; letter-spacing: .02em; color: #1d1a14;
+  /* the paper insert */
+  background: linear-gradient(180deg, #fffdf6, #f7f1e1); background-clip: padding-box;
+  /* the plastic tab around it */
+  border: 7px solid var(--tab); border-bottom: 0; border-radius: 11px 11px 0 0;
+  /* a dark rim gives each tab a 3:1 edge against the folder (WCAG 1.4.11) */
+  box-shadow: inset 0 1px 3px rgba(60, 45, 20, .25), 0 0 0 1px #6b5a36, 0 2px 5px rgba(12, 26, 54, .16);
 }
-.folder .daybar #today { --tab: rgba(176, 112, 112, .34); }
-.folder .daybar select { --tab: rgba(190, 162, 96, .42); }
-.folder .daybar button:hover, .folder .daybar select:hover { background: #ffffff; background-clip: padding-box; filter: saturate(1.15); }
+.folder .daybar #today { --tab: #e8a58c; }
+.folder .daybar select { --tab: #e6cb72; }
+.folder .daybar #day { --tab: #8cc7b5; }
+.folder .daybar button:hover, .folder .daybar select:hover { background: #ffffff; background-clip: padding-box; }
 .folder .daybar .pick { gap: 6px; }
 @media (max-width: 560px) {
   .folder .daybar { margin: 14px -14px 14px -22px; padding: 0 14px 0 22px; }
-  .folder .daybar button, .folder .daybar select { padding: 5px 8px 4px; font-size: 13px; border-width: 5px; }
+  .folder .daybar button, .folder .daybar select { padding: 5px 8px 4px; font-size: 14px; border-width: 6px; }
 }

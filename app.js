@@ -61,7 +61,7 @@
       '<p class="src">Found on page ' + (ev.page + 1) + ' of <a href="' + pageUrl(ev) + '">' + esc(ev.title) + "</a>" +
       (ev.contents_only ? " (in its list of contents)" : "") + ".</p>" +
       "<blockquote>" + esc(ev.snippet) + "</blockquote>" +
-      '<p class="ocrnote">Machine-read text from the microfiche scan, uncorrected.</p></div>';
+      '<p class="ocrnote">Transcript (machine generated)</p></div>';
   }
 
   function renderSheet(md, data) {

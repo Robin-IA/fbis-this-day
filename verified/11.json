@@ -318,15 +318,18 @@
   "spycraft": true,
   "summary": "On 6 November 1985 Vitaliy Yurchenko, the senior KGB officer who had defected to the United States in August, flew back to Moscow, two days after appearing at the Soviet Embassy in Washington to claim the CIA had drugged and abducted him.",
   "significance": "Yurchenko's re-defection embarrassed the CIA and left lasting doubt about whether he had been genuine. His debriefings had already exposed Edward Lee Howard and Ronald Pelton.",
-  "fbis": "The Soviet Union Daily Report of 6 November 1985 carried an IZVESTIYA dispatch from Washington presenting the affair as the kidnapping of a Soviet diplomat by the US special services, under a section FBIS titled 'Act of State Terrorism'.",
-  "pick": true,
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Yurchenko story, but not his flight home",
   "evidence": {
-   "identifier": "micro_IA1176914_0884",
-   "issue_date": "1985-11-06",
+   "identifier": "micro_IA1176914_0885",
+   "issue_date": "1985-11-07",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 215, 6 November 1985",
-   "page": 24,
-   "snippet": "…on, outlined again in the draft new edition of its programme. President Reagan's speech shows that the U.S. leaders have different moods and plans. This will not help the forthcoming Geneva meeting. FURTHER REPORTAGE ON YURCHENKO INCIDENT IZVESTIYA Report PM051815 Moscow IZVESTIYA in Russian 6 Nov 85 Moming Edition p 4 [Dispatch by own correspondent A. Palladin: \"\"'It Was in Vain That I Appealed to Their Consciences,' On the Kidnapping of a Sovi…"
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 216, 7 November 1985",
+   "page": 18,
+   "snippet": "…States unconscious. In the United States, CIA agents used various intensive methods continuously to affect his mentality in an attempt to coerce him for betrayal and cooperation with American intelligence officers. What Yurchenko described as a real torture lasted for nearly 3 months but he managed to escape and come to the Soviet Embassy. American officials are trying to outdo newspapers in assertions that Yurchenko's story is simply incredible…"
   }
  },
  {
@@ -1032,15 +1035,18 @@
   "spycraft": false,
   "summary": "On 18 November 1991 the Croatian town of Vukovar fell to the Yugoslav People's Army and Serb forces after a siege of nearly three months.",
   "significance": "The destruction of Vukovar and the killing of prisoners afterwards became emblems of the Yugoslav wars.",
-  "fbis": "Radio Croatia reported on 18 November that the Yugoslav army commander had written to the EC ambassador in Zagreb about security for EC observers in Vukovar.",
+  "fbis": "",
   "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Vukovar evacuation offer, not its fall",
   "evidence": {
-   "identifier": "micro_IA1176904_0468",
-   "issue_date": "1991-11-18",
+   "identifier": "micro_IA1176904_0469",
+   "issue_date": "1991-11-19",
    "region": "EEU",
-   "title": "FBIS Daily Report: East Europe, No. 222, 18 November 1991",
-   "page": 39,
-   "snippet": "…nt of the Yugoslav crisis. Zelienovic very positively assessed the visit to Romania and emphasized that the talks with the Romanian lead- ership were “necessary and beneficial.” Army Ensures Security for EC Observers in Vukovar LDI811115391 Zagreb Radio Croatia Network in Serbo-Croatian 1100 GMT 18 Nov 91 [Text] We have just learned that Colonel General Andria Raseta has sent a letter to the EC Ambassador in Zagreb, Dirk Vam Houten. In it he s…"
+   "title": "FBIS Daily Report: East Europe, No. 223, 19 November 1991",
+   "page": 42,
+   "snippet": "…nment it will be, and what its power in (the rest of) the country and abroad will be Markovic’s era has ended ingloriously. What will the new semi-war or war government aim for? Defense Ministry Denies Massacre Plans in Vukovar LD1811153991 Belgrade TANJUG Domestic Service in Serbo-Croatian 1332 GMT 18 Nov 91 [Text] Belgrade, 18 Nov (TANJUG)}—A representative of the Federal Secretariat for National Defense has told TANJUG that “the latest requ…"
   }
  },
  {
@@ -1101,15 +1107,18 @@
   "spycraft": false,
   "summary": "On 19 November 1990 the members of NATO and the Warsaw Pact signed the Treaty on Conventional Armed Forces in Europe in Paris.",
   "significance": "The treaty imposed deep cuts in tanks, artillery and aircraft, ending the Soviet superiority in Europe that NATO planning had faced for forty years.",
-  "fbis": "CTK reported on 18 November that President Havel had left for the Paris CSCE meeting, which was to ratify the treaty on conventional armed forces cuts.",
+  "fbis": "",
   "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Havel's departure only, run-up to signing",
   "evidence": {
-   "identifier": "micro_IA1176904_0223",
-   "issue_date": "1990-11-19",
+   "identifier": "micro_IA1176904_0224",
+   "issue_date": "1990-11-20",
    "region": "EEU",
-   "title": "FBIS Daily Report: East Europe, No. 223, 19 November 1990",
-   "page": 37,
-   "snippet": "…18 (CTK)—Czechoslovak President Vaclav Havel left today for Paris, to attend a three-day meeting of the Conference on Security and Cooperation in Europe (CSCE), beginning on Monday. The meeting will ratify the treaty on conventional armed forces cuts and is expected to provide a new impulse for East-West cooperation. Mr Havel is accompanied by Federal Premier Marian Calfa and Foreign Minister Jiri Dienstbier. Havel Interviewed on Elections, Bush Vi…"
+   "title": "FBIS Daily Report: East Europe, No. 224, 20 November 1990",
+   "page": 8,
+   "snippet": "INTERNATIONAL AFFAIRS CSFR Delegate Comments on Effect of CSCE Treaty LD1811232990 Prague CTK in English 1705 GMT 18 Nov 90 [Text] Vienna Nov 18 (CTK)}—Commitments arising for Czechoslovakia from the treaty on conventional armed forces cuts, initialled in Vienna by the heads of delegations of 22 Warsaw Pact and NATO member states today, were listed in an interview for CTK by head of the Czechoslovak delegation Ladislav Balcar. Czechoslova…"
   }
  },
  {
@@ -1199,15 +1208,17 @@
   "spycraft": false,
   "summary": "On 21 November 1995, after three weeks of talks at an Air Force base in Dayton, Ohio, the presidents of Serbia, Croatia and Bosnia initialled a peace agreement.",
   "significance": "The Dayton agreement ended the Bosnian war and committed NATO, including US troops, to enforce it.",
-  "fbis": "The East Europe report of 21 November 1995 carried Bosnian radio items from the last days of the Dayton talks, including Bosnian Muslim party support for the Dayton agreement on the Federation.",
+  "fbis": "The East Europe report of November 22, 1995, carried AFP from Geneva: EU negotiator Carl Bildt, speaking after President Clinton announced the Dayton deal, called it the 'beginning of peace' and said agreements would be signed in Paris.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176904_1432",
-   "issue_date": "1995-11-21",
+   "identifier": "micro_IA1176904_1433",
+   "issue_date": "1995-11-22",
    "region": "EEU",
-   "title": "FBIS Daily Report: East Europe, No. 224, 21 November 1995",
-   "page": 4,
-   "snippet": "…jevo Radio] Modrica Residents Issue Protest Over Posavina {Sarajevo Radio] Bosnian Posavina Citizens Adopt Memorandum [Sarajevo Radio] Herzeg-Bosnia Croats View Map Negotiations {SLOBODNA DALMACLIJA 15 Nov] MBO Supports Dayton Agreement on Federation [Sarajevo Radio] Commentary Notes Status of Milosevic, Yugoslavia [Belgrade Radio] Ganic Discusses Formation of Federal Government [Sarajevo Radio] FRY Army Exercises ‘Threatening’ Bosniax People…"
+   "title": "FBIS Daily Report: East Europe, No. 225, 22 November 1995",
+   "page": 6,
+   "snippet": "…Harmony’ in Bosnia AU2111203795 Paris AFP in English 2000 GMT 21 Nov 95 (FBIS Transcribed Text] Geneva, Nov 21 (AFP)—Carl Bildt, European Union negotiator in former Yugoslavia described Tuesday [21 November] the deal in Dayton, Ohio, between Bosnia, Serbia and Croatia to end four years of conflict as the “beginning of peace”. Speaking after the arrangement was announced by U.S. President Bill Clinton in Washington, Bildt, who co chairs the In…"
   }
  },
  {
@@ -1605,15 +1616,18 @@
   "spycraft": false,
   "summary": "On 30 November 1981 the United States and the Soviet Union opened negotiations in Geneva on intermediate-range nuclear forces in Europe.",
   "significance": "The talks followed Reagan's 'zero option' proposal; they broke down in 1983 when Pershing II deployment began, but resumed and produced the INF Treaty in 1987.",
-  "fbis": "The East Europe report of 30 November 1981 carried bloc commentary backing the Soviet proposal for a moratorium on new intermediate-range missiles during the Geneva negotiations beginning that Monday.",
-  "pick": true,
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Run-up only, not the talks' opening",
   "evidence": {
-   "identifier": "micro_IA1176902_0939",
-   "issue_date": "1981-11-30",
-   "region": "EEU",
-   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 229, 30 November 1981",
-   "page": 29,
-   "snippet": "…e- pared unilaterally to reduce the number of its missiles if the other side accepts the proposal of a moratorium, which would mean that both sides would refrain from deploying new intermediate-range missiles during the Geneva negotiations beginning on Monday. It is entirely obvious that there is no empty, propagandistic element in this Soviet initiative, because a specific deed in a very sensitive area is at issue. And it does not entail any manner of ul…"
+   "identifier": "micro_IA1176913_0911",
+   "issue_date": "1981-12-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Tables of Contents, Vol. III No. 230-251, December 1981",
+   "page": 51,
+   "snippet": "…the U.S. forward-based weapons and British and French medium-range nuclear weapons, there exists approximate parity in Europe. Soviet leaders have frequently cited the relevant facts and figures. The USSR approaches the Geneva talks most seriously and is seeking to find mutually acceptable solutions which would free Europe from the danger of nuclear war. Here our country believes that it is essential to use everything previously achieved in this fi…"
   }
  }
 ]

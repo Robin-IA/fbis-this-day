@@ -246,8 +246,11 @@
   "spycraft": true,
   "summary": "On 6 November 1985 Vitaliy Yurchenko, the senior KGB officer who had defected to the United States in August, flew back to Moscow, two days after appearing at the Soviet Embassy in Washington to claim the CIA had drugged and abducted him.",
   "significance": "Yurchenko's re-defection embarrassed the CIA and left lasting doubt about whether he had been genuine. His debriefings had already exposed Edward Lee Howard and Ronald Pelton.",
-  "fbis": "The Soviet Union Daily Report of 6 November 1985 carried an IZVESTIYA dispatch from Washington presenting the affair as the kidnapping of a Soviet diplomat by the US special services, under a section FBIS titled 'Act of State Terrorism'.",
-  "pick": true
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Yurchenko story, but not his flight home"
  },
  {
   "md": "11-06",
@@ -784,8 +787,11 @@
   "spycraft": false,
   "summary": "On 18 November 1991 the Croatian town of Vukovar fell to the Yugoslav People's Army and Serb forces after a siege of nearly three months.",
   "significance": "The destruction of Vukovar and the killing of prisoners afterwards became emblems of the Yugoslav wars.",
-  "fbis": "Radio Croatia reported on 18 November that the Yugoslav army commander had written to the EC ambassador in Zagreb about security for EC observers in Vukovar.",
-  "pick": false
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Vukovar evacuation offer, not its fall"
  },
  {
   "md": "11-19",
@@ -837,8 +843,11 @@
   "spycraft": false,
   "summary": "On 19 November 1990 the members of NATO and the Warsaw Pact signed the Treaty on Conventional Armed Forces in Europe in Paris.",
   "significance": "The treaty imposed deep cuts in tanks, artillery and aircraft, ending the Soviet superiority in Europe that NATO planning had faced for forty years.",
-  "fbis": "CTK reported on 18 November that President Havel had left for the Paris CSCE meeting, which was to ratify the treaty on conventional armed forces cuts.",
-  "pick": false
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Havel's departure only, run-up to signing"
  },
  {
   "md": "11-20",
@@ -911,8 +920,10 @@
   "spycraft": false,
   "summary": "On 21 November 1995, after three weeks of talks at an Air Force base in Dayton, Ohio, the presidents of Serbia, Croatia and Bosnia initialled a peace agreement.",
   "significance": "The Dayton agreement ended the Bosnian war and committed NATO, including US troops, to enforce it.",
-  "fbis": "The East Europe report of 21 November 1995 carried Bosnian radio items from the last days of the Dayton talks, including Bosnian Muslim party support for the Dayton agreement on the Federation.",
-  "pick": false
+  "fbis": "The East Europe report of November 22, 1995, carried AFP from Geneva: EU negotiator Carl Bildt, speaking after President Clinton announced the Dayton deal, called it the 'beginning of peace' and said agreements would be signed in Paris.",
+  "pick": false,
+  "window": 400,
+  "start": 1
  },
  {
   "md": "11-22",
@@ -1220,7 +1231,10 @@
   "spycraft": false,
   "summary": "On 30 November 1981 the United States and the Soviet Union opened negotiations in Geneva on intermediate-range nuclear forces in Europe.",
   "significance": "The talks followed Reagan's 'zero option' proposal; they broke down in 1983 when Pershing II deployment began, but resumed and produced the INF Treaty in 1987.",
-  "fbis": "The East Europe report of 30 November 1981 carried bloc commentary backing the Soviet proposal for a moratorium on new intermediate-range missiles during the Geneva negotiations beginning that Monday.",
-  "pick": true
+  "fbis": "",
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "Run-up only, not the talks' opening"
  }
 ]

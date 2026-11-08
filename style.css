@@ -1,3 +1,6 @@
+/* Courier Prime Bold (SIL Open Font License, fonts/OFL.txt), kept in the
+   site's own files: the bulletin's date and headline. */
+@font-face { font-family: "Courier Prime"; src: url("fonts/CourierPrime-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: swap; }
 /* Palette: red, dark blue, gold and white.
    Gold is used on dark blue (or as a rule/border), never as text on white. */
 :root {
@@ -254,3 +257,6 @@ footer.site p { margin: 0 0 6px; }
   .folder { padding: 8px 14px 18px 22px; margin-top: 46px; }
   .folder::after { left: -5px; width: 9px; }
 }
+
+.sheet h2, .sheet .bigdate { font-family: "Courier Prime", "Courier New", Courier, monospace; font-weight: 700; letter-spacing: -.01em; }
+.sheet .bigdate { font-size: 2rem; }

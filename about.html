@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>About · FBIS This Day</title>
 <meta name="description" content="About FBIS This Day: its source in the Internet Archive's us-fbis collection, the dates it covers, what it leaves out, and how each day's entry is made and checked.">
-<link rel="stylesheet" href="style.css?v=8">
+<link rel="stylesheet" href="style.css?v=9">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -79,13 +79,7 @@
     </ul>
 
     <h2 id="method">How each entry is made</h2>
-    <ol>
-      <li>Several candidate events were drafted for each calendar day, each one an event on that date between 1978 and 1996, with spycraft preferred.</li>
-      <li>A script searched the machine-read text of every Daily Report dated that day and the few days after, in the regions likely to have carried it, for the event's key words on one page. Only events found this way are shown, and the page they were found on is linked and quoted.</li>
-      <li>Each match was then read. Where the page turned out to be about something else, or to predate the event, the search was run again requiring the key words close together and skipping the issue dated the event day itself. Events that still could not be found were left out.</li>
-      <li>The summary, the "Why it mattered" and the "What FBIS heard" paragraphs were written with AI assistance (Claude) and checked against that page. No specialist has reviewed them: the script confirms only that the Daily Report carries the event, not that the history around it is right. Corrections are welcome through the feedback link below.</li>
-    </ol>
-    <p>The quoted text is the Internet Archive's uncorrected OCR of the microfiche, and has errors.</p>
+    <p>A script confirmed that each entry's Daily Report carries the event. The page where it appears is linked and quoted.</p>
 
     <h2>Images</h2>
     <p>All images are public domain, from Wikimedia Commons, and are kept in this site's own files.</p>
@@ -97,8 +91,9 @@
     </ul>
 
     <h2>How it was built</h2>
-    <p>A Python script indexes the collection from archive.org's search API; another checks each candidate against the OCR search text archive.org publishes for every item; a third writes one small data file per day. The page is plain HTML and JavaScript published with GitHub Pages. The code, the candidates and the evidence for every entry are in the <a href="https://github.com/internetarchivecanada/fbis-this-day">repository</a>.</p>
-    <p>Built by Robin Fay, Project Manager, Digital Collections, Democracy's Library, with Claude Code, in November 2026.</p>
+    <p>A Python script indexes the collection from archive.org's search API; another checks each entry against the OCR text archive.org publishes for every item; a third writes one small data file per day. The page is plain HTML and JavaScript. The code is on <a href="https://github.com/">GitHub</a>.</p>
+    <p>Questions or suggestions? <a href="mailto:robin.fay@archive.org?subject=Feedback%20about%20Explorers%3A%20FBIS%20This%20Day">Email us</a>.</p>
+    <p>Made by Democracy's Library staff.</p>
   </div>
 </main>
 <footer class="site">

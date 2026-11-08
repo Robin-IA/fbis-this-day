@@ -1,3 +1,6 @@
+/* Courier Prime Bold (SIL Open Font License, fonts/OFL.txt), kept in the
+   site's own files: the bulletin's date and headline. */
+@font-face { font-family: "Courier Prime"; src: url("fonts/CourierPrime-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: swap; }
 /* Palette: red, dark blue, gold and white.
    Gold is used on dark blue (or as a rule/border), never as text on white. */
 :root {
@@ -50,7 +53,8 @@ a:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid
 .masthead .wrap { display: flex; align-items: center; gap: 14px; padding-top: 10px; padding-bottom: 10px; flex-wrap: wrap; }
 .masthead .logos { display: flex; gap: 10px; align-items: center; }
 .masthead .logos img { display: block; }
-.masthead .dl { background: #fff; border-radius: 4px; padding: 2px; }
+.masthead .dl { background: #fff; border-radius: 6px; padding: 3px 5px; line-height: 0; }
+.masthead .dl img { width: auto; height: 34px; }
 .masthead nav { margin-left: auto; display: flex; gap: 18px; }
 .masthead nav a { color: var(--head-ink); text-decoration: none; font-weight: 600; font-size: 15px; }
 .masthead nav a:hover, .masthead nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 4px; }
@@ -254,3 +258,6 @@ footer.site p { margin: 0 0 6px; }
   .folder { padding: 8px 14px 18px 22px; margin-top: 46px; }
   .folder::after { left: -5px; width: 9px; }
 }
+
+.sheet h2, .sheet .bigdate { font-family: "Courier Prime", "Courier New", Courier, monospace; font-weight: 700; letter-spacing: -.01em; }
+.sheet .bigdate { font-size: 2rem; }

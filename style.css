@@ -231,6 +231,7 @@ footer.site p { margin: 0 0 6px; }
   @keyframes in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
 }
 .sheet p.draft { font: 13px/1.5 var(--sans); text-shadow: none; }
+.sheet p.draft a { display: inline-block; min-height: 24px; padding: 3px 0; line-height: 18px; }
 .sheet .evidence p { text-shadow: none; }
 
 /* An open manila folder that holds each page's contents. It keeps its own
@@ -299,3 +300,13 @@ footer.site p { margin: 0 0 6px; }
   .folder .daybar { margin: 14px -14px 14px -22px; padding: 0 14px 0 22px; }
   .folder .daybar button, .folder .daybar select { padding: 8px 11px 17px; font-size: 14px; }
 }
+
+/* Pause/Resume for the countdown (WCAG 2.2.2) */
+.monitor-toggle { font: 700 11px/1 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--gold); background: transparent; border: 1px solid var(--gold); border-radius: 4px; padding: 6px 9px; min-height: 26px; cursor: pointer; }
+.monitor-toggle:hover { background: rgba(212, 167, 44, .15); }
+.monitor-toggle:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.monitor.paused .dot { animation: none; opacity: .5; }
+
+/* The checker's dated statement sits at the end of the footer: give it the
+   footer's column and gutter. */
+footer.site .explorer-checks-note { max-width: 52rem; margin: 1em auto 0 !important; padding: 0 16px; color: #dfe5f2; }

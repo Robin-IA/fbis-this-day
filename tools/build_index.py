@@ -14,6 +14,8 @@ import urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "issues.json"
+IDENT = re.compile(r"[A-Za-z0-9][A-Za-z0-9._-]{0,99}")
+DATE = re.compile(r"\d{4}-\d{2}-\d{2}")
 UA = "fbis-this-day/0.1 (Internet Archive, Democracy's Library)"
 
 # Region subcollection -> code. Titles are the fallback (some items carry
@@ -55,7 +57,7 @@ def region(colls, title):
 
 
 def main():
-    rows, cursor = [], None
+    rows, rejected, cursor = [], [], None
     while True:
         params = {"q": "collection:us-fbis", "fields": "identifier,date,title,collection", "count": "10000"}
         if cursor:
@@ -69,13 +71,23 @@ def main():
             colls = [colls] if isinstance(colls, str) else colls
             title = it.get("title") or ""
             title = title if isinstance(title, str) else title[0]
-            rows.append([it["identifier"], (it.get("date") or "")[:10], region(colls, title), title])
+            ident, date = it.get("identifier") or "", (it.get("date") or "")[:10]
+            # Validate what goes into the site's data: archive.org identifiers
+            # and ISO dates only. Anything else is reported and left out.
+            if not IDENT.fullmatch(ident):
+                rejected.append(ident)
+                continue
+            if date and not DATE.fullmatch(date):
+                date = ""
+            rows.append([ident, date, region(colls, title), title])
         cursor = d.get("cursor")
         if not cursor:
             break
     rows.sort(key=lambda r: (r[1], r[2], r[0]))
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(rows, separators=(",", ":")))
+    if rejected:
+        print(f"left out {len(rejected)} item(s) with an unexpected identifier: {rejected[:5]}")
     dated = sum(1 for r in rows if r[1])
     noreg = sum(1 for r in rows if not r[2])
     print(f"{len(rows)} items (collection:us-fbis), {dated} dated, {noreg} without a region")

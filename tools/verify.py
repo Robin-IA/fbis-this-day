@@ -144,7 +144,10 @@ def main():
 
     files = [pathlib.Path(f) for f in args.files] or sorted((ROOT / "candidates").glob("*.json"))
     (ROOT / "verified").mkdir(exist_ok=True)
-    key = lambda c: (c["md"], c["date"], c["headline"])
+
+    def key(c):
+        return (c["md"], c["date"], c["headline"])
+
     for f in files:
         out_p = ROOT / "verified" / f.name
         prev = {key(c): c for c in json.loads(out_p.read_text())} if out_p.exists() else {}

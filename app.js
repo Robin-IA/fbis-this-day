@@ -47,7 +47,7 @@
     return e;
   }
   function itemUrl(id) { return "https://archive.org/details/" + encodeURIComponent(id); }
-  function pageUrl(ev) { return itemUrl(ev.identifier) + "/page/n" + ev.page + "/mode/1up"; }
+  function pageUrl(ev) { return itemUrl(ev.identifier) + "/page/n" + (Number(ev.page) | 0) + "/mode/1up"; }
 
   // The file line FBIS printed on each issue, e.g. FBIS-SOV-87-019.
   function fileRef(ev) {
@@ -58,7 +58,7 @@
 
   function evidenceHtml(ev) {
     return '<div class="evidence"><p class="intercept" aria-hidden="true">Intercept · ' + esc(fileRef(ev)) + "</p>" +
-      '<p class="src">Found on page ' + (ev.page + 1) + ' of <a href="' + pageUrl(ev) + '">' + esc(ev.title) + "</a>" +
+      '<p class="src">Found on page ' + (Number(ev.page) + 1) + ' of <a href="' + pageUrl(ev) + '">' + esc(ev.title) + "</a>" +
       (ev.contents_only ? " (in its list of contents)" : "") + ".</p>" +
       "<blockquote>" + esc(ev.snippet) + "</blockquote>" +
       '<p class="ocrnote">OCR text from the microfiche scan, uncorrected.</p></div>';
@@ -75,7 +75,7 @@
     }
     var ev = e.evidence;
     s.innerHTML =
-      '<p class="fileline">File ' + esc(fileRef(ev)) + " · p. " + (ev.page + 1) + "</p>" +
+      '<p class="fileline">File ' + esc(fileRef(ev)) + " · p. " + (Number(ev.page) + 1) + "</p>" +
       '<p class="cstamp">Unclassified</p>' +
       '<div class="dateline"><p class="bigdate">' + esc(label(md)) + '</p><span class="year">' + esc(e.date.slice(0, 4)) + "</span>" +
       (e.spycraft ? '<span class="stamp">Spycraft</span>' : "") +
@@ -165,7 +165,16 @@
     var t = Math.max(0, Math.floor((next - now) / 1000));
     box.textContent = pad(Math.floor(t / 3600)) + ":" + pad(Math.floor(t / 60) % 60) + ":" + pad(t % 60);
   }
-  tick(); setInterval(tick, 1000);
+  // WCAG 2.2.2: the countdown and its light update continuously, so they can be paused.
+  var ticker = null;
+  function runTicker(on) {
+    clearInterval(ticker); ticker = on ? setInterval(tick, 1000) : null;
+    var b = $("monitorToggle");
+    if (b) { b.textContent = on ? "Pause" : "Resume"; b.setAttribute("aria-pressed", on ? "false" : "true"); }
+    var m = document.querySelector(".monitor"); if (m) m.classList.toggle("paused", !on);
+  }
+  tick(); runTicker(true);
+  if ($("monitorToggle")) $("monitorToggle").addEventListener("click", function () { runTicker(!ticker); if (ticker) tick(); });
 
   // At local midnight, move to the new day unless the visitor pinned one.
   function scheduleMidnight() {

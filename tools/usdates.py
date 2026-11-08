@@ -17,8 +17,8 @@ def comma(m, s):
     rest=s[m.end():m.end()+2]
     return ", " if re.match(r" [A-Za-z0-9(]", rest) else ""
 def conv(s):
-    if not isinstance(s,str): return s
-    out=[]; i=0
+    if not isinstance(s, str):
+        return s
     pat=re.compile(r"\b(\d{1,2})(?:(–|-| and | to )(\d{1,2}))? (%s)(?: (\d{4}))?\b"%M)
     def rep(m):
         d1,sep,d2,mon,yr=m.groups()
@@ -29,5 +29,6 @@ def conv(s):
     s=pat.sub(rep,s)
     s=s.replace(",,",",")
     for a,b in UK.items():
-        s=re.sub(r"\b%s\b"%a,b,s); s=re.sub(r"\b%s\b"%a.capitalize(),b.capitalize(),s)
+        s = re.sub(r"\b%s\b" % a, b, s)
+        s = re.sub(r"\b%s\b" % a.capitalize(), b.capitalize(), s)
     return s

@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>FBIS This Day</title>
 <meta name="description" content="One day, one Daily Report: what the Foreign Broadcast Information Service heard from the world&#39;s radio and press on this date between 1978 and 1996, and why it mattered. A new drop arrives at midnight.">
-<link rel="stylesheet" href="style.css?v=26">
+<link rel="stylesheet" href="style.css?v=29">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-<div class="masthead">
+<header class="masthead">
   <div class="wrap">
     <a class="brand" href="./"><img src="img/fbis-logo.jpg" alt="" width="34" height="34"><span>FBIS This Day</span></a>
     <div class="logos">
@@ -22,7 +22,7 @@
       <a href="about.html">About</a>
     </nav>
   </div>
-</div>
+</header>
 
 <main id="main">
   <header class="band">
@@ -31,7 +31,7 @@
         <p class="slug">Democracy's Library · Foreign Broadcast Information Service · 1978–1996</p>
         <h1>FBIS This Day</h1>
         <p class="lede">One day, one Daily Report: what the Foreign Broadcast Information Service heard from the world's radio and press on this date between 1978 and 1996, and why it mattered. A new drop arrives at midnight.</p>
-        <p class="monitor"><span class="dot" aria-hidden="true"></span>Monitoring · next report in <span id="countdown" class="mono">--:--:--</span></p>
+        <p class="monitor"><span class="dot" aria-hidden="true"></span>Monitoring · next report in <span id="countdown" class="mono">--:--:--</span> <button type="button" id="monitorToggle" class="monitor-toggle" aria-pressed="false">Pause</button></p>
       </div>
       <figure>
         <img src="img/laurel-listening-post.jpg" width="500" height="373" alt="Monitors wearing headphones sit at desks of radio receivers in a listening room.">
@@ -42,8 +42,8 @@
   <div class="wrap folder" data-label="FBIS · Daily Reports · 1978–1996">
 
   <div class="daybar">
-    <button type="button" id="prev" aria-label="Previous day">← <span id="prevLabel">Previous</span></button>
-    <button type="button" id="next" aria-label="Next day"><span id="nextLabel">Next</span> →</button>
+    <button type="button" id="prev"><span aria-hidden="true">← </span><span class="vh">Previous day, </span><span id="prevLabel">Previous</span></button>
+    <button type="button" id="next"><span class="vh">Next day, </span><span id="nextLabel">Next</span><span aria-hidden="true"> →</span></button>
     <button type="button" id="today" class="today-btn" hidden>Back to today</button>
     <span class="spacer"></span>
     <div class="pick">
@@ -77,7 +77,14 @@
     <p>An experiment from Democracy's Library at the Internet Archive; not an official FBIS or U.S. government publication.</p>
     <p>Feedback? <a href="mailto:robin.fay@archive.org?subject=Explorer%20Feedback%3A%20FBIS%20This%20Day">Email us</a></p>
   </div>
+<!-- explorer-checks:note -->
+<p class="explorer-checks-note" style="font-size:clamp(0.8333rem, 0.875em, 1rem);margin:1em 0 0">
+  Meets WCAG 2.2 Level AA accessibility (and WCAG 2.1 AA and 2.0 AA), checked
+  <time datetime="2026-11-08">November 8, 2026</time> by automated tests and manual review.
+  Also passes security and code validity checks.
+</p>
+<!-- /explorer-checks:note -->
 </footer>
-<script src="app.js?v=9"></script>
+<script src="app.js?v=11"></script>
 </body>
 </html>

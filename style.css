@@ -251,7 +251,9 @@ footer.site p { margin: 0 0 6px; }
   padding: 9px 22px 0 18px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
   font: 700 12px/1.3 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: #3b2d14;
   background: #f1e6cc; border-radius: 8px 14px 0 0;
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .35), inset 1px 0 0 rgba(110, 80, 30, .25), inset -1px 0 0 rgba(110, 80, 30, .25);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .45), inset 1px 0 0 rgba(110, 80, 30, .22), inset -1px 0 0 rgba(110, 80, 30, .22),
+    /* a soft drop shadow up and out from the tab; none at its foot, where it joins the folder */
+    -2px -3px 6px -2px rgba(60, 45, 20, .16), 3px -2px 6px -2px rgba(60, 45, 20, .16);
 }
 /* the front flap folded back along the left edge */
 .folder::after {
@@ -274,23 +276,26 @@ footer.site p { margin: 0 0 6px; }
 /* The day controls are solid pastel divider tabs standing up from the
    folder's edge, typed on directly, with no outline. */
 .folder .daybar { gap: 6px; align-items: flex-end; margin: 18px -26px 18px -40px; padding: 0 26px 0 40px; position: relative; }
-/* a soft shadow where the tabs meet the folder, not a drawn line */
-.folder .daybar::after { content: ""; position: absolute; left: 0; right: 0; bottom: -10px; height: 10px; pointer-events: none; background: linear-gradient(180deg, rgba(90, 70, 30, .18), rgba(90, 70, 30, 0)); }
+/* the folder's beige comes up over the foot of the tabs, so they sit
+   tucked behind it, with a soft shadow cast up from its edge */
+.folder .daybar::after { content: ""; position: absolute; left: 16px; right: 0; bottom: -2px; height: 11px; z-index: 1; pointer-events: none;
+  background: #f1e6cc; border-top: 1px solid rgba(255, 255, 255, .55);
+  box-shadow: 0 -1px 4px rgba(60, 45, 20, .13); }
 .folder .daybar button, .folder .daybar select {
-  --tab: #dce8f4;
-  min-height: 44px; margin-bottom: 0; padding: 6px 14px 5px;
+  --tab: #cbd7e2;
+  min-height: 52px; margin-bottom: 0; padding: 6px 14px 5px;
   font: 700 15px "Courier Prime", "Courier New", Courier, monospace; letter-spacing: .02em; color: #1d1a14;
   background: var(--tab);
-  border: 0; border-radius: 11px 11px 0 0; padding: 11px 18px 10px;
+  border: 0; border-radius: 11px 11px 0 0; padding: 10px 18px 19px;
   box-shadow: none;
 }
-.folder .daybar #next { --tab: #e7e0f3; }
-.folder .daybar #today { --tab: #f5dcd3; }
-.folder .daybar select { --tab: #f4e9c3; }
-.folder .daybar #day { --tab: #d9eee6; }
+.folder .daybar #next { --tab: #d5cee2; }
+.folder .daybar #today { --tab: #e6cdc4; }
+.folder .daybar select { --tab: #e6d9ab; }
+.folder .daybar #day { --tab: #c7dbd2; }
 .folder .daybar button:hover, .folder .daybar select:hover { background: #ffffff; }
 .folder .daybar .pick { gap: 6px; }
 @media (max-width: 560px) {
   .folder .daybar { margin: 14px -14px 14px -22px; padding: 0 14px 0 22px; }
-  .folder .daybar button, .folder .daybar select { padding: 9px 11px 8px; font-size: 14px; }
+  .folder .daybar button, .folder .daybar select { padding: 8px 11px 17px; font-size: 14px; }
 }

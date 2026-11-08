@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Calendar · FBIS This Day</title>
 <meta name="description" content="Every day of the year in FBIS This Day: the event the Foreign Broadcast Information Service reported on that date between 1978 and 1996.">
-<link rel="stylesheet" href="style.css?v=26">
+<link rel="stylesheet" href="style.css?v=28">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-<div class="masthead">
+<header class="masthead">
   <div class="wrap">
     <a class="brand" href="./"><img src="img/fbis-logo.jpg" alt="" width="34" height="34"><span>FBIS This Day</span></a>
     <div class="logos">
@@ -22,7 +22,7 @@
       <a href="about.html">About</a>
     </nav>
   </div>
-</div>
+</header>
 <main id="main" class="wrap folder" data-label="FBIS · Index of days">
   <header class="intro">
     <p class="slug">FBIS This Day · the whole year</p>
@@ -58,7 +58,7 @@
       shown += rows.length;
       var html = '<section class="month" aria-labelledby="m' + mm + '"><h2 id="m' + mm + '">' + name + "</h2><ol>";
       rows.forEach(function (r) {
-        html += '<li><a href="./?d=' + r.md + '"><span class="d">' + (+r.md.slice(3)) + "</span>" +
+        html += '<li><a href="./?d=' + esc(r.md) + '"><span class="d">' + (+r.md.slice(3) || "") + "</span>" +
           (r.spycraft ? '<span class="spy" aria-label="Spycraft">● </span>' : "") +
           '<span class="h">' + esc(r.headline) + "</span> <span class=\"mono\">(" + esc(r.year) + ")</span></a></li>";
       });

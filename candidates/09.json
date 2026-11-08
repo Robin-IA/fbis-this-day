@@ -342,9 +342,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 10 September 1991 carried a commentary on post-coup unrest across the republics, noting that crowds in Dushanbe had removed Tajik President Makhkamov; Tajikistan's independence declaration is not mentioned.",
+  "fbis": "The Soviet Union Daily Report of September 10, 1991, carried Radio Dushanbe congratulating listeners on Tajikistan's state independence, adopted by the Supreme Soviet's extraordinary session, and Moscow INTERFAX in English on the declaration.",
   "pick": false,
-  "doubt": "Page mentions Makhkamov's ouster, not the independence declaration",
   "window": 400,
   "start": 1
  },
@@ -712,9 +711,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Latin America Daily Report of 19 September 1994 carried Colombian television on Carter, Powell and Nunn arriving in Port-au-Prince amid predictions that talks with Cedras would fail, and a report that Castro would send troops to repel invasion; no agreement is reported.",
+  "fbis": "The Latin America Daily Report of September 20, 1994, carried reporting on the agreement reached September 18 between Carter's delegation and the Haitian regime, and a Havana Radio commentary questioning it.",
   "pick": false,
-  "doubt": "Page shows the Carter mission arriving, not its agreement",
   "window": 400,
   "start": 1
  },
@@ -779,11 +777,12 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Latin America Daily Report of 19 September 1994 carried items from before the landing: Colombian television on the Carter mission and US sources saying the multinational force would occupy Haiti regardless, and Havana PRENSA LATINA on Clinton's speech justifying the invasion.",
+  "fbis": "The Latin America Daily Report of September 20, 1994, carried a Havana Radio commentary on the Carter agreement noting it would not prevent a landing, quoting Clinton that U.S. forces would arrive Monday.",
   "pick": false,
   "doubt": "Page predates the landing; it covers the run-up only",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Anticipates landing; not reported"
  },
  {
   "md": "09-19",
@@ -918,9 +917,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Middle East & Africa Daily Report of 22 September 1980 reviewed escalating Shatt al-Arab fighting: INA on Iraq's threats to enforce its navigation rules by force and raids on Abadan airport and Khorramshahr, Tehran radio on \"intense\" border clashes; the full-scale invasion is not yet reported.",
+  "fbis": "The Middle East and South Asia review of September 23, 1980, reported that on September 22 Iraq launched air raids on at least 10 Iranian bases, citing Baghdad radio, and that Iraqi forces were advancing toward \"vital positions inside Iran.\"",
   "pick": true,
-  "doubt": "Page reports border fighting before the invasion, not the invasion itself",
   "window": 400,
   "start": 1
  },
@@ -935,7 +933,11 @@
     "armenia"
    ],
    [
-    "independence"
+    "independen"
+   ],
+   [
+    "declar",
+    "proclaim"
    ]
   ],
   "headline": "Armenia declares independence",
@@ -943,10 +945,9 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 23 September 1991 carried a TASS review of PRAVDA reporting the 21 September referendum, with 95 percent voting for independence outside the USSR; the parliament's formal declaration is not on the page.",
+  "fbis": "The Soviet Union report of September 24, 1991, carried INTERFAX in English: Armenia's Supreme Soviet had unanimously proclaimed an independent state outside the Soviet Union, following Saturday's referendum in which, it said, 94.37 percent voted for independence.",
   "pick": true,
-  "doubt": "Page reports the referendum result, not the formal declaration",
-  "window": 400,
+  "window": 300,
   "start": 1
  },
  {
@@ -1074,9 +1075,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Central Eurasia Daily Report of 27 September 1993 carried Moscow ITAR-TASS on Russian Deputy Foreign Minister Pastukhov calling the downing of civilian airliners \"barbaric\" and sending Black Sea Fleet landing craft to Sukhumi for refugees; the city's capture is not reported.",
+  "fbis": "The Central Eurasia Daily Report of September 28, 1993, carried Russian reports that Kozyrev denounced the Abkhazians' taking of Sukhumi as a flagrant breach of the Sochi cease-fire, and that Russia denied involvement.",
   "pick": false,
-  "doubt": "Page covers the fighting around Sukhumi before its capture",
   "window": 400,
   "start": 1
  },
@@ -1178,9 +1178,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 29 September 1986 listed under United States & Canada a run of Soviet commentary giving Daniloff and arms \"top priority\" before the summit, including PRAVDA on Daniloff; his release is not reported.",
+  "fbis": "The Soviet Union Daily Report of October 1, 1986, carried Moscow TASS in English announcing that Daniloff was \"expelled\" from the USSR on September 29, alongside Zakharov's release and the Reykjavik meeting.",
   "pick": true,
-  "doubt": "Page lists commentary on the Daniloff case, not his release",
   "window": 400,
   "start": 1
  },

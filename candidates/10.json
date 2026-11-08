@@ -147,11 +147,12 @@
   "spycraft": false,
   "summary": "On 3 October 1993 armed supporters of the Russian parliament, which Boris Yeltsin had dissolved, broke through the cordon around the White House and attacked the Ostankino television centre in Moscow.",
   "significance": "The fighting led Yeltsin to declare a state of emergency and send tanks against parliament the next day.",
-  "fbis": "The Central Eurasia Daily Report of 4 October 1993 carried Georgian items on this page, among them an Ostankino Television report that Georgia's emergency parliament session was postponed and a decree naming Ioseliani to an emergency committee. Nothing here on the storming of Ostankino.",
+  "fbis": "The Central Eurasia Daily Report of October 4, 1993, carried Georgian items, including an Ostankino Television report that Georgia's emergency parliament session was postponed; nothing on the Moscow fighting.",
   "pick": false,
   "doubt": "match is on Ostankino as a broadcaster; page covers Georgia",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Ostankino only as a source"
  },
  {
   "md": "10-03",
@@ -176,28 +177,34 @@
   "spycraft": false,
   "summary": "On 3-4 October 1993 US Rangers and Delta Force troops raiding in Mogadishu were caught in a battle with Somali militia after two helicopters were shot down; eighteen Americans and hundreds of Somalis died.",
   "significance": "The losses led to the US withdrawal from Somalia and made Washington wary of intervention, including in Rwanda the next year.",
-  "fbis": "The Near East & South Asia Daily Report of 4 October 1993 carried Egyptian Foreign Minister Musa's return from the UN, saying his talks with US officials covered the peace process, Lockerbie and Somalia. The fighting in Mogadishu is not reported on this page.",
+  "fbis": "The Near East & South Asia Daily Report of October 4, 1993, carried Cairo MENA on Foreign Minister Musa returning from New York, saying his U.S. talks covered the peace process, Lockerbie and Somalia.",
   "pick": false,
   "doubt": "only a passing mention of Somalia in Egyptian diplomacy",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Passing Somalia mention only"
  },
  {
   "md": "10-04",
   "date": "1993-10-04",
   "regions": [
-   "SOV"
+   "SOV",
+   "EEU",
+   "EAS",
+   "LAT",
+   "NES"
   ],
   "keywords": [
    [
     "white house",
     "supreme soviet",
-    "house of soviets"
+    "parliament building"
    ],
    [
-    "tank",
+    "tanks",
+    "shell",
     "storm",
-    "shell"
+    "fire"
    ]
   ],
   "headline": "Yeltsin's tanks shell the Russian parliament",
@@ -205,10 +212,9 @@
   "spycraft": false,
   "summary": "On 4 October 1993 army tanks shelled the White House in Moscow, and the parliamentary leaders who had defied Boris Yeltsin, Ruslan Khasbulatov and Aleksandr Rutskoy, surrendered.",
   "significance": "Washington backed Yeltsin. The crisis ended with a new constitution that concentrated power in the presidency.",
-  "fbis": "The Central Eurasia Daily Report of 6 October 1993 carried economic commentary in which Yavlinskiy hoped the \"White House\" situation would end peacefully, through disarming it and guarantees for the deputies. The shelling itself is not described on this page.",
+  "fbis": "The East Asia report of October 7, 1993, carried KYODO from Tokyo, where Yeltsin was due to visit: members of the governing Liberal Democratic Party wanted to protest his use of tanks against the parliament, one calling it 'not acceptable political practice.'",
   "pick": true,
-  "doubt": "only an indirect mention of the White House standoff in an economics piece",
-  "window": 400,
+  "window": 300,
   "start": 1
  },
  {
@@ -277,9 +283,8 @@
   "spycraft": false,
   "summary": "On 6 October 1981 Egyptian President Anwar Sadat was shot dead by soldiers of an Islamist cell while reviewing a military parade in Cairo.",
   "significance": "Sadat had made peace with Israel at Camp David and aligned Egypt with the United States. His killing exposed an Islamist underground within the army, and Hosni Mubarak succeeded him.",
-  "fbis": "The Middle East & Africa Daily Report of 6 October 1981 carried, on this page, a Qadhafi speech with Chad's Goukouni denouncing Libyan exiles who speak for Libya \"to As-Sadat\" abroad. It does not report Sadat's assassination.",
+  "fbis": "The Middle East & Africa Daily Report of October 7, 1981, carried Israeli radio's press review of Sadat's death; the OCR is badly broken, but editorials calling him a martyr to peace and on the bullets that killed him can be read.",
   "pick": true,
-  "doubt": "Qadhafi speech that mentions Sadat; not the assassination",
   "window": 400,
   "start": 1
  },
@@ -426,11 +431,12 @@
   "spycraft": false,
   "summary": "On 9 October 1989 some seventy thousand people marched in Leipzig after the Monday prayers for peace, and the security forces did not intervene.",
   "significance": "The decision not to shoot broke the East German regime's will; within six weeks the Wall was open.",
-  "fbis": "The East Europe Daily Report of 10 October 1989 carried Hamburg DPA in German on 7 October: police using batons on demonstrators in Leipzig, and marchers in East Berlin and Potsdam shouting \"Gorby, help us\". The 9 October Leipzig march is not on this page.",
+  "fbis": "The East Europe Daily Report of October 10, 1989, carried Hamburg DPA reports of police beating demonstrators in Leipzig and marches in East Berlin and Potsdam on October 7, the GDR's 40th anniversary.",
   "pick": false,
   "doubt": "covers the 7 October protests, not the 9 October march",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "October 7 protests, not October 9"
  },
  {
   "md": "10-10",
@@ -526,11 +532,12 @@
   "spycraft": false,
   "summary": "On 13 October 1990 Syrian forces attacked the presidential palace at Ba'abda, and General Michel Aoun, who had rejected the Taif Agreement, took refuge in the French Embassy.",
   "significance": "Syria's move, tolerated by Washington as Damascus joined the coalition against Iraq, ended the civil war and confirmed Syrian dominance in Lebanon.",
-  "fbis": "The Near East & South Asia Daily Report of 16 October 1990 carried a report on Gulf-crisis talks which, in passing, reviewed reconciliation efforts in Lebanon \"after the surrender of Michel 'Awn\".",
-  "pick": true,
+  "fbis": "The Near East & South Asia Daily Report of October 16, 1990, carried a report on French-Kuwaiti talks on the Gulf crisis that mentioned reviewing Lebanon after \"the surrender of Michel 'Awn.\"",
+  "pick": false,
   "doubt": "only a passing reference to Aoun's surrender",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Passing reference only"
  },
  {
   "md": "10-14",
@@ -603,9 +610,8 @@
   "spycraft": false,
   "summary": "On 15 October 1979 reformist military officers overthrew President Carlos Humberto Romero of El Salvador and formed a civilian-military junta.",
   "significance": "Washington backed the junta as an alternative to revolution after Somoza's fall in Nicaragua, but its reforms failed and El Salvador slid into civil war.",
-  "fbis": "The Latin America Daily Report of 15 October 1979 carried Madrid radio and AFP on rumours of an abortive coup in El Salvador, which officials flatly denied, plus Archbishop Romero assailing the government and President Romero calling the opposition a minority.",
+  "fbis": "The Latin America Daily Report of October 16, 1979, opened its El Salvador section with \"Military Revolt Topples Government, Romero Flees,\" followed by items on his departure for Guatemala, the junta's members and an armed forces proclamation.",
   "pick": false,
-  "doubt": "shows the day-before coup rumours, not the overthrow",
   "window": 400,
   "start": 1
  },
@@ -740,9 +746,8 @@
   "spycraft": false,
   "summary": "On 19 October 1983 Grenadian Prime Minister Maurice Bishop and several ministers were executed by soldiers loyal to a hard-line faction of his own party.",
   "significance": "The killing gave the Reagan administration its grounds to invade Grenada six days later.",
-  "fbis": "The Latin America Daily Report of 19 October 1983 listed, under Grenada, the unresolved Bishop-Coard struggle, Bishop still under arrest, his mother's appeal, pro-Bishop student protests and five ministers resigning. His killing is not yet reported.",
+  "fbis": "The Latin America Daily Report of October 20, 1983, listed Grenada items under its Caribbean heading, including the Bishop-Coard struggle, \"Bishop, Ministers Dead,\" Austin announcing Bishop's death, and a military government proclamation.",
   "pick": false,
-  "doubt": "issue predates news of Bishop's death; shows him under arrest",
   "window": 400,
   "start": 1
  },
@@ -844,9 +849,8 @@
   "spycraft": true,
   "summary": "On 21 October 1986 the United States ordered 55 Soviet diplomats to leave, saying they were intelligence officers, and cut the size of the Soviet missions to equal the American ones.",
   "significance": "It was the largest expulsion of Soviet officials in US history, and the sharpest round of the spy war that followed the arrest of Gennadiy Zakharov and Nicholas Daniloff.",
-  "fbis": "The Soviet Union Daily Report of 21 October 1986 carried, on this page, Soviet domestic items: a Council of Ministers meeting on lagging restructuring and Turkmen party officials expelled for bribery. Nothing here on the US expulsions.",
+  "fbis": "The Soviet Union Daily Report of October 22, 1986, carried Moscow TASS in Russian calling the U.S. cut of 50 Soviet embassy and consulate staff, and five diplomats declared persona non grata, a step toward worsening relations.",
   "pick": true,
-  "doubt": "page is Soviet domestic news; no expulsion coverage",
   "window": 400,
   "start": 1
  },
@@ -1132,9 +1136,8 @@
   "spycraft": false,
   "summary": "On 28 October 1982 the Spanish Socialist Workers' Party led by Felipe Gonzalez won a landslide in the general election.",
   "significance": "It was the first left-wing government in Spain since the civil war, and came eighteen months after a failed coup.",
-  "fbis": "The Latin America Daily Report of 29 October 1982 carried, on this page, La Paz radio and the BUENOS AIRES HERALD on outrage at Colonel Arce Gomez's confessions. Nothing here on the Spanish election.",
+  "fbis": "The Latin America Daily Report of October 29, 1982, carried Panama City ACAN on Nicaragua's junta celebrating \"as its own\" the Spanish Socialist Workers Party's election victory, with its telegram to Felipe Gonzalez.",
   "pick": false,
-  "doubt": "page is Bolivian news; no mention of the Spanish election",
   "window": 400,
   "start": 1
  },
@@ -1275,14 +1278,10 @@
   ],
   "keywords": [
    [
-    "solidarity",
-    "solidarnosc"
+    "solidarity"
    ],
    [
     "regist"
-   ],
-   [
-    "court"
    ]
   ],
   "headline": "Warsaw court registers Solidarity, with conditions",
@@ -1290,7 +1289,96 @@
   "spycraft": false,
   "summary": "On 24 October 1980 the Warsaw provincial court registered Solidarity as an independent trade union, but on its own authority wrote into the union's statute a recognition of the Communist Party's leading role.",
   "significance": "The court's changes provoked a crisis that ended only when the Supreme Court registered Solidarity on 10 November without them. The first legal independent union in the Soviet bloc stood until martial law in December 1981.",
-  "fbis": "",
+  "fbis": "The East Europe report of October 27, 1980, carried Warsaw Domestic Service's live recording from the courtroom: the Warsaw Voivodship Court registered Solidarity, a decision 'not yet legally binding,' with the court's changes to the union's statute.",
+  "pick": true,
+  "window": 300,
+  "start": 1
+ },
+ {
+  "md": "10-02",
+  "date": "1986-10-02",
+  "regions": [
+   "SOV",
+   "EEU",
+   "LAT",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "sanctions"
+   ],
+   [
+    "south africa",
+    "pretoria",
+    "rsa"
+   ],
+   [
+    "veto",
+    "senate",
+    "override"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "Congress overrides Reagan's veto of South Africa sanctions",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On October 2, 1986, the U.S. Senate voted 78 to 21 to override President Reagan's veto of the Comprehensive Anti-Apartheid Act, following the House, and the sanctions against South Africa became law.",
+  "significance": "It was the first override of a Reagan foreign-policy veto and ended the administration's policy of 'constructive engagement' with Pretoria. Sanctions cut investment and trade and added to the pressure that led to the end of apartheid.",
+  "fbis": "The Soviet Union report of October 3, 1986, carried TASS in English from Washington: Reagan had expressed 'deep regret' at the override, and his administration, TASS said, would not change its 'benevolent attitude' toward Pretoria's rulers.",
   "pick": true
+ },
+ {
+  "md": "10-13",
+  "date": "1983-10-13",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "bishop"
+   ],
+   [
+    "arrest",
+    "detained",
+    "detention",
+    "confined"
+   ],
+   [
+    "grenada"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "Grenada's Maurice Bishop is placed under house arrest",
+  "category": "coup",
+  "spycraft": false,
+  "summary": "On October 13, 1983, a faction of Grenada's ruling New Jewel Movement led by Deputy Prime Minister Bernard Coard placed Prime Minister Maurice Bishop under house arrest.",
+  "significance": "The split ended with Bishop's execution on October 19. Six days later U.S. forces invaded Grenada, citing the safety of American medical students and the island's ties to Cuba.",
+  "fbis": "The Latin America report of October 17, 1983, listed a run of Grenada items in its contents: Bishop Under House Arrest, Coard Resigns Position, a state of uncertainty, Radix arrested, protests and journalists expelled, with Barbados urging Bishop's release.",
+  "pick": true
+ },
+ {
+  "md": "10-13",
+  "date": "1987-10-13",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "nobel"
+   ],
+   [
+    "arias"
+   ]
+  ],
+  "window": 400,
+  "headline": "Oscar Arias wins the Nobel Peace Prize",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On October 13, 1987, the Nobel Committee awarded the Peace Prize to Costa Rican President Oscar Arias for his Central American peace plan, signed by five presidents at Esquipulas, Guatemala, that August.",
+  "significance": "The prize strengthened the regional peace process at a time when the Reagan administration was still seeking aid for the Nicaraguan contras, and the plan became the framework for ending the wars in Nicaragua and later El Salvador.",
+  "fbis": "The Latin America report of October 14, 1987, carried a Nicaraguan official's remarks on the Esquipulas II peace process, in which he congratulated Costa Rican President Arias on the Nobel Peace Prize as world recognition of the plan.",
+  "pick": false
  }
 ]

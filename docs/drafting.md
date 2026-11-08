@@ -97,3 +97,19 @@ have not changed keep their evidence without re-fetching. Cached OCR is in
 import sys; sys.path.insert(0, "tools"); import verify
 dict(verify.pages("micro_IA1176910_0590"))[7]
 ```
+
+## Reading the matches
+
+A keyword match is not proof. Every published match has been read against
+its page. Three fields record what that reading found:
+
+- `window` (characters): every keyword group must fall within this distance
+  of the first group's match, not just anywhere on the page. Use it when a
+  page-wide match turned out to be a coincidence.
+- `start`: `1` skips the issue dated the event day itself, which was often
+  compiled before an unplanned event happened. Use it with `--lag 4`.
+- `excluded`: the reason the page does not show the event. The row stays in
+  the file as a record, and `build_site.py` does not publish it.
+
+Write `fbis` only from the page the evidence points to, and rewrite it if
+the evidence changes.

@@ -21,8 +21,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 1 August 1991 carried a Moscow INTERFAX preview of Bush's arrival in Ukraine: Foreign Minister Zlenko welcoming the visit as a landmark for direct contacts, and RUKH's Ivan Drach doubting it, since the Bush administration kept stressing that stability lay in Moscow.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_1046",
    "issue_date": "1991-08-01",
@@ -57,8 +57,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 2 August 1990 carried Cairo MENA reports on the Arab League's emergency session over \"the Iraqi forces' entry into Kuwait,\" Kuwait's request for joint Arab forces, and a Kuwaiti minister saying street fighting continued.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0590",
    "issue_date": "1990-08-02",
@@ -90,8 +90,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 3 August 1990 carried Moscow TASS in English on Bush condemning the invasion of Kuwait and freezing Iraqi and Kuwaiti assets, noting he was pleased with the Soviet reaction, and a Moscow World Service item that Baker would stop in Moscow for a planned joint statement.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0815",
    "issue_date": "1990-08-03",
@@ -126,8 +126,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 4 August 1995 listed a long run of Croatia items on the Krajina offensive: Tudjman announcing \"military-police measures,\" Serb lines broken at 30 sites, Belgrade radio on the shelling of Knin, and Akashi calling the offensive hard to understand.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176904_1358",
    "issue_date": "1995-08-04",
@@ -158,8 +158,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 7 August 1995 carried AFP on UN mediator Stoltenberg shuttling between Belgrade and Zagreb as Croatia shelled Knin, and Belgrade TANJUG accusing Washington of giving \"direct support\" to Croatian aggression; the fall of Knin is not on this page.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176904_1359",
    "issue_date": "1995-08-07",
@@ -190,8 +190,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 8 August 1990 carried Moscow TASS in English on Perez de Cuellar circulating Resolution 661's sanctions against Iraq to all member states, recalling the Rhodesia and South Africa precedents, and a Kuwaiti message on Iraqi mistreatment of civilians.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0818",
    "issue_date": "1990-08-08",
@@ -226,8 +226,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 7 August 1987 carried Guatemalan radio on the Central American presidents' arrival for the Esquipulas II summit and an ACAN-EFE report of some 1,000 Nicaraguan exiles and anticommunists protesting Ortega's presence.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176906_0822",
    "issue_date": "1987-08-07",
@@ -262,8 +262,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 10 August 1995 carried Baghdad INA announcing Husayn Kamil Hasan's dismissal, AFP reporting Jordan's grant of asylum and his first statement that Saddam's government had \"lost its credibility,\" and Radio Monte Carlo citing family differences.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176911_0343",
    "issue_date": "1995-08-10",
@@ -295,15 +295,19 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of August 9, 1990, carried an interview with an Algerian minister who, asked about an expected Saddam Husayn statement, said people were talking of an Iraq-Kuwait merger but to wait and see.",
   "pick": false,
+  "doubt": "Page carries GCC condemnation of the occupation; the merger announcement is not reported",
+  "window": 400,
+  "start": 1,
+  "excluded": "Speculation before the announcement",
   "evidence": {
-   "identifier": "micro_IA1176910_0595",
-   "issue_date": "1990-08-08",
+   "identifier": "micro_IA1176910_0596",
+   "issue_date": "1990-08-09",
    "region": "NES",
-   "title": "FBIS Daily Report: Near East & South Asia, No. 153, 8 August 1990",
-   "page": 8,
-   "snippet": "…ghness Amir Sa‘ud al-Faysal, foreign minister of the Kingdom of Saud: Arabia, Mubarak Bin ‘Ali al-Khatir, Qatar's foreign min ister, Shaykh Sabah al-Ahmad al-Jabir al-Sabah. deputy prime minister and foreign minister of Kuwait, in order to follow up the dangerous situation resulting from Iraq's occupation of Kuwait, and the flagrant violation of the sovereignty and independence of a GCC, Arab League and UN member which represents a naked viol…"
+   "title": "FBIS Daily Report: Near East & South Asia, No. 154, 9 August 1990",
+   "page": 16,
+   "snippet": "…nt this afternoon. What new element do you think this statement will bring? [Ghazali} I do not know. I am not a member of the Iraqi Government, and what people are saying—they are talking about a merger between Iraq and Kuwait. [words indis- tinct] one of the aims of the operation was the aim of annexation. But let’s wait and see what the statement says. This is a problem between two Arab countries. There is a disagreement; there are problems…"
   }
  },
  {
@@ -331,7 +335,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East review in the Daily Report of 8 August 1988 led with Baghdad radio's message from Saddam Husayn offering a cease-fire if Iran agreed to direct talks, and Tehran radio reporting that the UN secretary general meant to announce a cease-fire date by 9 August.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176910_0104",
@@ -368,8 +372,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Asia Daily Report of 9 August 1993 carried the KYODO roster of Morihiro Hosokawa's new coalition cabinet, with each minister's party, ahead of the emperor's attestation ceremony that afternoon.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176901_0989",
    "issue_date": "1993-08-09",
@@ -403,8 +407,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 10 August 1990 carried items on the eve of the Cairo summit: Rabat MAP on Klibi leaving for the emergency summit on Iraq's \"annexation of Kuwait,\" Riyadh radio asserting the GCC states' freedom to secure themselves, and arrivals of Arab leaders.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0597",
    "issue_date": "1990-08-10",
@@ -441,7 +445,7 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 9 issue(s)",
+   "fail": "no page matched all keyword groups in 12 issue(s)",
    "tried": [
     "micro_IA1176904_0398",
     "micro_IA1176907_0148",
@@ -451,7 +455,10 @@
     "micro_IA1176915_1057",
     "micro_IA1176904_0400",
     "micro_IA1176907_0150",
-    "micro_IA1176915_1058"
+    "micro_IA1176915_1058",
+    "micro_IA1176904_0401",
+    "micro_IA1176907_0151",
+    "micro_IA1176915_1059"
    ]
   }
  },
@@ -475,8 +482,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report of 14 August 1978 carried an AFP report of a curfew in Esfahan after rioters ransacked the Shah Abbas Hotel, and Tehran radio's government statement declaring a month of martial law in the city.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0156",
    "issue_date": "1978-08-14",
@@ -514,8 +521,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 13 August 1990 carried Palestinian reaction to Saddam's linkage proposal: PLO factions denouncing US plans, the PLO envoy in Rome calling it the moment to settle all occupations, and Radio Monte Carlo quoting West Bank figures praising \"the Iraqi proposal.\"",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0598",
    "issue_date": "1990-08-13",
@@ -550,15 +557,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East & Africa Daily Report of August 13, 1982, reported Israeli forces attacked west and southern Beirut for almost 11 hours before the August 12 cease-fire, and Washington's \"furious reaction\" to the bombing.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176908_1240",
-   "issue_date": "1982-08-12",
+   "identifier": "micro_IA1176908_1241",
+   "issue_date": "1982-08-13",
    "region": "NES",
-   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 156, 12 August 1982",
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 157, 13 August 1982",
    "page": 2,
-   "snippet": "…ions before it can announce final agreement to Habib's plan, IDF radio reported. While Habib has acceded to some of Israel's condi- tions, Jerusalem radio said, he still insists that the 300-man French unit should enter Beirut at the same time the \"terrorists\" start to evacuate and that UN observers should also be deployed. In an interview with the radio, Israeli Foreign Minister Yitzhaq Shamir said these two issues were the remaining points…"
+   "snippet": "…escribed the Cabinet meeting as one of the \"most tense\" in his memory, though he supported the meeting's decision. IDF radio said Sharon feared that the \"terrorists\" would attempt to leave a \"nucleus\" of their forces in Beirut, and suggested that Israeli forces remain in Lebanon as long as Syrian forces are present there, although he would not propose attacking the Syrians. Earlier, in a speech to the Knesset carried by Jerusalem radio, Prime…"
   }
  },
  {
@@ -584,8 +593,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report of 14 August 1978 carried, in fragmentary OCR, UPI on a nine-floor building in Beirut's al-Fakihani area destroyed by a blast that killed many, and Voice of Palestine on the PLO forming a committee to investigate it.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0156",
    "issue_date": "1978-08-14",
@@ -621,8 +630,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 15 August 1994 carried Khartoum SUNA on the Sudanese interior minister announcing the arrest of \"Carlos,\" wanted by France for killing two Frenchmen, and Cairo MENA confirming the man handed to France was Ilich Ramirez, who had entered on a forged passport.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176911_0068",
    "issue_date": "1994-08-15",
@@ -653,7 +662,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of 15 August 1980 carried Warsaw radio acknowledging \"work stoppages\" including sections of the Gdansk shipyard, and a Paris AFP report that 17,000 Gdansk shipyard workers had struck over the dismissal of Anna Walentynowicz.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176902_0615",
@@ -692,8 +701,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 15 August 1990 carried Baghdad radio's text of Saddam Husayn's letter to Rafsanjani offering a comprehensive settlement with Iran, framed as removing obstacles so Iraq's forces could face \"the great battle.\"",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0600",
    "issue_date": "1990-08-15",
@@ -714,12 +723,11 @@
     "hotel"
    ],
    [
+    "westerners",
+    "foreigners",
+    "americans",
     "british",
-    "briton",
-    "american"
-   ],
-   [
-    "kuwait"
+    "nationals"
    ]
   ],
   "headline": "Iraq orders Westerners in Kuwait to gather at hotels",
@@ -727,15 +735,18 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia report of August 20, 1990, listed the order in its Iraq contents, attributed to Baghdad Radio: 'Foreigners Instructed To Assemble in Hotels,' alongside Saddam's conditions for releasing foreigners and the end of diplomatic immunity in Kuwait.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176910_0602",
-   "issue_date": "1990-08-17",
+   "identifier": "micro_IA1176910_0603",
+   "issue_date": "1990-08-20",
    "region": "NES",
-   "title": "FBIS Daily Report: Near East & South Asia, No. 160, 17 August 1990",
-   "page": 22,
-   "snippet": "…terviewed by Israel Radio TA 1608120290 Jerusalem Domestic Service in Hebrew 1005 GMT 15 Aug 90 [Telephone interview in English with Ahmad Yusuf al-Sabah, “‘a member of the Kuwaiti royal family,” at the Bahrain Sheraton Hotel, by Gil Litman—recorded on 15 August; interview in English] Text] (Litman, in Hebrew] The man on the other end of the line represented himself as Ahmad Yusuf al-Sabah and as a member of the Kuwaiti royal family. {al-Sab…"
+   "title": "FBIS Daily Report: Near East & South Asia, No. 161, 20 August 1990",
+   "page": 4,
+   "snippet": "…ddam Sets Conditions for Foreigners’ ‘Release’ /Baghdad Radio] Austrians, Swedish, Swiss Allowed To Leave //NA/ Iraqis Bar U.S. Officials, Nationals Meeting /Jerusalem International] Foreigners Instructed To Assemble in Hotels /Baghdad Radio] Foreign Diplomats in Kuwait To Lose Immunity //NA/ French in Baghdad May Be Moved to Al-Basrah /Paris Radio] Government Allows Some Foreigners To Travel Indonesians /Baghdad Radio] Some Argentines /Bagh…",
+   "contents_only": true
   }
  },
  {
@@ -746,14 +757,14 @@
   ],
   "keywords": [
    [
-    "husayn",
-    "hussein"
+    "hotel"
    ],
    [
-    "kennebunkport"
-   ],
-   [
-    "bush"
+    "westerners",
+    "foreigners",
+    "americans",
+    "british",
+    "nationals"
    ]
   ],
   "headline": "King Husayn meets Bush at Kennebunkport",
@@ -763,12 +774,17 @@
   "significance": "",
   "fbis": "",
   "pick": false,
-  "fail": {
-   "fail": "no page matched all keyword groups in 2 issue(s)",
-   "tried": [
-    "micro_IA1176910_0601",
-    "micro_IA1176910_0602"
-   ]
+  "window": 400,
+  "start": 1,
+  "excluded": "evidence page does not show the meeting",
+  "evidence": {
+   "identifier": "micro_IA1176910_0603",
+   "issue_date": "1990-08-20",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 161, 20 August 1990",
+   "page": 4,
+   "snippet": "…ddam Sets Conditions for Foreigners’ ‘Release’ /Baghdad Radio] Austrians, Swedish, Swiss Allowed To Leave //NA/ Iraqis Bar U.S. Officials, Nationals Meeting /Jerusalem International] Foreigners Instructed To Assemble in Hotels /Baghdad Radio] Foreign Diplomats in Kuwait To Lose Immunity //NA/ French in Baghdad May Be Moved to Al-Basrah /Paris Radio] Government Allows Some Foreigners To Travel Indonesians /Baghdad Radio] Some Argentines /Bagh…",
+   "contents_only": true
   }
  },
  {
@@ -796,8 +812,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 17 August 1988 carried Pakistani radio's report that Zia had died in a crash with senior generals and US Ambassador Raphel, Ghulam Ishaq Khan assuming the presidency, and an earlier BBC report of the rumored crash.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0111",
    "issue_date": "1988-08-17",
@@ -829,8 +845,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 21 August 1989 carried, under Colombia, a Madrid EFE report that Liberal presidential hopeful Luis Carlos Galan had been shot as he was about to speak in the main square of Soacha, south of Bogota.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176906_1461",
    "issue_date": "1989-08-21",
@@ -859,7 +875,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 20 August 1991 carried a Soviet television report of 19 August showing Yeltsin reading his decree branding the emergency committee's actions a coup, demanding that Gorbachev, \"locked in his dacha in Foros,\" be allowed to speak, and Muscovites building barricades.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_1062",
@@ -893,8 +909,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 19 August 1991 carried Moscow TASS in English with Yanayev's statement assuming presidential duties because of Gorbachev's \"inability for health reasons,\" followed by an AFP profile of Yanayev.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_1061",
    "issue_date": "1991-08-19",
@@ -931,7 +947,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East review in the Daily Report of 19 August 1981 carried Tripoli radio's version: two Libyan aircraft on a routine reconnaissance flight intercepted and fired on by eight US aircraft over Libyan territory and waters during Sixth Fleet maneuvers in the Gulf of Sidra.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176908_0982",
@@ -961,15 +977,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of August 21, 1991, carried Tallinn Radio: Estonia's Supreme Council adopted a decision on state independence 69-0, followed by Moscow INTERFAX in English with details of the ruling.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_1062",
-   "issue_date": "1991-08-20",
+   "identifier": "micro_IA1176915_1063",
+   "issue_date": "1991-08-21",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 161, 20 August 1991",
-   "page": 23,
-   "snippet": "…ntellectuals, young people, small businessmen, and activists of the national movement express displeasure. The current changes found support with workers, old people and peasants. Tallinn. According to republican radio, Estonia’s Emer- gency Defense Council, set up on January 13 this year, held a meeting today. It was presided over by Chairman of the Supreme Soviet of the Republic Arnold Ruutel. The Council passed a statement which, in particu…"
+   "title": "FBIS Daily Report: Soviet Union, No. 162, 21 August 1991",
+   "page": 50,
+   "snippet": "…and men to strictly maintain the highest standard of discipline, organization, and political vigilance in the circumstances of the state of emergency and to carry out all the orders and requirements of their commanders. Estonia Supreme Council Proclaims ‘State Independence’ LD2008220491 Tallinn Radio Tallin Network in Estonian 2135 GMT 20 Aug 91 [Text] At 2304 the Supreme Council of the Republic of Estonia at the Toompea adopted a decision on…"
   }
  },
  {
@@ -998,8 +1016,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 22 August 1988 listed under Iran reportage on the cease-fire's implementation: UN observers arriving, UN troops deployed, \"Cease-Fire in Effect,\" and Khamene'i on its observance.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0114",
    "issue_date": "1988-08-22",
@@ -1031,15 +1049,17 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of August 22, 1991, carried the coup's collapse: Soviet radio on the arrests of Yanayev, Yazov, Kryuchkov and others, and Moscow TASS in English on Interior Minister Pugo's suicide.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_1063",
-   "issue_date": "1991-08-21",
+   "identifier": "micro_IA1176915_1064",
+   "issue_date": "1991-08-22",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 162, 21 August 1991",
-   "page": 20,
-   "snippet": "…d stu- dents. The relevant officials have been informed. The most severe measures will be taken against leaders of internal affairs organs who have failed to carry out the order of the USSR minister of internal affairs. Emergency Committee Decree Restricts Broadcasts LD2008200791 Moscow Central Television First Program Network in Russian 1840 GMT 20 Aug 91 [Decision No. 4 of the State Committee for the State of Emergency in the USSR; from the “Vremya”™ ne…"
+   "title": "FBIS Daily Report: Soviet Union, No. 163, 22 August 1991",
+   "page": 21,
+   "snippet": "…ov Arrest Announced LD2208074291 Moscow Radio Moscow World Service in Enelish 0700 GMT 22 Aue 91 [Text] It has been announced in Moscow that KGB chief Viadimir Kryuchkov was arrested. He and other mem- bers of the State Emergency Committee will be brought to trial TASS Reports Pugo Suicide LD2208090591 Moscow TASS in English O858 GM1 22 Aug 91 [Text] Moscow August 22 TASS—Soviet Interior Min- ister Boris Pugo, a member of the so-called Emergency Committee…"
   }
  },
  {
@@ -1061,15 +1081,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of August 22, 1991, carried Moscow TASS in English: on Wednesday the Latvian parliament passed a constitutional law declaring Latvia an independent democratic republic and ending the transitional period.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_1063",
-   "issue_date": "1991-08-21",
+   "identifier": "micro_IA1176915_1064",
+   "issue_date": "1991-08-22",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 162, 21 August 1991",
-   "page": 50,
-   "snippet": "…the legitimate bodies of power in the Baltics be unable to carry out their duties, authority has been given to Estonian Foreign Minister Lennart Meri, who 1s currently abroad, Dainis Ivans, first deputy chairman of the Latvian Supreme Council, and Lithua- nian Foreign Minister Saudargas to set up Baltic states’ governments in exile. This has been reported by the BALTIC NEWS SERVICE Baltic Servicemen Ordered To Obey Commanders LD2008215991 Mo…"
+   "title": "FBIS Daily Report: Soviet Union, No. 163, 22 August 1991",
+   "page": 55,
+   "snippet": "…year, a series of crimes was committed, some for which criminal proceedings have already been instituted. Involved in the commission of the crimes was the USSR Interior Ministry's special militia task force deployed in Latvia. The Presidium of the Supreme Council of the Republic of Latvia calls upon the special purpose militia detachment combatants who took part in violent acts to voluntarily report to the Procuracy of the Republic of Latvia…"
   }
  },
  {
@@ -1093,8 +1115,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 23 August 1991 carried Russian Television on crowds flooding Dzerzhinskiy Square and besieging the CPSU Central Committee, and Moscow INTERFAX reporting that the Dzerzhinskiy statue had been dismantled at 23:30 on the city's decision.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_1065",
    "issue_date": "1991-08-23",
@@ -1124,7 +1146,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 22 August 1991 carried Radio Mayak relaying Reuters on the arrests of Yanayev, Yazov, Kryuchkov, Tizyakov and Pugo, Radio Moscow announcing Kryuchkov's arrest, and TASS reporting Pugo's suicide as officials came to detain him.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_1064",
@@ -1157,8 +1179,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 23 August 1989 carried Tallinn radio's People's Front statement inviting Russian-speakers to join that night's human chain of the \"Baltic wave,\" after TASS quoting Yakovlev that the 1939 pact did not determine the Baltic states' status.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0571",
    "issue_date": "1989-08-23",
@@ -1191,7 +1213,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 26 August 1991 previewed the post-coup Supreme Soviet session, noting that \"the Ukraine's independence proclaimed by the republican parliament\" had changed the balance on the Union treaty; the declaration gets only that passing mention.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_1066",
@@ -1226,15 +1248,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of August 26, 1991, carried an item headed \"Gorbachev Resigns as CPSU General Secretary\" from Moscow Central Television's Vremya newscast of August 24; the excerpt ends at the headline.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
    "identifier": "micro_IA1176915_1066",
    "issue_date": "1991-08-26",
    "region": "SOV",
    "title": "FBIS Daily Report: Soviet Union, No. 165, 26 August 1991",
    "page": 22,
-   "snippet": "…Aleksandr Yak- oviev as USSR vice president and Eduard Shevardnadze as USSR foreign minister. To substantiate their proposal, deputies said that Yak- oviev and Shevardnadze had launched perestroyka together with Mikhail Gorbachev and resumed a highly responsible civic stance in the days of the state coup. Consitution Committee Chairman Blames CPSU LD2608095591 Moscow TASS International Service in Russian 0758 GMT 26 Aug 91 [By TASS parliamentary…"
+   "snippet": "…involvement in the organization of the State of Emergency Committee. On Thursday, Prime Minister of the Russian Federation, Ivan Silayev described Anatoliy Lukyanov as “the coup’s chief ideologist”’. Political & Social Gorbachev Resigns as CPSU General Secretary LD2408 191891 Moscow Central Television First Program Network in Russian 1800 GMT 24 Aug 91 [From the “Vremya™ newscast]"
   }
  },
  {
@@ -1258,8 +1282,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 24 August 1989 carried a report that Jaruzelski had written to the Sejm marshal proposing that parliament accept Kiszczak's resignation and elect Tadeusz Mazowiecki prime minister, after PZPR remarks on keeping the interior and defense ministries.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176903_1369",
    "issue_date": "1989-08-24",
@@ -1289,7 +1313,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 26 August 1991 carried Radio Mayak and INTERFAX on the Belorussian Supreme Soviet's extraordinary session and a 50,000-strong Minsk rally, then a Vremya report that the parliament had suspended the republic's Communist Party and adopted a decision on independence.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_1066",
@@ -1323,8 +1347,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 27 August 1990 carried Egyptian Foreign Minister Abd-al-Majid reviewing the Gulf crisis, citing the Security Council's resolutions \"from Resolution 660 all the way to Resolution 665\" and Egypt's commitment to Kuwait's liberation.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0608",
    "issue_date": "1990-08-27",
@@ -1358,8 +1382,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of 29 August 1978 carried East Berlin ADN on Erich Honecker's telegram of good wishes to Pope John Paul I on his election, expressing hope for his contribution to peace and detente.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176902_0115",
    "issue_date": "1978-08-29",
@@ -1391,7 +1415,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 26 August 1991 previewed the USSR Supreme Soviet's post-coup session as \"very heated,\" with the party's fate and the Union treaty on the agenda, and carried INTERFAX on new information implicating parliament chairman Lukyanov in the coup.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_1066",
@@ -1419,8 +1443,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of 28 August 1979 listed under Czechoslovakia an item that the Mountbatten assassination would lead to \"stepped-up repression\".",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176902_0369",
    "issue_date": "1979-08-28",
@@ -1453,7 +1477,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 30 August 1990 carried an Egyptian commentary answering the Iraqi media and denouncing the \"robbing\" of Kuwait by armed force, its annexation and conversion into \"Iraq's 19th province.\"",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176910_0611",
@@ -1483,8 +1507,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East review in the Daily Report of 29 August 1983 led with Jerusalem radio on Begin's announcement at the 28 August Cabinet meeting that he would resign, ministers' efforts to dissuade him, and Shamir named as the likely successor.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176909_0229",
    "issue_date": "1983-08-29",
@@ -1517,15 +1541,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of August 30, 1991, carried the Supreme Soviet session and Moscow TASS in English: the parliament decided to suspend CPSU activity across the Soviet Union over its leaders' role in the coup.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_1069",
-   "issue_date": "1991-08-29",
+   "identifier": "micro_IA1176915_1070",
+   "issue_date": "1991-08-30",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 168, 29 August 1991",
-   "page": 29,
-   "snippet": "NATIONAL AFFAIRS Supreme Soviet ‘Special Session’ Continues Proceedings 28 August Session Reviewed LD2808171291 Moscow TASS in English 1558 GMT 28 Aug 91 [Text] Moscow August 28 TASS—The Soviet parliament this morning approved the draft resolution on…"
+   "title": "FBIS Daily Report: Soviet Union, No. 169, 30 August 1991",
+   "page": 40,
+   "snippet": "…iations. [Deputies vote on and pass the new wording, with 283 for, 29 against, and 52 abstentions.] CPSU Activities Suspended LD2908 180891 Moscow TASS in English 1803 GMT 29 Aug 91 [Text] Moscow August 29 TASS—The USSR Supreme Soviet today decided “to suspend the activity of the CPSU all over the territory of the Soviet Union” on the basis of the existing information about the participation of its leading bodies in the preparation and staging of the…"
   }
  },
  {
@@ -1544,8 +1570,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union contents for September 1986 listed under United States & Canada an item that IZVESTIYA had reported Daniloff's arrest for \"espionage,\" amid commentary on US anti-Libya activities.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176914_1177",
    "issue_date": "1986-09-01",
@@ -1582,7 +1608,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East review in the Daily Report of 31 August 1981 led with Tehran radio reporting that President Raja'i and Prime Minister Bahonar were killed by a bomb in the Prime Ministry, blamed on \"hypocrites of the left and right,\" and AFP on a disputed Mojahedin claim of responsibility.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176908_0990",
@@ -1618,7 +1644,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East review in the Daily Report of 30 August 1982 led with Beirut radio announcing Arafat's departure after a farewell meeting with Prime Minister al-Wazzan, and AFP citing WAFA on his warning that the \"earth will shake in several places.\"",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176908_1252",
@@ -1653,8 +1679,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of 2 September 1980 carried Gdansk radio's recording of the 30 August shipyard meeting between Jagielski's government commission and Walesa's strike committee, with Andrzej Gwiazda reading the agreed terms for new self-governing trade unions.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176902_0626",
    "issue_date": "1980-09-02",
@@ -1688,7 +1714,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 31 August 1994 carried an ITAR-TASS press review on the farewell ceremony for the last Russian troops leaving Germany, quoting Yeltsin that \"an epoch of enmity\" was ending, and KRASNAYA ZVEZDA on 338,000 troops withdrawn.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176916_0276",
@@ -1697,6 +1723,39 @@
    "title": "FBIS Daily Report: Central Eurasia, No. 169, 31 August 1994",
    "page": 7,
    "snippet": "…SS)}—Most Russian newspapers today lead with reports about the farewell ceremony for the Russian troops completing their with- drawal from Germany which is to be attended by Rus- sian President Boris Yeltsin today. “The withdrawal of Russian troops is a natural, timely step,” the Russian president said in an interview with INTERFAX news agency published in the newspaper IZVESTIYA today. “We are drawing the final line under both the post-war and…"
+  }
+ },
+ {
+  "md": "08-16",
+  "date": "1980-08-16",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gdansk"
+   ],
+   [
+    "strike"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "Strikes spread along the Gdansk coast",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "By August 16, 1980, the strike that began at Gdansk's Lenin Shipyard two days earlier had spread to other shipyards and to municipal transport along the coast. Delegates from the striking enterprises formed an Inter-Factory Strike Committee under Lech Walesa, which drew up the workers' twenty-one demands.",
+  "significance": "The committee turned a shipyard dispute into a regional movement with political demands, above all the right to free trade unions. Its agreement with the government on August 31 led to Solidarity.",
+  "fbis": "The East Europe report of August 18, 1980, carried Gdansk radio's report of August 16 acknowledging work stoppages in shipyards and municipal transport along the coast, framed as demands over pay and conditions, with reassurance that trains ran and the shops were supplied.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176902_0616",
+   "issue_date": "1980-08-18",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 161, 18 August 1980",
+   "page": 23,
+   "snippet": "II, 18 Aug 30 a 8 POLAND Report on Gdansk Strike LD160842 Gdansk Domestic Service in Polish 0430 GMT 16 Aug 80 [Text] There are work stoppages at some work enterprises on the Gdansk coast, It mainly concerns shipbuilding plants and municipal transport, Workers…"
   }
  }
 ]

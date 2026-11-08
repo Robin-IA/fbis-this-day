@@ -39,7 +39,7 @@ def main():
 
     cands = []
     for f in sorted((ROOT / "verified").glob("*.json")):
-        cands += [c for c in json.loads(f.read_text()) if "evidence" in c]
+        cands += [c for c in json.loads(f.read_text()) if "evidence" in c and not c.get("excluded")]
     by_day = {}
     for c in cands:
         e = {k: conv(c[k]) for k in KEEP if k in c}

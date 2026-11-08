@@ -26,8 +26,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 1 September 1983 listed under Northeast Asia a South Korean airliner \"reported missing,\" Soviet denials (via KYODO) that it had landed on Sakhalin or was in Soviet territory, and an item that Soviet air space had been \"violated.\"",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176914_0310",
    "issue_date": "1983-09-01",
@@ -64,7 +64,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East & Africa contents for September 1982 listed reaction to the Reagan initiative: Israeli items from Peres, Begin's office and West Bank figures, an Algerian commentary on Reagan's \"pacification plan,\" JANA on his TV speech, and Tunisia's Es-Sebsi calling it progress.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176908_1254",
@@ -103,8 +103,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 3 September 1991 carried Moscow BALTFAX on Bush announcing US recognition of Estonian, Latvian and Lithuanian independence after phoning their leaders, followed by TASS on John Major's toast to Baltic independence.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_1071",
    "issue_date": "1991-09-03",
@@ -139,7 +139,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 4 September 1990 carried TASS reports from Kishinev on Moldova's emergency Supreme Soviet session, called over the Gagauz declaration and a congress of left-bank Dnestr deputies setting up another republic, and its vote to institute presidential rule.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_0836",
@@ -170,8 +170,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Central Eurasia Daily Report of 3 September 1993 carried ITAR-TASS on Yeltsin's arrival in Simferopol for talks with Kravchuk at Massandra, and Radio Rossii reporting the Black Sea Fleet, fuel deliveries and payments on the agenda.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176916_0021",
    "issue_date": "1993-09-03",
@@ -205,7 +205,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 6 September 1994 carried, inside an ITAR-TASS press review, ROSSIYSKIYE VESTI on Jiang Zemin's return to Moscow after 40 years as head of China, and Yeltsin on expanding bilateral cooperation; the joint declaration is not described.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176916_0280",
@@ -239,8 +239,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 4 September 1987 carried Radio Moscow on the prosecutor asking eight years for Mathias Rust, and DPA reports of Rust's plea for leniency, saying \"I made a great mistake,\" with the verdict expected that afternoon.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0076",
    "issue_date": "1987-09-04",
@@ -271,8 +271,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East review in the Daily Report of 5 September 1986 led with the Pan Am hijacking at Karachi: AFP on a \"Libyan Revolutionary Cells\" claim, Delhi radio on gunmen in security uniforms killing an Indian crew member, and Karachi radio on demands to fly to Larnaca.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176909_1022",
    "issue_date": "1986-09-05",
@@ -302,8 +302,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East review in the Daily Report of 8 September 1986 carried Ankara radio reporting 24 killed in the attack on Jews praying at an Istanbul synagogue, Peres vowing to \"cut off these murderers,\" and competing claims including one for Abu Nidal.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176909_1023",
    "issue_date": "1986-09-08",
@@ -335,8 +335,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 8 September 1986 listed under Chile the attack on Pinochet: an official report, Pinochet's own description, US-made weapons, a toll of seven, the state of siege, and FPMR claims and denials.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176906_0414",
    "issue_date": "1986-09-08",
@@ -365,8 +365,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report of 8 September 1978 carried, in badly broken OCR, Tehran radio's announcement of six months' martial law in Tehran from 0600 Friday under General Oveysi, and a report of clashes near Zhaleh Square in which people were killed and wounded.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0174",
    "issue_date": "1978-09-08",
@@ -401,8 +401,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 10 September 1990 carried a TASS report from PRAVDA on Gorbachev's arrival in Helsinki and Bush's arrival statement, hoping to strengthen a common approach to Iraq's \"unjustifiable aggression\" and speaking of a new world order.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0837",
    "issue_date": "1990-09-10",
@@ -438,15 +438,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of September 10, 1991, carried Radio Dushanbe congratulating listeners on Tajikistan's state independence, adopted by the Supreme Soviet's extraordinary session, and Moscow INTERFAX in English on the declaration.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
    "identifier": "micro_IA1176915_1077",
    "issue_date": "1991-09-10",
    "region": "SOV",
    "title": "FBIS Daily Report: Soviet Union, No. 175, 10 September 1991",
-   "page": 30,
-   "snippet": "…e election of the president until later and demanding the resignation of A. Mutalibov, the republic's leader. Something similar happened earlier in Dushanbe, where supporters of the people’s movement removed from office Tajik President K. Makhkamov, who expressed the interests of the administrative-communist majority of the Central Asian nomenklatura. It 1s noteworthy that Makhkamov’'s bodyguards only just managed to save their patron from t…"
+   "page": 108,
+   "snippet": "…sent borders between the republics and the settling of all disputed issues through talks. It sharply condemned, and adopted a statement on, the recent breaking up by security service forces of demonstrations in Tbilisi. Tajikistan Supreme Soviet Adopts Independence Declaration LD0909131591 Dushanbe Radio Dushanbe Network in Tajik 1000 GMT 9 Sep 91 [Excerpts] Today, the extraordinary scssion of the Supreme Soviet of the Tajik SSR [Soviet Soci…"
   }
  },
  {
@@ -472,8 +474,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 11 September 1989 carried Budapest radio on East Germans at the Zanka camp told they could leave, a report that thousands would depart before midnight, and Budapest MTI's government statement on the GDR citizens wishing to resettle in West Germany.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176903_1382",
    "issue_date": "1989-09-11",
@@ -508,8 +510,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 12 September 1991 carried TASS on the Gorbachev-Baker news conference, where Gorbachev said talks with Havana on withdrawing the Soviet training brigade of 11,000 troops would begin soon, and Baker welcomed the decision.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_1079",
    "issue_date": "1991-09-12",
@@ -539,7 +541,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 13 September 1990 carried IZVESTIYA's report of Bush's address to Congress, quoting his \"new partnership of nations\" and a new world where right replaces \"the law of the jungle,\" and his account of the Gulf blockade.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_0840",
@@ -575,8 +577,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 13 September 1985 carried the London Press Association's report of the Soviet embassy calling Britain's expulsion of 25 officials \"an unwarranted action of unfriendly character,\" based on the allegations of a defector granted asylum.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176914_0843",
    "issue_date": "1985-09-13",
@@ -615,7 +617,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The South Asia volume's Daily Report of 12 September 1980 led its review with Ankara radio's eight communiques from General Evren's National Security Council: parliament and government \"abolished,\" nationwide martial law, borders closed, and party leaders placed under military custody.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176911_0730",
@@ -650,7 +652,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 12 September 1990 carried a TASS report from PRAVDA on Shevardnadze's talks with Baker, who had come to Moscow for the six-power meeting on the German settlement; the discussion centered on the Gulf crisis and the CSCE summit, and the signing itself is not on the page.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_0839",
@@ -684,8 +686,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 15 September 1993 carried an interview with Sa'ib Urayqat, who called direct PLO-Israel talks historic but judged the autonomy agreement \"far too vague,\" warning that real negotiations would begin only after the Washington signing.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_1311",
    "issue_date": "1993-09-15",
@@ -723,8 +725,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East review in the Daily Report of 15 September 1982 led with Beirut radio's announcement that President-elect Bashir al-Jumayyil had been killed by a bomb at Phalangist headquarters in al-Ashrafiyah, after first reports that he had emerged safely, and the IDF moving into West Beirut.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_1264",
    "issue_date": "1982-09-15",
@@ -754,7 +756,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Daily Report of 16 September 1985 (South Asia volume) noted in its regional review that Radio Monte Carlo reported an Islamic Jihad spokesman announcing the release of Benjamin Weir, one of seven Americans kidnapped in Beirut.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176912_0713",
@@ -789,8 +791,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East review in the Daily Report of 15 September 1982 carried IDF radio's statement that Israeli forces had entered West Beirut \"to guarantee calm,\" leftist radio claims of armed resistance, and Prime Minister al-Wazzan calling the move \"unjustified.\"",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_1264",
    "issue_date": "1982-09-15",
@@ -819,7 +821,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East review in the Daily Report of 17 September 1982 reported clashes and mass arrests in newly occupied West Beirut, Eytan saying the IDF would not enter the camps, and IDF radio announcing it would entrust \"purging\" Sabra and Shatila to the Phalangists.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176908_1266",
@@ -850,8 +852,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report of 17 September 1979 listed under Afghanistan Amin meeting the Soviet ambassador on 15 September, Kabul reporting the burial of a Taraki aide, and rebel successes in Herat and Konar.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0443",
    "issue_date": "1979-09-17",
@@ -883,8 +885,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report of 18 September 1978 carried, in largely illegible OCR, remarks at the Camp David signing ceremony and a Cairo MENA report that Sadat and Begin, with Carter as witness, had signed a framework for Middle East peace and one for an Egypt-Israel treaty.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0180",
    "issue_date": "1978-09-18",
@@ -917,15 +919,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of September 20, 1994, carried reporting on the agreement reached September 18 between Carter's delegation and the Haitian regime, and a Havana Radio commentary questioning it.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176907_0872",
-   "issue_date": "1994-09-19",
+   "identifier": "micro_IA1176907_0873",
+   "issue_date": "1994-09-20",
    "region": "LAT",
-   "title": "FBIS Daily Report: Latin America, No. 181, 19 September 1994",
-   "page": 7,
-   "snippet": "…he will leave Port-au-Prince is dead. Biamby and Police Chief Michel Francois are the closest collaborators of General Raoul Cedras, thus it is pre- sumed that the negotiations to be conducted by former President Jimmy Carter will be unsuccessful. Carter is arriving at the Port-au-Prince airport accompa- nied by General Colin Powell and Sam Nunn, chairman of the Senate Armed Services Committee. The delega- tion sent by President Clinton will…"
+   "title": "FBIS Daily Report: Latin America, No. 182, 20 September 1994",
+   "page": 8,
+   "snippet": "…an agreement. He threatened to commit suicide if obliged to leave Haiti. Another high official, the de facto government's defense minister, resigned on 18 September as a protest. According to former U.S. President James Carter, medi- ator in the conflict. Gen. Cedras’ wife herself stressed her intentions to die with her husband and children if they were obliged to leave Haiti. Press agencies pointed out this attitude of Mrs. Cedras, an import…"
   }
  },
  {
@@ -957,8 +961,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 19 September 1988 carried Moscow TASS in English relaying Burmese radio's announcement of a military coup led by General Saw Maung, whose group promised to ease hardships and then hold general elections.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0344",
    "issue_date": "1988-09-19",
@@ -997,15 +1001,19 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of September 20, 1994, carried a Havana Radio commentary on the Carter agreement noting it would not prevent a landing, quoting Clinton that U.S. forces would arrive Monday.",
   "pick": false,
+  "doubt": "Page predates the landing; it covers the run-up only",
+  "window": 400,
+  "start": 1,
+  "excluded": "Anticipates landing; not reported",
   "evidence": {
-   "identifier": "micro_IA1176907_0872",
-   "issue_date": "1994-09-19",
+   "identifier": "micro_IA1176907_0873",
+   "issue_date": "1994-09-20",
    "region": "LAT",
-   "title": "FBIS Daily Report: Latin America, No. 181, 19 September 1994",
-   "page": 7,
-   "snippet": "2 CARIBBEAN Cuba Castro Reportedly Willing To Send 5,000 Troops to Haiti PA1709185794 Santa Fe de Bogota Inravision Television Canal A in Spanish 1800 GMT 17 Sep 94 [Report by Ivan Dario Parra, from the “Cripton” news- cast] [Text] This morning, Phillipe Biamby categorically said that he wil…"
+   "title": "FBIS Daily Report: Latin America, No. 182, 20 September 1994",
+   "page": 8,
+   "snippet": "…d on to power, imposing a regime of terror that was no different from that of the Duvaliers. The second aspect of the pact is also cause for great concern. The agreement will not prevent the landing of foreign troops in Haiti, only now it is said the U.S. military forces will have the mission of reestablishing the constitutional order that existed before the September 199! military coup. It is a good agreerment for the United States and Hait…"
   }
  },
  {
@@ -1027,8 +1035,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 20 September 1985 listed under Mexico the earthquake with an estimated 3,000 dead, reports of US diplomats killed, the president's comments, damage in Acapulco, and continuing tremors.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176906_0182",
    "issue_date": "1985-09-20",
@@ -1064,8 +1072,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East review in the Daily Report of 20 September 1984 led with Beirut radio on a booby-trapped vehicle exploding near the US embassy in Awkar, killing at least 40 and injuring the US and British ambassadors, and an Islamic Jihad claim to AFP.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176912_0455",
    "issue_date": "1984-09-20",
@@ -1100,8 +1108,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The supplement on Russia's presidential-parliamentary crisis of 23 September 1993 carried Rutskoy's declaration that he had become acting president and was repealing \"anticonstitutional and illegal Edict No. 1400,\" and his edict overruling Yeltsin from ROSSIYSKAYA GAZETA.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176916_0031",
    "issue_date": "1993-09-23",
@@ -1133,7 +1141,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 23 September 1991 carried a TASS review of PRAVDA, whose Yerevan correspondent reported that 95 percent of voters in the 21 September referendum backed Armenia becoming an independent democratic state outside the Soviet Union, while Ter-Petrosyan promised to join an economic treaty.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_1086",
@@ -1173,15 +1181,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East and South Asia review of September 23, 1980, reported that on September 22 Iraq launched air raids on at least 10 Iranian bases, citing Baghdad radio, and that Iraqi forces were advancing toward \"vital positions inside Iran.\"",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176908_0744",
-   "issue_date": "1980-09-22",
+   "identifier": "micro_IA1176908_0745",
+   "issue_date": "1980-09-23",
    "region": "NES",
-   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 185, 22 September 1980",
-   "page": 3,
-   "snippet": "Iraq has reiterated its demands that international shipping adhere to Iraqi navigation regulations in the Shatt al-'Arab. According to INA, the Foreign Ministry has warned that traq will take all \"necessary measures to exerc…"
+   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 186, 23 September 1980",
+   "page": 2,
+   "snippet": "FBIS DAILY REPORT MIDDLE EAST AND SOUTH AS TA REVIEW 23 SEPTEMBER 1980 Iraq-Iran Fighting Iraqi Initiative--On 22 September Iraq launched air raids on at least 10 major Iranian military installations, thus widening the theater of operations in its conflict with Iran and expanding the border fig…"
   }
  },
  {
@@ -1195,7 +1205,11 @@
     "armenia"
    ],
    [
-    "independence"
+    "independen"
+   ],
+   [
+    "declar",
+    "proclaim"
    ]
   ],
   "headline": "Armenia declares independence",
@@ -1203,15 +1217,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union report of September 24, 1991, carried INTERFAX in English: Armenia's Supreme Soviet had unanimously proclaimed an independent state outside the Soviet Union, following Saturday's referendum in which, it said, 94.37 percent voted for independence.",
+  "pick": true,
+  "window": 300,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_1086",
-   "issue_date": "1991-09-23",
+   "identifier": "micro_IA1176915_1087",
+   "issue_date": "1991-09-24",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 184, 23 September 1991",
-   "page": 38,
-   "snippet": "…ars merits approval. It is regrettable that such a serious step has become possible only after the virtual break-up of the Soviet Union”, the newspaper writes in a signed article. Covering the September 21 referendum in Armenia on the independence of this Transcaucasian republic, PRAVDA’s correspondent reports from Yerevan that 95 per cent of voters answered in the affirmative the ques- tion of whether they agree to Armenia’s becoming an indep…"
+   "title": "FBIS Daily Report: Soviet Union, No. 185, 24 September 1991",
+   "page": 92,
+   "snippet": "…have everything, like any normal army—a military procuracy, an intelligence and a counterintelligence service. These services will carry out an investigation into the incident after which those detained will be released Armenia Supreme Soviet Unanimously Proclaims Independence OW 2309185991 Moscow INTERFAX in English 1615 GMT 23 Sep gy] [Transmitted via KYODO] [Text] The Supreme Soviet of Armenia has unanimously proclaimed the republic an inde…"
   }
  },
  {
@@ -1234,8 +1250,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 24 September 1991 carried Beirut radio and the clandestine Voice of the Oppressed on the Revolutionary Justice Organization promising to free Jack Mann within 48 hours thanks to UN efforts, and Tehran IRNA expecting his release \"by midnight.\"",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0873",
    "issue_date": "1991-09-24",
@@ -1268,8 +1284,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East review in the Daily Report of 25 September 1985 led with Nicosia radio reporting that two Palestinian gunmen had seized an Israeli yacht in Larnaca marina, killing a woman and holding two men hostage, with the PLO office denying any connection.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176912_0720",
    "issue_date": "1985-09-25",
@@ -1303,8 +1319,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 26 September 1989 carried East Berlin ADN on the GDR Foreign Ministry spokesman welcoming the complete withdrawal of Vietnamese \"volunteer units\" from Cambodia as a step toward a political solution, stressing prevention of a Pol Pot return.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176903_1395",
    "issue_date": "1989-09-26",
@@ -1341,8 +1357,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 30 September 1991 carried Soviet welcome for Bush's initiative: INTERFAX on Gorbachev's positive televised response, Radio Rossii on Yeltsin's call with Bush urging substantial Soviet reciprocal measures, and TASS on Pankin pledging full support.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_1090",
    "issue_date": "1991-09-30",
@@ -1371,15 +1387,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of September 28, 1993, carried Russian reports that Kozyrev denounced the Abkhazians' taking of Sukhumi as a flagrant breach of the Sochi cease-fire, and that Russia denied involvement.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176916_0034",
-   "issue_date": "1993-09-27",
+   "identifier": "micro_IA1176916_0035",
+   "issue_date": "1993-09-28",
    "region": "SOV",
-   "title": "FBIS Daily Report: Central Eurasia, No. 185, 27 September 1993",
-   "page": 16,
-   "snippet": "…to continue its mediation between Georgia and Abkhazia with the goal of stopping bloodshed and ensuring a peaceful solution, Boris Pas- tukhov reported that two large landing craft from the Black Sea Fleet are headed to Sukhumi to assist civilian refugees in leaving the area of military operations In answer to journal: 5° questions, Pasthukov admitted that nothing coulc be done in the battle zone without peacekeeping troops. Past agreements ha…"
+   "title": "FBIS Daily Report: Central Eurasia, No. 186, 28 September 1993",
+   "page": 9,
+   "snippet": "…e women, children, and the sick and wounded from the city, and assault ships from the Black Sea Fleet have been brought in for that purpose. Nearly 10,000 people were evacu- ated on 27 September alone. Kozyrev Denounces Sukhumi Capture LD2809121393 Moscow Russian Television Network in Russian 1100 GMT 28 Sep 93 [From the ‘Vesti’ newscast] [Text] Russian Foreign Minister Andrey Kozyrev, who is attending the session of the UN General Assembly cu…"
   }
  },
  {
@@ -1406,8 +1424,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 28 September 1995 carried an interview in which Arafat said that for the first time the Palestinian authority would control the whole populated West Bank, and proposed Jerusalem as \"capital for two peoples.\"",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176911_0379",
    "issue_date": "1995-09-28",
@@ -1440,7 +1458,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 29 September 1978 listed under West Europe & Canada a TASS report of the death of Pope John Paul in the Vatican.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176913_0063",
@@ -1470,7 +1488,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 28 September 1994 listed under Estonia a Baltic News Service item that the president had declared a day of mourning over the ferry accident.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176916_0296",
@@ -1504,15 +1522,17 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of October 1, 1986, carried Moscow TASS in English announcing that Daniloff was \"expelled\" from the USSR on September 29, alongside Zakharov's release and the Reykjavik meeting.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176914_1197",
-   "issue_date": "1986-09-29",
+   "identifier": "micro_IA1176914_1200",
+   "issue_date": "1986-10-01",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 188, 29 September 1986",
-   "page": 3,
-   "snippet": "…ecial Session CSCE Preparatory Talks Continue in Vienna Belitskiy Views Prospects for East-West Trade Briefs: Intervidenye Forum Ends UNITED STATES & CANADA Commentators Discuss Issues Affecting Summit \"Top Priority’ on Daniloff, Arms {[Pozner, Bogdanov] Ovchinnikov on Daniloff, UN Cut Zorin on UN Actions, Daniloff PRAVDA on Daniloff [Gan, 27 Sep] Arbatov: Summit ‘Not of Vital Importance’ [Helsinki] Reagan's NSA Visit Stresses Importance of Esp…"
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 190, 1 October 1986",
+   "page": 29,
+   "snippet": "…0 TASS -- On agreement with the American side the Soviet staff member of the United Nations Secretariat Gennadiy Zakharov, who was being held in the United States, has been released and is returning home. TASS ANNOUNCES DANILOFF ‘EXPELLED' ON 29 SEP LD301401 Moscow TASS in English 1359 GMT 30 Sep 86 [Text] Moscow September 30 TASS -- The correspondent of the American magazine U.S. NEWS & WORLD REPORT Nicholas Daniloff who, as it had been alread…"
   }
  },
  {
@@ -1537,8 +1557,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 30 September 1991 carried Havana's Radio Rebelde and Radio Reloj on gunfire outside Aristide's residence, soldiers seizing the state radio director after he reported a possible coup, and Aristide's whereabouts unknown.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176907_0168",
    "issue_date": "1991-09-30",
@@ -1571,7 +1591,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 1 October 1986 carried three TASS flashes of 30 September: Reagan and Gorbachev to meet in Reykjavik on 11-12 October, Zakharov released and returning home, and Daniloff \"expelled\" on 29 September.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176914_1200",

@@ -19,7 +19,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America contents for May 1985 listed under Colombia the foreign minister commenting on the U.S. embargo of Nicaragua, the only embargo item visible on this page.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176904_1717",
@@ -52,8 +52,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 3 May 1993 carried Cairo radio: Egypt's Foreign Ministry denounced the 'vile attack' that killed Sri Lankan President Premadasa and innocent civilians, and condemned terror in all its forms.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_1220",
    "issue_date": "1993-05-03",
@@ -86,8 +86,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 3 May 1982 listed a long Argentina section: the Joint Staff admitting the General Belgrano was torpedoed and its communique on the 2 May action, Galtieri's address, and reaction to U.S. sanctions.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176905_0902",
    "issue_date": "1982-05-03",
@@ -152,16 +152,15 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of May 7, 1979, listed Czechoslovak reportage on the election of the Thatcher government and the Conservative victory, and a GDR commentary on the Conservative victory in Britain.",
   "pick": false,
-  "fail": {
-   "fail": "no page matched all keyword groups in 4 issue(s)",
-   "tried": [
-    "micro_IA1176902_0286",
-    "micro_IA1176913_0220",
-    "micro_IA1176902_0287",
-    "micro_IA1176913_0221"
-   ]
+  "evidence": {
+   "identifier": "micro_IA1176902_0288",
+   "issue_date": "1979-05-07",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 089, 7 May 1979",
+   "page": 3,
+   "snippet": "…D 4 Dockal Meeting D4 Polednik Reception p34 lational Front Meeting D 4 Meeting of Friendship DA MLADA FRONTA Interview D 5 Bratislava Liberation Anniversary Dinner D 5 F) eportage on Election of Thatcher Government D 6 Conservative Victory D 6 Radio Prague Dp f Radio Prague Views Rise, Fall of Idi Amin 2 Bratislava PRAVDA Comments on Energy Situation, Plans D 8 [Bednaric, 3 May] GERMAN DEMOCRATIC REPUBLIC Mueckenberger Presents Medal to Soviet Amb…"
   }
  },
  {
@@ -191,15 +190,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of May 4, 1982, listed under Poland Warsaw media on the 3 May demonstrations in Warsaw and other cities, damage and detentions, and foreign reports including AFP on police charging a rally.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176902_1047",
-   "issue_date": "1982-05-03",
+   "identifier": "micro_IA1176902_1048",
+   "issue_date": "1982-05-04",
    "region": "EEU",
-   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 085, 3 May 1982",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 086, 4 May 1982",
    "page": 2,
-   "snippet": "…With Poland Ovari Confers With Jordanian CP Official wre SN UU POLAND Solidarity Broadcast, May Day Demonstration 30 April Broadcast Call To Attend Mass Pro-Solidarity Demonstrations PAP Commentary on Demonstration More Warsaw Comment Leaders Attend 30 April May Day Ceremony Barcikowski Address"
+   "snippet": "…30 Apr New Regulations for People's Police Helpers [BERLINER ZEITUNG 30 Apr] Bezirk Court Sentences West Berlin Resident {NEUES DEUTSCHLAND 30 Apr] WWW WN DN PF > HUNGARY Gaspar on Proletarian Internationalism POLAND 7 Warsaw Media Report on 3 May Demonstrations Warsaw, Other Cities Affected Damage, Detenti 1s, Phone Cuts Rakowski Press . iference Setback to Accora 3 May Symbol Abused Foreign Media Reportage on 3 May Demonstrations TANJUG Re…"
   }
  },
  {
@@ -224,7 +225,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of 5 May 1980 listed how bloc media broke the news of Tito's death: Tirana radio, Sofia radio with Zhivkov's condolences, and Czechoslovak reaction noting his achievements.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176902_0543",
@@ -257,7 +258,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 5 May 1982 listed under Argentina that a Super Etendard fired the missile at Sheffield, alongside claims of two Harriers downed, Belgrano survivors, and a protest note to Haig.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176905_0904",
@@ -293,8 +294,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 4 May 1994 carried Cairo ESC Television live: Mubarak's speech at the signing in Cairo, hailing the Gaza-Jericho agreement as a 'historic moment' in the first phase of Palestinian-Israeli peace.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_1493",
    "issue_date": "1994-05-04",
@@ -330,15 +331,17 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The South Asia Daily Report of May 6, 1980, carried Tehran Domestic Service on the explosion and fire at the Iranian Embassy in London as police entered, and President Bani-Sadr claiming \"victory.\"",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176908_0643",
-   "issue_date": "1980-05-05",
+   "identifier": "micro_IA1176911_0636",
+   "issue_date": "1980-05-06",
    "region": "NES",
-   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 088, 5 May 1980",
-   "page": 27,
-   "snippet": "…ext] Beirut, May 4, (AFP)--The Islamic Revolutionary Organisation (IRO) today said it would blow up British embassies in the Moslem world if the British authorities use force to free the reported 17 hostages held at the Iranian Embassy in London, The previously unknown group, which claimed responsibility for Friday's assassination of Shi'ite Moslem leader Imam Hasan Shirazi, made the threat in a telephone call to AGENCE FRANCE-PRESSE here. The organiz…"
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 089, 6 May 1980",
+   "page": 22,
+   "snippet": "…ehran Domestic Service in Persian 1945 GMT 5 May 80 {Text ] According to foreign news agency reports, the Iranian Embassy in London caught fire after an explosion tonight. According to AFP, following an explosion in the Iranian Embassy in London fire broke out on the second and third floor of the building and fire is shooting out from the third flour. REUTER has reported that after the explosion and fire that ensued, four injured persons were brought…"
   }
  },
  {
@@ -361,8 +364,12 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of May 6, 1981, carried Sofia BTA of May 4 on Bulgarian veterans' anxiety for the life of hunger striker Robert Sands; it predates his death.",
   "pick": false,
+  "doubt": "Item dates from 4 May, before Sands died; his death is not reported.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Run-up only; Sands still alive",
   "evidence": {
    "identifier": "micro_IA1176902_0795",
    "issue_date": "1981-05-06",
@@ -392,15 +399,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of May 6, 1992, summarized Radio Rossii on the Crimean Supreme Soviet adopting an act proclaiming independence, a referendum planned for August 2, and Kravchuk denouncing it.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_1228",
-   "issue_date": "1992-05-05",
+   "identifier": "micro_IA1176915_1229",
+   "issue_date": "1992-05-06",
    "region": "SOV",
-   "title": "FBIS Daily Report: Central Eurasia, No. 087, 05 May 1992",
-   "page": 55,
-   "snippet": "…e two countries. National Affairs Demonstration in Simferopol Supports General OW0405 181792 Moscow INTERFAX in English 1747 GMT 4 May 92 [Transmitted via KYODO] [Text] The press center of the republican movement of the Crimea says traffic in one of Simferopol’s main streets was frustrated for four hours on Monday [4 May]. The barricade was put up by local people demonstrating in support of General Valeriy Kuznetsov, the com- mander of a corp…"
+   "title": "FBIS Daily Report: Central Eurasia, No. 088, 6 May 1992",
+   "page": 7,
+   "snippet": "…sts.” The attache of the Ukrainian mission in Russia, in remarks broadcast by Russian television, to confirm” Zelentsov’s report and instead reaffirmed the weapons removal from ‘will be completed according to schedule.” Crimean Parliament Declares Independence Radio Rossi reporis that on 5 May the Crimean Supreme Soviet “adopted an act on proclaiming > independence of the Republic of the Crimea.” “A total 118 out of 167 deputies voted in its…"
   }
  },
  {
@@ -430,12 +439,14 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 4 issue(s)",
+   "fail": "no page matched all keyword groups in 6 issue(s)",
    "tried": [
     "micro_IA1176904_1027",
     "micro_IA1176916_0191",
     "micro_IA1176904_1028",
-    "micro_IA1176916_0192"
+    "micro_IA1176916_0192",
+    "micro_IA1176904_1029",
+    "micro_IA1176916_0193"
    ]
   }
  },
@@ -461,12 +472,13 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 4 issue(s)",
+   "fail": "no page matched all keyword groups in 5 issue(s)",
    "tried": [
     "micro_IA1176916_0786",
     "micro_IA1176916_0787",
     "micro_IA1176916_0788",
-    "micro_IA1176916_0789"
+    "micro_IA1176916_0789",
+    "micro_IA1176916_0790"
    ]
   }
  },
@@ -489,8 +501,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 9 May 1989 shows only a contents line under Venezuela: Madrid EFE citing President Perez on the Panamanian and Bolivian elections.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176906_1392",
    "issue_date": "1989-05-09",
@@ -523,8 +535,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 9 May 1984 carried Moscow TASS in English: the USSR National Olympic Committee voted unanimously not to go to Los Angeles, citing an 'anti-Soviet campaign' and no security guarantees.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176914_0489",
    "issue_date": "1984-05-09",
@@ -557,15 +569,17 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of May 10, 1978, listed Ceausescu's condolences on Aldo Moro's death and, under Yugoslavia, reaction to his murder, including Tito's message to Leone and Belgrade radio comment.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176912_1212",
-   "issue_date": "1978-05-09",
-   "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 90, 9 May 1978",
-   "page": 16,
-   "snippet": "…of distrust, an atmosphere of arson, denunciations, assassinations and so forth--is to the benefit of the rightists in fact. What emerges is a definite union of the rightists and leftists. For example, the kidnaping of Moro, the former Italian prime minister, who has kidnaped him? These Red Brigades--who are they? When they began to unravel this affair--I mean the Italian authorities, the democratic forces and the Italian Comminist Party--…"
+   "identifier": "micro_IA1176902_0037",
+   "issue_date": "1978-05-10",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 91, 10 May 1978",
+   "page": 2,
+   "snippet": "…s [ROMANIA LIBERA 8 May] Ceausescu Receives Mexican Publicist on 6 May . Turkish President Receives Departing Ambassador : Spanish King Receives Departing Ambassador Ama m AMM ANAND BNF TUUVUunnr YUGOSLAVIA News of Aldo Moro Murder Evokes Reaction Tito Message to Leone Belgrade Radio Comment TANJUC Correspoident's Report TANJUG: Polish Leader Gierek To Visit in May Mikulic Delivers Report at Bosnia-Hercegovina Congress"
   }
  },
  {
@@ -589,8 +603,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 11 May 1981 carried Moscow TASS in English with the run-off results, Mitterrand at about 52 percent, and the texts of Giscard's and Marchais's congratulations.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176913_0765",
    "issue_date": "1981-05-11",
@@ -623,7 +637,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 10 May 1994 carried YEDI'OT AHARONOT on efforts to arrange a meeting between Weizman and Syria's al-Shar' at Mandela's inauguration, which both were flying to attend.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176910_1499",
@@ -658,7 +672,7 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 8 issue(s)",
+   "fail": "no page matched all keyword groups in 10 issue(s)",
    "tried": [
     "micro_IA1176903_0836",
     "micro_IA1176914_1354",
@@ -667,7 +681,9 @@
     "micro_IA1176903_0838",
     "micro_IA1176914_1356",
     "micro_IA1176903_0839",
-    "micro_IA1176914_1357"
+    "micro_IA1176914_1357",
+    "micro_IA1176903_0840",
+    "micro_IA1176914_1358"
    ]
   }
  },
@@ -694,8 +710,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 13 May 1988 carried Moscow TASS in Russian: an obituary praising 'the remarkable Soviet intelligence officer Kim Philby', his decades inside Western special services, and his arrival in Moscow in 1963.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0249",
    "issue_date": "1988-05-13",
@@ -777,8 +793,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of 14 May 1981 shows a badly cropped contents page; fragments under Poland read as an assassination attempt item, sympathies, doctors being sent, and Wyszynski seriously ill.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176902_0801",
    "issue_date": "1981-05-14",
@@ -810,8 +826,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 14 May 1987 listed under Southeast Asia & Pacific a PRAVDA item reporting a statement by the Fijian coup leader.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176914_1357",
    "issue_date": "1987-05-14",
@@ -845,8 +861,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 16 May 1988 listed under Afghanistan a joint statement on Soviet withdrawal, AFP on troops beginning to leave on 15 May, a convoy through Kabul, and a Soviet commander's news conference.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0042",
    "issue_date": "1988-05-16",
@@ -879,7 +895,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 15 May 1989 carried Moscow TASS on Gorbachev leaving for Beijing with Shevardnadze and Yakovlev, and on his stopover in Irkutsk; the student protests are not mentioned here.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_0498",
@@ -914,15 +930,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of May 17, 1989, carried Moscow Television's live broadcast of Gorbachev's speech at the Great Hall of the People after the first Soviet-Chinese summit in 30 years.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_0499",
-   "issue_date": "1989-05-16",
+   "identifier": "micro_IA1176915_0500",
+   "issue_date": "1989-05-17",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 093, 16 May 1989",
-   "page": 12,
-   "snippet": "…this meeting the most important major event of the year. For the first time in the last 30 years the supreme leader of the Soviet Union will arrive in China on a visit. Mikhail Sergeyevich Gorbachev will hold talks with Deng Xiaoping and with other Chinese leaders. An intensive and in-depth dia- logue on a wide range of matters, concerning the normal- ization of relations between the two countries, on the Cambodian question, and on other pr…"
+   "title": "FBIS Daily Report: Soviet Union, No. 094, 17 May 1989",
+   "page": 11,
+   "snippet": "…comrades and friends, | am meeting you virtually imme- diately after the first Soviet-Chinese summit meeting in the last 30 years. All day yesterday, I and my colleagues present here were engaged in talks with Comrades Deng Xiaoping, Zhao Ziyang, and Li Peng. The previous day there was a conversation with Comrade Yang Shangkun. We thoroughly discussed issues of principle and pros- pects for the development of relations between the Soviet U…"
   }
  },
  {
@@ -948,7 +966,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East & South Asia review of 17 May 1983 reported Beirut and Jerusalem radios relaying the signing at Khaldah and Qiryat Shemona, and Foreign Minister Salim calling the restrictions 'temporary, acceptable, and reasonable'.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176909_0155",
@@ -981,8 +999,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & South Asia review of 18 May 1987 reported an Iraqi spokesman on Voice of the Masses calling the Stark attack a possible 'mixup and confusion', while Iran's Musavi said Washington had 'lost face'.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176909_1180",
    "issue_date": "1987-05-18",
@@ -1012,15 +1030,15 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 22, 1980, listed under Northeast Asia the South Korean cabinet's resignation, a \"Kwangju Manifesto\" item, and DPRK condemnation of martial law.",
   "pick": false,
-  "fail": {
-   "fail": "no page matched all keyword groups in 3 issue(s)",
-   "tried": [
-    "micro_IA1176913_0496",
-    "micro_IA1176913_0497",
-    "micro_IA1176913_0498"
-   ]
+  "evidence": {
+   "identifier": "micro_IA1176913_0499",
+   "issue_date": "1980-05-22",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 101, 22 May 1980",
+   "page": 2,
+   "snippet": "…VREMYA No 20] IZVESTIYA Scores Senators! 'Capitulation' To CIA [Romanov, 15 May] NORTHEAST ASIA South Korean Cabinet Resigns; Acting Prime Minister Named causes of Discontent Remain! [(Olen)] tRegime Cracking! ([Soltan] Kwangju Manifesto DPRK Condemns South Korean Martial Law DPRK Trade Union Chief Gives Interview on USSR Visit [TRUD 15 May] Delegation Departs [TRUD 14 May] Briefs: DPRK Group in Ussuriysk UUN EF He wv"
   }
  },
  {
@@ -1079,9 +1097,10 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 1 issue(s)",
+   "fail": "no page matched all keyword groups in 2 issue(s)",
    "tried": [
-    "micro_IA1176910_0785"
+    "micro_IA1176910_0785",
+    "micro_IA1176910_0787"
    ]
   }
  },
@@ -1104,8 +1123,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 20 May 1991 carried a Yugoslav commentary noting Croatia's referendum 'today' as a step toward dissociation and warning that the army, now at combat readiness, would not sit idle.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176904_0345",
    "issue_date": "1991-05-20",
@@ -1142,10 +1161,11 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 2 issue(s)",
+   "fail": "no page matched all keyword groups in 3 issue(s)",
    "tried": [
     "micro_IA1176912_1221",
-    "micro_IA1176912_1222"
+    "micro_IA1176912_1222",
+    "micro_IA1176912_1223"
    ]
   }
  },
@@ -1173,12 +1193,13 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 4 issue(s)",
+   "fail": "no page matched all keyword groups in 5 issue(s)",
    "tried": [
     "micro_IA1176914_0758",
     "micro_IA1176914_0759",
     "micro_IA1176914_0760",
-    "micro_IA1176914_0761"
+    "micro_IA1176914_0761",
+    "micro_IA1176914_0762"
    ]
   }
  },
@@ -1201,8 +1222,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 23 May 1989 carried Moscow TASS in English from Beijing: troops called to enforce martial law stayed outside the city, behind barricades, while about a million people gathered at Tiananmen.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0504",
    "issue_date": "1989-05-23",
@@ -1264,8 +1285,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 22 May 1991 carried Delhi All India Radio in English: Rajiv Gandhi killed by a bomb at an election meeting at Sriperumbudur, possibly remote-controlled, with nine others dead.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0787",
    "issue_date": "1991-05-22",
@@ -1331,15 +1352,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of May 26, 1992, carried Zagreb Radio's live relay of Bosnian Foreign Minister Silajdzic addressing the UN General Assembly on May 22, welcoming membership and pleading for action against aggression.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176904_0574",
-   "issue_date": "1992-05-22",
+   "identifier": "micro_IA1176904_0575",
+   "issue_date": "1992-05-26",
    "region": "EEU",
-   "title": "FBIS Daily Report: East Europe, No. 100, 22 May 1992",
-   "page": 31,
-   "snippet": "…be accepted, specifically the explanation given in the 20 May letter from U.S. Secretary of State James Baker about the Yugoslav side not providing guarantees for the reopening of Sarajevo airport, which would help the United Nations and EC bring in humanitarian aid and provide guarantees for the withdrawal of “the Serbian military forces from the airport and nearby hills.” The Yugoslav Government officially informed all CSCE members about its effor…"
+   "title": "FBIS Daily Report: East Europe, No. 101, 26 May 1992",
+   "page": 36,
+   "snippet": "FBIS-EEU-92-101 26 May 1992 Foreign Minister Silajdzic Addresses UN Assembly LD2305083192 Zagreb Radio Croatia Network in Serbo-Croatian 1522 GMT 22 May 92 {Address by Foreign Minister Haris Silajdzic to the United Nations General Assembly in New York on 22 May—live, in English with superimposed Serbo- Croatian translation] [Text] Mr. President, Mr. secz..ary General, honorable members of the General Assembly: The late Dag Ham- marskjold…"
   }
  },
  {
@@ -1368,10 +1391,12 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 2 issue(s)",
+   "fail": "no page matched all keyword groups in 4 issue(s)",
    "tried": [
     "micro_IA1176904_0575",
-    "micro_IA1176915_1232"
+    "micro_IA1176915_1232",
+    "micro_IA1176904_0576",
+    "micro_IA1176915_1233"
    ]
   }
  },
@@ -1400,8 +1425,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 24 May 1994 carried Riyadh SPA counting 829 Hajj deaths, including at that day's crowded stoning ritual at Mina, and Paris AFP citing witnesses to a stampede that killed dozens.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176911_0001",
    "issue_date": "1994-05-24",
@@ -1432,8 +1457,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & South Asia review of 24 May 1982 reported IRNA claiming 30,000 Iraqi troops in Khorramshahr had surrendered and the city was near 'complete liberation', against an Iraqi communique claiming heavy Iranian losses.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_1181",
    "issue_date": "1982-05-24",
@@ -1464,13 +1489,15 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of May 28, 1991, ran an Israel item headed \"U.S. Praised for Assistance to Ethiopian Jews\"; the OCR of its text is too garbled to read beyond scattered words about Addis Ababa and Ethiopia.",
   "pick": false,
-  "fail": {
-   "fail": "no page matched all keyword groups in 1 issue(s)",
-   "tried": [
-    "micro_IA1176910_0789"
-   ]
+  "evidence": {
+   "identifier": "micro_IA1176910_0790",
+   "issue_date": "1991-05-28",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 102, 28 May 1991",
+   "page": 15,
+   "snippet": "…e kind of aid, if it is the charity of a superpower that begins to behave ruthlessly [changes {Talmor] There is no doubt, however, that we will not get alternative aid from the USSR ISRAEI U.S. Praised for Assistance to Ethiopian Jews i@éy , Ve work Addi S$ a precondi lor appease Ethiopia ] OmMmor nformation about opardize the whole will be examined ex pressed oppo No Negotiations Under Way for POW’s in Lebanon raodyys { » J » Notwrr | i* , ( ‘…"
   }
  },
  {
@@ -1495,8 +1522,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & Africa Daily Report of 26 May 1981 carried Manama's Gulf News Agency: UAE minister Rashid 'Abdallah said the new Cooperation Council would be independent and would not contradict the Arab League.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0919",
    "issue_date": "1981-05-26",
@@ -1527,15 +1554,17 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of May 26, 1993, carried regional reaction to Serrano's \"self-coup\": Madrid EFE on the Latin American Parliament asking that Guatemala be excluded from the OAS, and Panama City ACAN on Central American presidents voicing deep concern.",
   "pick": false,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176907_0530",
-   "issue_date": "1993-05-25",
+   "identifier": "micro_IA1176907_0531",
+   "issue_date": "1993-05-26",
    "region": "LAT",
-   "title": "FBIS Daily Report: Latin America, No. 099, 25 May 1993",
-   "page": 14,
-   "snippet": "…ay 1993 The government, through official spokesman Arturo Hugo Alvarado Perez, has announced that it will respond to a Guatemalan Nationa) Revolutionary Unity commu- nique, published as a paid advertisement, blaming the Serrano administration for the tense situation in Guate- mala City. Alvaro Perez said the government is not trying to impose guarantee restrictions, although he did not discard this possibility. He noted that the guerrillas “ar…"
+   "title": "FBIS Daily Report: Latin America, No. 100, 26 May 1993",
+   "page": 6,
+   "snippet": "…atin American Parlia- meat. He read the communique released by this regional legislative organization. In the communique the members of the parliament strongly denounced the self-coup in Guatemala, and demanded that the Serrano government lift the house arrest of Deputy Jose Lobo Duran, president of the Guatemalan Congress, and other leaders of the Guate- malan Congress. The communique asks the governments of the continent and the world “to ad…"
   }
  },
  {
@@ -1558,8 +1587,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 28 May 1991 carried a TASS press review noting that all newspapers printed, without comment, a Tbilisi dispatch on Gamsakhurdia's election with over 80 percent.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_1004",
    "issue_date": "1991-05-28",
@@ -1589,8 +1618,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Central Eurasia Daily Report of 27 May 1994 carried an ITAR-TASS press review listing Solzhenitsyn's forthcoming arrival in Vladivostok among the day's stories, with a bus seizure, Crimea and Yeltsin's counterintelligence meeting.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176916_0206",
    "issue_date": "1994-05-27",
@@ -1623,15 +1652,17 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of May 29, 1987, carried a Paris AFP in English dispatch: a West German light plane landed on Red Square late Thursday, circling three times before touching down near Saint Basil's, and Finnish authorities said it had left Helsinki for Stockholm.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_0001",
-   "issue_date": "1987-05-28",
+   "identifier": "micro_IA1176915_0003",
+   "issue_date": "1987-05-29",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 102, 28 May 1987",
-   "page": 16,
-   "snippet": "…now nor in the future can any state ensure its security by military means alone. This is increasingly becoming a task to be resolved by political means. For this to happen it is also essential to establish a climate of trust between states with different social systems. The conference, which will confirm the exclusively defensive Mature of the Warsaw Pact, will devote particular attention to this issue. Understanding and trust are now a rel…"
+   "title": "FBIS Daily Report: Soviet Union, VOL. III NO. 103, 29 MAY 1987",
+   "page": 44,
+   "snippet": "…P) -- A West German light plane landed on Moscow's Red Square late on Thursday, an eyewitness said, adding that the plane's two occupants and the aircraft itself had been taken away by police. The witness said the white Cessna plane, marked with the letters ECJB, had circled the huge square three times before touching down at around 7:30 p.m. (1530 GMT) near the Saint Basil Cathedral, with its nose pointing towards the Kremlin. In Helsinki, a…"
   }
  },
  {
@@ -1658,15 +1689,19 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 31, 1988, carried Moscow TASS in English on the Senate's 93-5 vote approving the INF Treaty, phoned to Reagan in Helsinki ahead of his visit to Moscow.",
   "pick": false,
+  "doubt": "Page covers INF ratification before the summit, not Reagan's arrival.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Pre-arrival INF ratification only",
   "evidence": {
    "identifier": "micro_IA1176915_0260",
    "issue_date": "1988-05-31",
    "region": "SOV",
    "title": "FBIS Daily Report: Soviet Union, No. 104, 31 May 1988",
-   "page": 5,
-   "snippet": "…Presidium open. Comrades, there is just one issue on the agenda: Ratifi- cation of the treaty signed not so long ago by Mikhail Sergeyevich Gorbachev on the Soviet side, during his visit to Washington, and by President Reagan on the USS. side. I do not know whether you have any other point con- cerning our agenda. Since there are no other points, we approve the agenda which comprises just one question, but a question of exceptional importanc…"
+   "page": 18,
+   "snippet": "…ministration. The President invited both leaders to attend the ceremony of the exchange of the instruments of ratification planned to take place in Moscow next week. In a statement published by the White House President Reagan expressed his appreciation to the senators for “securing the timely approval of this treaty”, which was made less than 48 hours before the beginning of the official visit of the head of the U.S. Administration to the US…"
   }
  },
  {
@@ -1691,8 +1726,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 30 May 1990 carried Moscow Television's interview with Gorbachev in Ottawa, saying he was concerned at the 'confrontation' at the Russian congress that elected Yeltsin by a narrow margin.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0767",
    "issue_date": "1990-05-30",
@@ -1724,8 +1759,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The South Asia contents for June 1981 listed a long Bangladesh section: the president killed by 'miscreants' in Chittagong, emergency declared, rebels told to surrender, Dacca regaining Chittagong, and the body flown to Dacca.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176911_0914",
    "issue_date": "1981-06-01",
@@ -1758,15 +1793,17 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of June 1, 1990, carried Moscow TASS in English on the official White House welcoming ceremony for Gorbachev's state visit, with Bush hoping to move \"beyond containment\" and Gorbachev's reply speech.",
+  "pick": true,
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_0768",
-   "issue_date": "1990-05-31",
+   "identifier": "micro_IA1176915_0769",
+   "issue_date": "1990-06-01",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 105, 31 May 1990",
-   "page": 16,
-   "snippet": "…tor in chief of TRUD. They begin by looking ahead to the U.S.-Soviet summit. Hopes of a successful and fruitful summit are high in the U.S. capital, as reflected in articles in its press. A warm welcome awaits President Gorbachev. Bush too, Veden- yapin notes, expressed hopes of progress on chemical, conventional, and strategic offensive weapons at his press conference in time for the summit. Andrianov quotes Bush, interviewed by the BBC: ‘I see…"
+   "title": "FBIS Daily Report: Soviet Union, No. 106, 1 June 1990",
+   "page": 11,
+   "snippet": "…90390 Moscow TASS in English 1755 GM1 3] May 90 [Text] Washington May 31 TASS—At an official cere- mony of welcoming Soviet President Mikhail Gor- bachev, on a State visit to the United States, President George Bush and Gorbachev exchanged speeches Greeting the Soviet leader, Bush said that the United States wants “to move beyond containment in its rela- tions with the Soviet Union toward a new era, an era of enduring cooperation.” ““When we las…"
   }
  },
  {
@@ -1792,15 +1829,19 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report table of contents for June 1991 listed, under Brazil, an O GLOBO item on the government fearing loss of influence in Angola; nothing on the page concerns the Lisbon signing.",
   "pick": false,
+  "doubt": "Page covers the Cuban troop return from Angola, not the Lisbon signing.",
+  "window": 400,
+  "start": 1,
+  "excluded": "Contents list; no Lisbon signing",
   "evidence": {
-   "identifier": "micro_IA1176907_0103",
-   "issue_date": "1991-05-31",
+   "identifier": "micro_IA1176907_0105",
+   "issue_date": "1991-06-01",
    "region": "LAT",
-   "title": "FBIS Daily Report: Latin America, No. 105, 31 May 1991",
-   "page": 5,
-   "snippet": "…f the most diverse ister of the Revolutionary Armed Forces, at a ceremony atitudes in the 1868 and 1895 battlefields fought among to mark the return of the last group of Cuban troops from liberating army. They intermin- Angola, held at El Cacahual Mausoleum in Havana- gled he field with the ite and black Creoles and live] were engaged in the same liberating epic [Text] Distinguished guests, internationalist combatants nong hundre mbatants of…"
+   "title": "FBIS Daily Report: Latin America Table of Contents, No. 106-125, June 1991",
+   "page": 7,
+   "snippet": "…‘Shining Path’ Raids Into Ulla Ulla Reported [Madrid EFE] Brazil Possible Military Agreem. ‘With U.S. Denied [Madrid EFE] Military Accord With U.S. To Be Supported /[O GLOBO 2 Jun] Government Fears Loss of Influence in Angola [O GLOBO 2 Jun] EEC Authorizes Exports for ‘Indefinite Period’ [Brasilia Radio] Minister Reports Economy at ‘All-Time Low’ [Madrid EFE] Central Bank Reports Release of Impounded Money /[FOLHA DE SAO PAULO 31 May] Stock…"
   }
  },
  {
@@ -1824,8 +1865,9 @@
   "spycraft": false,
   "summary": "The Group of Seven economic summit in Tokyo closed on 6 May 1986 after issuing statements on the Chernobyl accident, calling on the Soviet Union for fuller information, and on international terrorism, naming Libya.",
   "significance": "Ten days after Chernobyl the West used the summit to press Moscow over its silence on the disaster, while Moscow treated the statements as anti-Soviet propaganda. The same day Soviet officials gave their first major press conference on the accident.",
-  "fbis": "",
-  "pick": true,
+  "fbis": "The Soviet Union Daily Report of May 6, 1986, carried a Soviet account of sharp differences at the Tokyo summit: France and Italy rejecting sanctions on Libya, and the nuclear energy statement on Chernobyl not yet adopted.",
+  "pick": false,
+  "excluded": "Mid-summit disputes, not the close",
   "evidence": {
    "identifier": "micro_IA1176914_1085",
    "issue_date": "1986-05-06",
@@ -1857,7 +1899,7 @@
   "spycraft": false,
   "summary": "In a commencement speech at Texas A&M University on 12 May 1989, President George Bush said that the United States should seek to move beyond containment and integrate the Soviet Union into the community of nations.",
   "significance": "The speech set out the Bush administration's answer to Gorbachev after months of review: cautious engagement conditioned on Soviet deeds. Months later the Berlin Wall fell.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 15, 1989, carried a Moscow PRAVDA dispatch deriding Bush's Texas A&M speech as \"Following Old Recipes,\" summarizing his aim to integrate the USSR into the community of nations and the conditions he set.",
   "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0498",
@@ -1892,7 +1934,7 @@
   "spycraft": false,
   "summary": "On 18 May 1989 Lithuania's Supreme Soviet adopted a declaration of state sovereignty and amended the republic's constitution so that Soviet laws applied there only when approved by the Lithuanian legislature; it also passed a law on economic independence.",
   "significance": "Following Estonia's lead, the declaration was a step from reform toward independence, which Lithuania proclaimed in March 1990, the first Soviet republic to do so.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 19, 1989, listed in its contents that the Lithuanian Supreme Soviet amended the constitution, passed an economic independence law, adopted a citizenship amendment and approved a state language decree.",
   "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0502",
@@ -1928,7 +1970,7 @@
   "spycraft": false,
   "summary": "On 18 May 1989 Mikhail Gorbachev left Beijing for Shanghai at the end of the summit that normalized Sino-Soviet relations, while huge crowds supporting student hunger strikers filled the capital.",
   "significance": "The summit ended thirty years of Sino-Soviet hostility, but the protests it drew to world attention went on until the army cleared Tiananmen Square on 4 June.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 19, 1989, carried Soviet television and a Moscow PRAVDA TASS report of Gorbachev's official send-off in Beijing and departure for Shanghai, plus TASS on his arrival there.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_0502",
@@ -1937,6 +1979,45 @@
    "title": "FBIS Daily Report: Soviet Union, No. 096, 19 May 1989",
    "page": 26,
    "snippet": "…ding for the capital’s Shoudu Airport,” as the motorcade is seen pulling away from the guesthouse. Gorbachev Travels to Shanghai PM1905095989 Moscow PRAVDA in Russian 19 May 89 Second Edition p 1 {TASS report: “Official Beijing Send-Off] [Text] Beijing, 18 May—M.S. Gorbachev, general secre- tary of the CPSU Central Committee and chairman of the USSR Supreme Soviet Presidium, who is paying an official visit to China at the invitation of PRC Pre…"
+  }
+ },
+ {
+  "md": "05-06",
+  "date": "1993-05-06",
+  "regions": [
+   "EEU",
+   "NES",
+   "LAT",
+   "EAS",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "safe area",
+    "safe zone",
+    "protected area"
+   ],
+   [
+    "security council",
+    "resolution"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "UN declares 'safe areas' in Bosnia",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On May 6, 1993, the UN Security Council unanimously declared Sarajevo, Tuzla, Zepa, Gorazde and Bihac, with Srebrenica already named, to be 'safe areas' to be free from armed attack by the Bosnian Serb forces besieging them.",
+  "significance": "The safe areas were promised protection without the troops to provide it. In July 1995 Bosnian Serb forces overran Srebrenica and killed some eight thousand men and boys, the worst massacre in Europe since the Second World War.",
+  "fbis": "The East Europe report of May 7, 1993, carried a wire report from Bosnia: the Security Council had unanimously declared Zepa, Tuzla, Bihac, Sarajevo and Gorazde safe areas, after the Bosnian Serb assembly refused the peace plan, while UN observers tried to reach besieged Zepa.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0778",
+   "issue_date": "1993-05-07",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 087, 7 May 1993",
+   "page": 29,
+   "snippet": "…assurances from Bosnian Serb authorities in Pale Thursday that the observers would be able to reach the town, according to UNPROFOR spokesman Michel Marvie. The U.N. Security Council unanimously Thursday declared Zepa a safe area along with four other regions besieged by the Serbs—Tuzla, Bihac, Sarajevo and Gorazde. The eastern enclave of Srebrenica was declared a safe area on April 16. The council vote came after the Bosnian Serbs’ self- styled…"
   }
  }
 ]

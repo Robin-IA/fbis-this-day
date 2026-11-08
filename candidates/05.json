@@ -124,7 +124,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of May 7, 1979, listed Czechoslovak reportage on the election of the Thatcher government and the Conservative victory, and a GDR commentary on the Conservative victory in Britain.",
   "pick": false
  },
  {
@@ -154,9 +154,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Eastern Europe Daily Report of 3 May 1982 listed under Poland a Solidarity broadcast calling for mass pro-Solidarity demonstrations and PAP commentary on a May Day demonstration; the 3 May clashes themselves are not shown.",
+  "fbis": "The Eastern Europe Daily Report of May 4, 1982, listed under Poland Warsaw media on the 3 May demonstrations in Warsaw and other cities, damage and detentions, and foreign reports including AFP on police charging a rally.",
   "pick": true,
-  "doubt": "Issue predates the 3 May clashes; it lists the May Day protest and calls to demonstrate.",
   "window": 400,
   "start": 1
  },
@@ -264,9 +263,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "The Middle East & Africa Daily Report of 5 May 1980 carried Paris AFP from Beirut: a previously unknown Islamic Revolutionary Organisation threatened to blow up British embassies if Britain used force to free the London embassy hostages.",
+  "fbis": "The South Asia Daily Report of May 6, 1980, carried Tehran Domestic Service on the explosion and fire at the Iranian Embassy in London as police entered, and President Bani-Sadr claiming \"victory.\"",
   "pick": true,
-  "doubt": "Page carries a threat made before the assault; the SAS storming is not reported.",
   "window": 400,
   "start": 1
  },
@@ -290,11 +288,12 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Eastern Europe Daily Report of 6 May 1981 carried Sofia BTA of 4 May: a Bulgarian anti-fascist veterans' committee voiced 'deep anxiety' for Robert Sands and fellow hunger strikers and backed political-prisoner status.",
+  "fbis": "The Eastern Europe Daily Report of May 6, 1981, carried Sofia BTA of May 4 on Bulgarian veterans' anxiety for the life of hunger striker Robert Sands; it predates his death.",
   "pick": false,
   "doubt": "Item dates from 4 May, before Sands died; his death is not reported.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Run-up only; Sands still alive"
  },
  {
   "md": "05-05",
@@ -316,9 +315,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Central Eurasia Daily Report of 5 May 1992 carried Moscow INTERFAX on a Simferopol demonstration backing a corps commander dismissed by Ukraine's Defense Ministry; the independence vote is not mentioned.",
+  "fbis": "The Central Eurasia Daily Report of May 6, 1992, summarized Radio Rossii on the Crimean Supreme Soviet adopting an act proclaiming independence, a referendum planned for August 2, and Kravchuk denouncing it.",
   "pick": false,
-  "doubt": "Page covers a Crimean military dispute, not the parliament's independence declaration.",
   "window": 400,
   "start": 1
  },
@@ -442,9 +440,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 9 May 1978 carried a Soviet roundtable on ultraleftist groups which claimed the trail of Moro's kidnappers 'led to the right', toward the FRG or the United States; the finding of his body is not reported.",
+  "fbis": "The Eastern Europe Daily Report of May 10, 1978, listed Ceausescu's condolences on Aldo Moro's death and, under Yugoslavia, reaction to his murder, including Tito's message to Leone and Belgrade radio comment.",
   "pick": true,
-  "doubt": "Page is a commentary on the Moro kidnapping; the discovery of his body is not reported.",
   "window": 400,
   "start": 1
  },
@@ -711,9 +708,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 16 May 1989 carried a Moscow roundtable previewing the summit, the first such visit in 30 years, quoting Deng on resolving 30 years of disputes in order 'to normalize' relations.",
+  "fbis": "The Soviet Union Daily Report of May 17, 1989, carried Moscow Television's live broadcast of Gorbachev's speech at the Great Hall of the People after the first Soviet-Chinese summit in 30 years.",
   "pick": true,
-  "doubt": "Page previews the summit; the normalization itself is not reported.",
   "window": 400,
   "start": 1
  },
@@ -788,7 +784,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 22, 1980, listed under Northeast Asia the South Korean cabinet's resignation, a \"Kwangju Manifesto\" item, and DPRK condemnation of martial law.",
   "pick": false
  },
  {
@@ -1041,9 +1037,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The East Europe Daily Report of 22 May 1992 carried a Yugoslav government protest at U.S. curbs on Yugoslav Airlines over Sarajevo airport; nothing on the three new UN members.",
+  "fbis": "The East Europe Daily Report of May 26, 1992, carried Zagreb Radio's live relay of Bosnian Foreign Minister Silajdzic addressing the UN General Assembly on May 22, welcoming membership and pleading for action against aggression.",
   "pick": true,
-  "doubt": "Page covers U.S.-Yugoslav airline sanctions, not the UN admissions.",
   "window": 400,
   "start": 1
  },
@@ -1146,7 +1141,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of May 28, 1991, ran an Israel item headed \"U.S. Praised for Assistance to Ethiopian Jews\"; the OCR of its text is too garbled to read beyond scattered words about Addis Ababa and Ethiopia.",
   "pick": false
  },
  {
@@ -1195,9 +1190,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "The Latin America Daily Report of 25 May 1993 carried a Guatemalan government spokesman answering a URNG communique on the tense situation and not ruling out restrictions on guarantees; the suspension of the constitution is not reported.",
+  "fbis": "The Latin America Daily Report of May 26, 1993, carried regional reaction to Serrano's \"self-coup\": Madrid EFE on the Latin American Parliament asking that Guatemala be excluded from the OAS, and Panama City ACAN on Central American presidents voicing deep concern.",
   "pick": false,
-  "doubt": "Page shows pre-coup tension; Serrano's suspension of the constitution is not reported.",
   "window": 400,
   "start": 1
  },
@@ -1270,9 +1264,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 28 May 1987 carried GDR and ADN items on the Warsaw Pact conference opening in Berlin; nothing about Rust or Red Square.",
+  "fbis": "The Soviet Union Daily Report of May 29, 1987, carried a Paris AFP in English dispatch: a West German light plane landed on Red Square late Thursday, circling three times before touching down near Saint Basil's, and Finnish authorities said it had left Helsinki for Stockholm.",
   "pick": true,
-  "doubt": "Page covers the Warsaw Pact Berlin meeting; Rust's landing does not appear.",
   "window": 400,
   "start": 1
  },
@@ -1300,11 +1293,12 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 31 May 1988 carried Moscow Television live from the Supreme Soviet Presidium session ratifying the INF Treaty, with Gromyko presiding and Shevardnadze reporting, on the eve of the summit.",
+  "fbis": "The Soviet Union Daily Report of May 31, 1988, carried Moscow TASS in English on the Senate's 93-5 vote approving the INF Treaty, phoned to Reagan in Helsinki ahead of his visit to Moscow.",
   "pick": false,
   "doubt": "Page covers INF ratification before the summit, not Reagan's arrival.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Pre-arrival INF ratification only"
  },
  {
   "md": "05-29",
@@ -1379,9 +1373,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 31 May 1990 carried Moscow radio's 'International Observers' Roundtable' previewing the summit, citing Bush's praise of Gorbachev and hopes for a chemical weapons agreement.",
+  "fbis": "The Soviet Union Daily Report of June 1, 1990, carried Moscow TASS in English on the official White House welcoming ceremony for Gorbachev's state visit, with Bush hoping to move \"beyond containment\" and Gorbachev's reply speech.",
   "pick": true,
-  "doubt": "Page previews the summit; Gorbachev's arrival is not reported.",
   "window": 400,
   "start": 1
  },
@@ -1408,11 +1401,12 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Latin America Daily Report of 31 May 1991 carried Havana radio and TV on Raul Castro's speech marking the return of the last Cuban troops from Angola; the Lisbon accords are not mentioned.",
+  "fbis": "The Latin America Daily Report table of contents for June 1991 listed, under Brazil, an O GLOBO item on the government fearing loss of influence in Angola; nothing on the page concerns the Lisbon signing.",
   "pick": false,
   "doubt": "Page covers the Cuban troop return from Angola, not the Lisbon signing.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Contents list; no Lisbon signing"
  },
  {
   "md": "05-06",
@@ -1435,8 +1429,9 @@
   "spycraft": false,
   "summary": "The Group of Seven economic summit in Tokyo closed on 6 May 1986 after issuing statements on the Chernobyl accident, calling on the Soviet Union for fuller information, and on international terrorism, naming Libya.",
   "significance": "Ten days after Chernobyl the West used the summit to press Moscow over its silence on the disaster, while Moscow treated the statements as anti-Soviet propaganda. The same day Soviet officials gave their first major press conference on the accident.",
-  "fbis": "",
-  "pick": true
+  "fbis": "The Soviet Union Daily Report of May 6, 1986, carried a Soviet account of sharp differences at the Tokyo summit: France and Italy rejecting sanctions on Libya, and the nuclear energy statement on Chernobyl not yet adopted.",
+  "pick": false,
+  "excluded": "Mid-summit disputes, not the close"
  },
  {
   "md": "05-12",
@@ -1460,7 +1455,7 @@
   "spycraft": false,
   "summary": "In a commencement speech at Texas A&M University on 12 May 1989, President George Bush said that the United States should seek to move beyond containment and integrate the Soviet Union into the community of nations.",
   "significance": "The speech set out the Bush administration's answer to Gorbachev after months of review: cautious engagement conditioned on Soviet deeds. Months later the Berlin Wall fell.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 15, 1989, carried a Moscow PRAVDA dispatch deriding Bush's Texas A&M speech as \"Following Old Recipes,\" summarizing his aim to integrate the USSR into the community of nations and the conditions he set.",
   "pick": true
  },
  {
@@ -1487,7 +1482,7 @@
   "spycraft": false,
   "summary": "On 18 May 1989 Lithuania's Supreme Soviet adopted a declaration of state sovereignty and amended the republic's constitution so that Soviet laws applied there only when approved by the Lithuanian legislature; it also passed a law on economic independence.",
   "significance": "Following Estonia's lead, the declaration was a step from reform toward independence, which Lithuania proclaimed in March 1990, the first Soviet republic to do so.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 19, 1989, listed in its contents that the Lithuanian Supreme Soviet amended the constitution, passed an economic independence law, adopted a citizenship amendment and approved a state language decree.",
   "pick": true
  },
  {
@@ -1515,7 +1510,38 @@
   "spycraft": false,
   "summary": "On 18 May 1989 Mikhail Gorbachev left Beijing for Shanghai at the end of the summit that normalized Sino-Soviet relations, while huge crowds supporting student hunger strikers filled the capital.",
   "significance": "The summit ended thirty years of Sino-Soviet hostility, but the protests it drew to world attention went on until the army cleared Tiananmen Square on 4 June.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of May 19, 1989, carried Soviet television and a Moscow PRAVDA TASS report of Gorbachev's official send-off in Beijing and departure for Shanghai, plus TASS on his arrival there.",
   "pick": false
+ },
+ {
+  "md": "05-06",
+  "date": "1993-05-06",
+  "regions": [
+   "EEU",
+   "NES",
+   "LAT",
+   "EAS",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "safe area",
+    "safe zone",
+    "protected area"
+   ],
+   [
+    "security council",
+    "resolution"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "UN declares 'safe areas' in Bosnia",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On May 6, 1993, the UN Security Council unanimously declared Sarajevo, Tuzla, Zepa, Gorazde and Bihac, with Srebrenica already named, to be 'safe areas' to be free from armed attack by the Bosnian Serb forces besieging them.",
+  "significance": "The safe areas were promised protection without the troops to provide it. In July 1995 Bosnian Serb forces overran Srebrenica and killed some eight thousand men and boys, the worst massacre in Europe since the Second World War.",
+  "fbis": "The East Europe report of May 7, 1993, carried a wire report from Bosnia: the Security Council had unanimously declared Zepa, Tuzla, Bihac, Sarajevo and Gorazde safe areas, after the Bosnian Serb assembly refused the peace plan, while UN observers tried to reach besieged Zepa.",
+  "pick": true
  }
 ]

@@ -21,9 +21,8 @@
   "spycraft": false,
   "summary": "On 1 December 1989 Mikhail Gorbachev visited the Vatican and met Pope John Paul II, the first meeting between a Soviet leader and a pope.",
   "significance": "The two agreed to establish relations, and Gorbachev promised freedom of conscience in the USSR, including for Ukraine's suppressed Greek Catholic church.",
-  "fbis": "The Soviet Union Daily Report of 1 December 1989 carried an interview with party official Krachev, in Rome with Gorbachev for his meeting with the Pope, welcoming US backing for Aquino against a coup attempt. The papal meeting itself is only mentioned in passing.",
+  "fbis": "The East Europe Daily Report of December 4, 1989, reported Walesa's London visit, where Cardinal Hume tied Friday's meeting between John Paul II and Gorbachev to the liberation movement Solidarity started.",
   "pick": true,
-  "doubt": "Vatican meeting mentioned only in passing; item is about the Philippine coup attempt",
   "window": 400,
   "start": 1
  },
@@ -49,11 +48,12 @@
   "spycraft": false,
   "summary": "On 1 December 1991 over ninety per cent of voters in Ukraine approved the declaration of independence, and Leonid Kravchuk was elected president.",
   "significance": "Without Ukraine, the Soviet Union could not survive; within a week its leaders met at Belovezha to dissolve it.",
-  "fbis": "The Soviet Union contents for December 1991 listed, under Ukraine, economic friction with Russia over prices, reaction to price reform and a Kravchuk decree against speculation. The independence vote is not among the items shown.",
+  "fbis": "The Soviet Union Daily Report of December 2, 1991, carried commentary on likely U.S. recognition of Ukraine and Moscow TASS on Russian Americans condemning it ahead of the December 1 referendum.",
   "pick": false,
   "doubt": "contents page shows Ukrainian economic items, not the referendum",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Run-up to the vote only"
  },
  {
   "md": "12-02",
@@ -134,9 +134,8 @@
   "spycraft": false,
   "summary": "On 2 December 1993 Colombian police tracked down and killed the Medellin cartel leader Pablo Escobar on a rooftop in Medellin.",
   "significance": "The hunt, assisted by US intelligence and special forces, ended the cartel's campaign of bombings against the Colombian state.",
-  "fbis": "The Latin America Daily Report of 2 December 1993 carried Bogota Inravision television of 1 December on Escobar accusing the Cali cartel's head of involvement with the Pepes. The page predates his death.",
+  "fbis": "The Latin America Daily Report of December 6, 1993, carried Argentine coverage in which President Menem, asked about Pablo Escobar's death, called it a relief to see die someone who had killed so many.",
   "pick": false,
-  "doubt": "item is from the day before Escobar was killed",
   "window": 400,
   "start": 1
  },
@@ -310,9 +309,8 @@
   "spycraft": false,
   "summary": "On 5 December 1980 the leaders of the Warsaw Pact states met in Moscow to discuss the crisis in Poland, amid Western fears of a Soviet invasion.",
   "significance": "US intelligence, warned by the CIA's agent in the Polish general staff, Ryszard Kuklinski, judged an intervention possible; President Carter publicly warned Moscow.",
-  "fbis": "The Eastern Europe Daily Report of 5 December 1980 carried a Hungarian television panel on Poland, denying a link between the Warsaw Pact defence ministers' Bucharest meeting and Polish events. The Moscow leaders' meeting is not on this page.",
+  "fbis": "The Eastern Europe Daily Report of December 8, 1980, opened with Warsaw Pact reportage and comment on the leaders' meeting, and listed Bulgarian and Czechoslovak leaders returning from the Moscow Warsaw Pact meeting.",
   "pick": false,
-  "doubt": "covers the Bucharest defence ministers' meeting, not the Moscow summit",
   "window": 400,
   "start": 1
  },
@@ -442,9 +440,8 @@
   "spycraft": false,
   "summary": "On 7 December 1988 Mikhail Gorbachev told the UN General Assembly that the Soviet Union would cut its armed forces by half a million men, including withdrawals from Eastern Europe.",
   "significance": "The unilateral cuts signalled Moscow would no longer hold Eastern Europe by force.",
-  "fbis": "The East Europe Daily Report of 7 December 1988 carried a Zagreb radio commentary previewing Gorbachev's UN speech and meetings with Reagan and Bush, expecting progress on arms cuts. The troop-cut announcement itself is not on this page.",
+  "fbis": "The East Europe Daily Report of December 8, 1988, carried Prague CTK in English: the Czechoslovak government fully supported Gorbachev's UN proposals, including withdrawing six tank divisions from the GDR, Czechoslovakia and Hungary.",
   "pick": false,
-  "doubt": "preview only; the announcement is not reported",
   "window": 400,
   "start": 1
  },
@@ -598,9 +595,8 @@
   "spycraft": false,
   "summary": "On 10 December 1989 President Gustav Husak swore in a government with a non-communist majority, then resigned.",
   "significance": "Husak had presided over the 'normalisation' after the 1968 invasion; his departure cleared the way for Havel's election.",
-  "fbis": "The East Europe Daily Report of 11 December 1989 carried Prague Domestic Service on President Husak's broad amnesty decree of 8 December, halting prosecutions for subversion and other political offences. The new government and Husak's resignation are not on this page.",
+  "fbis": "The East Europe Daily Report of December 11, 1989, carried Husak's amnesty decree and Prague Domestic Service's text of his December 9 speech to the nation, headed \"Husak Speaks to Nation, Resigns Post.\"",
   "pick": false,
-  "doubt": "page shows Husak's amnesty, not the new government or his resignation",
   "window": 400,
   "start": 1
  },
@@ -608,17 +604,31 @@
   "md": "12-11",
   "date": "1994-12-11",
   "regions": [
-   "SOV"
+   "SOV",
+   "EEU",
+   "EAS",
+   "NES",
+   "LAT"
   ],
   "keywords": [
    [
-    "chechen",
     "chechnya",
+    "chechen",
+    "groznyy",
     "grozny"
    ],
    [
     "troops",
-    "forces"
+    "forces",
+    "units",
+    "columns"
+   ],
+   [
+    "ingushetia",
+    "dagestan",
+    "mozdok",
+    "three directions",
+    "border"
    ]
   ],
   "headline": "Russian forces enter Chechnya",
@@ -626,10 +636,9 @@
   "spycraft": false,
   "summary": "On 11 December 1994 Russian troops moved into Chechnya to crush its declared independence.",
   "significance": "The war became a disaster for the Russian army and Boris Yeltsin.",
-  "fbis": "The Central Eurasia Daily Report of 12 December 1994 carried a Moscow press review: ROSSIYSKAYA GAZETA's \"tense waiting\" in Chechnya and IZVESTIYA on a tightening blockade and Yeltsin's choice. The entry of troops is not reported here.",
+  "fbis": "The Central Eurasia report of December 12, 1994, carried Federation Council speaker Shumeyko saying troops had been sent to Chechnya to form 'isolation circles' around Groznyy, and ITAR-TASS on Ingushetia's president opposing armor crossing his republic, where four Ingush were killed on Sunday.",
   "pick": true,
-  "doubt": "press review describes the blockade, not the troops' entry",
-  "window": 400,
+  "window": 300,
   "start": 1
  },
  {
@@ -835,11 +844,12 @@
   "spycraft": false,
   "summary": "On 16 December 1991 Kazakhstan declared independence, the last Soviet republic to do so.",
   "significance": "Kazakhstan held a large share of the Soviet nuclear arsenal.",
-  "fbis": "The Soviet Union Daily Report of 16 December 1991 carried a report on the Islamic Conference summit in Dakar, noting a Kazakh deputy foreign minister attending as an observer. Kazakhstan's independence declaration is not on this page.",
+  "fbis": "The Soviet Union Daily Report of December 17, 1991, carried an interview on nuclear arms and the ABM Treaty that raised what would happen to strategic systems in Kazakhstan.",
   "pick": false,
   "doubt": "page is about the Dakar ICO summit; no independence declaration",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "No independence declaration"
  },
  {
   "md": "12-17",
@@ -859,7 +869,7 @@
   "spycraft": true,
   "summary": "On 17 December 1981 Red Brigades terrorists kidnapped US Army Brigadier General James Dozier, a NATO officer, from his flat in Verona.",
   "significance": "Dozier was the first American general kidnapped by European terrorists; Italian police rescued him unharmed on 28 January 1982.",
-  "fbis": "",
+  "fbis": "The Middle East & Africa Daily Report of December 21, 1981, noted that Libya's JANA denied any role in the kidnapping of U.S. General James Dozier after an Italian paper reported U.S. officials did not rule it out.",
   "pick": false
  },
  {
@@ -926,9 +936,8 @@
   "spycraft": false,
   "summary": "On 18 December 1989 Nicolae Ceausescu left Bucharest for a state visit to Iran, while his security forces were putting down the uprising in Timisoara.",
   "significance": "He cut the visit short and returned on 20 December to a regime days from collapse.",
-  "fbis": "The East Europe Daily Report of 18 December 1989 carried, on this page, Albanian national day greetings, including a message from Ceausescu and Dascalescu. Nothing here on his trip to Iran or Timisoara.",
+  "fbis": "The East Europe Daily Report of December 19, 1989, carried an AFP dispatch from Budapest on troops crushing protests in Timisoara and Arad, adding that Ceausescu left as planned on Monday for a state visit to Iran.",
   "pick": false,
-  "doubt": "Albanian anniversary messages; not the Iran trip",
   "window": 400,
   "start": 1
  },
@@ -953,11 +962,12 @@
   "spycraft": false,
   "summary": "On 18 December 1992 Kim Young-sam won South Korea's presidential election, becoming its first civilian president in three decades.",
   "significance": "His government curbed the military and the intelligence service and prosecuted former presidents Chun and Roh.",
-  "fbis": "The East Asia Daily Report of 18 December 1992 carried THE KOREA TIMES of 12 December on candidate Kim Yong-sam dismissing Chong Chu-yong's promised \"bombshell\". The page predates the election result.",
-  "pick": true,
+  "fbis": "The East Asia Daily Report of December 20, 1992, carried Seoul YONHAP items on Kim Yong-sam campaigning, denouncing election violations and a secret meeting of Pusan officials.",
+  "pick": false,
   "doubt": "pre-election campaign item, not the result",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Pre-election campaign only"
  },
  {
   "md": "12-19",
@@ -982,11 +992,12 @@
   "spycraft": false,
   "summary": "On 19 December 1984 Margaret Thatcher and Zhao Ziyang signed the Sino-British Joint Declaration, under which Hong Kong would return to China in 1997.",
   "significance": "The agreement set out the 'one country, two systems' formula.",
-  "fbis": "The South Asia Daily Report of 20 December 1984 carried Hong Kong AFP on Bangladesh banning political activity to thwart a general strike. Nothing on the Hong Kong agreement appears on this page.",
+  "fbis": "The South Asia Daily Report of December 21, 1984, carried items on India's election in Bihar and a Hong Kong AFP report on Tibetan youth welcoming the Dalai Lama's decision not to visit China.",
   "pick": false,
   "doubt": "match is on a Hong Kong dateline; page covers Bangladesh",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Hong Kong dateline only"
  },
  {
   "md": "12-19",
@@ -1031,9 +1042,8 @@
   "spycraft": true,
   "summary": "On 20 December 1989 US forces invaded Panama to remove General Manuel Noriega, the country's ruler and a former intelligence chief who had for years been a paid CIA asset.",
   "significance": "Operation Just Cause, the largest US combat operation since Vietnam, ended in Noriega's surrender and trial in Miami on drug charges.",
-  "fbis": "The Latin America Daily Report of 20 December 1989 carried Madrid EFE on the Andean Pact presidents voicing \"serious concern\" over recent incidents in Panama and urging democracy there. The invasion itself is not on this page.",
+  "fbis": "The Latin America Daily Report of December 21, 1989, carried two Moscow radio commentaries in Spanish condemning the U.S. military operation in Panama as interventionist, comparing it with Grenada in 1983.",
   "pick": false,
-  "doubt": "Andean summit statement before the invasion",
   "window": 400,
   "start": 1
  },
@@ -1105,25 +1115,38 @@
   "spycraft": false,
   "summary": "On 21 December 1989 a mass rally called by Nicolae Ceausescu in Bucharest turned against him, and fighting broke out in the capital that night.",
   "significance": "The televised moment the crowd jeered him marked the end of his regime.",
-  "fbis": "The East Europe Daily Report of 22 December 1989 carried Prague Domestic Service: the Czechoslovak government condemned the \"brutal\" suppression in Timisoara and recalled its ambassador. The Bucharest rally is not described on this page.",
+  "fbis": "The East Europe Daily Report of December 22, 1989, carried Hungarian Foreign Minister Horn's press conference on spreading unrest in Romania, soldiers changing sides, and 1,000 to 2,500 reported dead.",
   "pick": false,
   "doubt": "covers condemnation of the crackdown, not the rally",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Unrest generally; no rally"
  },
  {
   "md": "12-21",
   "date": "1991-12-21",
   "regions": [
-   "SOV"
+   "SOV",
+   "EEU",
+   "EAS",
+   "NES",
+   "LAT"
   ],
   "keywords": [
    [
     "alma-ata",
-    "alma ata"
+    "alma ata",
+    "almaty"
    ],
    [
-    "commonwealth"
+    "commonwealth",
+    "cis"
+   ],
+   [
+    "declaration",
+    "agreement",
+    "signed",
+    "protocol"
    ]
   ],
   "headline": "Eleven republics join the Commonwealth at Alma-Ata",
@@ -1131,10 +1154,9 @@
   "spycraft": false,
   "summary": "On 21 December 1991 the leaders of eleven Soviet republics met in Alma-Ata and agreed to form the Commonwealth of Independent States.",
   "significance": "The Alma-Ata declaration sealed the end of the USSR; Gorbachev resigned four days later.",
-  "fbis": "The Soviet Union Daily Report of 23 December 1991 carried a commentary on divided control of nuclear arsenals among Yeltsin, Nazarbayev, Kravchuk and Shushkevich after Baker's visit. The Alma-Ata meeting is not reported here.",
+  "fbis": "The East Europe report of December 23, 1991, carried Prague CSTK in English: Czechoslovak Foreign Minister Dienstbier welcomed the eleven-member Commonwealth of Independent States created at Alma-Ata on Saturday and Russia's succession to the Soviet Union.",
   "pick": true,
-  "doubt": "commentary on nuclear control; the Alma-Ata accession is not shown",
-  "window": 400,
+  "window": 300,
   "start": 1
  },
  {
@@ -1161,9 +1183,8 @@
   "spycraft": true,
   "summary": "On 22 December 1989 Nicolae and Elena Ceausescu fled the Central Committee building in Bucharest by helicopter as the army went over to the crowds. Fighting with Securitate loyalists continued for days.",
   "significance": "Romania's was the only violent overthrow of a communist regime in Eastern Europe in 1989.",
-  "fbis": "The East Europe Daily Report of 22 December 1989 carried Bulgarian protest at the \"bloody terror\" in Romania, including a BTA staff declaration and Sofia radio witnesses from Timisoara. Ceausescu's flight is not reported on this page.",
+  "fbis": "The East Europe Daily Report of December 26, 1989, carried Sofia Domestic Service on Bulgarian leader Mladenov's \"sincere joy\" at the overthrow of Ceausescu's regime, and Bulgarian aid offers to Romania.",
   "pick": true,
-  "doubt": "Bulgarian protests before Ceausescu's flight",
   "window": 400,
   "start": 1
  },
@@ -1287,9 +1308,8 @@
   "spycraft": false,
   "summary": "On 25 December 1989 Nicolae and Elena Ceausescu were tried by a hastily convened military tribunal at Targoviste and shot.",
   "significance": "Their execution was meant to end Securitate resistance; footage was shown on Romanian television the next day.",
-  "fbis": "The East Europe Daily Report of 26 December 1989 carried Bulgarian items from 22 December welcoming the end of the \"Ceausescu nightmare\" and a Romanian embassy statement. The trial and execution are not reported on this page.",
+  "fbis": "The East Europe Daily Report of December 26, 1989, carried Bucharest Domestic Service announcing the Ceausescus' arrest, military tribunal, death sentence and execution, and Belgrade TANJUG on television showing them beforehand.",
   "pick": false,
-  "doubt": "page predates the trial and execution",
   "window": 400,
   "start": 1
  },
@@ -1430,8 +1450,10 @@
     "dubcek"
    ],
    [
-    "assembly",
     "chairman"
+   ],
+   [
+    "elected"
    ]
   ],
   "headline": "Alexander Dubcek elected chairman of the Czechoslovak parliament",
@@ -1439,10 +1461,9 @@
   "spycraft": false,
   "summary": "On 28 December 1989 Alexander Dubcek, leader of the 1968 Prague Spring, was elected chairman of the Federal Assembly of Czechoslovakia.",
   "significance": "The return of the man deposed by the Soviet invasion completed the symbolism of the Velvet Revolution.",
-  "fbis": "The East Europe Daily Report of 28 December 1989 carried a poll in which few named Dubcek, and Vienna's DER STANDARD interviewing Havel on serving temporarily as president. Dubcek's election is not on this page.",
+  "fbis": "The East Europe report of December 29, 1989, carried Prague radio in Slovak: the Federal Assembly had elected Alexander Dubcek its chairman, followed by the text of his speech on taking the chair.",
   "pick": true,
-  "doubt": "page has a poll and Havel interview; not Dubcek's election",
-  "window": 400,
+  "window": 300,
   "start": 1
  },
  {
@@ -1573,9 +1594,8 @@
   "spycraft": false,
   "summary": "At midnight on 31 December 1992 Czechoslovakia ceased to exist, peacefully dividing into the Czech Republic and Slovakia.",
   "significance": "The 'velvet divorce' contrasted sharply with the bloody breakup of Yugoslavia.",
-  "fbis": "The East Europe Daily Report of 31 December 1992 carried Prague CTK on a split in the Moravian autonomy movement and Klaus calling the Czech economy healthy. The dissolution itself is not reported on this page.",
+  "fbis": "The East Europe Daily Report of January 4, 1993, carried Prague CTK on Premier Strasky's midnight toast to the new Czech and Slovak Republics, and Dutch, Swiss and British moves to recognize them.",
   "pick": false,
-  "doubt": "no report of the split itself on this page",
   "window": 400,
   "start": 1
  }

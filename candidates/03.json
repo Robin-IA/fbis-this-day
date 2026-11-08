@@ -81,9 +81,8 @@
   "spycraft": false,
   "summary": "On 2 March 1992 the UN General Assembly admitted eight former Soviet republics, including Armenia, Azerbaijan, Kazakhstan and Moldova, as members.",
   "significance": "Admission confirmed the new states' international standing three months after the Soviet Union's dissolution.",
-  "fbis": "The Central Eurasia Daily Report of 2 March 1992 carried TASS on CIS chief of staff Samsonov's China visit and an IZVESTIYA commentary on Uzbekistan and Tajikistan joining the CSCE; the UN admissions are not mentioned in the excerpt.",
+  "fbis": "The East Europe Daily Report of March 3, 1992, carried Bucharest radio on Iliescu meeting Moldova's President Snegur at Otopeni airport on his way back from New York, where Moldova was accepted as a UN member.",
   "pick": false,
-  "doubt": "Page covers CSCE membership and CIS-China military ties, not the UN admissions.",
   "window": 400,
   "start": 1
  },
@@ -223,11 +222,12 @@
   "spycraft": true,
   "summary": "On 4 March 1987 President Reagan said in a televised address that what began as a strategic opening to Iran had deteriorated into trading arms for hostages.",
   "significance": "The speech responded to the Tower Commission's criticism of the covert Iran-Contra operations run from the National Security Council.",
-  "fbis": "The Eastern Europe Daily Report of 4 March 1987 carried an East European commentary arguing the Tower Commission report settled for half-measures, and noting that Reagan's response was expected in a speech next week; it predates the address.",
+  "fbis": "The Eastern Europe Daily Report of March 5, 1987, carried a Warsaw TRYBUNA LUDU commentary of March 2 on the Tower Commission report; it predates Reagan's March 4 address.",
   "pick": false,
   "doubt": "Page predates Reagan's televised address and covers the Tower report.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Tower report commentary, before the speech"
  },
  {
   "md": "03-05",
@@ -416,14 +416,14 @@
     "belgrade"
    ],
    [
+    "tanks",
+    "army",
+    "armored"
+   ],
+   [
     "demonstrat",
     "protest",
     "rally"
-   ],
-   [
-    "tank",
-    "army",
-    "police"
    ]
   ],
   "headline": "Tanks deployed against Belgrade protests",
@@ -431,10 +431,9 @@
   "spycraft": false,
   "summary": "On 9 March 1991 opposition demonstrators led by Vuk Draskovic clashed with police in Belgrade, and the Yugoslav army deployed tanks in the city.",
   "significance": "The protests were the strongest challenge to Slobodan Milosevic before the wars began that summer.",
-  "fbis": "The East Europe Daily Report of 11 March 1991 carried Belgrade and Tirana radio reports on the Albanian exodus: over 15,000 people sailing for Italy on hijacked ships and the army sealing roads to Durres and Shengjin; nothing in the excerpt concerns the Belgrade protests.",
+  "fbis": "The East Europe report of March 11, 1991, ran TANJUG's minute-by-minute account from Belgrade: water cannon, tear gas and batons in Republic Square, then police forced to withdraw at noon as demonstrators climbed an armored vehicle and raised a Serbian Renewal Movement flag.",
   "pick": true,
-  "doubt": "Page covers the Albanian boat exodus, not the Belgrade demonstrations.",
-  "window": 400,
+  "window": 300,
   "start": 1
  },
  {
@@ -621,9 +620,8 @@
   "spycraft": false,
   "summary": "On the night of 14-15 March 1978 Israeli forces invaded southern Lebanon in Operation Litani, days after a Fatah raid on the coastal road killed over thirty Israelis.",
   "significance": "The invasion led to the creation of the UN force UNIFIL. It was the prelude to the larger invasion of 1982.",
-  "fbis": "The Middle East & North Africa Daily Report of 14 March 1978 carried Baghdad INA quoting Arafat that Israel had massed armored, paratroop and airborne brigades for a large-scale attack on the joint forces in Lebanon, after Arab praise for the coastal road raid; it predates the invasion.",
+  "fbis": "The Middle East and North Africa Daily Report of March 15, 1978, listed under Lebanon a run of Voice of Lebanon reports on the Israeli attack on southern Lebanon, Prime Minister al-Huss's condemnation, and cabinet and aid measures.",
   "pick": true,
-  "doubt": "Page predates the invasion; it reports only Israeli troops massing.",
   "window": 400,
   "start": 1
  },
@@ -777,11 +775,12 @@
   "spycraft": false,
   "summary": "On 17 March 1991 Soviet citizens voted on preserving the USSR as a renewed federation; six republics boycotted the vote.",
   "significance": "A large majority voted yes, but the result could not stop the union's disintegration.",
-  "fbis": "The East Europe Daily Report of 18 March 1991 carried Prague radio on demonstrations across Czechoslovakia for the unity of the federation and an activist calling Slovak moves a communist \"coup\" attempt; nothing in the excerpt concerns the Soviet referendum.",
+  "fbis": "The Soviet Union Daily Report of March 18, 1991, carried Gorbachev's March 15 televised address urging a \"yes\" vote in the coming all-Union referendum; it does not report the vote itself.",
   "pick": false,
   "doubt": "Page covers Czechoslovak unity rallies, not the Soviet union referendum.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Run-up only; pre-vote appeal"
  },
  {
   "md": "03-17",
@@ -869,7 +868,7 @@
   "spycraft": false,
   "summary": "On 19 March 1982 Argentine scrap-metal workers landed at Leith on South Georgia and raised the Argentine flag.",
   "significance": "The incident escalated into the Argentine invasion of the Falklands two weeks later.",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of March 23, 1982, carried Buenos Aires TELAM on an Argentine Foreign Ministry communique about the navy transport Bahia Buen Suceso landing a contractor's personnel on South Georgia, who remained on the island.",
   "pick": false
  },
  {
@@ -951,11 +950,12 @@
   "spycraft": false,
   "summary": "On 21 March 1980 President Carter told US athletes that the United States would not send a team to the Moscow Olympics.",
   "significance": "The boycott, protesting the invasion of Afghanistan, was joined by dozens of countries.",
-  "fbis": "The Eastern Europe Daily Report of 21 March 1980 carried an East bloc commentary denouncing the \"Carter doctrine\" as hegemonism and listing \"attempts at a boycott of the Olympic games\" among imperialist attacks on detente; it does not report Carter's decision itself.",
+  "fbis": "The Eastern Europe Daily Report of March 25, 1980, carried East Berlin radio on Egon Krenz and Gerhard Schroeder rejecting the Olympic boycott demanded by Carter; nothing on Carter's March 21 announcement.",
   "pick": false,
   "doubt": "Only a passing reference to boycott attempts; Carter's confirmation of the boycott is not reported.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "General boycott opposition, not March 21"
  },
  {
   "md": "03-21",
@@ -1069,9 +1069,8 @@
   "spycraft": false,
   "summary": "On 23 March 1983 President Reagan proposed a program to develop defences that would make nuclear missiles obsolete.",
   "significance": "The 'Star Wars' initiative alarmed Moscow and became a central obstacle and bargaining chip in arms talks.",
-  "fbis": "The Soviet Union Daily Report of 23 March 1983 carried a PRAVDA dispatch from Washington, drawing on THE WASHINGTON POST and THE NATION, on Reagan's \"distortion\" of economic and military facts; it predates his missile-defense speech and does not mention it.",
+  "fbis": "The Eastern Europe Daily Report of March 25, 1983, carried East Berlin Voice of the GDR commentaries attacking Reagan's speech calling for space-based defensive weapons as a dangerous new arms-race dimension.",
   "pick": false,
-  "doubt": "Page predates the SDI speech; it is a general attack on Reagan's statements.",
   "window": 400,
   "start": 1
  },
@@ -1098,9 +1097,8 @@
   "spycraft": false,
   "summary": "On 23 March 1994 Luis Donaldo Colosio, presidential candidate of Mexico's ruling PRI, was shot dead at a rally in Tijuana.",
   "significance": "The killing, after the Chiapas uprising, deepened Mexico's political crisis in a year that ended in financial collapse.",
-  "fbis": "The Latin America Daily Report of 23 March 1994 carried Mexico City XEW television on Colosio, in Culiacan on 22 March, praising Camacho Solis as \"the best man\" for peace in Chiapas, and a list of the presidential candidates; it predates his assassination.",
+  "fbis": "The Latin America Daily Report of March 24, 1994, carried Mexico City Radio Acir on Colosio shot three times in Tijuana, President Salinas's message calling the attack \"odious,\" and Camacho Solis's comments.",
   "pick": false,
-  "doubt": "Page predates the assassination; Colosio appears campaigning.",
   "window": 400,
   "start": 1
  },
@@ -1126,9 +1124,8 @@
   "spycraft": false,
   "summary": "On 24 March 1980 Archbishop Oscar Romero of San Salvador was shot dead while celebrating Mass, a day after appealing to soldiers to stop killing.",
   "significance": "The killing, by a death squad linked to Roberto D'Aubuisson, marked El Salvador's descent into full civil war.",
-  "fbis": "The Latin America Daily Report of 24 March 1980 carried Panama City ACAN-EFE reports of violence in San Salvador, including a police raid on the Central American University that Archbishop Romero denounced; it predates his assassination.",
+  "fbis": "The Latin America Daily Report of March 25, 1980, listed under El Salvador Archbishop Romero assassinated in church, eyewitness reports, Majano condemning the murder, national mourning, and his last Sunday sermon.",
   "pick": true,
-  "doubt": "Page predates the assassination; Romero appears only denouncing a raid.",
   "window": 400,
   "start": 1
  },
@@ -1160,8 +1157,9 @@
   "spycraft": false,
   "summary": "On 25 March 1994 the last US combat troops left Somalia.",
   "significance": "The withdrawal followed the deadly Mogadishu battle of October 1993 and made Washington wary of later interventions.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East and South Asia Daily Report of March 29, 1994, carried Riyadh SPA on the Islamic Conference welcoming a Somali peace agreement signed in Nairobi; nothing on the U.S. withdrawal.",
+  "pick": false,
+  "excluded": "Somali peace pact, not US departure"
  },
  {
   "md": "03-26",
@@ -1266,7 +1264,7 @@
   "spycraft": false,
   "summary": "On 28 March 1979 a reactor at the Three Mile Island plant near Harrisburg, Pennsylvania, suffered a partial meltdown.",
   "significance": "It was the worst accident in US commercial nuclear history and stalled American nuclear construction.",
-  "fbis": "",
+  "fbis": "The Soviet Union tables of contents for April 1979 listed, in the April 5 issue, further reportage on the Harrisburg nuclear accident: PRAVDA on Carter's reaction and comments by a deputy power minister.",
   "pick": false
  },
  {
@@ -1386,9 +1384,8 @@
   "spycraft": false,
   "summary": "On 30 March 1981 President Reagan was shot and wounded outside the Washington Hilton by John Hinckley Jr.",
   "significance": "Reagan recovered quickly, and his popularity rose.",
-  "fbis": "The Latin America Daily Report of 30 March 1981 carried Colombian reports on protests over the break with Cuba, opposition charges of military pressure on President Turbay, and the death of an M-19 leader; nothing in the excerpt concerns the shooting of President Reagan.",
+  "fbis": "The Eastern Europe Daily Report of March 31, 1981, listed under Czechoslovakia a CTK report on the Reagan assassination attempt.",
   "pick": true,
-  "doubt": "Coincidental match: Reagan is named only in a Colombian opposition remark about U.S. policy.",
   "window": 400,
   "start": 1
  },
@@ -1445,11 +1442,12 @@
   "spycraft": false,
   "summary": "On 31 March 1991 the Warsaw Pact's military structures were formally dissolved, following a decision of its members in February.",
   "significance": "The alliance itself was dissolved on 1 July 1991, leaving NATO as Europe's only military bloc.",
-  "fbis": "The East Europe Daily Report of 1 April 1991 carried a speech by Albania's Ramiz Alia praising the Party of Labor, including its denunciation of the Warsaw Treaty in 1968; nothing in the excerpt concerns the 1991 dissolution of the Pact's military structures.",
+  "fbis": "The East Europe Daily Report of April 1, 1991, carried Ramiz Alia's speech praising the Albanian Party of Labor, including Albania's 1968 denunciation of the Warsaw Treaty; nothing on the pact's dissolution.",
   "pick": false,
   "doubt": "Only a historical mention of Albania leaving the Warsaw Pact in 1968.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Albanian party history, unrelated"
  },
  {
   "md": "03-31",
@@ -1509,7 +1507,7 @@
   "spycraft": false,
   "summary": "On the evening of 3 March 1985 a major earthquake struck central Chile, centred off the coast near Valparaíso and San Antonio, killing well over a hundred people and damaging Santiago and the port cities.",
   "significance": "The earthquake struck a country under Pinochet's military government, which used emergency powers in its aftermath; it was among the strongest to hit central Chile in the twentieth century.",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of March 5, 1985, listed under Chile another strong earthquake shaking Santiago, the death count rising to 124, and an indefinite strict curfew in Santiago.",
   "pick": true
  },
  {
@@ -1538,7 +1536,7 @@
   "spycraft": false,
   "summary": "On 24 and 25 March 1986 U.S. Navy aircraft, operating south of Qadhdhafi's 'line of death' across the Gulf of Sidra, struck a Libyan missile site and sank or disabled several Libyan patrol boats after Libya fired missiles at them.",
   "significance": "The clashes were the first armed round of the 1986 confrontation between the Reagan administration and Qadhdhafi. Within weeks came the Berlin discothèque bombing and the U.S. air raids on Tripoli and Benghazi.",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of March 25, 1986, carried Belgrade TANJUG in English from Tripoli on high tension after the March 24 Gulf of Sidra clash, with Libya claiming three U.S. planes downed.",
   "pick": true
  },
  {
@@ -1564,8 +1562,9 @@
   "spycraft": true,
   "summary": "On 25 March 1988 thousands of Catholic believers gathered in Bratislava's Hviezdoslav Square with lit candles to demand religious freedom; police dispersed them with water cannon. The State Security service had tracked the organizers in advance.",
   "significance": "The Candle Demonstration was the largest protest in Czechoslovakia since 1969 and is often counted as a forerunner of the Velvet Revolution twenty months later.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of March 25, 1988, carried Bratislava VECERNIK of March 23 quoting church officials dissociating themselves from a planned \"silent demonstration\" with candles; it does not report the event.",
+  "pick": false,
+  "excluded": "Run-up only; pre-demonstration warning"
  },
  {
   "md": "03-29",
@@ -1589,7 +1588,65 @@
   "spycraft": false,
   "summary": "On 29 March 1982, the day after El Salvador's Constituent Assembly election, early returns put President Duarte's Christian Democrats ahead, while Roberto D'Aubuisson of the right-wing ARENA party claimed victory and called for a coalition of the right.",
   "significance": "Washington had backed the election as proof of a democratic path amid civil war. The right-wing parties together won a majority and made D'Aubuisson, linked to the death squads, president of the assembly, an outcome that complicated U.S. support for the government.",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of March 29, 1982, listed under El Salvador a long election run: early victory claims, D'Aubuisson urging a coalition, the PDC's early lead, returns, guerrilla attacks and turnout.",
+  "pick": true
+ },
+ {
+  "md": "03-06",
+  "date": "1983-03-06",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "kohl",
+    "cdu"
+   ],
+   [
+    "election",
+    "bundestag"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "Kohl's Christian Democrats win the West German election",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "In the West German federal election of March 6, 1983, Chancellor Helmut Kohl's CDU/CSU won a decisive victory, and the Greens entered the Bundestag for the first time.",
+  "significance": "The result was read as a mandate for stationing U.S. Pershing II and cruise missiles in West Germany that autumn, which Moscow and the peace movement had campaigned to stop. Eastern European media had backed the Social Democrats' more skeptical line.",
+  "fbis": "The East Europe report of March 7, 1983, listed the election only in its contents: a Czechoslovak item on the significance of the CDU/CSU victory and an East German one headed 'Major Victory' for CDU/CSU in FRG Elections.",
+  "pick": true
+ },
+ {
+  "md": "03-22",
+  "date": "1990-03-22",
+  "regions": [
+   "NES",
+   "EEU",
+   "LAT",
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "bull"
+   ],
+   [
+    "canadian",
+    "artillery",
+    "assassinat",
+    "murder",
+    "scientist"
+   ]
+  ],
+  "window": 300,
+  "start": 1,
+  "headline": "Polish television reports an NKVD execution site for Polish prisoners of war",
+  "category": "espionage",
+  "spycraft": true,
+  "summary": "On March 22, 1990, Polish television's main news reported the discovery of an execution site in the Turza woods in Poland where, it said, the NKVD, the Soviet secret police, had shot Polish prisoners in August to October 1944, after the Soviet Army entered the area.",
+  "significance": "For half a century Moscow had blamed the Nazis for the murder of thousands of Polish officers at Katyn in 1940. Reports like this one, possible only after Poland's 1989 change of government, came weeks before the Soviet Union admitted, on April 13, 1990, that the NKVD had carried out the Katyn killings.",
+  "fbis": "The East Europe report of March 23, 1990, carried Warsaw PAP in English under the FBIS heading 'Another NKVD Crime' Uncovered: Polish TV had reported an execution site in the Turza woods, used by the NKVD from August to October 1944 and known locally as a 'Small Katyn.'",
   "pick": true
  }
 ]

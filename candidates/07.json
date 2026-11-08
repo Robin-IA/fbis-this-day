@@ -292,7 +292,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The South Asia Daily Report of July 9, 1984, noted in its Israel roundup that a Foreign Ministry spokesman denied official involvement after two Israelis were arrested in Britain over the attempt to kidnap Umaru Dikko.",
   "pick": false
  },
  {
@@ -1690,9 +1690,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Middle East review in the Daily Report of 31 July 1987 carried Tehran radio on Iran's hajj supervisor inviting pilgrims in Mecca to a \"disavowal\" march against the United States and USSR; the clashes and deaths themselves are not reported on this page.",
+  "fbis": "The Near East & South Asia contents for August 1987 listed, under Saudi Arabia, an Iranian pilgrim cited on \"subversive\" instructions and Iranians interrogated, and under Iraq, the president phoning the Saudi king to denounce the Mecca riot.",
   "pick": false,
-  "doubt": "Page shows the run-up to the Mecca march, not the clashes or deaths",
   "window": 400,
   "start": 1
  },

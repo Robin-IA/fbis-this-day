@@ -130,11 +130,12 @@
   "spycraft": false,
   "summary": "On 2 January 1992 the Russian government lifted state controls on most consumer prices, the opening move of Yegor Gaidar's economic reform.",
   "significance": "Prices multiplied within weeks, wiping out savings and making the reform programme politically explosive. It set the terms of Russia's turbulent transition to a market economy.",
-  "fbis": "The Soviet Union Daily Report of 2 January 1992 carried an item on the Gorbachev Foundation, noting it had forecast the situation after price liberalization and did not rule out \"a vast social eruption\", next to a Shevardnadze interview on the threat of a new putsch.",
-  "pick": true,
+  "fbis": "The Soviet Union Daily Report of January 3, 1992, listed under Turkmenia items including salary and wage ceilings lifted and the republic parliament to free prices on January 6, from INTERFAX; nothing on the Russian price liberalization.",
+  "pick": false,
   "doubt": "Page only mentions a forecast about price liberalization; it does not report the 2 January price release itself.",
   "window": 400,
   "start": 1,
+  "excluded": "Turkmenia price items, not Russia",
   "evidence": {
    "identifier": "micro_IA1176915_0900",
    "issue_date": "1992-01-03",
@@ -166,9 +167,8 @@
   "spycraft": true,
   "summary": "On 3 January 1990 Panamanian strongman Manuel Noriega, who had taken refuge in the Vatican nunciature after the US invasion, surrendered to American troops and was flown to Miami to face drug charges.",
   "significance": "Noriega had for years been a paid US intelligence asset before becoming an indictment target. His capture ended Operation Just Cause and raised enduring questions about Washington's dealings with him.",
-  "fbis": "The Latin America Daily Report of 3 January 1990 carried Bridgetown CANA reports from late December: Trinidad and Tobago's Prime Minister Robinson proposed an international tribunal of jurists to try Noriega, then sheltering in the Vatican embassy, rather than a U.S. court.",
+  "fbis": "The Latin America Daily Report of January 4, 1990, carried Havana Radio Reloj reporting that deposed General Noriega had turned himself over to U.S. forces surrounding the Vatican Embassy and would be tried in Miami on drug charges, as announced by President Bush.",
   "pick": false,
-  "doubt": "Page predates the surrender: Noriega is still in the Vatican nunciature; no report of him giving himself up to US forces.",
   "window": 400,
   "start": 1,
   "evidence": {
@@ -346,9 +346,8 @@
   "spycraft": false,
   "summary": "On 6 January 1992 Georgia's President Zviad Gamsakhurdia fled Tbilisi after two weeks of fighting with armed opposition forces besieging his government building.",
   "significance": "His ouster opened the way for Eduard Shevardnadze's return and years of civil conflict in Georgia. It was one of the first violent changes of power in the post-Soviet states.",
-  "fbis": "The Central Eurasia Daily Report of 6 January 1992 carried Moscow radio and television items from 3-4 January: Yeltsin's office denied Gamsakhurdia's charge that Russia backed the Georgian opposition, and Georgia's foreign minister, out of the besieged government house, arrived in Moscow for talks.",
+  "fbis": "The Central Eurasia Daily Report of January 7, 1992, carried AFP reports that Gamsakhurdia, who fled early on January 6, was in Armenia, with opposition calls for his trial, gunfire on a pro-Gamsakhurdia demonstration, and INTERFAX on a delegation demanding his extradition.",
   "pick": true,
-  "doubt": "Page covers the siege days earlier; it does not report Gamsakhurdia fleeing Tbilisi.",
   "window": 400,
   "start": 1,
   "evidence": {
@@ -386,8 +385,9 @@
   "spycraft": true,
   "summary": "On 6 January 1995 a chemical fire in a Manila apartment led police to bomb-making materials and a laptop belonging to Ramzi Yousef's cell, exposing plans to kill the Pope and bomb US airliners over the Pacific.",
   "significance": "The discovery foiled what became known as the Bojinka plot and led to Yousef's arrest a month later. Elements of the plan prefigured the September 11 attacks.",
-  "fbis": "",
+  "fbis": "The East Asia Daily Report of January 10, 1995, carried Philippine reports on Abu Sayyaf acquiring \"high-tech weaponry\" and beheading Christians in Basilan; nothing on the Manila apartment fire or the bomb plot.",
   "pick": false,
+  "excluded": "Abu Sayyaf arms story, not the Bojinka fire",
   "evidence": {
    "identifier": "micro_IA1176901_1365",
    "issue_date": "1995-01-10",
@@ -561,8 +561,9 @@
   "spycraft": false,
   "summary": "On 9 January 1992 Bosnian Serb leaders proclaimed a Serb republic within Bosnia-Hercegovina.",
   "significance": "The proclamation prefigured the partition of Bosnia and the war that began three months later.",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of January 13, 1992, carried TANJUG on Yugoslav Presidency Vice President Kostic's view of EC recognition, Bosnia staying in Yugoslavia, and the Vance plan for Krajina; it does not report a Bosnian Serb proclamation.",
   "pick": false,
+  "excluded": "Kostic on EC recognition, not the proclamation",
   "evidence": {
    "identifier": "micro_IA1176904_0506",
    "issue_date": "1992-01-13",
@@ -677,20 +678,22 @@
   "date": "1991-01-12",
   "regions": [
    "NES",
-   "SOV",
-   "EEU"
+   "EEU",
+   "LAT",
+   "EAS",
+   "SOV"
   ],
   "keywords": [
    [
     "congress"
    ],
    [
-    "force"
+    "authoriz",
+    "resolution"
    ],
    [
-    "resolution",
-    "authoriz",
-    "vote"
+    "force",
+    "war"
    ]
   ],
   "headline": "Congress authorizes war against Iraq",
@@ -698,18 +701,17 @@
   "spycraft": false,
   "summary": "On 12 January 1991 the US Congress voted to authorize the use of force to expel Iraq from Kuwait.",
   "significance": "The votes gave President Bush domestic backing for war three days before the UN deadline.",
-  "fbis": "The East Europe Daily Report of 14 January 1991 carried Prague radio reports on Czechoslovak reaction to the Soviet military action in Lithuania: Foreign Ministry concern, a Civic Forum solidarity resolution, and an emergency government session. Nothing on the page concerns the U.S. Congress vote on Iraq.",
+  "fbis": "The East Asia report of January 14, 1991, carried Pyongyang Domestic Service's account of the vote: the U.S. Congress had given Bush 'the supreme power to wage war' if Iraq did not leave Kuwait by January 15, proof, it said, that the 'U.S. imperialists' had no wish for a peaceful settlement.",
   "pick": true,
-  "doubt": "Page is about the Soviet crackdown in Lithuania, not the Congressional war vote.",
-  "window": 400,
+  "window": 300,
   "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176904_0261",
+   "identifier": "micro_IA1176901_0310",
    "issue_date": "1991-01-14",
-   "region": "EEU",
-   "title": "FBIS Daily Report: East Europe, No. 009, 14 January 1991",
-   "page": 26,
-   "snippet": "…military intervention against Lithuania. It recommended to the foreign ministers of Czechoslo- vakia, Poland and Hungary to quickly assess jointly the developments in the Baltic republics. In a resolution passed at its congress the movement said it would seek intensive cooperation with the popular fronts in the Baltic republics and other foreign partners and agree with them on efficient joint steps to support the democratic forces in the Balti…"
+   "region": "EAS",
+   "title": "FBIS Daily Report East Asia 1991-01-14: Vol 91 Iss 009",
+   "page": 15,
+   "snippet": "…Jan(MONTSAME)—R._ Gonchig- dorj, vice president of the MPR [Mongolian People’s Republic] and chairman of State Small Hural, today received Chong Yun-ho, DPRK ambassador to MPR, at the latter's request. North Korea U.S. Congressional Vote on Use of Force Noted SK 1301140391 Pyongyang Domestic Service in Korean 1300 GMT 13 Jan 91 [Text] According to a report, today the U.S. Congress passed a resolution to use force against Iraq if it does not wi…"
   }
  },
  {
@@ -735,9 +737,8 @@
   "spycraft": false,
   "summary": "On 13 January 1986 a shoot-out at a Politburo meeting in Aden began a short, bloody civil war within South Yemen's ruling Marxist party.",
   "significance": "Thousands were killed in less than two weeks, and Soviet citizens had to be evacuated. The conflict weakened Moscow's only Marxist client state in the Arab world.",
-  "fbis": "The National Affairs supplement of 13 January 1986 carried a Soviet broadcast question-and-answer session on fish processing and the reorganization of the agro-industrial complex; nothing on the page concerns South Yemen.",
+  "fbis": "The Middle East and South Asia review of January 14, 1986, led with the PDRY coup attempt: fighting in Aden's port and around embassies, the airport closed, and Amman radio reporting Presidium Chairman Ali Nasir Muhammad killed.",
   "pick": false,
-  "doubt": "Coincidental match: page is a Soviet agriculture interview, not the Aden fighting.",
   "window": 400,
   "start": 1,
   "evidence": {
@@ -811,9 +812,8 @@
   "spycraft": false,
   "summary": "On 14 January 1994 Presidents Clinton, Yeltsin and Kravchuk signed a trilateral statement in Moscow under which Ukraine would give up the nuclear weapons left on its soil by the USSR.",
   "significance": "The agreement settled one of the gravest proliferation risks of the Soviet collapse. Ukraine's security assurances were formalized later in the Budapest Memorandum.",
-  "fbis": "The Central Eurasia Daily Report of 14 January 1994 carried a KOMMERSANT-DAILY report that disputes over nuclear arms on Ukrainian soil had pushed the Black Sea Fleet problem aside, then an ITAR-TASS press review opening on Clinton's official visit to Moscow; the excerpt stops before any account of the trilateral statement.",
+  "fbis": "The Central Eurasia Daily Report of January 18, 1994, carried Moscow ITAR-TASS in English reviewing evening TV news of January 14, which called the tripartite Russian-U.S.-Ukrainian agreement on eliminating Ukraine's nuclear arms \"historic.\"",
   "pick": true,
-  "doubt": "Page shows only background (nuclear dispute, Clinton's visit); the trilateral agreement itself is not visible.",
   "window": 400,
   "start": 1,
   "evidence": {
@@ -852,11 +852,12 @@
   "spycraft": true,
   "summary": "On 15 January 1990 demonstrators broke into the East German Ministry for State Security headquarters on Normannenstrasse in East Berlin.",
   "significance": "The storming came amid fears that the Stasi was destroying its files. The archive that survived later let millions of East Germans read what had been gathered on them.",
-  "fbis": "The East Europe Daily Report of 16 January 1990 carried Sofia BTA reports on Bulgaria's National Assembly rehabilitating the Nikola Petkov Agrarian Party, including a call to investigate a death at Bulgarian State Security headquarters; nothing on the page concerns the Stasi building in East Berlin.",
+  "fbis": "The East Europe Daily Report of January 16, 1990, carried Sofia BTA on Bulgaria's National Assembly debating rehabilitation of the Nikola Petkov Agrarian Party; nothing on East Berlin.",
   "pick": false,
   "doubt": "Coincidental match: page is about Bulgaria's State Security, not the storming of the Stasi headquarters.",
   "window": 400,
   "start": 1,
+  "excluded": "Bulgarian parliament, not the Stasi storming",
   "evidence": {
    "identifier": "micro_IA1176904_0010",
    "issue_date": "1990-01-16",
@@ -1065,9 +1066,8 @@
   "spycraft": false,
   "summary": "Early on 18 January 1991 Iraq fired Scud missiles at Tel Aviv and Haifa.",
   "significance": "Saddam Hussein aimed to draw Israel into the war and split the Arab members of the coalition. Washington pressed Israel not to retaliate and rushed Patriot batteries to it.",
-  "fbis": "The Near East & South Asia Daily Report of 18 January 1991 carried a report on mourning in Jordan's al-Baq'ah refugee camp for Abu-Iyad and other Palestinian leaders assassinated in Tunis, which residents blamed on Israel; the excerpt does not mention Iraqi missiles striking Israel.",
+  "fbis": "The East Europe Daily Report of January 22, 1991, carried Belgrade TANJUG on Foreign Secretary Loncar's Gulf diplomacy, noting that Yugoslavia regretted the Iraqi missile attack on Israel and urged Israel not to retaliate.",
   "pick": true,
-  "doubt": "Page covers the Abu-Iyad assassination, not the Scud strikes on Israel.",
   "window": 400,
   "start": 1,
   "evidence": {
@@ -1178,11 +1178,12 @@
   "spycraft": false,
   "summary": "On 20 January 1987 Terry Waite, the Archbishop of Canterbury's envoy who had been negotiating for the release of Western hostages, was seized in Beirut.",
   "significance": "Waite had unknowingly been entangled in the arms-for-hostages dealings exposed weeks earlier as the Iran-Contra affair. He was held for nearly five years.",
-  "fbis": "The South Asia Daily Report of 20 January 1987 carried Voice of Lebanon's report that observers expected two U.S. hostages to be freed after \"progress\" by Anglican envoy Terry Waite, whose departure was delayed by street fighting in West Beirut; it predates any report of his disappearance.",
+  "fbis": "The South Asia Daily Report (Middle East and South Asia review) of January 21, 1987, reported via Voice of Lebanon that Terry Waite had postponed his departure from Beirut after further talks with the kidnappers; it predates his disappearance.",
   "pick": false,
   "doubt": "Page shows Waite still negotiating; it does not report his seizure.",
   "window": 400,
   "start": 1,
+  "excluded": "Run-up only; Waite still negotiating",
   "evidence": {
    "identifier": "micro_IA1176912_1052",
    "issue_date": "1987-01-21",
@@ -1388,11 +1389,12 @@
   "spycraft": true,
   "summary": "On 25 January 1993 a gunman opened fire on cars waiting to enter CIA headquarters in Langley, Virginia, killing two agency employees.",
   "significance": "The killer, Mir Aimal Kasi, fled to Pakistan and was captured there in 1997. The attack was an early sign of anti-American terrorism linked to the Afghan war's aftermath.",
-  "fbis": "The Near East & South Asia Daily Report of 25 January 1993 shows a contents page of Israel, Jordan, Lebanon and Syria items, chiefly on the Palestinian deportees; nothing on it concerns the shooting at CIA headquarters.",
+  "fbis": "The Near East and South Asia Daily Report of January 26, 1993, carried Iraqi clandestine radio claims of attacks on Iraqi security forces in Basra and Kirkuk; nothing on the CIA shooting.",
   "pick": false,
   "doubt": "Coincidental match: Middle East contents page with no mention of the Langley shooting.",
   "window": 400,
   "start": 1,
+  "excluded": "Iraqi clandestine radio, unrelated",
   "evidence": {
    "identifier": "micro_IA1176910_1146",
    "issue_date": "1993-01-26",
@@ -1494,8 +1496,9 @@
   "spycraft": false,
   "summary": "On 27 January 1981 the 52 Americans released by Iran arrived in Washington and were welcomed by President Reagan at the White House.",
   "significance": "Reagan used the occasion to warn that future acts of terrorism against Americans would meet swift and effective retribution.",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of January 27, 1981, carried a Warsaw GLOS PRACY commentary of January 22 on Reagan's inauguration that noted the hostages' release; it does not report their Washington welcome.",
   "pick": false,
+  "excluded": "Inauguration commentary, not the homecoming",
   "evidence": {
    "identifier": "micro_IA1176902_0724",
    "issue_date": "1981-01-27",
@@ -1568,9 +1571,8 @@
   "spycraft": false,
   "summary": "On 28 January 1986 the space shuttle Challenger broke apart 73 seconds after launch, killing all seven crew.",
   "significance": "The disaster grounded the shuttle fleet for nearly three years and delayed US military and reconnaissance satellite launches.",
-  "fbis": "The Soviet Union Daily Report of 28 January 1986 listed under United States & Canada \"Space Shuttle Challenger Launch Delayed\", alongside items on U.S.-Libyan tensions and Savimbi's U.S. visit; the issue predates the explosion.",
+  "fbis": "The Eastern Europe Daily Report of January 29, 1986, listed a late report of Polish reaction to the shuttle disaster, with AFP on the Pentagon's \"weaknesses\" and Urban's sympathies, and under Romania, Ceausescu's condolences on the Challenger explosion.",
   "pick": false,
-  "doubt": "Page reports only the launch delay, before the disaster.",
   "window": 400,
   "start": 1,
   "evidence": {
@@ -1755,9 +1757,8 @@
   "spycraft": false,
   "summary": "On 31 January 1980 Guatemalan police stormed the Spanish Embassy, which had been occupied by peasant protesters; a fire killed 37 people, and Spain broke relations.",
   "significance": "The massacre became a defining atrocity of Guatemala's civil war; the only peasant survivor was later abducted from hospital and killed.",
-  "fbis": "The Latin America contents for February 1980 show Spanish Embassy items only under El Salvador, where the LP-28 occupation of the Spanish embassy in San Salvador continued; the Guatemala heading lists other items and nothing on the Guatemala City fire.",
+  "fbis": "The Latin America tables of contents for February 1980 listed under Guatemala the minister approving an OAS resolution on the Spanish Embassy incident and claims that the peasants were massacred to benefit U.S. firms.",
   "pick": true,
-  "doubt": "Different event: the Spanish embassy crisis listed is in San Salvador, not the Guatemala City fire.",
   "window": 400,
   "start": 1,
   "evidence": {
@@ -1826,7 +1827,7 @@
   "spycraft": false,
   "summary": "On 27 January 1987 Mikhail Gorbachev opened a plenum of the Soviet Communist Party's Central Committee on cadre policy with a call for 'democratization': secret ballots and a choice of candidates in party and local elections.",
   "significance": "The January plenum turned perestroika from economic repair into political reform. It began the opening of the Soviet system that led, within three years, to contested elections, to the end of the party's monopoly and to the loss of Moscow's hold on Eastern Europe.",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of January 28, 1987, carried Belgrade TANJUG in English on Gorbachev's plenum address: restructuring linked to socialist democracy, elections of enterprise managers, and a choice of candidates for one post.",
   "pick": true,
   "evidence": {
    "identifier": "micro_IA1176903_0767",
@@ -1861,7 +1862,7 @@
   "spycraft": false,
   "summary": "On 27 January 1995 survivors and heads of state gathered at Auschwitz-Birkenau to mark the fiftieth anniversary of the camp's liberation by the Red Army, with Polish President Lech Walesa as host.",
   "significance": "The commemoration was the first at Auschwitz held in a free Poland with the leaders of Germany and Israel present, and the planning was marked by disputes over how far the ceremony would name the Jewish victims who were the great majority of those murdered there.",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of January 27, 1995, carried Warsaw TV Polonia's live broadcasts of President Walesa's two speeches at the Auschwitz-Birkenau ceremony for the 50th anniversary of the camp's liberation.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176904_1216",
@@ -1870,6 +1871,45 @@
    "title": "FBIS Daily Report: East Europe, No. 018, 27 January 1995",
    "page": 19,
    "snippet": "M4 POLAND Walesa Addresses Auschwitz Commemoration Ceremony LD2701110495 Warsaw TV Polonia Network in Polish 0927 GMT 27 Jan 95 [Speech by Polish President Lech Walesa to a commem- oration ceremony at the Auschwitz-Birkenau concentra- tion camp—live] [FBIS…"
+  }
+ },
+ {
+  "md": "01-02",
+  "date": "1993-01-02",
+  "regions": [
+   "EEU",
+   "NES",
+   "LAT",
+   "EAS"
+  ],
+  "keywords": [
+   [
+    "owen"
+   ],
+   [
+    "vance"
+   ],
+   [
+    "geneva",
+    "plan",
+    "map"
+   ]
+  ],
+  "window": 400,
+  "headline": "Vance and Owen put their peace plan for Bosnia on the table",
+  "category": "diplomacy",
+  "spycraft": false,
+  "summary": "On January 2, 1993, at talks in Geneva, the cochairmen of the international conference on the former Yugoslavia, Cyrus Vance for the UN and Lord Owen for the European Community, presented the leaders of Bosnia's three warring sides with a plan dividing the republic into ten largely autonomous provinces.",
+  "significance": "The Vance-Owen plan was the main international attempt to end the Bosnian war in 1993. The new Clinton administration was cool toward it, the Bosnian Serb assembly rejected it in May, and the war went on until Dayton in 1995.",
+  "fbis": "The East Europe report of January 4, 1993, carried TANJUG from Geneva: the three Bosnian leaders were shown two maps, the one Vance and Owen had presented the day before and a rival from Izetbegovic, and the Croat leader Mate Boban objected from the start.",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176904_0690",
+   "issue_date": "1993-01-04",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 001, 04 January 1993",
+   "page": 6,
+   "snippet": "…ina. At today’s second session of the political group, the participants were presented with two maps—yesterday’s one proposed by the cochairmen of the Geneva confer- ence on former Yugoslavia, Cyrus Vance and Lord David Owen, and a map proposed by Alija Izetbegovic. Sparks flared in the very beginning of the talks. The leader of the Bosnian Croats, Mate Boban, objected to the name of Izetbegovic’s proposal. The Muslim leader presented his m…"
   }
  }
 ]

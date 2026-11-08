@@ -231,11 +231,12 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Near East & South Asia Daily Report of 8 August 1990 carried Riyadh SPA's account of the Gulf Cooperation Council's 7 August Jeddah session condemning Iraq's occupation of Kuwait and demanding immediate withdrawal; the merger announcement itself is not on the page.",
+  "fbis": "The Near East & South Asia Daily Report of August 9, 1990, carried an interview with an Algerian minister who, asked about an expected Saddam Husayn statement, said people were talking of an Iraq-Kuwait merger but to wait and see.",
   "pick": false,
   "doubt": "Page carries GCC condemnation of the occupation; the merger announcement is not reported",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Speculation before the announcement"
  },
  {
   "md": "08-08",
@@ -427,9 +428,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Middle East review in the Daily Report of 12 August 1982 led with Israeli radio on Begin's talks with Habib over the PLO evacuation plan and Sharon on French troops; it does not report the day's bombardment of West Beirut.",
+  "fbis": "The Middle East & Africa Daily Report of August 13, 1982, reported Israeli forces attacked west and southern Beirut for almost 11 hours before the August 12 cease-fire, and Washington's \"furious reaction\" to the bombing.",
   "pick": false,
-  "doubt": "Page covers evacuation negotiations; the bombardment is not reported",
   "window": 400,
   "start": 1
  },
@@ -554,12 +554,11 @@
     "hotel"
    ],
    [
+    "westerners",
+    "foreigners",
+    "americans",
     "british",
-    "briton",
-    "american"
-   ],
-   [
-    "kuwait"
+    "nationals"
    ]
   ],
   "headline": "Iraq orders Westerners in Kuwait to gather at hotels",
@@ -567,9 +566,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Near East & South Asia Daily Report of 17 August 1990 carried items on occupied Kuwait: an INA curfew order for Kuwait City, claims of resistance captures, and an Israel Radio interview with a Kuwaiti royal describing Iraqi looting; the order gathering Westerners at hotels is not on the page.",
-  "pick": true,
-  "doubt": "Page covers occupied Kuwait generally; the hotel order for Westerners is not reported",
+  "fbis": "The Near East & South Asia report of August 20, 1990, listed the order in its Iraq contents, attributed to Baghdad Radio: 'Foreigners Instructed To Assemble in Hotels,' alongside Saddam's conditions for releasing foreigners and the end of diplomatic immunity in Kuwait.",
+  "pick": false,
   "window": 400,
   "start": 1
  },
@@ -581,14 +579,14 @@
   ],
   "keywords": [
    [
-    "husayn",
-    "hussein"
+    "hotel"
    ],
    [
-    "kennebunkport"
-   ],
-   [
-    "bush"
+    "westerners",
+    "foreigners",
+    "americans",
+    "british",
+    "nationals"
    ]
   ],
   "headline": "King Husayn meets Bush at Kennebunkport",
@@ -597,7 +595,10 @@
   "summary": "",
   "significance": "",
   "fbis": "",
-  "pick": false
+  "pick": false,
+  "window": 400,
+  "start": 1,
+  "excluded": "evidence page does not show the meeting"
  },
  {
   "md": "08-17",
@@ -749,9 +750,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 20 August 1991 carried a TASS roundup of regional reaction to the emergency, including Tallinn radio on Estonia's Emergency Defense Council pledging peaceful restoration of independence; the independence declaration itself is not on this page.",
+  "fbis": "The Soviet Union Daily Report of August 21, 1991, carried Tallinn Radio: Estonia's Supreme Council adopted a decision on state independence 69-0, followed by Moscow INTERFAX in English with details of the ruling.",
   "pick": false,
-  "doubt": "Page shows an Estonian council statement; the declaration of independence is not reported here",
   "window": 400,
   "start": 1
  },
@@ -806,9 +806,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 21 August 1991 carried the emergency committee still issuing orders on 20 August: cancelling a Russian MVD order to move armed formations into Moscow, and Decision No. 4 restricting broadcasting; the collapse is not yet reported.",
+  "fbis": "The Soviet Union Daily Report of August 22, 1991, carried the coup's collapse: Soviet radio on the arrests of Yanayev, Yazov, Kryuchkov and others, and Moscow TASS in English on Interior Minister Pugo's suicide.",
   "pick": true,
-  "doubt": "Page shows the committee still in control on 20 August, not its collapse",
   "window": 400,
   "start": 1
  },
@@ -831,9 +830,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 21 August 1991 carried Tallinn radio and INTERFAX on Estonia's Supreme Council proclaiming state independence by 69 votes, and Baltic leaders preparing governments in exile with Latvia's Dainis Ivans named; Latvia's own declaration is not on the page.",
+  "fbis": "The Soviet Union Daily Report of August 22, 1991, carried Moscow TASS in English: on Wednesday the Latvian parliament passed a constitutional law declaring Latvia an independent democratic republic and ending the transitional period.",
   "pick": false,
-  "doubt": "Page reports Estonia's declaration, not Latvia's",
   "window": 400,
   "start": 1
  },
@@ -959,9 +957,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 26 August 1991 carried Moscow TASS on Lukyanov defending his conduct in the coup, deputies nominating Yakovlev and Shevardnadze to top posts, and a constitutional official calling the CPSU leadership \"the plot's main figure\"; Gorbachev's resignation is not on this page.",
+  "fbis": "The Soviet Union Daily Report of August 26, 1991, carried an item headed \"Gorbachev Resigns as CPSU General Secretary\" from Moscow Central Television's Vremya newscast of August 24; the excerpt ends at the headline.",
   "pick": false,
-  "doubt": "Page covers Lukyanov and nominations; Gorbachev's resignation is not reported here",
   "window": 400,
   "start": 1
  },
@@ -1181,9 +1178,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Soviet Union Daily Report of 29 August 1991 carried Moscow TASS in English on the Supreme Soviet's special session: the Russian Communist leader denying any coup role, Lukyanov insisting he was no plotter, and tension with Ukraine over Russian border claims; the suspension vote itself is not on this page.",
+  "fbis": "The Soviet Union Daily Report of August 30, 1991, carried the Supreme Soviet session and Moscow TASS in English: the parliament decided to suspend CPSU activity across the Soviet Union over its leaders' role in the coup.",
   "pick": true,
-  "doubt": "Page covers the special session's debate; the suspension vote is not reported",
   "window": 400,
   "start": 1
  },
@@ -1317,5 +1313,30 @@
   "significance": "",
   "fbis": "The Central Eurasia Daily Report of 31 August 1994 carried an ITAR-TASS press review on the farewell ceremony for the last Russian troops leaving Germany, quoting Yeltsin that \"an epoch of enmity\" was ending, and KRASNAYA ZVEZDA on 338,000 troops withdrawn.",
   "pick": false
+ },
+ {
+  "md": "08-16",
+  "date": "1980-08-16",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "gdansk"
+   ],
+   [
+    "strike"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "Strikes spread along the Gdansk coast",
+  "category": "uprising",
+  "spycraft": false,
+  "summary": "By August 16, 1980, the strike that began at Gdansk's Lenin Shipyard two days earlier had spread to other shipyards and to municipal transport along the coast. Delegates from the striking enterprises formed an Inter-Factory Strike Committee under Lech Walesa, which drew up the workers' twenty-one demands.",
+  "significance": "The committee turned a shipyard dispute into a regional movement with political demands, above all the right to free trade unions. Its agreement with the government on August 31 led to Solidarity.",
+  "fbis": "The East Europe report of August 18, 1980, carried Gdansk radio's report of August 16 acknowledging work stoppages in shipyards and municipal transport along the coast, framed as demands over pay and conditions, with reassurance that trains ran and the shops were supplied.",
+  "pick": true
  }
 ]

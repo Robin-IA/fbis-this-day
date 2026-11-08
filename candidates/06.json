@@ -50,11 +50,12 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "The Latin America Daily Report of 1 June 1993 carried Salvadoran President Cristiani comparing Serrano's move to Fujimori's 'self-inflicted coup' and urging a return to constitutional rule; Serrano's removal is not reported.",
+  "fbis": "The Latin America Daily Report of June 2, 1993, carried Bridgetown CANA on Barbados' OAS ambassador condemning Serrano's suspension of Guatemala's constitution; it says nothing of his removal.",
   "pick": false,
   "doubt": "Page covers regional reaction to Serrano's self-coup, not his ouster.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Reaction to self-coup, not ouster"
  },
  {
   "md": "06-02",
@@ -133,7 +134,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of June 7, 1989, carried a KUNA interview in which Arafat, discussing the intifada, wished the Iranian leadership success in overcoming problems after the passing of Ayatollah Khomeyni.",
   "pick": false
  },
  {
@@ -312,9 +313,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "The Central Eurasia Daily Report of 8 June 1995 carried ITAR-TASS on a helicopter hijacking at Ulan Ude ending in arrests; nothing on Bosnia or O'Grady.",
+  "fbis": "The East Europe Daily Report of June 9, 1995, carried a Paris LE FIGARO commentary calling the U.S. pilot's recovery by NATO's American helicopters \"an exploit with political connotation\" and arguing Europe must handle Bosnia itself.",
   "pick": true,
-  "doubt": "Page covers a Siberian helicopter hijacking, not the O'Grady rescue.",
   "window": 400,
   "start": 1
  },
@@ -387,11 +387,12 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Latin America Daily Report of 11 June 1990 carried Lima Television's broadcast of Fujimori's end-of-campaign address on 'Honesty, technology, and work', before the runoff vote.",
-  "pick": true,
+  "fbis": "The Latin America Daily Report of June 11, 1990, carried the end of a closing campaign speech and Paris AFP on voting beginning in Peru's runoff amid tight security, with Vargas Llosa and Fujimori \"almost neck and neck.\"",
+  "pick": false,
   "doubt": "Page has the closing campaign address; the runoff result is not reported.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Voting opens; no result"
  },
  {
   "md": "06-11",
@@ -552,9 +553,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Latin America Daily Report of 14 June 1982 carried KYODO on Japan and Peru urging a peaceful Falklands settlement, and Peru's Ulloa on aid to Argentina; the surrender is not reported.",
+  "fbis": "The Latin America Daily Report of June 15, 1982, opened its Argentina section with war items: fighting around Port Stanley, a \"de facto\" cease-fire, a delayed Menendez-Moore meeting, and agreement on a neutral zone in Port Stanley.",
   "pick": false,
-  "doubt": "Page shows diplomatic items before the surrender; the Port Stanley capitulation is not reported.",
   "window": 400,
   "start": 1
  },
@@ -627,7 +627,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The East Asia Daily Report of June 19, 1991, carried Philippine reports that U.S. bases talks were suspended because of Mount Pinatubo's eruption, and that the eruption had shut Luzon's airports.",
   "pick": false
  },
  {
@@ -725,9 +725,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The Latin America Daily Report of 17 June 1982 carried Noticias Argentinas and AFP on military unease at Costa Mendez using the word 'surrender' and on his verbal resignation; it was not known whether Galtieri had accepted it.",
+  "fbis": "The Latin America Daily Report of June 18, 1982, opened its Argentina section with reportage on President Galtieri's resignation, including that he was reportedly forced to resign and Nicolaides named the new army head.",
   "pick": true,
-  "doubt": "Page covers the foreign minister's resignation; Galtieri's removal is not reported.",
   "window": 400,
   "start": 1
  },
@@ -830,11 +829,12 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "The East Europe Daily Report of 20 June 1991 carried Budapest MTI on parliament fast-tracking a bill on damage claims against Soviet troops, and on policy after the withdrawals; the final departure is not reported.",
+  "fbis": "The East Europe Daily Report of June 20, 1991, carried Budapest MTI in English on Hungarian parliament sessions, including an urgent bill on damage caused by Soviet troops and policy after their withdrawal.",
   "pick": false,
   "doubt": "Page covers parliamentary business on Soviet withdrawal, not the last troops leaving.",
   "window": 400,
-  "start": 1
+  "start": 1,
+  "excluded": "Parliament business, not departure"
  },
  {
   "md": "06-20",
@@ -1272,7 +1272,70 @@
   "spycraft": false,
   "summary": "Shortly after midnight on 21 June 1990 an earthquake struck Gilan and Zanjan provinces in northern Iran, destroying towns such as Rudbar and Manjil and killing tens of thousands of people.",
   "significance": "Iran accepted aid from many countries, including a small amount from the United States, the first since the break in relations in 1980.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of June 21, 1990, carried Moscow TASS in English: tremors from a quake in Iran hit southern Azerbaijan early that day, damaging old buildings in Baku but hurting no one.",
+  "pick": true
+ },
+ {
+  "md": "06-11",
+  "date": "1987-06-11",
+  "regions": [
+   "EEU",
+   "SOV",
+   "NES",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "thatcher"
+   ],
+   [
+    "election",
+    "elections"
+   ],
+   [
+    "conservative",
+    "victory",
+    "win",
+    "third"
+   ]
+  ],
+  "window": 400,
+  "start": 1,
+  "headline": "Thatcher wins a third term",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "In the British general election of June 11, 1987, Margaret Thatcher's Conservatives won a third consecutive victory, with a reduced but still large majority over Neil Kinnock's Labour Party.",
+  "significance": "Thatcher's third term kept Reagan's closest ally in power through the end of the Cold War. In Buenos Aires the vote was watched for what it meant for the Falklands/Malvinas: Labour had been seen as more open to talks.",
+  "fbis": "The Latin America report of June 12, 1987, carried Argentine reaction on election day: a Radical senator said Buenos Aires would negotiate over the Malvinas if Labour won, but expected a Thatcher victory, perhaps with a majority small enough to force talks on sovereignty.",
+  "pick": true
+ },
+ {
+  "md": "06-10",
+  "date": "1990-06-10",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "fujimori"
+   ],
+   [
+    "win",
+    "won",
+    "victory",
+    "elected",
+    "triumph",
+    "president-elect"
+   ]
+  ],
+  "window": 300,
+  "start": 1,
+  "headline": "Peru votes in the Fujimori-Vargas Llosa runoff",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On June 10, 1990, Peruvians voted in the presidential runoff between the novelist Mario Vargas Llosa of the Democratic Front and Alberto Fujimori, an agronomist and political newcomer of the Change 90 movement. Fujimori won decisively.",
+  "significance": "Fujimori's victory brought in a decade of economic shock therapy, war against the Shining Path, and in 1992 his own 'self-coup' closing Congress. He later fled to Japan and was convicted of human rights abuses and corruption.",
+  "fbis": "The Latin America report of June 11, 1990, carried election-day reporting from Lima: President Garcia voting as polls opened under tight security, observers calling Vargas Llosa and Fujimori 'almost neck and neck,' and indelible ink dropped in emergency zones because of guerrilla threats to voters.",
   "pick": true
  }
 ]

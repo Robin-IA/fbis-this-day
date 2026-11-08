@@ -105,9 +105,12 @@ Then open http://localhost:8000/. Add `?d=11-22` to see a particular day.
 
 ## Accessibility and security
 
-Not yet checked with the
-[accessibility and security checker](https://github.com/internetarchivecanada/accessibility-security-checker).
-That is required before the explorer is published.
+Checked on November 8, 2026 with the
+[accessibility and security checker](https://github.com/internetarchivecanada/accessibility-security-checker):
+passing for code validity, security and WCAG 2.2 Level AA. The report is
+[security-accessibility-checks.md](security-accessibility-checks.md), and
+each page's footer carries the dated statement. Re-run the checker after
+any change to the pages.
 
 ## Source and mirror
 

@@ -275,16 +275,16 @@ footer.site p { margin: 0 0 6px; }
    edge: translucent colored plastic around a white paper label. */
 .folder .daybar { gap: 6px; align-items: flex-end; margin: 18px -26px 18px -40px; padding: 0 26px 0 40px; border-bottom: 2px solid #c9b07c; }
 .folder .daybar button, .folder .daybar select {
-  --tab: rgba(92, 150, 214, .55);
+  --tab: rgba(120, 148, 176, .38);
   min-height: 42px; margin-bottom: -2px; padding: 6px 14px 5px;
   font: 700 14px var(--mono); letter-spacing: .04em; color: #1f2a3d;
   background: #fffdf7; background-clip: padding-box;
   border: 6px solid var(--tab); border-bottom: 0; border-radius: 10px 10px 0 0;
   box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .08), 0 -1px 0 rgba(255, 255, 255, .6), 0 2px 4px rgba(12, 26, 54, .12);
 }
-.folder .daybar #today { --tab: rgba(214, 80, 92, .5); }
-.folder .daybar select { --tab: rgba(222, 178, 52, .6); }
-.folder .daybar button:hover, .folder .daybar select:hover { background: #ffffff; background-clip: padding-box; filter: saturate(1.4); }
+.folder .daybar #today { --tab: rgba(176, 112, 112, .34); }
+.folder .daybar select { --tab: rgba(190, 162, 96, .42); }
+.folder .daybar button:hover, .folder .daybar select:hover { background: #ffffff; background-clip: padding-box; filter: saturate(1.15); }
 .folder .daybar .pick { gap: 6px; }
 @media (max-width: 560px) {
   .folder .daybar { margin: 14px -14px 14px -22px; padding: 0 14px 0 22px; }

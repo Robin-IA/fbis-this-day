@@ -116,4 +116,4 @@ Developed at `Robin-IA/fbis-this-day`; published from the public mirror
 
 ## Feedback
 
-robin.fay@archive.org, subject *Explorer Feedback USFBIS-Democracy's Library*.
+robin.fay@archive.org, subject *Explorer Feedback: FBIS This Day*.

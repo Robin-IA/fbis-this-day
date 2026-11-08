@@ -278,7 +278,7 @@ footer.site p { margin: 0 0 6px; }
    tucked behind it, with a soft shadow cast up from its edge */
 .folder .daybar::after { content: ""; position: absolute; left: 16px; right: 0; bottom: -2px; height: 11px; z-index: 1; pointer-events: none;
   background: #f1e6cc; border-top: 1px solid rgba(255, 255, 255, .55);
-  box-shadow: 0 -3px 7px rgba(60, 45, 20, .22); }
+  box-shadow: 0 -1px 4px rgba(60, 45, 20, .13); }
 .folder .daybar button, .folder .daybar select {
   --tab: #cbd7e2;
   min-height: 52px; margin-bottom: 0; padding: 6px 14px 5px;

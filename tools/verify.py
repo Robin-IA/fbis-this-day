@@ -84,12 +84,27 @@ def snippet(text, m, width=220):
     return ("…" if a else "") + s + ("…" if b < len(text) else "")
 
 
-def check(cand, by_date, lag):
+def near(text, groups, window):
+    """Return a match of the first group with every other group within
+    `window` characters of it, or None. Without a window, any page-wide match."""
+    if not window:
+        ms = [g.search(text) for g in groups]
+        return ms[0] if all(ms) else None
+    for m in groups[0].finditer(text):
+        lo, hi = max(0, m.start() - window), m.end() + window
+        if all(g.search(text, lo, hi) for g in groups[1:]):
+            return m
+    return None
+
+
+def check(cand, by_date, lag, window=None):
     groups = [group_re(g) for g in cand["keywords"]]
+    window = cand.get("window", window)
+    start = cand.get("start", 0)  # 1 skips issues dated the event day itself
     d0 = datetime.date.fromisoformat(cand["date"])
     regions = set(cand.get("regions") or [])
     tried, contents_hit = [], None
-    for off in range(lag + 1):
+    for off in range(start, max(lag, start) + 1):
         d = (d0 + datetime.timedelta(days=off)).isoformat()
         for ident, date, reg, title in by_date.get(d, []):
             if regions and reg not in regions:
@@ -99,11 +114,11 @@ def check(cand, by_date, lag):
             if not pg:
                 continue
             for n, text in pg:
-                ms = [g.search(text) for g in groups]
-                if not all(ms):
+                m = near(text, groups, window)
+                if not m:
                     continue
                 hit = {"identifier": ident, "issue_date": date, "region": reg, "title": title,
-                       "page": n, "snippet": snippet(text, ms[0])}
+                       "page": n, "snippet": snippet(text, m)}
                 if not is_contents(text):  # the report itself, not the contents list
                     return hit
                 contents_hit = contents_hit or dict(hit, contents_only=True)
@@ -117,6 +132,9 @@ def main():
     ap.add_argument("files", nargs="*", help="candidate files (default: candidates/*.json)")
     ap.add_argument("--lag", type=int, default=3)
     ap.add_argument("--recheck", action="store_true", help="re-run candidates already verified")
+    ap.add_argument("--window", type=int, default=None,
+                    help="require every keyword group within this many characters of the first "
+                         "(a candidate's own \"window\" field overrides it)")
     args = ap.parse_args()
 
     issues = json.loads((ROOT / "data" / "issues.json").read_text())
@@ -133,10 +151,12 @@ def main():
         result = []
         for c in json.loads(f.read_text()):
             old = prev.get(key(c))
-            if old and "evidence" in old and old.get("keywords") == c.get("keywords") and not args.recheck:
+            if (old and "evidence" in old and old.get("keywords") == c.get("keywords")
+                    and old.get("window") == c.get("window")
+                    and old.get("start") == c.get("start") and not args.recheck):
                 c = dict(c, evidence=old["evidence"])
             else:
-                res = check(c, by_date, args.lag)
+                res = check(c, by_date, args.lag, args.window)
                 c = dict(c, **({"fail": res} if "fail" in res else {"evidence": res}))
             result.append(c)
             print(c["md"], c["date"], "OK " if "evidence" in c else "-- ", c["headline"][:70], flush=True)

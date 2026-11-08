@@ -24,8 +24,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 1 July 1991 carried Prague radio's reports on the eve of the Warsaw Pact's final session: the Soviet delegation under Vice President Yanayev arriving to sign the dissolution protocol, and President Havel welcoming the delegations at Prague Castle.",
+  "pick": true
  },
  {
   "md": "07-01",
@@ -50,7 +50,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 1 July 1994 carried an Israel Radio Arabic-service interview with Nabil Sha'th, who fixed Arafat's arrival at the Rafah crossing for 1430 on Friday and described the Egyptian farewell and Gaza preparations awaiting him.",
   "pick": false
  },
  {
@@ -75,7 +75,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 2 July 1985 opened its national affairs section with the Supreme Soviet session: Gromyko elected president on Gorbachev's nomination, Shevardnadze named foreign minister, and a TASS biographical sketch of Shevardnadze.",
   "pick": false
  },
  {
@@ -100,8 +100,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 3 July 1990 carried a Cologne Deutschlandfunk report that 84 Albanians had taken refuge in the West German embassy in Tirana under police gunfire, some breaking through the gate with a truck, and that other Western embassies had been overrun.",
+  "pick": true
  },
  {
   "md": "07-03",
@@ -129,8 +129,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East & South Asia Daily Report of 5 July 1988 summarized Iranian reaction to the Vincennes downing of the Iran Air jetliner: Khomeyni's call for all-out war against the United States, Montazeri's message, and Khamene'i branding Reagan and his government \"criminals and murderers.\"",
+  "pick": true
  },
  {
   "md": "07-03",
@@ -156,7 +156,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 3 July 1996 carried, on runoff day, an Italian RAI radio scoop that Yeltsin was suffering a heart condition and had voted at his dacha, and an Interfax item on his supporters warning that the Communists were leading Russia to civil war.",
   "pick": false
  },
  {
@@ -181,7 +181,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 6 July 1993 carried Havana's Radio Rebelde reporting that Haiti's coup leaders had accepted UN mediator Caputo's plan, and a Port-au-Prince Radio Tropic FM report from Governors Island that Cedras's delegation found the draft agreement for Aristide's 30 October return acceptable.",
   "pick": false
  },
  {
@@ -208,8 +208,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East & South Asia Daily Report of 6 July 1995 listed under its India heading Delhi radio items on Americans among seven foreigners kidnapped in Kashmir and an operation launched to rescue the tourists, alongside Iran and Pakistan headings.",
+  "pick": true
  },
  {
   "md": "07-05",
@@ -238,8 +238,11 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The page matched is from the Soviet Union Daily Report of 5 July 1989 and carries a Soviet defense official's remarks to deputies on conscripts serving outside their home republics; nothing on the page concerns Oliver North or Iran-Contra.",
+  "pick": true,
+  "doubt": "Page is a Soviet speech on military service; no mention of North's sentencing",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "07-05",
@@ -320,8 +323,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The 28th CPSU Congress supplement of 9 July 1990 carried Foreign Minister Shevardnadze telling a congress section that NATO's London decisions showed the alliance \"beginning to follow the path of transformation\" and calling the London declaration a serious political act, until Gorbachev cut him off for time.",
+  "pick": true
  },
  {
   "md": "07-07",
@@ -347,8 +350,11 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 7 July 1987 carried a Moscow commentary on the Persian Gulf that cited THE MIAMI HERALD on a \"secret government\" including \"Irangate hero\" Oliver North; it does not report his testimony.",
+  "pick": false,
+  "doubt": "Passing mention of North in a Gulf commentary; testimony not reported",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "07-07",
@@ -375,8 +381,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 8 July 1991 carried Belgrade TANJUG's text of the Brioni declaration adopted the previous night by all Yugoslav parties and the EC troika, setting out cease-fire principles and requiring negotiations on Yugoslavia's future by 1 August.",
+  "pick": true
  },
  {
   "md": "07-07",
@@ -403,7 +409,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 7 July 1994 carried Arab League Secretary General Abd-al-Majid on a cease-fire mission for Yemen, condemning conditions in Aden and warning that reports of Aden's fall would mean greater danger and suffering.",
   "pick": false
  },
  {
@@ -434,8 +440,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Central Eurasia Daily Report of 11 July 1994 carried ITAR-TASS reports of Yeltsin's condolences on Kim Il-song's death and his hope for easing tension and Korean reconciliation, and Foreign Minister Kozyrev's confidence in continued smooth relations with the DPRK.",
+  "pick": true
  },
  {
   "md": "07-09",
@@ -460,8 +466,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 10 July 1989 carried Warsaw PAP's report of Bush's pre-trip press conference, where he said he was going to Poland to encourage reform, not \"to drive a wedge\" between Moscow and Eastern Europe, under the heading of his arrival in Warsaw.",
+  "pick": true
  },
  {
   "md": "07-09",
@@ -489,7 +495,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The East Asia Daily Report of 12 July 1994 carried Seoul YONHAP reports relaying North Korean news-agency accounts of citizens flocking to Kim Il-song's statues and broadcasts casting Kim Chong-il as the new leader, plus Seoul-Washington consultations after the death.",
   "pick": false
  },
  {
@@ -517,7 +523,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East & North Africa Daily Report of 10 July 1978 carried a Paris AFP report that a military Committee of National Recovery had seized power in Mauritania overnight in an apparently bloodless coup, dissolving the constitution and ruling party, with President Ould Daddah believed arrested.",
   "pick": false
  },
  {
@@ -541,8 +547,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 10 July 1991 carried a Moscow TASS preview of the Russian congress session at which Yeltsin, Russia's first-ever president, would be sworn in with Gorbachev due to speak, and a television item on Yeltsin as \"nervous\" on the eve of inauguration.",
+  "pick": true
  },
  {
   "md": "07-11",
@@ -573,8 +579,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 11 July 1995 carried Sarajevo radio on a Bosnian government session told that UNPROFOR had given assurances of air strikes over Srebrenica, an AFP report of a NATO air operation over the enclave, and Prime Minister Silajdzic saying NATO acted \"too late.\"",
+  "pick": true
  },
  {
   "md": "07-12",
@@ -604,8 +610,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 13 July 1988 carried Moscow TASS in English reporting the Nagorno-Karabakh regional soviet's 12 July decision to secede from Azerbaijan, continuing strikes in Stepanakert, and the Azerbaijani Presidium declaring the decision null and void.",
+  "pick": true
  },
  {
   "md": "07-13",
@@ -627,8 +633,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 13 July 1989 carried Havana's Radio Reloj announcing that the military tribunal's sentence had been carried out at dawn against Ochoa, de la Guardia and two others for drug trafficking, followed by Castro's speech to the Council of State on the case.",
+  "pick": true
  },
  {
   "md": "07-13",
@@ -653,7 +659,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 13 July 1992 opened its front-page review with Jerusalem radio's report of Rabin presenting coalition guidelines and Labor's ministers for a new government of Labor, Meretz and SHAS, ahead of its swearing-in.",
   "pick": false
  },
  {
@@ -680,7 +686,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East review in the Daily Report of 14 July 1982 led with Tehran radio's communique on \"Operation Ramadan\" crossing Iraqi lines, and Baghdad radio's counter-claim that Iranians who penetrated 10 km in the Basra sector had been forced back.",
   "pick": false
  },
  {
@@ -703,7 +709,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 13 July 1978 carried Moscow TASS's account of the prosecutor's summation at Ginzburg's trial in Kaluga, painting him as a morally corrupt \"sponger\" funded from abroad and attacking Western press reporting on the trial; the sentence itself is not on the page.",
   "pick": false
  },
  {
@@ -729,8 +735,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 14 July 1978 listed under national affairs further reportage on the Ginzburg and Shcharanskiy trials, including Ginzburg's sentence, a court spokesman on Shcharanskiy and Western reaction, ending with a late report of Shcharanskiy's sentence.",
+  "pick": true
  },
  {
   "md": "07-15",
@@ -756,8 +762,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Middle East & North Africa Daily Report of 17 July 1979 listed, under Jordan, AD-DUSTUR noting moderation in Carter's energy speeches and, under Israel, the 17 July press on Carter's energy proposals.",
+  "pick": true
  },
  {
   "md": "07-16",
@@ -782,7 +788,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East & North Africa Daily Report of 17 July 1979 listed under Iraq the ministerial appointments of Saddam Husayn's new government and, under Syria, an item that al-Asad had been informed in advance of al-Bakr's resignation.",
   "pick": false
  },
  {
@@ -810,8 +816,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 19 July 1990 carried a report of Shevardnadze's Paris talks with Baker, Genscher and Meckel on carrying out the Gorbachev-Kohl accords, with Shevardnadze saying no foreign troops or nuclear weapons would be placed on former East German territory.",
+  "pick": true
  },
  {
   "md": "07-16",
@@ -835,7 +841,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 19 July 1990 carried Kiev radio's text of the Declaration on the Ukraine's State Sovereignty adopted by the republic's Supreme Soviet on 16 July, after a Moscow radio item on the session's continuing work.",
   "pick": false
  },
  {
@@ -862,7 +868,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 18 July 1980 devoted its Bolivia contents to the 17 July coup: the Trinidad garrison revolt, Garcia Meza's formation of a junta, arrest of the president and cabinet, curfews, and Siles Zuazo's call for resistance.",
   "pick": false
  },
  {
@@ -887,8 +893,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 17 July 1979 listed under Nicaragua Somoza's resignation and Urcuyo's election as successor, the Reconstruction Junta preparing to govern, Sandinist seizure of Esteli, and a late report that Somoza had left for Florida.",
+  "pick": true
  },
  {
   "md": "07-18",
@@ -917,7 +923,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 18 July 1994 carried a run of Buenos Aires NOTICIAS ARGENTINAS flashes on the AMIA bombing, from the explosion that destroyed the seven-story building to a preliminary toll of at least 15 dead and nearly 100 wounded.",
   "pick": false
  },
  {
@@ -942,7 +948,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 18 July 1988 listed under Iraq, amid badly garbled contents, reaction to Iran's acceptance of Resolution 598, including a Jerusalem report that Baghdad had not been informed and an official urging Iran to withdraw its forces.",
   "pick": false
  },
  {
@@ -969,8 +975,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The South Asia Daily Report of 18 July 1980 listed under Iran an item on gunmen attempting to kill Shahpur Bakhtiar in Paris, with details of the attempt, a Bakhtiar interview, and statements by Khalkhali and the \"Guards of Islam.\"",
+  "pick": true
  },
  {
   "md": "07-19",
@@ -997,7 +1003,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 19 July 1979 filled its Nicaragua contents with the regime's collapse: Urcuyo handing power to the Reconstruction Junta and leaving, the National Guard surrendering, the junta installed in Leon and due in Managua, and Sandinists urged to keep fighting.",
   "pick": false
  },
  {
@@ -1021,7 +1027,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East review in the Daily Report of 20 July 1982 noted in one line that Beirut radio reported the kidnapping of David Dodge, acting president of the American University of Beirut, near the university.",
   "pick": false
  },
  {
@@ -1047,8 +1053,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 19 July 1989 carried Warsaw PAP reports on the eve of the vote: Kiszczak urging his backers to vote for Jaruzelski, a spokesman denying Western accounts of Jaruzelski's closed meeting with the Solidarity deputies' club, and the Christian Social Union backing him.",
+  "pick": true
  },
  {
   "md": "07-20",
@@ -1073,8 +1079,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Middle East review in the Daily Report of 21 July 1987 led with Tehran radio carrying Iran's rejection of the \"unjust resolution\" 598 and Khamene'i's threat to hit even US-flagged ships, while INA reported Iraq would study the resolution.",
+  "pick": true
  },
  {
   "md": "07-20",
@@ -1102,7 +1108,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 22 July 1991 carried Moscow's Radio Rossii announcing that Yeltsin had signed a decree dismantling party control, with the decree text barring party organizations in RSFSR state bodies and enterprises.",
   "pick": false
  },
  {
@@ -1130,8 +1136,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 21 July 1978 carried Bolivian radio and AFP items on Santa Cruz: armored units patrolling the streets and a 24-hour civic stoppage protesting the annulment of the elections, with a leader demanding recognition of General Pereda's election.",
+  "pick": true
  },
  {
   "md": "07-21",
@@ -1160,7 +1166,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of 21 July 1983 listed under Poland the Sejm's debate on constitutional changes and amnesty proposals and a PAP item, \"Martial Law Will Pass, Poland Will Last.\"",
   "pick": false
  },
  {
@@ -1187,8 +1193,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Eastern Europe Daily Report of 22 July 1983 listed, in badly garbled contents, Polish items on the resolution and law lifting martial law, a press conference on martial law and amnesty, and TRYBUNA LUDU commentary on the lifting.",
+  "pick": true
  },
  {
   "md": "07-23",
@@ -1216,8 +1222,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The South Asia Daily Report of 25 July 1983 carried an AFP report that Tamil separatists had killed 13 soldiers in an ambush near Jaffna, and Delhi radio reporting curfews in Colombo and Jaffna after rioting broke out as news of the deaths spread.",
+  "pick": true
  },
  {
   "md": "07-24",
@@ -1239,8 +1245,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Middle East review in the Daily Report of 24 July 1987 led with Iranian reaction to the Bridgeton hitting a mine: IRNA quoted Prime Minister Musavi calling it an \"irreparable blow\" to US prestige, while Tehran radio suggested Iraq had laid the mines.",
+  "pick": true
  },
  {
   "md": "07-24",
@@ -1269,7 +1275,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 26 July 1993 carried the ITAR-TASS text of the Central Bank's notice halting circulation of Soviet and 1961-1992 Russian bank notes from midnight on 25 July, and instructing enterprises to hand them in.",
   "pick": false
  },
  {
@@ -1291,8 +1297,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East & South Asia Daily Report of 25 July 1990 carried a one-line Baghdad INA report that Saddam Husayn had summoned US Ambassador April Glaspie, with Tariq Aziz present, beside an AL-QADISIYAH editorial attacking Kuwait's \"hostile behavior.\"",
+  "pick": true
  },
  {
   "md": "07-25",
@@ -1323,7 +1329,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 26 July 1993 carried Cairo radio on the Arab League condemning a seventh day of Israeli bombardment of south Lebanon, and IDF Radio on Haydar Abd-al-Shafi calling the attack an attempt to demolish the peace process.",
   "pick": false
  },
  {
@@ -1350,7 +1356,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 25 July 1994 carried the run-up to the Washington meeting: Amman radio on King Husayn's arrival, a Monte Carlo report on Israeli demands for Jordanian army cuts, and Israel Radio quoting Rabin that a peace treaty was not yet under discussion.",
   "pick": false
  },
  {
@@ -1373,8 +1379,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Daily Report of 28 July 1986 (South Asia volume) noted in its regional review that Damascus radio reported Father Lawrence Jenco thanking President al-Asad and Syrian forces for his release, and Syria pledging to keep seeking the freedom of other hostages in Lebanon.",
+  "pick": true
  },
  {
   "md": "07-27",
@@ -1400,8 +1406,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Middle East & Africa Daily Report of 28 July 1980 carried Cairo radio's text of the Al-Ma'adi hospital report on the causes of the Shah's death and President as-Sadat's statement mourning him as a brother who had stood with Egypt in its own trouble.",
+  "pick": true
  },
  {
   "md": "07-27",
@@ -1429,7 +1435,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 30 July 1990 carried Bridgetown CANA's account of an explosion and gunfire around Trinidad's Parliament and police headquarters, and of Abu Bakr declaring on state television that \"the prime minister and his Cabinet are presently under arrest.\"",
   "pick": false
  },
  {
@@ -1455,7 +1461,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 27 July 1990 carried editorial reports on Minsk radio's live relay of the Belorussian Supreme Soviet adopting the sovereignty declaration unanimously, article by article, including votes for its own troops, neutrality and a nuclear-free zone.",
   "pick": false
  },
  {
@@ -1482,8 +1488,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East & South Asia Daily Report of 28 July 1989 carried the clandestine Voice of the Mountain and Paris AFP on the Israeli helicopter raid on Jibshit that seized Shaykh Abd-al-Karim Ubayd, AFP noting his links to the kidnapping of Lt. Col. Higgins.",
+  "pick": true
  },
  {
   "md": "07-28",
@@ -1504,7 +1510,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 30 July 1984 listed Moscow's reportage on the Los Angeles Olympics: games \"unrepresentative\" of world champions, an opening ceremony in the \"worst Hollywood tradition,\" alleged secret US funding of foreign athletes and Libya's withdrawal.",
   "pick": false
  },
  {
@@ -1531,8 +1537,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Middle East & Africa Daily Report of 29 July 1981 led its Iran review with Paris radio reporting that Bani-Sadr's plane had landed at Evreux and France had granted asylum on condition of no political activity, while Tehran radio said he had joined the counterrevolution.",
+  "pick": true
  },
  {
   "md": "07-29",
@@ -1558,7 +1564,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 30 July 1985 opened its arms control section with Gorbachev's announcement of a nuclear explosion moratorium, from PRAVDA, followed by items awaiting a US response, and a late report on the US reply.",
   "pick": false
  },
  {
@@ -1583,8 +1589,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 30 July 1985 carried a Paris AFP preview of the Helsinki anniversary conference, noting Shevardnadze's international debut and his meeting with Shultz due the next day to prepare the Geneva summit, plus a Moscow commentary on the Helsinki Final Act.",
+  "pick": true
  },
  {
   "md": "07-30",
@@ -1609,7 +1615,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 31 July 1995 listed commentary on the Chechen peace talks in Groznyy, including ITAR-TASS quoting Imayev that the \"war is ending,\" Interfax on talks said to betray Russian interests, and criticism of the amnesty.",
   "pick": false
  },
  {
@@ -1634,7 +1640,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East & Africa Daily Report of 30 July 1981 listed under The Gambia a report that a coup had toppled Jawara on 30 July, with new leaders announced and a council created; Senegal's intervention does not appear.",
   "pick": false
  },
  {
@@ -1658,8 +1664,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East & South Asia Daily Report of 31 July 1989 carried a run of AFP and Beirut radio flashes on the kidnappers' announcement that they had executed Lt. Col. Higgins, a caller claiming the execution was postponed, and a videotape delivered to AL-NAHAR showing him hanged.",
+  "pick": true
  },
  {
   "md": "07-31",
@@ -1684,8 +1690,11 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Middle East review in the Daily Report of 31 July 1987 carried Tehran radio on Iran's hajj supervisor inviting pilgrims in Mecca to a \"disavowal\" march against the United States and USSR; the clashes and deaths themselves are not reported on this page.",
+  "pick": false,
+  "doubt": "Page shows the run-up to the Mecca march, not the clashes or deaths",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "07-31",
@@ -1709,7 +1718,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 2 August 1994 carried the text of provisional President Jonassaint's decree declaring a state of siege in Haiti in response to Security Council Resolution 940, which it called an \"iniquitous\" authorization of invasion.",
   "pick": false
  }
 ]

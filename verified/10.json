@@ -1627,5 +1627,40 @@
    "page": 2,
    "snippet": "FBIS MIDDLE EAST & SOUTH DAILY REPORT ASIA REVIEW 31 OCTOBER 1984 INDIA The prime minister of India, Mrs Indira Gandhi, was shot and killed by two of her own security men at her home this morning, according to Delhi radio. State mourning will be observed for |2 days. Rajiv Gandhi, son of the assassinated prime minister, was sworn in as…"
   }
+ },
+ {
+  "md": "10-24",
+  "date": "1980-10-24",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "solidarity",
+    "solidarnosc"
+   ],
+   [
+    "regist"
+   ],
+   [
+    "court"
+   ]
+  ],
+  "headline": "Warsaw court registers Solidarity, with conditions",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 24 October 1980 the Warsaw provincial court registered Solidarity as an independent trade union, but on its own authority wrote into the union's statute a recognition of the Communist Party's leading role.",
+  "significance": "The court's changes provoked a crisis that ended only when the Supreme Court registered Solidarity on 10 November without them. The first legal independent union in the Soviet bloc stood until martial law in December 1981.",
+  "fbis": "",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176902_0663",
+   "issue_date": "1980-10-24",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 208, 24 October 1980",
+   "page": 55,
+   "snippet": "It. 24 Oct 80 Members of the founding committee presidium took part. Lech Walesa was absent. He is Staying in Warsaw because the next sitting of the voivodship court in the case of the registration of Solidarity is to take place tomorrow. Therefore many questions from Polish and foreign jouranlists dealt with this problen, including reservations about the statute and the Significance of the registration in the further work of t…"
+  }
  }
 ]

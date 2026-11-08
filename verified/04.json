@@ -20,8 +20,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report for April 1979 carried, under its Iran heading, reportage on the referendum on an Islamic Republic: a ministry statement on balloting, extra ballot supplies, a Khomeyni statement after voting, and balloting in Kordestan.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0320",
    "issue_date": "1979-04-01",
@@ -55,8 +55,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 2 April 1982 opened its Argentina section with the landings: forces moving into the disputed South Atlantic islands, a junta communique, a 'Malvinas Governor' named, a charge at the UN and claims of Soviet support.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176905_0881",
    "issue_date": "1982-04-02",
@@ -88,8 +88,11 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 5 April 1982 listed Nicaragua's response to a U.S. veto at the UN and Foreign Minister D'Escoto addressing the Security Council, plus a report on the Argentine takeover of the Falklands; no item names the Council's withdrawal demand.",
   "pick": false,
+  "doubt": "Page lists a Falklands takeover report and Nicaraguan UN items, not the Security Council demand for Argentine withdrawal.",
+  "window": 400,
+  "start": 1,
   "evidence": {
    "identifier": "micro_IA1176905_0882",
    "issue_date": "1982-04-05",
@@ -120,15 +123,18 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 3 April 1996 carried Paris AFP in English from Tuzla: Ron Brown had promised U.S. help rebuilding Bosnian industry but, a plant manager said, 'offered nothing concrete', before flying on toward Dubrovnik.",
+  "pick": true,
+  "doubt": "Page covers Brown's Bosnia visit the day of the crash; the crash itself is not reported.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176904_1521",
-   "issue_date": "1996-04-03",
+   "identifier": "micro_IA1176904_1522",
+   "issue_date": "1996-04-04",
    "region": "EEU",
-   "title": "FBIS Daily Report: East Europe, No. 065, 3 April 1996",
-   "page": 21,
-   "snippet": "FBIS-EEU-96-065 3 April 1996 B-H: Businessman Says Brown ‘Offered Nothin; Concrete’ AU0304113296 Paris AFP in English 1123 GMT 3 Apr 96 {FBIS Transcribed Text} Tuzla, Bosnia-Herzegovina, April 3 (AFP)—U.S. Commerce Secretary Ron Brown promised officials here Wednesday [3 Apri…"
+   "title": "FBIS Daily Report: East Europe, No. 066, 4 April 1996",
+   "page": 6,
+   "snippet": "…] : Posavina Carton Formed in Northeast Bosnia {Mostar Radio] : Turkey To Open General Consulate in Mostar /Sara evo Radio] H: Rail Between Yugoslavia and Serb Republic Restored /SRNA/] CROATIA Croatia: Tudjman Appoints Brown Crash Probe Commission /Zagreb Radio] Croatia: Tudjman Cancels Engagements After Air Crash [Zagreb Radio] Croatia: PM Meets With Head of IFOR Logistics {Zagreb Radio] Croatia: UNTAES’ Schoups Views Deployment in E. Slav…"
   }
  },
  {
@@ -152,8 +158,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report of 4 April 1979 listed under Pakistan an official announcement on Bhutto's hanging, next to Zia's nuclear-free-zone proposal to India's Desai.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0323",
    "issue_date": "1979-04-04",
@@ -188,8 +194,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 5 April 1983 carried Paris AFP in English on France ordering 47 Soviet diplomats and officials out, 'the biggest intelligence clean-up' in Franco-Soviet relations, with a Moscow source confirming the TASS Paris bureau chief was among them.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176914_0201",
    "issue_date": "1983-04-05",
@@ -221,7 +227,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 7 April 1986 carried Moscow TASS in English on the La Belle blast: two dead, some 150 injured including 30 to 50 Americans, framed around the Soviet Union's stated rejection of terrorism 'in all its manifestations'.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176914_1047",
@@ -256,7 +262,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 6 April 1988 listed under Kuwait further reportage on the hijacking of the Boeing 747, with a Saudi SPA 'source' voicing concern and the Iraqi government condemning the hijack of the Kuwaiti plane.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176910_0014",
@@ -288,8 +294,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 7 April 1980 carried Paris AFP and Madrid EFE from Havana: a 'human wave' of Cubans flocking into the Peruvian Embassy grounds after Havana said they could leave, more than 2,000 inside by evening.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176905_0384",
    "issue_date": "1980-04-07",
@@ -367,15 +373,18 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Middle East & Africa Daily Report of 8 April 1980 carried Kuwait KUNA on Oman reportedly rejecting a U.S. offer to install tactical nuclear weapons, and a Saudi denial about Carter and Jerusalem; nothing on this page reports the break with Iran.",
   "pick": false,
+  "doubt": "Page covers U.S. regional moves in the Gulf, not the severing of relations with Iran.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176908_0623",
+   "identifier": "micro_IA1176911_0615",
    "issue_date": "1980-04-08",
    "region": "NES",
-   "title": "FBIS Daily Report: Middle East & Africa, Vol. V No. 069, 8 April 1980",
-   "page": 12,
-   "snippet": "…years, The Pentagon will spend about 800 million dollars to improve services of the base so that they can cepe with the newly formed American emergency force, Citing \"well informed sources\", the newspaper said that the Carter administration is trying to convince Oman to have a naval base of its own which could serve American mili- tary purposes, The locationof the proposed naval base would be in Al Hassab or Matrah where America feels it cou…"
+   "title": "FBIS Daily Report: South Asia, Vol. VIII No. 069, 8 April 1980",
+   "page": 3,
+   "snippet": "…eting Revolution Council Meeting Discusses Break With U.S. Security Measures Taken Purther Report on Meeting Council Communique on Relations Ahmad Khomeyni Meets With Students Militants Pleased With Sanctions Effects of Carter's Moves KEYHAN Names Hostage Accused of Seducing Girl [30 Mar] Relations With Iraq Reported, Discussed Embassy Staff Recalled Khomeyni Statement on Iraqi Demands Bani-Sadr's Comments on Iraq Qotbzadeh on Iraq Qotbzadeh…"
   }
  },
  {
@@ -399,8 +408,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 10 April 1989 carried Moscow TASS in English: a fire aboard a nuclear-powered submarine southwest of Bear Island, sinking at more than 1,500 metres, loss of life, and Yazov ruling out radioactive contamination.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0485",
    "issue_date": "1989-04-10",
@@ -461,15 +470,18 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 8 April 1993 carried Sofia BTA on Bulgarian talks with a Republic of Macedonia delegation on barter, transit fees and trade agreements; the UN admission is not mentioned.",
+  "pick": true,
+  "doubt": "Page covers Bulgarian-Macedonian trade talks, not Macedonia's UN admission.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176904_0757",
-   "issue_date": "1993-04-08",
+   "identifier": "micro_IA1176904_0758",
+   "issue_date": "1993-04-09",
    "region": "EEU",
-   "title": "FBIS Daily Report: East Europe, No. 066, 08 April 1993",
-   "page": 6,
-   "snippet": "…id. According to him, Albania does not wish a change of existing borders but a clarification of the status of Kosovo so that the people of this region the right to self-determination by democratic means. Neev Meets With Macedonian Delegation AU0804061493 Sofia BTA in English 1812 GMT 7 Apr 93 {Text] Sofia, April 7 (BTA}—Deputy Prime Minister Neycho Neev received today a delegation of the Republic of Macedonia led by Deputy Prime Minister Jovan A…"
+   "title": "FBIS Daily Report: East Europe, No. 067, 9 April 1993",
+   "page": 62,
+   "snippet": "…f peace, dialogue, interethnic understanding, tolerance, and coexistence with all nations living in the Balkans. We were convinced of the ability of the United Nations to adopt this just decision. Today, the Republic of Macedonia—as a peaceloving state in Europe—is building its foreign policy on the basis of the UN Charter, on strengthening international peace and security, and on the development of economic cooperation and protection of human r…"
   }
  },
  {
@@ -493,15 +505,18 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 10 April 1989 carried Moscow TASS on 'several days of rallies' in Tbilisi with anti-Soviet slogans, and party chief Patiashvili's televised appeal against discord, as the city entered its fourth day of turmoil.",
+  "pick": true,
+  "doubt": "Page covers the rallies of 8 April, before the troops broke up the demonstration.",
+  "window": 400,
+  "start": 1,
   "evidence": {
    "identifier": "micro_IA1176915_0485",
    "issue_date": "1989-04-10",
    "region": "SOV",
    "title": "FBIS Daily Report: Soviet Union, No. 067, 10 April 1989",
    "page": 44,
-   "snippet": "…rd’ LD0804 144689 Moscow TASS in English 1424 GMT 8 Apr 89 [Text] Moscow April 8 TASS—Anti-constitutional actions in Abkhazia, an autonomous republic in Soviet Georgia, sparked off several days of rallies and marches in Tbilisi, Georgia’s capital, the newspaper IZVESTIYA reported Saturday. It said students and staff members of some institutions and scientific and cultural organisations are taking part in them. The social and political life in…"
+   "snippet": "…leaders met cultural personalities, scientists and senior executives of ministries, departments, higher educational and scientific establisnments and the mass media at the Georgian Communist Party Central Com- mittee in Tbilisi Friday. “Representatives of the intelligentsia expressed serious concern over the dangerous scope that the rallies and demonstrations have acquired,” IZVESTIYA said. “The meetings pointed to the passive coverage of the…"
   }
  },
  {
@@ -527,15 +542,18 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 9 April 1991 carried a Soviet article on how American Sovietologists saw Georgia's leaders pursuing state independence and a national guard; it does not report the declaration itself.",
   "pick": false,
+  "doubt": "Page discusses U.S. views of Georgian separatism; the independence declaration is not reported.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_0967",
-   "issue_date": "1991-04-09",
+   "identifier": "micro_IA1176915_0968",
+   "issue_date": "1991-04-10",
    "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 068, 9 April 1991",
-   "page": 12,
-   "snippet": "…ly to an analysis of the development of the nation alist and separatist trends .n the Soviet Transcaucasus where, in the opinion of leading U.S. Sovictologists, the have developed the “most. The policy being pursued the Georgian leaders 1s aimed, in their estimation acquisition of State independence, to which, as Amer specialists on the Soviet Union emphasize. all t decrees and decisions of the Georgian Supreme Sov including that on the format…"
+   "title": "FBIS Daily Report: Soviet Union, No. 069, 10 April 1991",
+   "page": 10,
+   "snippet": "…nal economy and that the situation ts such that the country has virtually no reserves to ensure the normal functioning of basic production sites connected with mining regions. Speaking of Mikhail Gorbachev's reaction to Georgia's declaration of state independence, Vitaliy Ignatenko expressed the view that the president's reaction “will be in accordance” with articles of the current USSR Con- stitution defining the right to leave the Union. Tod…"
   }
  },
  {
@@ -589,8 +607,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 11 April 1988 listed under Pakistan the Rawalpindi depot fire: Defense Ministry statement, casualty figures, a U.S. bomb squad arriving, and Delhi radio saying sabotage was not ruled out and the depot lay near a nuclear site.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0017",
    "issue_date": "1988-04-11",
@@ -624,8 +642,11 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The East Asia Daily Report of 12 April 1993 page carries Seoul YONHAP on South Korea grounding its F-16s and delaying a new envoy to Beijing; nothing on Chris Hani appears.",
   "pick": false,
+  "doubt": "Page has only South Korean items; Hani's assassination does not appear.",
+  "window": 400,
+  "start": 1,
   "evidence": {
    "identifier": "micro_IA1176901_0907",
    "issue_date": "1993-04-12",
@@ -655,8 +676,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 13 April 1979 carried Moscow Domestic Service in Russian: the Uganda National Liberation Front and Tanzanian troops held Kampala and Yusuf Lule headed a provisional government, while Amin claimed to control 90 percent of the country.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176913_0205",
    "issue_date": "1979-04-13",
@@ -688,7 +709,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of 11 April 1985 opened its Albania section with ATA reporting Enver Hoxha's death, followed by the funeral commission, national mourning, a 15 April funeral date and a medical bulletin.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176903_0321",
@@ -720,8 +741,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & Africa Daily Report of 14 April 1980 listed under Liberia 'President Tolbert Overthrown by Armed Forces', then a run of coup-council items: curfew, arrest orders, a cabinet list, and a call to halt random shooting.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0627",
    "issue_date": "1980-04-14",
@@ -752,8 +773,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 13 April 1990 carried Warsaw PAP in English: the USSR had admitted the NKVD murdered some 15,000 Polish officers at Katyn, calling it 'one of the most horrifying Stalinist crimes', as relayed via the BBC and Moscow radio.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176904_0084",
    "issue_date": "1990-04-13",
@@ -786,8 +807,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 14 April 1988 listed Afghanistan and Pakistan items on the accords: Junejo addressing the nation, Zia and Junejo hailing the agreement, and refugees in Iran protesting the Geneva agreements.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0020",
    "issue_date": "1988-04-14",
@@ -820,15 +841,17 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 16 April 1993 carried Iraqi opposition claims, via KUNA and Kurdish clandestine radio, of attacks on Ba'th officials in Baghdad; nothing on a plot against Bush.",
   "pick": false,
-  "evidence": {
-   "identifier": "micro_IA1176910_1208",
-   "issue_date": "1993-04-16",
-   "region": "NES",
-   "title": "FBIS Daily Report: Near East & South Asia, No. 072, 16 April 1993",
-   "page": 22,
-   "snippet": "…odies, following which the Iraqi regime deployed a large number of armed troops around sensitive centers and places which have been targeted by the opposition. The sources pointed out that the Iraqi opposition laid an ambush at the beginning of this month for a member of the leadership of the Karradah branch of the ruling Ba'th Party and killed him on the spot. Another group of revolutionaries carried out an operation in which they attacked…"
+  "doubt": "Page covers Iraqi opposition attacks inside Iraq, not the plot against former President Bush.",
+  "window": 400,
+  "start": 1,
+  "fail": {
+   "fail": "no page matched all keyword groups in 2 issue(s)",
+   "tried": [
+    "micro_IA1176910_1207",
+    "micro_IA1176910_1208"
+   ]
   }
  },
  {
@@ -859,8 +882,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & South Asia review of 15 April 1986 led with the U.S. raids: Tripoli radio claimed over 20 U.S. planes downed and vowed to kill captured pilots, while reports differed on whether Qadhdhafi was hurt and on 'dozens' or 'hundreds' of casualties.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176912_0861",
    "issue_date": "1986-04-15",
@@ -890,7 +913,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 17 April 1989 carried Moscow TASS in English citing XINHUA's obituary: Hu Yaobang, 'a prominent party official and statesman', had died that morning of a heart attack, with a brief career sketch.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_0490",
@@ -924,8 +947,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 18 April 1988 listed reactions to Abu Jihad's killing across North Africa: Qadhdhafi's condolences, Sudan denouncing the assassination, a Tunisian committee investigating, and a Kuwaiti cabinet session on the death.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0021",
    "issue_date": "1988-04-18",
@@ -962,8 +985,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & Africa Daily Report of 17 April 1984 carried Tripoli Domestic Service in Arabic accusing British police and 'agents of the British intelligence' of storming the Libyan People's Bureau in London and opening fire.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176909_0396",
    "issue_date": "1984-04-17",
@@ -998,14 +1021,13 @@
   "significance": "",
   "fbis": "",
   "pick": false,
-  "fail": {
-   "fail": "no page matched all keyword groups in 4 issue(s)",
-   "tried": [
-    "micro_IA1176912_0863",
-    "micro_IA1176914_1062",
-    "micro_IA1176912_0864",
-    "micro_IA1176914_1063"
-   ]
+  "evidence": {
+   "identifier": "micro_IA41152803_0442",
+   "issue_date": "1986-04-21",
+   "region": "NES",
+   "title": "Daily Report, Middle East & South Asia Review, 21 April 1986",
+   "page": 2,
+   "snippet": "…he report alleged that the attack would be carried out under the pretext ci “combatting” terrorism and “ndicated”™ that it would “most likely” be launched 10 May Israel In further reportage on the attempted attack on an El Al airliner in London, Israeli “political” sources stated that Israel regards the Abu Nidal group and Mu‘ammar al-Qadhdhafi as “respon- sible” for the attempt, and asserted that Israel “will not ignore” the incident, the T…"
   }
  },
  {
@@ -1035,8 +1057,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & Africa Daily Report of 18 April 1983 carried Beirut's Voice of Lebanon and Beirut Domestic Service: a car with a fake diplomatic plate crashed the U.S. Embassy entrance and exploded, with 20 employees and 5 marines reported killed.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176909_0133",
    "issue_date": "1983-04-18",
@@ -1070,7 +1092,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia review of 18 April 1988 reported IRNA on U.S. fire against the Nasr and Salman platforms, Iran calling for a 'holy defense against the U.S. invasion', and Iranian counterattacks on a Gulf oil platform and British barge.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176910_0021",
@@ -1101,7 +1123,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 19 April 1996 carried Cairo MENA: Foreign Minister Musa condemned Israel's strikes after the killing at Qana, where shelling of the Fijian UN contingent killed or wounded more than 150 sheltering civilians.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176911_0521",
@@ -1136,8 +1158,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 20 April 1995 listed Israeli leaders offering aid to Clinton over the Oklahoma City blast and, under Lebanon, Al-Hariri condemning a 'criminal act' and a Shiite leader denouncing the bombing.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176911_0257",
    "issue_date": "1995-04-20",
@@ -1175,8 +1197,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 21 April 1978 carried Moscow TASS on an 'unidentified plane' violating Soviet airspace near Murmansk and landing on a lake near Kem, plus Seoul radio citing Kosygin that two people died in the landing.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176912_1200",
    "issue_date": "1978-04-21",
@@ -1207,8 +1229,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The South Asia Daily Report of 21 April 1987 listed under Sri Lanka a 'huge' explosion ripping through Colombo's bus station, citing Delhi radio and AFP, with curfew details and a death toll reaching 110.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176912_1113",
    "issue_date": "1987-04-21",
@@ -1240,15 +1262,18 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 22 April 1996 carried a Duma debate on Russian troop losses in Chechnya, with Grachev explaining a disaster involving the 245th regiment; Dudayev appears only in passing.",
   "pick": false,
+  "doubt": "Page covers the Duma debate on Russian military losses, not Dudayev's death.",
+  "window": 400,
+  "start": 1,
   "evidence": {
    "identifier": "micro_IA1176916_0776",
    "issue_date": "1996-04-22",
    "region": "SOV",
    "title": "FBIS Daily Report: Central Eurasia, No. 078, 22 April 1996",
-   "page": 40,
-   "snippet": "…would have committed suicide. [Roman Popkovich, of the Our Home is Russia parlia- mentary faction, speaking from the rostrum) The events that happened were a consequence both of the growing aggressiveness of [Dzhokhar} Dudayev's side and of the rgoss mistakes made by the Russian military command while carrying out the plan of the peace settlement of the Chechen crisis. FBIS-SOV-96-078 22 April 1996 {Vladimir Lukin, Yabloko parliamentary facti…"
+   "page": 45,
+   "snippet": "…Commenting on his attitude to the plan for peaceful settlement in Chechnya, Grachev said that as a soldier, he has to fulfill it. At the same time, Grachev stressed that as a result of the realization of the peace plan, Dudayev’s militants might recover strength and continue large- scale military operations in future. Grachev said that “irretrievable losses” suffered by federal troops in Chechnya since the peace plan was announced reached 122…"
   }
  },
  {
@@ -1337,8 +1362,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 25 April 1994 carried Mexico City NOTIMEX: President Salinas sent condolences to Nixon's daughters, noting that Nixon, 81, died after a stroke and had stepped down over Watergate.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176907_0763",
    "issue_date": "1994-04-25",
@@ -1373,7 +1398,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of 24 April 1990 carried Belgrade TANJUG: Yugoslav Foreign Secretary Loncar opened his UN General Assembly speech by greeting Namibia as the newest member, its independence marking an end of the colonial era.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176904_0092",
@@ -1408,8 +1433,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 24 April 1991 carried Moscow TASS: spokesman Ignatenko said that as he briefed, Gorbachev was meeting at Novo-Ogarevo with leaders of nine republics willing to sign a new union treaty, Yeltsin among them.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0979",
    "issue_date": "1991-04-24",
@@ -1441,8 +1466,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The South Asia Daily Report of 25 April 1980 carried AFP: Iranian leaders ordered a probe into the White House announcement of two aircraft crashing on a rescue mission, and Iranian radio said divine protection 'wrecked the American action'.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176911_0628",
    "issue_date": "1980-04-25",
@@ -1474,7 +1499,7 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The South Asia Daily Report of 25 April 1980 carried AFP reports of Iran's reaction to Carter's announcement, including a militant at the embassy telling NHK he did not trust the White House account and that the hostages were well.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176911_0628",
@@ -1505,8 +1530,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & South Asia review of 26 April 1982 reported Cairo radio and MENA on Egyptian flags raised at Rafah and Sharm ash-Shaykh, the IDF completing its Sinai withdrawal, and Jerusalem radio on the demolition and evacuation of Yamit.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_1160",
    "issue_date": "1982-04-26",
@@ -1535,7 +1560,7 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 26 April 1993 carried an ITAR-TASS press review calling Sunday's all-Russia referendum the papers' principal topic, with worries about turnout and ROSSIYSKAYA GAZETA judging Yeltsin still held 'tangible prestige'.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_1397",
@@ -1567,8 +1592,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of 29 April 1986 listed how each bloc capital relayed the news: Bratislava noting the 'Kiev accident', ADN citing TASS, Budapest reporting it, and Warsaw citing TASS and a 'radioactive cloud'.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176903_0580",
    "issue_date": "1986-04-29",
@@ -1600,8 +1625,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report of 28 April 1978 carried Paris AFP from Islamabad: Kabul radio announced President Daud overthrown by an armed forces revolutionary council after fighting with tanks and MiG jets around the palace.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0083",
    "issue_date": "1978-04-28",
@@ -1635,8 +1660,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia front page of 28 April 1992 reported Kabul Radio and AFP on Mojaddedi arriving in Kabul amid celebratory gunfire to assume the interim presidency of the Islamic State of Afghanistan, declaring a general amnesty.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_1018",
    "issue_date": "1992-04-28",
@@ -1668,8 +1693,8 @@
   "spycraft": false,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia contents for May 1991 listed Islamabad Radio on Pakistan's prime minister leaving for Bangladesh with aid, returning from Dhaka, and announcing a grant for cyclone victims.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0772",
    "issue_date": "1991-05-01",
@@ -1744,8 +1769,8 @@
   "spycraft": true,
   "summary": "",
   "significance": "",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & Africa Daily Report of 1 May 1980 carried AFP: Qotbzadeh said Iran would never bow to the 'terrorists' holding 20 hostages at its London embassy, while three Arab-Iranian groups in Beirut claimed the seizure.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176908_0641",
    "issue_date": "1980-05-01",

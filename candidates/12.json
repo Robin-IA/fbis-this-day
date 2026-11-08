@@ -21,8 +21,11 @@
   "spycraft": false,
   "summary": "On 1 December 1989 Mikhail Gorbachev visited the Vatican and met Pope John Paul II, the first meeting between a Soviet leader and a pope.",
   "significance": "The two agreed to establish relations, and Gorbachev promised freedom of conscience in the USSR, including for Ukraine's suppressed Greek Catholic church.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 1 December 1989 carried an interview with party official Krachev, in Rome with Gorbachev for his meeting with the Pope, welcoming US backing for Aquino against a coup attempt. The papal meeting itself is only mentioned in passing.",
+  "pick": true,
+  "doubt": "Vatican meeting mentioned only in passing; item is about the Philippine coup attempt",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-01",
@@ -46,8 +49,11 @@
   "spycraft": false,
   "summary": "On 1 December 1991 over ninety per cent of voters in Ukraine approved the declaration of independence, and Leonid Kravchuk was elected president.",
   "significance": "Without Ukraine, the Soviet Union could not survive; within a week its leaders met at Belovezha to dissolve it.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union contents for December 1991 listed, under Ukraine, economic friction with Russia over prices, reaction to price reform and a Kravchuk decree against speculation. The independence vote is not among the items shown.",
+  "pick": false,
+  "doubt": "contents page shows Ukrainian economic items, not the referendum",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-02",
@@ -74,8 +80,11 @@
   "spycraft": false,
   "summary": "On 2 December 1980 four American churchwomen, three nuns and a lay missioner, were abducted and murdered by members of El Salvador's National Guard.",
   "significance": "The killings caused President Carter to suspend aid to El Salvador briefly and made the Salvadoran military's abuses a lasting issue in Congress.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 5 December 1980 carried San Jose Radio Reloj reading a Central American bishops' document, dated 1 December, decrying repression and terrorism in the region. The murder of the churchwomen is not reported on this page.",
+  "pick": false,
+  "doubt": "bishops' statement predates the murders; no mention of them",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-02",
@@ -100,8 +109,8 @@
   "spycraft": false,
   "summary": "On 2-3 December 1989 George Bush and Mikhail Gorbachev held their first summit aboard ships off Malta, weeks after the Berlin Wall opened.",
   "significance": "The Malta summit is often taken as the moment the two leaders declared the Cold War over.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 4 December 1989 carried Belgrade TANJUG in English: Bush and Gorbachev ended the Malta summit with an unprecedented joint news conference, expressing satisfaction with talks \"on the way to achieve lasting peace\".",
+  "pick": true
  },
  {
   "md": "12-02",
@@ -125,8 +134,11 @@
   "spycraft": false,
   "summary": "On 2 December 1993 Colombian police tracked down and killed the Medellin cartel leader Pablo Escobar on a rooftop in Medellin.",
   "significance": "The hunt, assisted by US intelligence and special forces, ended the cartel's campaign of bombings against the Colombian state.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 2 December 1993 carried Bogota Inravision television of 1 December on Escobar accusing the Cali cartel's head of involvement with the Pepes. The page predates his death.",
+  "pick": false,
+  "doubt": "item is from the day before Escobar was killed",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-03",
@@ -145,8 +157,8 @@
   "spycraft": false,
   "summary": "On the night of 2-3 December 1984 methyl isocyanate gas leaked from the Union Carbide pesticide plant in Bhopal, India, killing thousands.",
   "significance": "The world's worst industrial disaster put an American corporation's conduct abroad on trial.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The South Asia Daily Report of 3 December 1984 carried Delhi Domestic Service in English: 62 dead and thousands in hospital after poisonous gas leaked from a Bhopal factory overnight; a judicial inquiry was ordered and factory officials reportedly arrested.",
+  "pick": true
  },
  {
   "md": "12-03",
@@ -171,7 +183,7 @@
   "spycraft": false,
   "summary": "On 3 December 1989 the entire Politburo and Central Committee of East Germany's ruling party resigned, and Erich Honecker and other former leaders were expelled from the party.",
   "significance": "The party's collapse left the GDR state without its leadership weeks after the Wall opened.",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of 4 December 1989 ran a chronology of the Krenz and Central Committee resignations, carrying ADN and East Berlin television on Modrow and deputies' outrage at old-Politburo corruption in the People's Chamber.",
   "pick": false
  },
  {
@@ -190,7 +202,7 @@
   "spycraft": false,
   "summary": "On 3 December 1990 rebel army officers loyal to Colonel Mohamed Ali Seineldin seized army headquarters in Buenos Aires. Loyal troops put down the uprising within a day, at a cost of over a dozen lives.",
   "significance": "It was the last of the 'carapintada' rebellions against civilian rule, and came on the eve of a visit by President Bush.",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 3 December 1990 carried Buenos Aires NOTICIAS ARGENTINAS: a state of siege decreed as \"Painted Faces\" rebels seized Army headquarters, the Patricios Regiment and a tank factory, while Colonel Seineldin was reported under arrest.",
   "pick": false
  },
  {
@@ -219,7 +231,7 @@
   "spycraft": false,
   "summary": "On 4 December 1984 hijackers seized a Kuwait Airways flight and forced it to Tehran, where they killed two US AID officials. Iranian security forces stormed the plane on 9 December.",
   "significance": "The hijackers demanded the release of the Dawa prisoners held in Kuwait for the 1983 bombings, including of the US Embassy; Washington accused Tehran of complicity.",
-  "fbis": "",
+  "fbis": "The Middle East & South Asia review of 4 December 1984 led with the hijacking of a Kuwaiti airliner to Tehran, citing Kuwait radio, IRNA saying a passenger was killed, and Kuwaiti appeals to Iran to protect the passengers.",
   "pick": false
  },
  {
@@ -243,8 +255,8 @@
   "spycraft": true,
   "summary": "On 4 December 1991 Islamic Jihad released Terry Anderson, the Associated Press correspondent kidnapped in Beirut in March 1985.",
   "significance": "Anderson's release after nearly seven years effectively ended the Lebanon hostage crisis that had drawn the Reagan administration into the Iran-Contra affair.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East & South Asia Daily Report of 4 December 1991 carried Jerusalem Qol Yisra'el in Hebrew interviewing Israeli negotiator Slonim on whether Terry Anderson's release brought Israel's missing airmen closer, and an unconfirmed report that Ron Arad was held by Syria.",
+  "pick": true
  },
  {
   "md": "12-05",
@@ -269,7 +281,7 @@
   "spycraft": false,
   "summary": "On 5 December 1978 Afghan leader Nur Mohammad Taraki and Leonid Brezhnev signed a twenty-year Treaty of Friendship, Good-Neighbourliness and Cooperation in Moscow.",
   "significance": "Moscow later cited the treaty as the legal basis for its invasion of Afghanistan a year later.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 5 December 1978 listed, under South Asia, the Taraki-led Afghan delegation's Moscow visit: Kremlin talks begun and ended, and the friendship and cooperation treaty signed.",
   "pick": false
  },
  {
@@ -298,8 +310,11 @@
   "spycraft": false,
   "summary": "On 5 December 1980 the leaders of the Warsaw Pact states met in Moscow to discuss the crisis in Poland, amid Western fears of a Soviet invasion.",
   "significance": "US intelligence, warned by the CIA's agent in the Polish general staff, Ryszard Kuklinski, judged an intervention possible; President Carter publicly warned Moscow.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Eastern Europe Daily Report of 5 December 1980 carried a Hungarian television panel on Poland, denying a link between the Warsaw Pact defence ministers' Bucharest meeting and Polish events. The Moscow leaders' meeting is not on this page.",
+  "pick": false,
+  "doubt": "covers the Bucharest defence ministers' meeting, not the Moscow summit",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-05",
@@ -325,8 +340,8 @@
   "spycraft": false,
   "summary": "On 5 December 1994 at a CSCE summit in Budapest, the United States, Britain and Russia signed memoranda giving security assurances to Ukraine, Belarus and Kazakhstan in return for giving up their Soviet nuclear weapons.",
   "significance": "The agreement removed the world's third-largest nuclear arsenal from Ukraine.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Central Eurasia Daily Report of 5 December 1994 carried Kiev radio on Kuchma arriving for the Budapest CSCE summit, and Paris AFP: Ukraine signed the NPT in exchange for security guarantees from the US, Russia and Britain.",
+  "pick": true
  },
  {
   "md": "12-06",
@@ -352,8 +367,8 @@
   "spycraft": true,
   "summary": "On 6 December 1989 a truck bomb exploded outside the headquarters of Colombia's Administrative Department of Security (DAS) in Bogota, killing over sixty people. It was aimed at the DAS director, Miguel Maza Marquez, who survived.",
   "significance": "The Medellin cartel's attack on the state security service was one of the bloodiest of its war against extradition to the United States.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 7 December 1989 carried Paris AFP in Spanish: a car bomb at the DAS security headquarters in Bogota killed seven and wounded at least 20, while director Maza Marquez escaped unhurt.",
+  "pick": true
  },
  {
   "md": "12-06",
@@ -374,7 +389,7 @@
   "spycraft": false,
   "summary": "On 6 December 1992 Hindu nationalist crowds demolished the sixteenth-century Babri mosque at Ayodhya in northern India.",
   "significance": "The demolition set off riots across India that killed some two thousand people and strained relations with Pakistan.",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 9 December 1992 carried badly garbled Pakistani reaction: Radio Pakistan on shock at the demolition of the Babri mosque, Bhutto postponing a march, and an editorial calling it an outrage.",
   "pick": false
  },
  {
@@ -398,8 +413,8 @@
   "spycraft": false,
   "summary": "On 7 December 1988 an earthquake struck northern Armenia, destroying Spitak and much of Leninakan and killing about 25,000 people.",
   "significance": "Gorbachev cut short his visit to the United States, and for the first time the Soviet Union accepted large-scale Western aid, including from America.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 7 December 1988 carried Yerevan Domestic Service's emergency announcement that a strong earthquake had hit Leninakan, Spitak and other towns, with casualties and a government commission formed.",
+  "pick": true
  },
  {
   "md": "12-07",
@@ -427,8 +442,11 @@
   "spycraft": false,
   "summary": "On 7 December 1988 Mikhail Gorbachev told the UN General Assembly that the Soviet Union would cut its armed forces by half a million men, including withdrawals from Eastern Europe.",
   "significance": "The unilateral cuts signalled Moscow would no longer hold Eastern Europe by force.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 7 December 1988 carried a Zagreb radio commentary previewing Gorbachev's UN speech and meetings with Reagan and Bush, expecting progress on arms cuts. The troop-cut announcement itself is not on this page.",
+  "pick": false,
+  "doubt": "preview only; the announcement is not reported",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-08",
@@ -455,7 +473,7 @@
   "spycraft": false,
   "summary": "On 8 December 1987 Ronald Reagan and Mikhail Gorbachev signed the Intermediate-Range Nuclear Forces Treaty in Washington.",
   "significance": "The treaty eliminated an entire class of nuclear missiles, with intrusive on-site inspections that broke new ground in verification.",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of 8 December 1987 carried Prague CTK in English: Polednik and World Peace Council chairman Chandra stressed the historic significance of the Washington summit and the treaty eliminating medium- and shorter-range missiles.",
   "pick": false
  },
  {
@@ -480,8 +498,8 @@
   "spycraft": false,
   "summary": "On 8 December 1991 the leaders of Russia, Ukraine and Belarus, meeting at Belovezha near Brest, declared that the Soviet Union had ceased to exist and formed the Commonwealth of Independent States.",
   "significance": "The agreement ended the Soviet Union in all but name; Gorbachev resigned seventeen days later.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 9 December 1991 carried Moscow TASS in English on Japan's cautious reaction to the Slavic leaders' statement ending the Soviet Union, with Tokyo sending a special envoy to Moscow and Kiev.",
+  "pick": true
  },
  {
   "md": "12-09",
@@ -504,7 +522,7 @@
   "spycraft": false,
   "summary": "On 9 December 1987, after an Israeli truck collided with cars carrying Palestinian workers in Gaza, protests spread into a general uprising in the occupied territories.",
   "significance": "The intifada brought the Palestinian question back to the centre of world politics and led the US to open a dialogue with the PLO a year later.",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 10 December 1987 listed, under Israel, \"'Severe' Riots Break Out in Gaza; Student Shot\", with youths detained, riots continuing on 10 December and a Molotov cocktail near Ramallah.",
   "pick": false
  },
  {
@@ -532,8 +550,8 @@
   "spycraft": false,
   "summary": "On 9 December 1990 Lech Walesa, the Solidarity leader, won Poland's presidential run-off election against Stanislaw Tyminski.",
   "significance": "The electrician who led the 1980 strikes became head of state ten years later.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 10 December 1990 carried Warsaw Television's forecast giving Walesa 77 percent to Tyminski's 23, his first comments, and his victory statement that the system was beaten \"without a single shot\".",
+  "pick": true
  },
  {
   "md": "12-10",
@@ -557,8 +575,8 @@
   "spycraft": false,
   "summary": "On 10 December 1983 Raul Alfonsin was sworn in as president of Argentina, ending seven years of military rule.",
   "significance": "He soon decreed the prosecution of the junta leaders for the disappearances.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 12 December 1983 opened with Argentina: foreign delegations arriving, Vice President Bush booed at Congress and the inauguration, Alfonsin's inaugural address and his Plaza de Mayo speech.",
+  "pick": true
  },
  {
   "md": "12-10",
@@ -580,8 +598,11 @@
   "spycraft": false,
   "summary": "On 10 December 1989 President Gustav Husak swore in a government with a non-communist majority, then resigned.",
   "significance": "Husak had presided over the 'normalisation' after the 1968 invasion; his departure cleared the way for Havel's election.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 11 December 1989 carried Prague Domestic Service on President Husak's broad amnesty decree of 8 December, halting prosecutions for subversion and other political offences. The new government and Husak's resignation are not on this page.",
+  "pick": false,
+  "doubt": "page shows Husak's amnesty, not the new government or his resignation",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-11",
@@ -605,8 +626,11 @@
   "spycraft": false,
   "summary": "On 11 December 1994 Russian troops moved into Chechnya to crush its declared independence.",
   "significance": "The war became a disaster for the Russian army and Boris Yeltsin.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Central Eurasia Daily Report of 12 December 1994 carried a Moscow press review: ROSSIYSKAYA GAZETA's \"tense waiting\" in Chechnya and IZVESTIYA on a tightening blockade and Yeltsin's choice. The entry of troops is not reported here.",
+  "pick": true,
+  "doubt": "press review describes the blockade, not the troops' entry",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-12",
@@ -631,8 +655,8 @@
   "spycraft": false,
   "summary": "On 12 December 1979 NATO ministers in Brussels decided to deploy US Pershing II and cruise missiles in Western Europe from 1983, while offering arms control talks on intermediate-range missiles.",
   "significance": "The decision answered the Soviet SS-20 and set off the Euromissile crisis of the early 1980s.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Eastern Europe Daily Report of 12 December 1979 carried a Warsaw Pact foreign minister warning that a NATO decision in Brussels to deploy US medium-range missiles would upset the European balance and fuel a new arms race.",
+  "pick": true
  },
  {
   "md": "12-12",
@@ -659,7 +683,7 @@
   "spycraft": false,
   "summary": "On 12 December 1993 Russians approved a new presidential constitution and elected a new parliament, in which Vladimir Zhirinovsky's Liberal Democratic Party won the largest share of the party-list vote.",
   "significance": "The constitution entrenched Yeltsin's power after the October crisis, but the nationalist vote alarmed the West.",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 13 December 1993 carried Poltoranin warning Zhirinovskiy could become president in 1994, and ROSSIYSKAYA GAZETA printing the electoral commission's appeal on the constitutional vote.",
   "pick": false
  },
  {
@@ -684,8 +708,8 @@
   "spycraft": true,
   "summary": "On 13 December 1981 General Wojciech Jaruzelski declared martial law in Poland; Solidarity's leaders were interned and the army and security forces took control.",
   "significance": "The crackdown had been prepared in secret; the CIA had been forewarned by its agent on the Polish general staff, Colonel Ryszard Kuklinski, who had been exfiltrated weeks before. Washington imposed sanctions on Poland and the USSR.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Eastern Europe Daily Report of 14 December 1981 listed Bulgarian and Hungarian coverage: \"Jaruzelski Declares Martial Law in Poland\", his speech, emergency laws and Western reaction, alongside Schmidt's GDR visit.",
+  "pick": true
  },
  {
   "md": "12-14",
@@ -708,8 +732,8 @@
   "spycraft": false,
   "summary": "On 14 December 1981 the Knesset passed the Golan Heights Law, applying Israeli law and administration to the territory captured from Syria in 1967.",
   "significance": "The effective annexation led the Reagan administration to suspend a newly signed strategic cooperation agreement with Israel.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Middle East & Africa Daily Report of 14 December 1981 carried Jerusalem radio: an extraordinary Cabinet session decided to apply Israeli law to the Golan Heights, with MAPAM and Shinuy opposed.",
+  "pick": true
  },
  {
   "md": "12-14",
@@ -734,7 +758,7 @@
   "spycraft": false,
   "summary": "On 14 December 1995 the leaders of Bosnia, Croatia and Serbia formally signed the Dayton peace agreement in Paris.",
   "significance": "The signing ended the Bosnian war and handed peacekeeping to a NATO-led force including US troops.",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of 14 December 1995 listed Romania welcoming implementation of the Dayton accords and, under Yugoslavia, TANJUG calling the Paris signing the \"crowning glory\" of peace efforts.",
   "pick": false
  },
  {
@@ -765,8 +789,8 @@
   "spycraft": false,
   "summary": "On 15 December 1978 President Carter and the Chinese government announced that the United States and the People's Republic of China would establish full diplomatic relations on 1 January 1979.",
   "significance": "Normalisation, with the end of US recognition of Taiwan, completed the strategic opening to China against the Soviet Union.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Eastern Europe Daily Report of 18 December 1978 listed reports on US-PRC diplomatic relations from Tirana, Sofia, Prague, Bratislava, East Berlin and Budapest, including Carter's announcement.",
+  "pick": true
  },
  {
   "md": "12-16",
@@ -789,8 +813,8 @@
   "spycraft": false,
   "summary": "On 16 December 1986 Moscow replaced Kazakhstan's party leader Dinmukhamed Kunayev with Gennadiy Kolbin, a Russian; Kazakh students protested in Alma-Ata the next day and the protests were put down by force.",
   "significance": "It was the first major outbreak of national unrest of the Gorbachev era.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 17 December 1986 carried Moscow TASS in English: a Kazakh party plenum replaced Kunayev, retired \"at his request\", with Gennadiy Kolbin. The Alma-Ata riots are not mentioned on this page.",
+  "pick": true
  },
  {
   "md": "12-16",
@@ -811,8 +835,11 @@
   "spycraft": false,
   "summary": "On 16 December 1991 Kazakhstan declared independence, the last Soviet republic to do so.",
   "significance": "Kazakhstan held a large share of the Soviet nuclear arsenal.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 16 December 1991 carried a report on the Islamic Conference summit in Dakar, noting a Kazakh deputy foreign minister attending as an observer. Kazakhstan's independence declaration is not on this page.",
+  "pick": false,
+  "doubt": "page is about the Dakar ICO summit; no independence declaration",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-17",
@@ -851,8 +878,8 @@
   "spycraft": true,
   "summary": "On 17 December 1989 Romanian army and Securitate forces opened fire on demonstrators in Timisoara, where protests had begun over the attempted eviction of the pastor Laszlo Tokes.",
   "significance": "The massacre set off the revolution that overthrew Nicolae Ceausescu within a week.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 18 December 1989 carried Budapest Television's witness account of clashes in Timisoara after an attempt to evict Laszlo Toekes, with crowds shouting \"Down with Ceausescu\", and DIE WELT on his defenders.",
+  "pick": true
  },
  {
   "md": "12-17",
@@ -875,7 +902,7 @@
   "spycraft": false,
   "summary": "On 17 December 1989 Fernando Collor de Mello defeated Luiz Inacio Lula da Silva in Brazil's first direct presidential election since 1960.",
   "significance": "Collor's election completed Brazil's return to democracy; he was impeached three years later.",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 20 December 1989 carried Buenos Aires TELAM: President Menem sent warm congratulations to Fernando Collor de Mello on his election as Brazil's president.",
   "pick": false
  },
  {
@@ -899,8 +926,11 @@
   "spycraft": false,
   "summary": "On 18 December 1989 Nicolae Ceausescu left Bucharest for a state visit to Iran, while his security forces were putting down the uprising in Timisoara.",
   "significance": "He cut the visit short and returned on 20 December to a regime days from collapse.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 18 December 1989 carried, on this page, Albanian national day greetings, including a message from Ceausescu and Dascalescu. Nothing here on his trip to Iran or Timisoara.",
+  "pick": false,
+  "doubt": "Albanian anniversary messages; not the Iran trip",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-18",
@@ -923,8 +953,11 @@
   "spycraft": false,
   "summary": "On 18 December 1992 Kim Young-sam won South Korea's presidential election, becoming its first civilian president in three decades.",
   "significance": "His government curbed the military and the intelligence service and prosecuted former presidents Chun and Roh.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Asia Daily Report of 18 December 1992 carried THE KOREA TIMES of 12 December on candidate Kim Yong-sam dismissing Chong Chu-yong's promised \"bombshell\". The page predates the election result.",
+  "pick": true,
+  "doubt": "pre-election campaign item, not the result",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-19",
@@ -949,8 +982,11 @@
   "spycraft": false,
   "summary": "On 19 December 1984 Margaret Thatcher and Zhao Ziyang signed the Sino-British Joint Declaration, under which Hong Kong would return to China in 1997.",
   "significance": "The agreement set out the 'one country, two systems' formula.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The South Asia Daily Report of 20 December 1984 carried Hong Kong AFP on Bangladesh banning political activity to thwart a general strike. Nothing on the Hong Kong agreement appears on this page.",
+  "pick": false,
+  "doubt": "match is on a Hong Kong dateline; page covers Bangladesh",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-19",
@@ -969,8 +1005,8 @@
   "spycraft": true,
   "summary": "On 19 December 1986 the Soviet government announced that Andrey Sakharov could return to Moscow from internal exile in Gorkiy, where he had been watched by the KGB since 1980.",
   "significance": "Sakharov's release was the most visible sign that Gorbachev's reforms extended to the treatment of dissidents.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 19 December 1986 listed \"Sakharov, Bonner Allowed To Return to Moscow\" among its national affairs items; much of the contents page is garbled.",
+  "pick": true
  },
  {
   "md": "12-20",
@@ -995,8 +1031,11 @@
   "spycraft": true,
   "summary": "On 20 December 1989 US forces invaded Panama to remove General Manuel Noriega, the country's ruler and a former intelligence chief who had for years been a paid CIA asset.",
   "significance": "Operation Just Cause, the largest US combat operation since Vietnam, ended in Noriega's surrender and trial in Miami on drug charges.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 20 December 1989 carried Madrid EFE on the Andean Pact presidents voicing \"serious concern\" over recent incidents in Panama and urging democracy there. The invasion itself is not on this page.",
+  "pick": false,
+  "doubt": "Andean summit statement before the invasion",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-20",
@@ -1019,8 +1058,8 @@
   "spycraft": false,
   "summary": "On 20 December 1990 Soviet Foreign Minister Eduard Shevardnadze resigned in a speech to the Congress of People's Deputies, warning that dictatorship was approaching.",
   "significance": "Shevardnadze had been Washington's partner in ending the Cold War. His warning proved prescient: hard-liners attempted a coup eight months later.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 21 December 1990 listed, under Yugoslavia, reaction to Shevardnadze's resignation: Loncar on a \"dramatic situation\", TANJUG calling it a sign of deterioration, and Belgrade radio on deep cracks in perestroyka.",
+  "pick": true
  },
  {
   "md": "12-21",
@@ -1066,8 +1105,11 @@
   "spycraft": false,
   "summary": "On 21 December 1989 a mass rally called by Nicolae Ceausescu in Bucharest turned against him, and fighting broke out in the capital that night.",
   "significance": "The televised moment the crowd jeered him marked the end of his regime.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 22 December 1989 carried Prague Domestic Service: the Czechoslovak government condemned the \"brutal\" suppression in Timisoara and recalled its ambassador. The Bucharest rally is not described on this page.",
+  "pick": false,
+  "doubt": "covers condemnation of the crackdown, not the rally",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-21",
@@ -1089,8 +1131,11 @@
   "spycraft": false,
   "summary": "On 21 December 1991 the leaders of eleven Soviet republics met in Alma-Ata and agreed to form the Commonwealth of Independent States.",
   "significance": "The Alma-Ata declaration sealed the end of the USSR; Gorbachev resigned four days later.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 23 December 1991 carried a commentary on divided control of nuclear arsenals among Yeltsin, Nazarbayev, Kravchuk and Shushkevich after Baker's visit. The Alma-Ata meeting is not reported here.",
+  "pick": true,
+  "doubt": "commentary on nuclear control; the Alma-Ata accession is not shown",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-22",
@@ -1116,8 +1161,11 @@
   "spycraft": true,
   "summary": "On 22 December 1989 Nicolae and Elena Ceausescu fled the Central Committee building in Bucharest by helicopter as the army went over to the crowds. Fighting with Securitate loyalists continued for days.",
   "significance": "Romania's was the only violent overthrow of a communist regime in Eastern Europe in 1989.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 22 December 1989 carried Bulgarian protest at the \"bloody terror\" in Romania, including a BTA staff declaration and Sofia radio witnesses from Timisoara. Ceausescu's flight is not reported on this page.",
+  "pick": true,
+  "doubt": "Bulgarian protests before Ceausescu's flight",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-23",
@@ -1139,7 +1187,7 @@
   "spycraft": true,
   "summary": "On 23 December 1986 Andrey Sakharov and Yelena Bonner returned to Moscow by train after nearly seven years of internal exile in Gorkiy.",
   "significance": "His return gave Gorbachev's glasnost credibility abroad and brought the leading Soviet dissident back into public life.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 23 December 1986 listed \"Sakharov, Bonner Return to Moscow 23 Dec\" and Sakharov discussing his return, both from AFP, alongside items on the Alma-Ata riots.",
   "pick": false
  },
  {
@@ -1162,8 +1210,8 @@
   "spycraft": false,
   "summary": "On 23 December 1990 Slovenians voted overwhelmingly in a plebiscite for independence from Yugoslavia.",
   "significance": "The vote set the course for the breakup of Yugoslavia in 1991.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 24 December 1990 carried Belgrade TANJUG: a clear majority voted for a \"sovereign and independent\" Slovenia, and Kucan, Bucar and Peterle hailed the plebiscite.",
+  "pick": true
  },
  {
   "md": "12-24",
@@ -1187,8 +1235,8 @@
   "spycraft": true,
   "summary": "On 24 December 1989 General Manuel Noriega, hunted by US forces, took refuge in the Vatican's nunciature in Panama City.",
   "significance": "US troops surrounded the building and blared loud music at it; Noriega surrendered on 3 January 1990.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Latin America Daily Report of 26 December 1989 carried Madrid EFE on Cuba's Alarcon saying Noriega would have been granted asylum, as his refuge in the nunciature was confirmed, and Havana radio protesting the US siege of Cuba's embassy.",
+  "pick": true
  },
  {
   "md": "12-24",
@@ -1213,7 +1261,7 @@
   "spycraft": false,
   "summary": "On 24 December 1994 gunmen of Algeria's Armed Islamic Group seized an Air France Airbus at Algiers airport. French gendarmes stormed it in Marseille two days later.",
   "significance": "The hijackers were believed to have intended to crash the plane into Paris.",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 27 December 1994 carried Radio Algiers and Paris LCI Television on four men seizing an Air France Airbus in Algiers, a crisis team formed, and 19 passengers released.",
   "pick": false
  },
  {
@@ -1239,8 +1287,11 @@
   "spycraft": false,
   "summary": "On 25 December 1989 Nicolae and Elena Ceausescu were tried by a hastily convened military tribunal at Targoviste and shot.",
   "significance": "Their execution was meant to end Securitate resistance; footage was shown on Romanian television the next day.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 26 December 1989 carried Bulgarian items from 22 December welcoming the end of the \"Ceausescu nightmare\" and a Romanian embassy statement. The trial and execution are not reported on this page.",
+  "pick": false,
+  "doubt": "page predates the trial and execution",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-25",
@@ -1263,8 +1314,8 @@
   "spycraft": false,
   "summary": "On 25 December 1991 Mikhail Gorbachev resigned as President of the USSR in a televised address, and the Soviet flag was lowered over the Kremlin.",
   "significance": "The end of the Soviet Union closed the Cold War.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Soviet Union Daily Report of 26 December 1991 carried Moscow INTERFAX in English: an hour and a half before resigning, Gorbachev phoned Bush urging support for the Commonwealth and Russia, and spoke with Genscher.",
+  "pick": true
  },
  {
   "md": "12-26",
@@ -1289,7 +1340,7 @@
   "spycraft": false,
   "summary": "On 26 December 1991 the Soviet of the Republics of the USSR Supreme Soviet adopted a declaration recognising that the Soviet Union had ceased to exist.",
   "significance": "It was the formal end of the Soviet state.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 26 December 1991 carried All-Union Radio Mayak: the Supreme Soviet adopted a decision on its own liquidation, with its chairman saying it was time \"to take our leave\".",
   "pick": false
  },
  {
@@ -1316,8 +1367,8 @@
   "spycraft": false,
   "summary": "On 26 December 1991 the Islamic Salvation Front won a clear lead in the first round of Algeria's parliamentary elections.",
   "significance": "The army cancelled the second round in January 1992, setting off a decade of civil war.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East & South Asia front page of 27 December 1991, in garbled OCR, reported Algiers radio's preliminary data that the Islamic Salvation Front claimed victory in 89 of 124 constituencies, with turnout of 58.55 percent.",
+  "pick": true
  },
  {
   "md": "12-27",
@@ -1340,8 +1391,8 @@
   "spycraft": true,
   "summary": "On 27 December 1979 Soviet KGB and military special forces stormed the Tajbeg palace in Kabul and killed Afghan leader Hafizullah Amin; Babrak Karmal was installed in his place.",
   "significance": "The operation, disguised at first as an Afghan affair, was the opening act of the Soviet war in Afghanistan.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Eastern Europe Daily Report of 28 December 1979 carried Budapest Domestic Service in Hungarian: Amin's government had been overthrown and Kabul radio read a Babrak Karmal declaration attacking it.",
+  "pick": true
  },
  {
   "md": "12-27",
@@ -1365,7 +1416,7 @@
   "spycraft": false,
   "summary": "On 27 December 1985 gunmen of the Abu Nidal Organisation attacked El Al and TWA check-in counters at Rome and Vienna airports, killing nineteen people including five Americans.",
   "significance": "Washington blamed Libya for supporting the attackers, imposing sanctions in January and leading to the US bombing of Libya in April 1986.",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of 30 December 1985 listed, under Romania and Yugoslavia, condemnations of the Rome and Vienna airport attacks, Belgrade's \"sharply\".",
   "pick": false
  },
  {
@@ -1388,8 +1439,11 @@
   "spycraft": false,
   "summary": "On 28 December 1989 Alexander Dubcek, leader of the 1968 Prague Spring, was elected chairman of the Federal Assembly of Czechoslovakia.",
   "significance": "The return of the man deposed by the Soviet invasion completed the symbolism of the Velvet Revolution.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 28 December 1989 carried a poll in which few named Dubcek, and Vienna's DER STANDARD interviewing Havel on serving temporarily as president. Dubcek's election is not on this page.",
+  "pick": true,
+  "doubt": "page has a poll and Havel interview; not Dubcek's election",
+  "window": 400,
+  "start": 1
  },
  {
   "md": "12-29",
@@ -1414,8 +1468,8 @@
   "spycraft": false,
   "summary": "On 29 December 1989 the Federal Assembly unanimously elected the dissident playwright Vaclav Havel president of Czechoslovakia.",
   "significance": "A man imprisoned by the regime months earlier became head of state; under Havel, Czechoslovakia opened the files of its secret police, the StB.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 29 December 1989 carried the Federal Assembly session recommending Havel for president and Dubcek for chairman, and Prague CTK on the new presidential oath.",
+  "pick": true
  },
  {
   "md": "12-30",
@@ -1437,8 +1491,8 @@
   "spycraft": false,
   "summary": "On 30 December 1993 Israel and the Holy See signed a Fundamental Agreement in Jerusalem leading to full diplomatic relations.",
   "significance": "The agreement ended decades of Vatican non-recognition of Israel.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Near East & South Asia contents for January 1994 listed \"Vatican Representative Signs Recognition Accord\" under Israel, with Jordanian and Lebanese reaction, including Fadlallah's criticism.",
+  "pick": true
  },
  {
   "md": "12-31",
@@ -1462,8 +1516,8 @@
   "spycraft": false,
   "summary": "On 31 December 1981 Flight Lieutenant Jerry Rawlings overthrew Ghana's elected President Hilla Limann, two years after he had handed power to civilians.",
   "significance": "Rawlings would rule Ghana until 2001.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The Middle East & Africa Daily Report of 31 December 1981 carried Accra Domestic Service in English with Rawlings' recorded address announcing \"nothing less than a revolution\" and calling for proper democracy; the OCR is partly scrambled.",
+  "pick": true
  },
  {
   "md": "12-31",
@@ -1490,7 +1544,7 @@
   "spycraft": false,
   "summary": "On 31 December 1983 the Nigerian army overthrew President Shehu Shagari's civilian government; Major General Muhammadu Buhari became head of state.",
   "significance": "The coup ended Nigeria's Second Republic.",
-  "fbis": "",
+  "fbis": "The Latin America contents for January 1984 listed, under Venezuela, the implications of the Nigerian coup for OPEC and a \"price war\", and comment by Herrera on the coup.",
   "pick": false
  },
  {
@@ -1519,7 +1573,10 @@
   "spycraft": false,
   "summary": "At midnight on 31 December 1992 Czechoslovakia ceased to exist, peacefully dividing into the Czech Republic and Slovakia.",
   "significance": "The 'velvet divorce' contrasted sharply with the bloody breakup of Yugoslavia.",
-  "fbis": "",
-  "pick": false
+  "fbis": "The East Europe Daily Report of 31 December 1992 carried Prague CTK on a split in the Moravian autonomy movement and Klaus calling the Czech economy healthy. The dissolution itself is not reported on this page.",
+  "pick": false,
+  "doubt": "no report of the split itself on this page",
+  "window": 400,
+  "start": 1
  }
 ]

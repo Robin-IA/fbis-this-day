@@ -12,6 +12,8 @@ pick still gets a file (its issues), and the page says it has no entry yet.
 """
 import datetime
 import json
+
+from usdates import conv
 import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -40,7 +42,10 @@ def main():
         cands += [c for c in json.loads(f.read_text()) if "evidence" in c]
     by_day = {}
     for c in cands:
-        by_day.setdefault(c["md"], []).append({k: c[k] for k in KEEP if k in c} | {"pick": bool(c.get("pick"))})
+        e = {k: conv(c[k]) for k in KEEP if k in c}
+        if c.get("doubt"):  # its note described a page that did not show the event; rewrite before publishing
+            e.pop("fbis", None)
+        by_day.setdefault(c["md"], []).append(e | {"pick": bool(c.get("pick"))})
 
     out = ROOT / "data" / "days"
     out.mkdir(parents=True, exist_ok=True)

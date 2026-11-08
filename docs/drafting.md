@@ -59,7 +59,7 @@ to three days after.
   group matches if any alternative appears (case-insensitive substring). Use
   stems and spelling variants, because the OCR is noisy and FBIS used its
   own transliteration (`qadhdhafi`, `khomeyni`, `andropov`). Put the most
-  distinctive term first: the evidence snippet is centred on it. Two or three
+  distinctive term first: the evidence snippet is centered on it. Two or three
   groups is usually right; one group alone proves little.
 - `category`: one of `espionage`, `defection`, `covert-action`, `coup`,
   `assassination`, `terrorism`, `hostage`, `war`, `crisis`, `diplomacy`,

@@ -21,8 +21,8 @@
   "spycraft": false,
   "summary": "On 1 March 1985 Julio Maria Sanguinetti was inaugurated as president of Uruguay, ending twelve years of military rule.",
   "significance": "Uruguay joined Argentina and Brazil in the wave of transitions from military dictatorship in South America.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America contents for March 1985 listed under Uruguay Sanguinetti's pre-inaugural address, foreign delegations arriving for the inauguration (OAS, Soviet, Nicaragua's Ortega, Guatemala's president, the Chilean opposition), and a military court releasing 99 political prisoners.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176904_1715",
    "issue_date": "1985-03-01",
@@ -56,7 +56,7 @@
   "spycraft": false,
   "summary": "On 1 March 1992, the last day of Bosnia's independence referendum, a gunman fired on a Serb wedding procession in Sarajevo, killing the groom's father; barricades went up across the city.",
   "significance": "The incident is often cited as the opening of the Bosnian war, which began in earnest in April.",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of 3 March 1992 carried Belgrade radio on barricades erected by armed civilians at a dozen Sarajevo intersections around midnight, halting trains, bread and newspapers, while the Bosnian Interior Ministry urged calm; the wedding shooting itself is not in the excerpt.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176904_0539",
@@ -97,15 +97,18 @@
   "spycraft": false,
   "summary": "On 2 March 1992 the UN General Assembly admitted eight former Soviet republics, including Armenia, Azerbaijan, Kazakhstan and Moldova, as members.",
   "significance": "Admission confirmed the new states' international standing three months after the Soviet Union's dissolution.",
-  "fbis": "",
+  "fbis": "The Central Eurasia Daily Report of 2 March 1992 carried TASS on CIS chief of staff Samsonov's China visit and an IZVESTIYA commentary on Uzbekistan and Tajikistan joining the CSCE; the UN admissions are not mentioned in the excerpt.",
   "pick": false,
+  "doubt": "Page covers CSCE membership and CIS-China military ties, not the UN admissions.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176915_1195",
-   "issue_date": "1992-03-02",
-   "region": "SOV",
-   "title": "FBIS Daily Report: Central Eurasia, No. 041, 2 March 1992",
-   "page": 11,
-   "snippet": "…ill return home this year, thousands of tanks and artillery pieces, as well as some 350 combat aircraft and helicopters will be with- drawn, he added Samsonov who met with Jiang Zemin, chairman of the Central Military Council of China, and other top mili- tary officials said it was agreed that the CIS will sell 24 SU-27 combat aircraft to China this year. The Chinese were also interested in armaments of the CIS ground troops, anti-air def…"
+   "identifier": "micro_IA1176904_0540",
+   "issue_date": "1992-03-03",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 042, 3 March 1992",
+   "page": 21,
+   "snippet": "…Moldova. The meeting between the two heads of state took place during the brief stopover made by Mr. Mircea Snegur in Bucharest on his return from New York, where the Republic of Moldova was accepted as a member of the United Nations. The talk, which was held in the official hall of the Otopeni Airport, was attended by Mr. Adrian Nastase, Romanian minister of foreign affairs, Nicolae Tiu, minister of foreign affairs of the Republic of Moldova, Aurel…"
   }
  },
  {
@@ -134,8 +137,8 @@
   "spycraft": false,
   "summary": "In early March 1992 fighting between Moldovan forces and separatists in the Dniester region escalated into open war.",
   "significance": "The conflict, in which Russia's 14th Army intervened, left a frozen breakaway region.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Central Eurasia Daily Report of 2 March 1992 carried Moscow TASS from Chisinau: Dnestr guardsmen and Russian Cossacks stormed and disarmed the Dubossary police department overnight, and Moldova's government called it a \"provocation\" meant to disrupt its UN admission that day.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_1195",
    "issue_date": "1992-03-02",
@@ -172,7 +175,7 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 9 issue(s)",
+   "fail": "no page matched all keyword groups in 12 issue(s)",
    "tried": [
     "micro_IA1176904_0288",
     "micro_IA1176907_0039",
@@ -182,7 +185,10 @@
     "micro_IA1176915_0939",
     "micro_IA1176904_0290",
     "micro_IA1176907_0041",
-    "micro_IA1176915_0940"
+    "micro_IA1176915_0940",
+    "micro_IA1176904_0291",
+    "micro_IA1176907_0042",
+    "micro_IA1176915_0941"
    ]
   }
  },
@@ -210,7 +216,7 @@
   "spycraft": false,
   "summary": "On 4 March 1980 Robert Mugabe's ZANU-PF was declared winner of the elections that ended white minority rule in Rhodesia.",
   "significance": "Zimbabwe became independent in April under Mugabe, who ruled until 2017.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 4 March 1980 listed under Sub-Saharan Africa \"Further Reportage on Rhodesian Elections\": Mugabe ready for coalition, Mugabe victory, and Mugabe to form the government.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176913_0443",
@@ -243,8 +249,8 @@
   "spycraft": true,
   "summary": "On 4 March 1987 former US Navy intelligence analyst Jonathan Pollard was sentenced to life in prison for passing classified documents to Israel.",
   "significance": "The case was a rare espionage scandal involving a close US ally and strained US-Israeli relations for decades.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The South Asia Daily Report of 5 March 1987 carried a review noting Peres's pledge on IDF radio that Israel would not again spy in the United States, Rabin calling the Pollard affair a \"disaster\", and a senior source promising to seek a cut in the \"severe\" sentence.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176912_1079",
    "issue_date": "1987-03-05",
@@ -282,15 +288,18 @@
   "spycraft": true,
   "summary": "On 4 March 1987 President Reagan said in a televised address that what began as a strategic opening to Iran had deteriorated into trading arms for hostages.",
   "significance": "The speech responded to the Tower Commission's criticism of the covert Iran-Contra operations run from the National Security Council.",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of 4 March 1987 carried an East European commentary arguing the Tower Commission report settled for half-measures, and noting that Reagan's response was expected in a speech next week; it predates the address.",
   "pick": false,
+  "doubt": "Page predates Reagan's televised address and covers the Tower report.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176903_0787",
-   "issue_date": "1987-03-04",
+   "identifier": "micro_IA1176903_0788",
+   "issue_date": "1987-03-05",
    "region": "EEU",
-   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 042, 4 March 1987",
-   "page": 12,
-   "snippet": "…these queries are justified, but this does not contribute to a solution. The official White House reaction is now awaited with no less interest. This reaction will presumably follow next week in a speech which President Reagan is expected to deliver. However, observers are already pointing out that the Tower Commission report will be used by the administration to close the book on Irangate as a thing: of the past. Certain congressional circle…"
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 043, 5 March 1987",
+   "page": 24,
+   "snippet": "…ski commentary: \"A Report With Question Marks\"] [Text] The 26 February report published by the so-called Tower Commission has failed to dissipate virtually any of the doubts surrounding the Irangate affair and President Reagan's role in it. The report is a moderate document: It chides Reagan for such political mistakes as “ignorance” of and a lack of supervision over transfers of weapons to Iran in “payment” for freeing U.S. hostages in Leban…"
   }
  },
  {
@@ -321,8 +330,8 @@
   "spycraft": false,
   "summary": "On 5 March 1979 China announced it was withdrawing its troops from Vietnam after a month-long incursion.",
   "significance": "Beijing claimed to have taught Hanoi a lesson, but the war was costly and inconclusive.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of 5 March 1979 listed under Yugoslavia \"More Yugoslav Reportage on China-Vietnam Conflict\", including \"TANJUG on PRC Withdrawal\" and a Hua Guofeng message to Tito, with a Chinese note to Vietnam's Beijing embassy under Hungary.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176902_0241",
    "issue_date": "1979-03-05",
@@ -361,14 +370,16 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 6 issue(s)",
+   "fail": "no page matched all keyword groups in 8 issue(s)",
    "tried": [
     "micro_IA1176909_1375",
     "micro_IA1176915_0198",
     "micro_IA1176909_1376",
     "micro_IA1176915_0199",
     "micro_IA1176909_1377",
-    "micro_IA1176915_0200"
+    "micro_IA1176915_0200",
+    "micro_IA1176909_1378",
+    "micro_IA1176915_0201"
    ]
   }
  },
@@ -396,15 +407,21 @@
   "spycraft": false,
   "summary": "On 6 March 1991 President Bush addressed a joint session of Congress after the Gulf War victory, setting out his vision of a new world order.",
   "significance": "The speech marked the high point of post-Cold War optimism about collective security.",
-  "fbis": "",
-  "pick": false,
-  "evidence": {
-   "identifier": "micro_IA1176915_0941",
-   "issue_date": "1991-03-07",
-   "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, No. 045, 7 March 1991",
-   "page": 25,
-   "snippet": "…tizens had almost forgotten because of the hard times the citizens were going through. One has to pause here to consider a somewhat bewil- dering matter: How did the United States, led by the arrogant American President Bush, succeed in massing such a large and varied number of countries behind its direct objectives in the Arab region? Though the enthusiasm of the coalition allies to go as far as waging war varied between one country and an…"
+  "fbis": "The Soviet Union Daily Report of 7 March 1991 carried an Arab commentary calling the Gulf war a Western and Zionist war on an Arab country, waged on the orders of \"the reckless and arrogant Bush\"; nothing in the excerpt concerns Bush's address to Congress.",
+  "pick": true,
+  "doubt": "Page is an anti-U.S. Gulf war commentary; no reference to the new world order speech.",
+  "window": 400,
+  "start": 1,
+  "fail": {
+   "fail": "no page matched all keyword groups in 6 issue(s)",
+   "tried": [
+    "micro_IA1176904_0291",
+    "micro_IA1176907_0042",
+    "micro_IA1176915_0941",
+    "micro_IA1176904_0292",
+    "micro_IA1176907_0043",
+    "micro_IA1176915_0942"
+   ]
   }
  },
  {
@@ -436,8 +453,8 @@
   "spycraft": false,
   "summary": "On 7 March 1989 Iran broke diplomatic relations with Britain over London's refusal to act against Salman Rushdie and The Satanic Verses.",
   "significance": "Relations were not fully restored until 1999, when Iran's government distanced itself from the death decree.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 7 March 1989 opened its review with IRNA citing Iran's Foreign Ministry on the \"complete severance of diplomatic ties with Britain\" for failing to meet the Majlis conditions over Salman Rushdie's novel.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0254",
    "issue_date": "1989-03-07",
@@ -469,7 +486,7 @@
   "spycraft": false,
   "summary": "On 8 March 1983 President Reagan described the Soviet Union as an 'evil empire' in a speech to evangelicals in Orlando, Florida.",
   "significance": "The speech crystallized the confrontational rhetoric of the early 1980s and drew furious Soviet responses.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 10 March 1983 carried Moscow TASS calling Reagan's Orlando speech to evangelicals \"another of his provocative speeches\" of \"lunatic anticommunism\" and extreme militarism, right after a KGB announcement expelling U.S. diplomat Richard Osborn for espionage.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176914_0182",
@@ -506,8 +523,8 @@
   "spycraft": true,
   "summary": "On 8 March 1985 a car bomb exploded near the Beirut home of Shi'a cleric Muhammad Husayn Fadlallah, who survived; about eighty people were killed.",
   "significance": "The bombing was later linked by the press to a Lebanese unit trained with CIA support, an allegation the agency denied. It deepened Shi'a hostility to the United States.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The South Asia Daily Report of 11 March 1985 carried a review citing Beirut radio that the 8 March car bomb near Shaykh Fadlallah's home in Bi'r al-'Abd killed 72 and wounded 255; Fadlallah blamed \"Israel and its local allies\", which Israel's cabinet denied.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176912_0575",
    "issue_date": "1985-03-11",
@@ -543,15 +560,18 @@
   "spycraft": false,
   "summary": "On 9 March 1991 opposition demonstrators led by Vuk Draskovic clashed with police in Belgrade, and the Yugoslav army deployed tanks in the city.",
   "significance": "The protests were the strongest challenge to Slobodan Milosevic before the wars began that summer.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 11 March 1991 carried Belgrade and Tirana radio reports on the Albanian exodus: over 15,000 people sailing for Italy on hijacked ships and the army sealing roads to Durres and Shengjin; nothing in the excerpt concerns the Belgrade protests.",
+  "pick": true,
+  "doubt": "Page covers the Albanian boat exodus, not the Belgrade demonstrations.",
+  "window": 400,
+  "start": 1,
   "evidence": {
    "identifier": "micro_IA1176904_0293",
    "issue_date": "1991-03-11",
    "region": "EEU",
    "title": "FBIS Daily Report: East Europe, No. 047, 11 March 1991",
-   "page": 7,
-   "snippet": "FBIS-EEU-91-047 11 March 1991 Unrest Continues in Durres, Shengjin Port Cities Roads Leading to Ports Controlled by Army 11'0803194791 Belgrade Domestic Service in Serbo-Croatian 1800 GMT 8 Mar 91 [Text] Sailing on hijacked ships without suitable crews, more than 15,000 Albanians have set off for Italy as of noon today, while only 1,300 people have been put up…"
+   "page": 48,
+   "snippet": "…The opposition demands that the Serbian legislature ban Serbia’s ruling Socialist Party of Serbia (SPS) and the League of Communists-Movement for Yugoslavia from carrying out the personnel and editorial policies of the Belgrade television. According to the Belgrade television, Slobodan Milosevic accepted to receive an SPO legislative group when his duties permitted him to do so. SPO Reports Police Blockades in Belgrade LD0903105891 Belgrade TA…"
   }
  },
  {
@@ -576,8 +596,8 @@
   "spycraft": false,
   "summary": "On 10 March 1985 Soviet leader Konstantin Chernenko died after thirteen months in office.",
   "significance": "He was the third Soviet leader to die in less than three years, clearing the way for a generational change.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of 11 March 1985 carried Sofia radio interrupting its programming to relay the Soviet announcement that Konstantin Chernenko died on 10 March; the OCR of the page is badly broken beyond that.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176903_0298",
    "issue_date": "1985-03-11",
@@ -610,7 +630,7 @@
   "spycraft": false,
   "summary": "On 11 March 1985 the CPSU Central Committee elected Mikhail Gorbachev general secretary.",
   "significance": "At 54 Gorbachev was the youngest Politburo member. His reforms would end the Cold War and, unintentionally, the Soviet Union.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 11 March 1985 listed under National Affairs the announcement of the General Secretary's death, the funeral set for 13 March, Gorbachev to head the funeral commission, the obituary, medical findings, and \"Gorbachev Elected New\" general secretary; the OCR is fragmentary.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176914_0706",
@@ -646,8 +666,8 @@
   "spycraft": false,
   "summary": "On 11 March 1990 Lithuania's Supreme Council declared the restoration of the country's independence, the first Soviet republic to do so.",
   "significance": "Moscow responded with an economic blockade. The declaration set off the chain of secessions that ended the USSR.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report of 12 March 1990 carried Warsaw PAP from Vilnius: the new Lithuanian parliament unanimously declared restored sovereignty and elected Landsbergis, with a Polish senator first to congratulate; a Polish spokesman told DPA a new state on Poland's border was \"a serious matter\".",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176904_0053",
    "issue_date": "1990-03-12",
@@ -678,7 +698,7 @@
   "spycraft": false,
   "summary": "On 12 March 1993 a series of bombs exploded across Bombay, killing about 250 people.",
   "significance": "India accused Pakistani intelligence of involvement; the attacks were organized by Dawood Ibrahim's criminal network.",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 15 March 1993 carried Delhi All India Radio on 12 explosions across Bombay, the heaviest at the Stock Exchange, with police counting 174 dead and over 940 injured, and Chief Minister Pawar calling it an attempt to destabilize India's economy.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176910_1183",
@@ -710,8 +730,8 @@
   "spycraft": false,
   "summary": "On 12 March 1993 North Korea announced its intention to withdraw from the Nuclear Non-Proliferation Treaty after the IAEA demanded special inspections.",
   "significance": "It opened the first North Korean nuclear crisis, which brought the peninsula close to war before the 1994 Agreed Framework.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Asia Daily Report of 12 March 1993 carried Tokyo KYODO: Foreign Minister Watanabe called North Korea's NPT withdrawal a \"challenge\" to nonproliferation that \"creates a grave situation\", and a spokesman said a strike on Yongbyon was premature to discuss.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176901_0886",
    "issue_date": "1993-03-12",
@@ -748,8 +768,8 @@
   "spycraft": false,
   "summary": "On 13 March 1979 Maurice Bishop's New Jewel Movement overthrew Prime Minister Eric Gairy while he was abroad.",
   "significance": "The revolutionary government aligned with Cuba, and its collapse in 1983 led to the US invasion of Grenada.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 14 March 1979 listed under Grenada \"Government 'Overthrown' in New Jewel Movement Coup\", with the revolutionary government's announcement, the movement's role, a statement by Eric Gairy, and conflicting reports.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176905_0113",
    "issue_date": "1979-03-14",
@@ -786,15 +806,18 @@
   "spycraft": false,
   "summary": "On the night of 14-15 March 1978 Israeli forces invaded southern Lebanon in Operation Litani, days after a Fatah raid on the coastal road killed over thirty Israelis.",
   "significance": "The invasion led to the creation of the UN force UNIFIL. It was the prelude to the larger invasion of 1982.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & North Africa Daily Report of 14 March 1978 carried Baghdad INA quoting Arafat that Israel had massed armored, paratroop and airborne brigades for a large-scale attack on the joint forces in Lebanon, after Arab praise for the coastal road raid; it predates the invasion.",
+  "pick": true,
+  "doubt": "Page predates the invasion; it reports only Israeli troops massing.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176908_0050",
-   "issue_date": "1978-03-14",
+   "identifier": "micro_IA1176908_0051",
+   "issue_date": "1978-03-15",
    "region": "NES",
-   "title": "FBIS Daily Report: Middle East & North Africa, Vol. V No. 50, 14 March 1978",
-   "page": 8,
-   "snippet": "…ey rose up lofty and strong at the hands of Dayr Yasin's heroes and in the same manner as they have always risen up before the Palestinian revolutionary action, which has never stopped giving and flowing forth. \"ARAFAT: ISRAEL STILL MASSING TROOPS ON LEBANESE BORDER JN140910Y Baghdad INA in Arabic 0855 GMT 14 Mar 78 JN {Text ] Beirut, 14 March-=PLO Executive Committee Chairman Yasir ‘Arafat has stated that the Zionist enemy is preparing to la…"
+   "title": "FBIS Daily Report: Middle East & North Africa, Vol. V No. 51, 15 March 1978",
+   "page": 2,
+   "snippet": "…YAH Praise Tel Aviv Operation E l 1/B13 Deported Palestinian Students Arrive in Baghdad E 2 1/814 Briefs: Cuban Ambassador Presents Credentials; Saudi Ambassador s 2 1/B14 Presents Credentials JORDAN AR-RA'Y Comments on Israeli Attack on Lebanon y 4 1/C1 AD-DUSTUR Comments on Possible Israeli Xetaliation F 2 1/C2 LEBANON Prime Minister al-Huss Condemns Israeli Attack eS. 4 1/C2 Officials Hold Contacts on Israeli Attack e 7 1/C2 Southern Deput…"
   }
  },
  {
@@ -817,8 +840,8 @@
   "spycraft": true,
   "summary": "On 15 March 1990 Iraq hanged Farzad Bazoft, an Iranian-born journalist for The Observer, convicted of spying after he visited a military complex where an explosion had been reported.",
   "significance": "The execution caused an uproar in Britain and was an early sign of the confrontation with Saddam Hussein that came that August.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 16 March 1990 carried Gulf and Iraqi agency items after the hanging of \"the British spy of Iranian origin\" Farzad Bazoft: mass demonstrations planned across Iraq against British \"extortion\", an INA story calling him a convicted thief, and Arab envoys in Moscow backing Baghdad.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0498",
    "issue_date": "1990-03-16",
@@ -853,7 +876,7 @@
   "spycraft": false,
   "summary": "On 15 March 1990 the Congress of People's Deputies elected Mikhail Gorbachev to the new post of president of the USSR.",
   "significance": "The executive presidency shifted power from the party to the state, though it would not save the union.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 15 March 1990 carried a Moscow review of foreign press coverage of the Congress of People's Deputies, citing Reuters that the new Soviet president would have powers broader in some respects than the U.S. or French heads of state, and UPI on the debate.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176915_0720",
@@ -888,7 +911,7 @@
   "spycraft": false,
   "summary": "On 16 March 1978 the Red Brigades kidnapped former Italian Prime Minister Aldo Moro in Rome, killing his five bodyguards.",
   "significance": "Moro was murdered after 55 days. The case shook Italy and raised lasting questions about the security services' handling of the search.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 17 March 1978 listed under West Europe \"Italian Leader Moro's Kidnaping in Rome Reported\", with the Italian Interior Ministry cited, a call for a general strike, and Moscow commentaries calling it a \"Reactionary Provocation\" and blaming right-wing forces.",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176912_1175",
@@ -920,8 +943,8 @@
   "spycraft": true,
   "summary": "On 16 March 1984 William Buckley, the CIA's station chief in Beirut, was kidnapped by Islamic Jihad.",
   "significance": "Buckley died in captivity after torture. Efforts to free him and other hostages helped drive the Reagan administration into the Iran-Contra arms deals.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Middle East & Africa Daily Report of 16 March 1984 noted, in its review, Radio Free Lebanon's report that three unidentified gunmen kidnapped \"a U.S. Embassy official, William Buckley\" outside his home on 16 March, amid items on the Beirut cease-fire and the Iran-Iraq war.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176909_0373",
    "issue_date": "1984-03-16",
@@ -952,7 +975,7 @@
   "spycraft": false,
   "summary": "On 16 March 1988 Iraqi forces attacked the Kurdish town of Halabja with chemical weapons, killing about 5,000 people.",
   "significance": "It was the deadliest chemical attack on civilians in history, but drew muted Western reaction at the time.",
-  "fbis": "",
+  "fbis": "The Near East & South Asia Daily Report of 17 March 1988 shows a contents page, mostly unreadable in the OCR, that lists Iran-Iraq war items including Iraqi missiles hitting Dezful and \"Halabjah 'Chemically Bombed'\".",
   "pick": false,
   "evidence": {
    "identifier": "micro_IA1176910_0003",
@@ -987,15 +1010,18 @@
   "spycraft": false,
   "summary": "On 17 March 1991 Soviet citizens voted on preserving the USSR as a renewed federation; six republics boycotted the vote.",
   "significance": "A large majority voted yes, but the result could not stop the union's disintegration.",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of 18 March 1991 carried Prague radio on demonstrations across Czechoslovakia for the unity of the federation and an activist calling Slovak moves a communist \"coup\" attempt; nothing in the excerpt concerns the Soviet referendum.",
   "pick": false,
+  "doubt": "Page covers Czechoslovak unity rallies, not the Soviet union referendum.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176904_0298",
+   "identifier": "micro_IA1176915_0949",
    "issue_date": "1991-03-18",
-   "region": "EEU",
-   "title": "FBIS Daily Report: East Europe, No. 052, 18 March 1991",
-   "page": 15,
-   "snippet": "…f democracy and the Republic The participants in the demonstration at Staromestske Square in Prague expressed their view against the sepa ratist trends and breaking of our common state. The, agreed on the need to call a referendum and on the idea of the federal [spolkovy] state The rally held under the symbol of Czechoslovak state hood at Vajansky Square in Bratislava alluded also to the objectivity of information in mass media. above all in tele…"
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 052, 18 March 1991",
+   "page": 31,
+   "snippet": "…dress Supports Union P\\M1503162191 Moscow SELSKAYA ZHIZN in Russian 16 Mar 91 p 1 {Televised speech by M.S. Gorbachev on 15 March: “Preserving Our Great Union State”’] [Text] So, we are on the threshold of the all-Union referendum. This is the first time in the history of the fatherland that such an event is taking place. In partici- paling in the referendum each one of us must be fully aware of the fact that he is resolving the chief issue affec…"
   }
  },
  {
@@ -1027,8 +1053,8 @@
   "spycraft": false,
   "summary": "On 17 March 1992 a suicide car bomb destroyed the Israeli Embassy in Buenos Aires, killing 29 people.",
   "significance": "Islamic Jihad, linked to Hizballah, claimed it in apparent revenge for the killing of Abbas Musawi. Argentina later blamed Iran.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 18 March 1992 led its front page with TELAM: the 17 March explosion \"virtually destroyed\" the Israeli Embassy in Buenos Aires; Menem blamed remnants of Nazism and fundamentalist groups, and an anonymous caller claimed a pro-Palestinian group.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176907_0290",
    "issue_date": "1992-03-18",
@@ -1064,8 +1090,8 @@
   "spycraft": false,
   "summary": "On 18 March 1990 East Germans voted in their first free parliamentary election, and the conservative Alliance for Germany won a clear victory.",
   "significance": "The result was a mandate for rapid unification with West Germany.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report (issue date not shown) carried the GDR election tables and East Berlin ADN's report of 19 March that the conservative Alliance for Germany of CDU, DSU and Democratic Awakening took 48.12 percent and 193 seats, narrowly missing an absolute majority.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176901_0071",
    "issue_date": "1990-03-19",
@@ -1102,12 +1128,13 @@
   "significance": "The incident escalated into the Argentine invasion of the Falklands two weeks later.",
   "fbis": "",
   "pick": false,
-  "fail": {
-   "fail": "no page matched all keyword groups in 2 issue(s)",
-   "tried": [
-    "micro_IA1176905_0871",
-    "micro_IA1176905_0872"
-   ]
+  "evidence": {
+   "identifier": "micro_IA1176905_0873",
+   "issue_date": "1982-03-23",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 056, 23 March 1982",
+   "page": 4,
+   "snippet": "…s on its own. In any case, the presence of Argentine military advisers in Central America is evident. A progovernment weekly 15 days ago even estimated at 10 the number of experts in El Salvador. COMMUNIQUE ISSUED ON S. GEORGIA SHIP INCIDENT PY230106 Buenos Aires TELAM in Spanish 2358 GMT 22 Mar 82 [Excerpts] Buenos Aires, 22 Mar (TELAM) -- The Argentine Foreign Ministry released a communique tonight reporting on the trip to South Georgia Isla…"
   }
  },
  {
@@ -1136,8 +1163,8 @@
   "spycraft": false,
   "summary": "On 19-20 March 1990 Romanians and ethnic Hungarians clashed violently in the Transylvanian city of Tirgu Mures, leaving several dead.",
   "significance": "The violence was the worst ethnic clash in post-communist Romania and alarmed Hungary.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report (issue date not shown) carried Budapest radio of 17 March on anti-Magyar actions in Transylvania: in Tirgu Mures a Hungarian-language pharmacy sign drew a crowd that swelled to thousands, journalists' equipment was smashed, and 14 people were hurt.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176901_0071",
    "issue_date": "1990-03-19",
@@ -1171,8 +1198,8 @@
   "spycraft": false,
   "summary": "On 20 March 1995 members of the Aum Shinrikyo cult released sarin nerve gas on the Tokyo subway during the morning rush hour, killing 13 and injuring thousands.",
   "significance": "It was the deadliest chemical terrorism by a non-state group. Aum had a large presence in Russia, which came under scrutiny.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Asia Daily Report of 20 March 1995 carried Tokyo NHK television's morning report: a foul odor at 16 Hibiya and Marunouchi line stations, five dead and about 550 ill, and police saying the agent appeared to be sarin left in a package \"in an act of indiscriminate murder\".",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176901_1414",
    "issue_date": "1995-03-20",
@@ -1205,15 +1232,18 @@
   "spycraft": false,
   "summary": "On 21 March 1980 President Carter told US athletes that the United States would not send a team to the Moscow Olympics.",
   "significance": "The boycott, protesting the invasion of Afghanistan, was joined by dozens of countries.",
-  "fbis": "",
+  "fbis": "The Eastern Europe Daily Report of 21 March 1980 carried an East bloc commentary denouncing the \"Carter doctrine\" as hegemonism and listing \"attempts at a boycott of the Olympic games\" among imperialist attacks on detente; it does not report Carter's decision itself.",
   "pick": false,
+  "doubt": "Only a passing reference to boycott attempts; Carter's confirmation of the boycott is not reported.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176902_0512",
-   "issue_date": "1980-03-21",
+   "identifier": "micro_IA1176902_0514",
+   "issue_date": "1980-03-25",
    "region": "EEU",
-   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 057, 21 March 1980",
-   "page": 6,
-   "snippet": "…ng a frontal attack on detente for a long time; the so-called Afghan question, artifically submitted to various international forums; the economic discrimination against socialist countries; attempts at a boycott of the Olympic games; and the political and military coordination between the imperialist states and Beijing--all this has a common denominators the convulsive endeavor to turn back the present world, which is taking the path of progr…"
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 059, 25 March 1980",
+   "page": 21,
+   "snippet": "…ion of the policy of detente and disarmament. At a joint conference held in Bonn today they announced that a joint seminar on this theme is planned for this year. Egon Krenz and Gerhard Schroeder resolutely rejected the Olympic boycott demanded by President Carter. Both youth organizations agreed on closer cooperation, During their 2-day talks Egon Krenz and Gerhard Schroeder exchanged experiences on their associations! key tasks. Delegation R…"
   }
  },
  {
@@ -1237,8 +1267,8 @@
   "spycraft": false,
   "summary": "On 21 March 1990 Namibia became independent from South African rule.",
   "significance": "Independence completed the 1988 accords that also removed Cuban troops from Angola.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The East Europe Daily Report (issue date not shown) carried Bucharest ROMPRES items: Foreign Minister Celac left for Windhoek for the proclamation of Namibia's independence, and Romania established ambassadorial relations with the new Republic of Namibia as of 21 March 1990.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176901_0074",
    "issue_date": "1990-03-21",
@@ -1276,15 +1306,19 @@
   "spycraft": false,
   "summary": "On 22 March 1979 Sir Richard Sykes, Britain's ambassador to the Netherlands, was shot dead outside his residence in The Hague by the IRA.",
   "significance": "The killing was one of a series of IRA attacks on British targets abroad in 1979.",
-  "fbis": "",
-  "pick": false,
-  "evidence": {
-   "identifier": "micro_IA1176913_0187",
-   "issue_date": "1979-03-22",
-   "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 057, 22 March 1979",
-   "page": 49,
-   "snippet": "…the occasion of the forthcoming jubilee festivities, it is permissible to ask: Shouldn't NATO change its official colour? Up to now it has been blue. Brown colour would be a better match.\" SOVIET CALL FOR EXTRADITION OF DUTCH WAR CRIMINAL SUPPORTED LD191758 Moscow TASS in English 1640 GMT 19 Mar 79 LD [\"Criminal Must Be Punished\"--TASS headline] [Text] Moscow, March 19, TASS--\"The Soviet people that lost 20 million of its citizens in the str…"
+  "fbis": "The Soviet Union Daily Report of 22 March 1979 carried Moscow items on Nazis in NATO and a TASS report backing Soviet demands that the Netherlands extradite war criminal Pieter Menten; nothing on the page concerns the killing of the British ambassador.",
+  "pick": true,
+  "doubt": "Coincidental match: page concerns the Netherlands only through the Menten extradition case.",
+  "window": 400,
+  "start": 1,
+  "fail": {
+   "fail": "no page matched all keyword groups in 4 issue(s)",
+   "tried": [
+    "micro_IA1176902_0255",
+    "micro_IA1176913_0188",
+    "micro_IA1176902_0256",
+    "micro_IA1176913_0189"
+   ]
   }
  },
  {
@@ -1310,8 +1344,8 @@
   "spycraft": false,
   "summary": "On 23 March 1982 junior officers in Guatemala staged a coup that brought General Efrain Rios Montt to power.",
   "significance": "His seventeen months in power saw the bloodiest phase of the counterinsurgency against the Maya highlands.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 24 March 1982 listed under Guatemala a full sequence on the coup by \"Young Officers\": army communiques claiming control, the Lucas Garcia government's resignation, a junta suspending Congress and the constitution, and Rios Montt addressing the nation; Mexico and Costa Rica deplored it.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176905_0874",
    "issue_date": "1982-03-24",
@@ -1349,15 +1383,18 @@
   "spycraft": false,
   "summary": "On 23 March 1983 President Reagan proposed a program to develop defences that would make nuclear missiles obsolete.",
   "significance": "The 'Star Wars' initiative alarmed Moscow and became a central obstacle and bargaining chip in arms talks.",
-  "fbis": "",
+  "fbis": "The Soviet Union Daily Report of 23 March 1983 carried a PRAVDA dispatch from Washington, drawing on THE WASHINGTON POST and THE NATION, on Reagan's \"distortion\" of economic and military facts; it predates his missile-defense speech and does not mention it.",
   "pick": false,
+  "doubt": "Page predates the SDI speech; it is a general attack on Reagan's statements.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176914_0191",
-   "issue_date": "1983-03-23",
-   "region": "SOV",
-   "title": "FBIS Daily Report: Soviet Union, Vol. III No. 057, 23 March 1983",
-   "page": 30,
-   "snippet": "…n 22 Mar 83 First Edition p 5 Corre ndent N. Kurdyumov's dispatch under the rubric \"The } <t Jashington, 21 Mar -- Following the U.S. President's speech on radi HE WASHINGTON POST recently published an article entitled \"Reagan's World and the Real rid, in which it used specific examples to show that many of his statement ind utterances are a distortion of the real state of affairs. Here i i typical example. In one of his regular radio address…"
+   "identifier": "micro_IA1176902_1272",
+   "issue_date": "1983-03-25",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 059, 25 March 1983",
+   "page": 13,
+   "snippet": "Horst Kaeubler Dispatch »stic Service in German 1100 GM1 yn -- The U.S. President demands the construction of j } President Reagan feels that instead of building strategi United States should start a long-term program for the devel i defense weapons which will destroy alien missiles even lev »>d speech President Reagan asked the U.S. scientists to…"
   }
  },
  {
@@ -1383,15 +1420,18 @@
   "spycraft": false,
   "summary": "On 23 March 1994 Luis Donaldo Colosio, presidential candidate of Mexico's ruling PRI, was shot dead at a rally in Tijuana.",
   "significance": "The killing, after the Chiapas uprising, deepened Mexico's political crisis in a year that ended in financial collapse.",
-  "fbis": "",
+  "fbis": "The Latin America Daily Report of 23 March 1994 carried Mexico City XEW television on Colosio, in Culiacan on 22 March, praising Camacho Solis as \"the best man\" for peace in Chiapas, and a list of the presidential candidates; it predates his assassination.",
   "pick": false,
+  "doubt": "Page predates the assassination; Colosio appears campaigning.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176907_0739",
-   "issue_date": "1994-03-23",
+   "identifier": "micro_IA1176907_0740",
+   "issue_date": "1994-03-24",
    "region": "LAT",
-   "title": "FBIS Daily Report: Latin America, No. 056, 23 March 1994",
-   "page": 20,
-   "snippet": "…million voters, a little less than half of the country’s population, will go to the polls on 21 August to elect a new president, new deprties, and part of the Senate. The candidates in the elections will be Luis Donaldo Colosio of the ruling Institutional Revolutionary Party, Diego Fernandez de Cevallos of the National Action Party, and Cuauhtemoc Cardenas of the Party of the Democratic Revolution. There are two female candi- dates: Cecilia So…"
+   "title": "FBIS Daily Report: Latin America, No. 057, 24 March 1994",
+   "page": 15,
+   "snippet": "…idential candidate sustained three bullet wounds. He is undergoing surgery. He has lost a lot of blood, which has been replenished by the doctors of Central Hospital in the city of Tijuana, Baja California. Luis Donaldo Colosio is being trans- ferred at this moment to the (7Schlips) Clinic in La Joya, California, where he will be treated by doctors who approximately 45 minutes ago were alerted to receive Mr. Colosio in order to give him proper…"
   }
  },
  {
@@ -1416,15 +1456,18 @@
   "spycraft": false,
   "summary": "On 24 March 1980 Archbishop Oscar Romero of San Salvador was shot dead while celebrating Mass, a day after appealing to soldiers to stop killing.",
   "significance": "The killing, by a death squad linked to Roberto D'Aubuisson, marked El Salvador's descent into full civil war.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 24 March 1980 carried Panama City ACAN-EFE reports of violence in San Salvador, including a police raid on the Central American University that Archbishop Romero denounced; it predates his assassination.",
+  "pick": true,
+  "doubt": "Page predates the assassination; Romero appears only denouncing a raid.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176905_0374",
-   "issue_date": "1980-03-24",
+   "identifier": "micro_IA1176905_0375",
+   "issue_date": "1980-03-25",
    "region": "LAT",
-   "title": "FBIS DAILY REPORT—Latin America, Vol. VI No. 058, 24 March 1980",
-   "page": 18,
-   "snippet": "…udent killed and several arrested. The university authorities termed the army's action a raid. The Salvadoran Government has not issued any official pronouncement as yet. For his part, San Salvador Archbishop Msgr “scar Romero also denounced the incident and pointed out that the university is not a hideout for political groups but a study center. Foreign Ministry Attacked PA222214 Panama City ACAN in Spanish 2330 GMT 21 Mar 80 PA [Text] San S…"
+   "title": "FBIS DAILY REPORT-Latin America, Vol. VI No. 059, 25 March 1980",
+   "page": 3,
+   "snippet": "PANAMA Vasquez Formally Submits Extradition Request Guard Takes Steps to nsure Order, Public Safety Royos Visits Japan, Holds Talks on New Canal [cross-reference] CENTRAL AMERICA EL SALVADOR Archbishop Romero Assassinated in Church Eyewitness Reports Vary Newsman Gives Details Majano Condemns Murder Junta Declares Mourning Requiem Mass Arranged Romero's Last Sunday Sermon Denounced Repression New Clashes Claim 29 Lives in 24…"
   }
  },
  {
@@ -1457,16 +1500,13 @@
   "significance": "The withdrawal followed the deadly Mogadishu battle of October 1993 and made Washington wary of later interventions.",
   "fbis": "",
   "pick": false,
-  "fail": {
-   "fail": "no page matched all keyword groups in 6 issue(s)",
-   "tried": [
-    "micro_IA1176901_1146",
-    "micro_IA1176907_0741",
-    "micro_IA1176910_1460",
-    "micro_IA1176901_1147",
-    "micro_IA1176907_0742",
-    "micro_IA1176910_1461"
-   ]
+  "evidence": {
+   "identifier": "micro_IA1176910_1462",
+   "issue_date": "1994-03-29",
+   "region": "NES",
+   "title": "FBIS Daily Report: Near East & South Asia, No. 060, 29 March 1994",
+   "page": 15,
+   "snippet": "…ee-day visit to Egypt. During their visits, the two ministers participated in the Arab League Council’s 10Ist session that began at the Arab League headquarters last Saturday. Islamic Affairs Islamic Conference Welcomes Somali Pact Deal LD2803221094 Riyadh SPA in Arabic 2018 GMT 28 Mar 94 [Excerpt] Jeddah, 28 Mar (SPA)—The Islamic Conference Organization [ICO] Permanent Secretariat has expressed its satisfaction with the peace agreement signe…"
   }
  },
  {
@@ -1497,8 +1537,8 @@
   "spycraft": false,
   "summary": "On 26 March 1979 Anwar Sadat and Menachem Begin signed the Egypt-Israel peace treaty at the White House with President Carter.",
   "significance": "The treaty took Egypt out of the Arab-Israeli military conflict; Egypt was expelled from the Arab League.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Eastern Europe Daily Report of 26 March 1979 carried a Voice of the GDR commentary on the Egyptian-Israeli \"separate agreement\" due to be signed on Monday, arguing it ignored the Palestinians and occupied territories and served U.S. interests such as bases in Sinai and Israel.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176902_0256",
    "issue_date": "1979-03-26",
@@ -1535,13 +1575,15 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 5 issue(s)",
+   "fail": "no page matched all keyword groups in 7 issue(s)",
    "tried": [
     "micro_IA1176903_1280",
     "micro_IA1176903_1281",
     "micro_IA1176915_0475",
     "micro_IA1176903_1282",
-    "micro_IA1176915_0476"
+    "micro_IA1176915_0476",
+    "micro_IA1176903_1283",
+    "micro_IA1176915_0477"
    ]
   }
  },
@@ -1563,8 +1605,8 @@
   "spycraft": true,
   "summary": "On 27 March 1990 the US government's TV Marti began test broadcasts to Cuba from a balloon tethered in the Florida Keys; Cuba jammed it.",
   "significance": "The station was part of the US propaganda effort against Castro; Havana called it electronic aggression.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 27 March 1990 grouped Havana reaction to TV Marti: the communications minister promising a \"forceful response\" to U.S. \"television aggression\", and a national news agency communique that the U.S. began test broadcasts at 0145 that day, beside boasts that Cuban signals could swamp U.S. AM stations.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176906_1315",
    "issue_date": "1990-03-27",
@@ -1600,17 +1642,13 @@
   "significance": "It was the worst accident in US commercial nuclear history and stalled American nuclear construction.",
   "fbis": "",
   "pick": false,
-  "fail": {
-   "fail": "no page matched all keyword groups in 7 issue(s)",
-   "tried": [
-    "micro_IA1176902_0258",
-    "micro_IA1176913_0191",
-    "micro_IA1176913_0192",
-    "micro_IA1176902_0259",
-    "micro_IA1176913_0193",
-    "micro_IA1176902_0260",
-    "micro_IA1176913_0194"
-   ]
+  "evidence": {
+   "identifier": "micro_IA1176913_0195",
+   "issue_date": "1979-04-01",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union Table of Contents, Vol. III No. 064 084, April 1979",
+   "page": 12,
+   "snippet": "…S CEMA Council Statement Condemns PRC Aggression Against SRV [PRAVDA 31 Mar] UNITED STATES & CANADA 'Slanderous, Subversive! Radio Liberty Broadcasts Decried [Semenov in LITERATURNAYA GAZETA 28 Mar] Further Reportage on Harrisburg Nuclear Accident PRAVDA on Carter's Reaction [2 Apr] Deputy Power Minister Comments Firms Give Priority to Profits [Kozyakov] U.S. Transportation Companies Blackmail Teamsters Union [Gan] Pentagon Creates Radio-Controll…"
   }
  },
  {
@@ -1640,8 +1678,8 @@
   "spycraft": true,
   "summary": "On 28 March 1990 British customs and US agents seized capacitors destined for Iraq at Heathrow Airport after an eighteen-month sting, saying they could be used as nuclear-weapon triggers.",
   "significance": "Baghdad denied any nuclear purpose. The seizure exposed Iraqi procurement networks months before the invasion of Kuwait.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Near East & South Asia Daily Report of 29 March 1990 carried Tehran IRNA from London: customs at Heathrow seized an American nuclear trigger device bound for Baghdad on Iraqi Airways, Iraqis faced deportation, and Britain was accused of having long tolerated Iraq's weapons programs.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176910_0507",
    "issue_date": "1990-03-29",
@@ -1649,6 +1687,65 @@
    "title": "FBIS Daily Report: Near East & South Asia, No. 061, 29 March 1990",
    "page": 49,
    "snippet": "…lve to counter American plots. By means of sophisticated electronic devices, the U.S. T.V. recently disrupted a regular programme on the Cuban T.V. channel, and broadcast its propaganda to stunned Cuban viewers. Nuclear Trigger Devices Bound for Iraq Seized LD2803210190 Tehran IRNA in English 2010 GMT 28 Mar 90 [Text] London, March 28, IRNA—A number of Iraqis are due to be deported from Britain after an American trigger device for a nuclear bo…"
+  }
+ },
+ {
+  "md": "03-29",
+  "date": "1988-03-29",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "dulcie",
+    "september"
+   ],
+   [
+    "anc",
+    "african national congress"
+   ],
+   [
+    "paris"
+   ],
+   [
+    "assassin",
+    "murder",
+    "kill",
+    "shot"
+   ]
+  ],
+  "headline": "ANC envoy Dulcie September assassinated in Paris",
+  "category": "assassination",
+  "spycraft": true,
+  "summary": "On 29 March 1988 Dulcie September, the African National Congress representative in France, was shot dead outside the ANC office in Paris.",
+  "significance": "The killing was widely attributed to South African security agents, though no one was ever charged. It came amid a campaign against ANC representatives abroad.",
+  "fbis": "",
+  "pick": false,
+  "fail": {
+   "fail": "no page matched all keyword groups in 18 issue(s)",
+   "tried": [
+    "micro_IA1176903_1020",
+    "micro_IA1176906_0964",
+    "micro_IA1176910_0011",
+    "micro_IA1176915_0214",
+    "micro_IA1176903_1021",
+    "micro_IA1176906_0965",
+    "micro_IA1176910_0012",
+    "micro_IA1176915_0215",
+    "micro_IA1176903_1022",
+    "micro_IA1176906_0966",
+    "micro_IA1176915_0216",
+    "micro_IA1176903_1023",
+    "micro_IA1176903_1024",
+    "micro_IA1176906_0967",
+    "micro_IA1176906_0968",
+    "micro_IA1176910_0013",
+    "micro_IA1176915_0217",
+    "micro_IA1176915_0218"
+   ]
   }
  },
  {
@@ -1677,13 +1774,15 @@
   "fbis": "",
   "pick": false,
   "fail": {
-   "fail": "no page matched all keyword groups in 5 issue(s)",
+   "fail": "no page matched all keyword groups in 7 issue(s)",
    "tried": [
     "micro_IA1176902_0260",
     "micro_IA1176913_0194",
     "micro_IA1176913_0195",
     "micro_IA1176902_0261",
-    "micro_IA1176913_0196"
+    "micro_IA1176913_0196",
+    "micro_IA1176902_0262",
+    "micro_IA1176913_0197"
    ]
   }
  },
@@ -1712,15 +1811,18 @@
   "spycraft": false,
   "summary": "On 30 March 1981 President Reagan was shot and wounded outside the Washington Hilton by John Hinckley Jr.",
   "significance": "Reagan recovered quickly, and his popularity rose.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Latin America Daily Report of 30 March 1981 carried Colombian reports on protests over the break with Cuba, opposition charges of military pressure on President Turbay, and the death of an M-19 leader; nothing in the excerpt concerns the shooting of President Reagan.",
+  "pick": true,
+  "doubt": "Coincidental match: Reagan is named only in a Colombian opposition remark about U.S. policy.",
+  "window": 400,
+  "start": 1,
   "evidence": {
-   "identifier": "micro_IA1176905_0627",
-   "issue_date": "1981-03-30",
-   "region": "LAT",
-   "title": "FBIS Daily Report: Latin America, Vol. VI No. 060, 30 March 1981",
-   "page": 29,
-   "snippet": "…eputy Humberto Criales de la Rosa, leader of that opposition organization, stressed that such situation only shows the Colombian Government's obedient attitude in the face of the policy drawn up by U.S. President Ronald Reagan. ARMY CONFIRMS DEATH OF M-19 LEADER MARIN MARIN PA272128 Bogota Domestic Service in Spanish 1730 GMT 27 Mar 81 [Text] Bogota--The Colombian Army's information office today announced that the death of Jose Elmer Marin Ma…"
+   "identifier": "micro_IA1176902_0768",
+   "issue_date": "1981-03-31",
+   "region": "EEU",
+   "title": "FBIS DAILY REPORT—Eastern Europe, Vol. II No. 061, 31 March 1981",
+   "page": 2,
+   "snippet": "…e Delegations Listed Sandinista Delegation Leader Ruiz Interviewed Official Interviewed on Economy by CPCZ Daily [Prague RUDE PRAVO 24 Mar] wowovwowowowon ur ~ o aananananaa»aaanaaaan i Oo ~ ~ CZECHOSLOVAKIA CTK Reports Reagan Assassination Attempt Commentators Score U.S. ‘Interference’ in Poland Reagan Remarks ‘Worst' Antisocialist Threats Polish Solidarity Strike Developments Criticized ‘Playing With Fire' [Lipavsky, Minarik in Bratislava P…"
   }
  },
  {
@@ -1746,8 +1848,8 @@
   "spycraft": false,
   "summary": "On 31 March 1991 Georgians voted overwhelmingly in a referendum to restore the country's independence.",
   "significance": "Georgia declared independence on 9 April 1991, the anniversary of the 1989 Tbilisi massacre.",
-  "fbis": "",
-  "pick": false,
+  "fbis": "The Soviet Union Daily Report of 1 April 1991 listed under the Caucasus \"Reportage on Georgian 31 Mar Poll, Referendum\": the vote beginning, 80 percent turnout per Moscow International, Gorbachev cabling Gamsakhurdia to stop bloodshed, and South Ossetians fleeing \"burned, pillaged\" homes.",
+  "pick": true,
   "evidence": {
    "identifier": "micro_IA1176915_0960",
    "issue_date": "1991-04-01",
@@ -1784,8 +1886,11 @@
   "spycraft": false,
   "summary": "On 31 March 1991 the Warsaw Pact's military structures were formally dissolved, following a decision of its members in February.",
   "significance": "The alliance itself was dissolved on 1 July 1991, leaving NATO as Europe's only military bloc.",
-  "fbis": "",
+  "fbis": "The East Europe Daily Report of 1 April 1991 carried a speech by Albania's Ramiz Alia praising the Party of Labor, including its denunciation of the Warsaw Treaty in 1968; nothing in the excerpt concerns the 1991 dissolution of the Pact's military structures.",
   "pick": false,
+  "doubt": "Only a historical mention of Albania leaving the Warsaw Pact in 1968.",
+  "window": 400,
+  "start": 1,
   "evidence": {
    "identifier": "micro_IA1176904_0309",
    "issue_date": "1991-04-01",
@@ -1823,15 +1928,153 @@
   "spycraft": true,
   "summary": "On 31 March 1992 the UN Security Council adopted Resolution 748, imposing an air and arms embargo on Libya for failing to hand over the Lockerbie bombing suspects.",
   "significance": "The two suspects were alleged Libyan intelligence officers. The sanctions remained until their surrender in 1999.",
+  "fbis": "The Near East & South Asia Daily Report of 31 March 1992 carried Baghdad INA quoting AL-THAWRAH's attack on the Security Council for maintaining sanctions on Iraq at U.S. behest; the excerpt does not mention Libya or the Lockerbie sanctions vote.",
+  "pick": false,
+  "doubt": "Page is about UN sanctions on Iraq, not Resolution 748 on Libya.",
+  "window": 400,
+  "start": 1,
+  "fail": {
+   "fail": "no page matched all keyword groups in 0 issue(s)",
+   "tried": []
+  }
+ },
+ {
+  "md": "03-03",
+  "date": "1985-03-03",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "earthquake",
+    "quake",
+    "sismo",
+    "tremor"
+   ],
+   [
+    "chile",
+    "santiago",
+    "valparaiso"
+   ]
+  ],
+  "headline": "Earthquake strikes central Chile",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "On the evening of 3 March 1985 a major earthquake struck central Chile, centred off the coast near Valparaíso and San Antonio, killing well over a hundred people and damaging Santiago and the port cities.",
+  "significance": "The earthquake struck a country under Pinochet's military government, which used emergency powers in its aftermath; it was among the strongest to hit central Chile in the twentieth century.",
+  "fbis": "",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176906_0042",
+   "issue_date": "1985-03-05",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 043, 5 March 1985",
+   "page": 2,
+   "snippet": "…Involved D Preventive Arrests [0 GLOBO 2 Mar] D Heavy Rains Threaten Angra [| Nuclear Plant [FOLHA DE SAO PAULO 2 Mar] D Iraq Indemnifies Brazilian Construction Company D {[FOLHA DE SAO PAULO 2 Mar] CHILE Another Strong Earthquake Shakes Santiago E Latest Earthquake Death Count Rises to 124 E Indefinite Strick Curfew Decreed in Santiago E 985 Mm BES ee Ww W - 4"
+  }
+ },
+ {
+  "md": "03-25",
+  "date": "1986-03-25",
+  "regions": [
+   "NES",
+   "SOV",
+   "EEU",
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "sidra",
+    "sirte",
+    "surt"
+   ],
+   [
+    "u.s.",
+    "american",
+    "united states"
+   ]
+  ],
+  "headline": "U.S. and Libyan forces clash in the Gulf of Sidra",
+  "category": "war",
+  "spycraft": false,
+  "summary": "On 24 and 25 March 1986 U.S. Navy aircraft, operating south of Qadhdhafi's 'line of death' across the Gulf of Sidra, struck a Libyan missile site and sank or disabled several Libyan patrol boats after Libya fired missiles at them.",
+  "significance": "The clashes were the first armed round of the 1986 confrontation between the Reagan administration and Qadhdhafi. Within weeks came the Berlin discothèque bombing and the U.S. air raids on Tripoli and Benghazi.",
+  "fbis": "",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176903_0555",
+   "issue_date": "1986-03-25",
+   "region": "EEU",
+   "title": "FBIS Daily Report: Eastern Europe, Vol. II No. 057, 25 March 1986",
+   "page": 36,
+   "snippet": "TENSIONS HIGH IN LIBYA FOLLOWING 24 MARCH CLASH LD251148 Belgrade TANJUG in English 1100 GMT 25 Mar 86 [Text] Tripoli, March 25 (TANJUG) -- Tensions in Libya are high since last night's clash in the Gulf of Sidra. Tripoli Radio, which is still the only source of official information on the incident, is broadcasting marches and calls for Arab unity and solidarity. Informed sources here say that the Americans violated \"the rules o…"
+  }
+ },
+ {
+  "md": "03-25",
+  "date": "1988-03-25",
+  "regions": [
+   "EEU",
+   "SOV"
+  ],
+  "keywords": [
+   [
+    "bratislava"
+   ],
+   [
+    "candle",
+    "gathering",
+    "demonstrat",
+    "believers"
+   ]
+  ],
+  "headline": "Police break up the Candle Demonstration in Bratislava",
+  "category": "uprising",
+  "spycraft": true,
+  "summary": "On 25 March 1988 thousands of Catholic believers gathered in Bratislava's Hviezdoslav Square with lit candles to demand religious freedom; police dispersed them with water cannon. The State Security service had tracked the organizers in advance.",
+  "significance": "The Candle Demonstration was the largest protest in Czechoslovakia since 1969 and is often counted as a forerunner of the Velvet Revolution twenty months later.",
   "fbis": "",
   "pick": false,
   "evidence": {
-   "identifier": "micro_IA1176910_1013",
-   "issue_date": "1992-03-31",
-   "region": "NES",
-   "title": "FBIS Daily Report: Near East & South Asia, No. 062, 31 March 1992",
-   "page": 17,
-   "snippet": "12 IRAQ Paper ( eademres | \\ Decision Maintaining Sanctions ‘ % Rage INA in Arabic 0903 GMT We [Text] Baghdad, 3! Mar (INA)}—The newspaper AL- THAWRAH has strongly condemned the recent UN Security Council's decision to maintain the economic blockade against Iraq in compliance with the wishes of the United States and its allies in order to implement their evil schemes in the region In an article published today the paper…"
+   "identifier": "micro_IA1176903_1017",
+   "issue_date": "1988-03-25",
+   "region": "EEU",
+   "title": "FBIS Daily Report: East Europe, No. 058, 25 March 1988",
+   "page": 18,
+   "snippet": "…w Delhi six in Prague that the latest Czechoslovak initiative proceeds from the conviction of the need to strengthen security, cooperation and confidence in Europe. Slovak Church Office on Planned Demonstration AU251101 Bratislava VECERNIK in Slovak 23 Mar 88 pi {[Unattributed report: “The Church Is Dissociating Itself} [Text] Some Western radio stations have been announc- ing in the last few days the staging of various collections of signatures…"
+  }
+ },
+ {
+  "md": "03-29",
+  "date": "1982-03-29",
+  "regions": [
+   "LAT"
+  ],
+  "keywords": [
+   [
+    "salvador"
+   ],
+   [
+    "election",
+    "vote",
+    "ballot",
+    "polls"
+   ]
+  ],
+  "headline": "El Salvador's election returns: Duarte leads, D'Aubuisson claims victory",
+  "category": "politics",
+  "spycraft": false,
+  "summary": "On 29 March 1982, the day after El Salvador's Constituent Assembly election, early returns put President Duarte's Christian Democrats ahead, while Roberto D'Aubuisson of the right-wing ARENA party claimed victory and called for a coalition of the right.",
+  "significance": "Washington had backed the election as proof of a democratic path amid civil war. The right-wing parties together won a majority and made D'Aubuisson, linked to the death squads, president of the assembly, an outcome that complicated U.S. support for the government.",
+  "fbis": "",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176905_0877",
+   "issue_date": "1982-03-29",
+   "region": "LAT",
+   "title": "FBIS Daily Report: Latin America, Vol. VI No. 060, 29 March 1982",
+   "page": 3,
+   "snippet": "…l [24 Mar] LA ESTRELLA DE PANAMA Editorial [27 Mar] National Guard To Restructure Police Corps CENTRAL AMERICA COSTA RICA Foreign Ministry Has No Comment on Guatemala Coup President-Elect Monge Announces Appointments EL SALVADOR Nation Holds Election; PDC, ARENA Vie for Lead Early Victory Claims D'Aubuisson Urges Coalition PDC Early Lead Early Returns Cited More on Early Trends Early Election Council Release Duarte, Church Comments Voters’ Cond…"
   }
  }
 ]

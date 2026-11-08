@@ -19,8 +19,8 @@
 
   function pad(n) { return (n < 10 ? "0" : "") + n; }
   function todayMd() { var d = new Date(); return pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
-  function label(md) { var p = md.split("-"); return +p[1] + " " + MONTHS[+p[0] - 1]; }
-  function shortLabel(md) { var p = md.split("-"); return +p[1] + " " + MONTHS[+p[0] - 1].slice(0, 3); }
+  function label(md) { var p = md.split("-"); return MONTHS[+p[0] - 1] + " " + +p[1]; }
+  function shortLabel(md) { var p = md.split("-"); return MONTHS[+p[0] - 1].slice(0, 3) + " " + +p[1]; }
   function validMd(md) {
     var m = /^(\d\d)-(\d\d)$/.exec(md || "");
     return !!m && +m[1] >= 1 && +m[1] <= 12 && +m[2] >= 1 && +m[2] <= DAYS_IN[+m[1] - 1];
@@ -33,7 +33,7 @@
   }
   function longDate(iso) {
     var p = iso.split("-");
-    return +p[2] + " " + MONTHS[+p[1] - 1] + " " + p[0];
+    return MONTHS[+p[1] - 1] + " " + +p[2] + ", " + p[0];
   }
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
@@ -49,8 +49,15 @@
   function itemUrl(id) { return "https://archive.org/details/" + encodeURIComponent(id); }
   function pageUrl(ev) { return itemUrl(ev.identifier) + "/page/n" + ev.page + "/mode/1up"; }
 
+  // The file line FBIS printed on each issue, e.g. FBIS-SOV-87-019.
+  function fileRef(ev) {
+    var y = ev.issue_date.slice(2, 4), m = /No\.?\s*0*(\d+)/.exec(ev.title || "");
+    return "FBIS-" + ev.region + "-" + y + (m ? "-" + pad3(m[1]) : "");
+  }
+  function pad3(n) { n = String(n); return ("000" + n).slice(-3); }
+
   function evidenceHtml(ev) {
-    return '<div class="evidence">' +
+    return '<div class="evidence"><p class="intercept" aria-hidden="true">Intercept · ' + esc(fileRef(ev)) + "</p>" +
       '<p class="src">Found on page ' + (ev.page + 1) + ' of <a href="' + pageUrl(ev) + '">' + esc(ev.title) + "</a>" +
       (ev.contents_only ? " (in its list of contents)" : "") + ".</p>" +
       "<blockquote>" + esc(ev.snippet) + "</blockquote>" +
@@ -68,6 +75,7 @@
     }
     var ev = e.evidence;
     s.innerHTML =
+      '<div class="classif"><span>Unclassified</span><span class="mono">' + esc(fileRef(ev)) + " · p. " + (ev.page + 1) + "</span></div>" +
       '<div class="dateline"><p class="bigdate">' + esc(label(md)) + '</p><span class="year">' + esc(e.date.slice(0, 4)) + "</span>" +
       (e.spycraft ? '<span class="stamp">Spycraft</span>' : "") +
       (e.category ? '<span class="tag">' + esc(CATEGORY[e.category] || e.category) + "</span>" : "") + "</div>" +
@@ -77,8 +85,9 @@
       "<h3>What FBIS heard</h3>" + (e.fbis ? "<p>" + esc(e.fbis) + "</p>" : "") +
       evidenceHtml(ev) +
       '<a class="cta" href="' + pageUrl(ev) + '">Read the ' + esc(longDate(ev.issue_date)) + " Daily Report</a>" +
-      '<p class="draft">Draft entry. The event, its date and its context were written with AI assistance (Claude) and checked against the text of this Daily Report, but have not yet been reviewed by a historian. ' +
-      '<a href="about.html#method">How entries are made</a>.</p>';
+      '<p class="draft">Written with AI assistance (Claude). A script confirmed that this Daily Report carries the event; the history around it has not been checked by a specialist. ' +
+      '<a href="about.html#method">How entries are made</a> · ' +
+      '<a href="mailto:robin.fay@archive.org?subject=Feedback%20about%20Explorers%3A%20FBIS%20This%20Day">Report a mistake</a>.</p>';
   }
 
   function renderAlts(data) {
@@ -147,6 +156,15 @@
       $("sheet").innerHTML = '<p class="empty">This day\'s file could not be loaded. Try reloading the page.</p>';
     });
   }
+
+  // The band's monitor line: a countdown to the next day's report.
+  function tick() {
+    var box = $("countdown"); if (!box) return;
+    var now = new Date(), next = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1);
+    var t = Math.max(0, Math.floor((next - now) / 1000));
+    box.textContent = pad(Math.floor(t / 3600)) + ":" + pad(Math.floor(t / 60) % 60) + ":" + pad(t % 60);
+  }
+  tick(); setInterval(tick, 1000);
 
   // At local midnight, move to the new day unless the visitor pinned one.
   function scheduleMidnight() {

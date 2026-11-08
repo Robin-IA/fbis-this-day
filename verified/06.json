@@ -1588,5 +1588,40 @@
    "page": 2,
    "snippet": "FBIS MIDDLE EAST & DAILY REPORT SOUTH ASIA REVIEW 1 JULY 1985 Hostages’ Release Announcing the “happy ending” of the hostages affair at a 30 June press conference reported by Beirut radio, Ama! movement leader Nabih Birri stressed that the decision to release the 39 Americans was in accord…"
   }
+ },
+ {
+  "md": "06-21",
+  "date": "1990-06-21",
+  "regions": [
+   "SOV",
+   "EEU",
+   "EAS",
+   "LAT",
+   "NES"
+  ],
+  "keywords": [
+   [
+    "earthquake",
+    "quake"
+   ],
+   [
+    "iran"
+   ]
+  ],
+  "headline": "Earthquake devastates northern Iran",
+  "category": "disaster",
+  "spycraft": false,
+  "summary": "Shortly after midnight on 21 June 1990 an earthquake struck Gilan and Zanjan provinces in northern Iran, destroying towns such as Rudbar and Manjil and killing tens of thousands of people.",
+  "significance": "Iran accepted aid from many countries, including a small amount from the United States, the first since the break in relations in 1980.",
+  "fbis": "",
+  "pick": true,
+  "evidence": {
+   "identifier": "micro_IA1176915_0786",
+   "issue_date": "1990-06-21",
+   "region": "SOV",
+   "title": "FBIS Daily Report: Soviet Union, No. 120, 21 June 1990",
+   "page": 123,
+   "snippet": "…-and-file communists. Delegates to the congress are now working in sections; the most topical problems of the life and activity of the Republican Communist Party have been submitted to their exami- nation. Caucasus Iran Earthquake Causes Tremors in Azerbaijan LD2106092990 Moscow TASS in English 0906 GMT 21 Jun 90 [Text] Baku June 21 TASS—Tremors from a quake in Iran, measuring from six to 6.5 on the Soviet scale, hit southern Azerbaijan at 01:01…"
+  }
  }
 ]

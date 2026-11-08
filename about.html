@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>About · FBIS This Day</title>
 <meta name="description" content="About FBIS This Day: its source in the Internet Archive's us-fbis collection, the dates it covers, what it leaves out, and how each day's entry is made and checked.">
-<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="style.css?v=4">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -38,7 +38,7 @@
     <div class="figs">
       <figure class="figure">
         <img src="img/fbis-tito-message-1980.jpg" width="960" height="768" loading="lazy" alt="A teletype message on tan paper headed FM FBIS VIENNA AU, reporting a Bucharest Radio announcement that President Tito has died.">
-        <figcaption>What the monitors filed: FBIS's Vienna bureau relays Bucharest Radio's report of President Tito's death, 4 May 1980. Central Intelligence Agency, <a href="https://commons.wikimedia.org/wiki/File:FBIS_Text_Message_Announcing_Yugoslavian_President_Tito%27s_Death_-_Flickr_-_The_Central_Intelligence_Agency.jpg">Wikimedia Commons</a>, public domain.</figcaption>
+        <figcaption>What the monitors filed: FBIS's Vienna bureau relays Bucharest Radio's report of President Tito's death, May 4, 1980. Central Intelligence Agency, <a href="https://commons.wikimedia.org/wiki/File:FBIS_Text_Message_Announcing_Yugoslavian_President_Tito%27s_Death_-_Flickr_-_The_Central_Intelligence_Agency.jpg">Wikimedia Commons</a>, public domain.</figcaption>
       </figure>
       <figure class="figure">
         <img src="img/fbis-equipment-1945.jpg" width="600" height="436" loading="lazy" alt="A monitor in headphones sits before a wall of radio receivers.">
@@ -51,7 +51,7 @@
     <p>The collection belongs to Democracy's Library by its scope: it sits in the Internet Archive's <a href="https://archive.org/details/USGovernmentDocuments">U.S. Government Documents</a> collection, which Democracy's Library's collection search includes. It does not carry the <code>democracys-library</code> collection tag itself.</p>
 
     <h2>Dates covered</h2>
-    <p>The Daily Reports here run from <strong>3 January 1978</strong> to <strong>30 August 1996</strong>. FBIS itself worked from 1941 to 2005; earlier and later issues are not in this collection, so events such as the Bay of Pigs (1961) or the Cuban Missile Crisis (1962) cannot appear here.</p>
+    <p>The Daily Reports here run from <strong>January 3, 1978</strong> to <strong>August 30, 1996</strong>. FBIS itself worked from 1941 to 2005; earlier and later issues are not in this collection, so events such as the Bay of Pigs (1961) or the Cuban Missile Crisis (1962) cannot appear here.</p>
 
     <h2>Topics and regions</h2>
     <table>
@@ -69,20 +69,21 @@
     <p>Because China, Western Europe and Africa are barely present, events there appear through how Moscow, Eastern Europe, the Middle East or Latin America reported them.</p>
 
     <h2>When the numbers were taken</h2>
-    <p id="numbers">The collection held 22,903 items on 6 November 2026, 21,850 of them with a date (a search for <code>collection:us-fbis</code>).</p>
+    <p id="numbers">The collection held 22,903 items on November 6, 2026, 21,850 of them with a date (a search for <code>collection:us-fbis</code>).</p>
 
     <h2>What is left out</h2>
     <ul>
       <li>FBIS material outside the <code>us-fbis</code> collection: the JPRS translations, the CIA Reading Room's FBIS memos and cables, and the later World News Connection. The <a href="https://wayback-labs.sf.archive.org/fbis/">FBIS explorer</a> covers those.</li>
       <li>Undated items (about 1,050), which cannot be placed on a day.</li>
-      <li>No Daily Report is dated 4 July, 11 November or 25 December. Those days still have an entry: the event fell on that date, and the report that carried it came out a day or two later.</li>
+      <li>No Daily Report is dated July 4, November 11 or December 25. Those days still have an entry: the event fell on that date, and the report that carried it came out a day or two later.</li>
     </ul>
 
     <h2 id="method">How each entry is made</h2>
     <ol>
       <li>Several candidate events were drafted for each calendar day, each one an event on that date between 1978 and 1996, with spycraft preferred.</li>
-      <li>A script searched the machine-read text of every Daily Report dated that day and up to three days later, in the regions likely to have carried it, for the event's key words, all on one page. Only events found this way are shown, and the page they were found on is linked and quoted.</li>
-      <li>The summary, the "Why it mattered" and the "What FBIS heard" paragraphs were written with AI assistance (Claude) and checked against that page. They are <strong>drafts</strong>, not yet reviewed by a historian. Corrections are welcome through the feedback link below.</li>
+      <li>A script searched the machine-read text of every Daily Report dated that day and the few days after, in the regions likely to have carried it, for the event's key words on one page. Only events found this way are shown, and the page they were found on is linked and quoted.</li>
+      <li>Each match was then read. Where the page turned out to be about something else, or to predate the event, the search was run again requiring the key words close together and skipping the issue dated the event day itself. Events that still could not be found were left out.</li>
+      <li>The summary, the "Why it mattered" and the "What FBIS heard" paragraphs were written with AI assistance (Claude) and checked against that page. No specialist has reviewed them: the script confirms only that the Daily Report carries the event, not that the history around it is right. Corrections are welcome through the feedback link below.</li>
     </ol>
     <p>The quoted text is the Internet Archive's uncorrected OCR of the microfiche, and has errors.</p>
 
@@ -103,6 +104,7 @@
 <footer class="site">
   <div class="wrap">
     <p>Daily Reports from the <a href="https://archive.org/details/us-fbis">United States Foreign Broadcast Information Service (FBIS)</a> collection at the <a href="https://archive.org/">Internet Archive</a>, part of <a href="https://archive.org/details/democracys-library">Democracy's Library</a>.</p>
+    <p>An experiment from Democracy's Library at the Internet Archive; not an official FBIS or U.S. government publication.</p>
     <p>Feedback? <a href="mailto:robin.fay@archive.org?subject=Feedback%20about%20Explorers%3A%20FBIS%20This%20Day">Email us</a></p>
   </div>
 </footer>

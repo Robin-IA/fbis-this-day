@@ -24,22 +24,23 @@ that day in any year. A calendar page lists all 366 days.
   of Democracy's Library **by scope** (through `USGovernmentDocuments`,
   which Democracy's Library's `search_collection` includes); it does not
   carry the `democracys-library` tag.
-- **Years covered:** 3 January 1978 to 30 August 1996. Nothing before 1978
+- **Years covered:** January 3, 1978, to August 30, 1996. Nothing before 1978
   is in the collection, so the Bay of Pigs and the Cuban Missile Crisis
   cannot appear.
 - **Regions:** Soviet Union, East Europe, Near East / Middle East, Latin
   America (all years); East Asia from 1990; Africa, China and West Europe
   barely at all.
 - **Size:** 22,903 items, 21,850 dated (`collection:us-fbis`, scrape API,
-  6 November 2026).
+  November 6, 2026).
 - **Not included:** JPRS, the CIA Reading Room's FBIS memos, World News
   Connection, and undated items. For those see the
   [FBIS explorer](https://wayback-labs.sf.archive.org/fbis/) in Wayback
   Machine Labs.
 
-**The written entries are drafts.** Each was written with AI assistance
-and checked against the text of its Daily Report, but has not yet been
-reviewed by a historian. The site says so on every entry.
+**The written entries are AI-assisted.** Each was written with Claude, and
+a script confirmed that its Daily Report carries the event; no specialist
+has reviewed the history around it. The site says so on every entry and
+asks readers to report mistakes.
 
 ## How it was built
 

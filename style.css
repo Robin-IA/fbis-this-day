@@ -61,7 +61,20 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 .lede { color: var(--muted); margin: 0; max-width: 40rem; }
 
 /* Home-page band: dark blue, white type, gold rules, a photograph */
-.band { background: linear-gradient(180deg, var(--navy) 0%, var(--navy-deep) 100%); color: var(--white); border-bottom: 4px solid var(--red); }
+/* A listening-post console: faint range rings and a plotting grid */
+.band { color: var(--white); border-bottom: 4px solid var(--red);
+  background:
+    repeating-radial-gradient(circle at 88% 40%, rgba(212,167,44,.10) 0 1px, transparent 1px 46px),
+    linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px) 0 0 / 100% 28px,
+    linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px) 0 0 / 28px 100%,
+    linear-gradient(180deg, var(--navy) 0%, var(--navy-deep) 100%); }
+.monitor { margin: 16px 0 0; font: 600 12px/1.4 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--gold); display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.monitor #countdown { color: var(--white); font-size: 14px; letter-spacing: .06em; }
+.monitor .dot { width: 9px; height: 9px; border-radius: 50%; background: #ff5a5a; box-shadow: 0 0 0 3px rgba(255,90,90,.25); }
+@media (prefers-reduced-motion: no-preference) {
+  .monitor .dot { animation: blink 2s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: .35; } }
+}
 .band .wrap { display: grid; grid-template-columns: 1fr minmax(0, 17rem); gap: 24px; align-items: center; padding-top: 30px; padding-bottom: 30px; }
 .band .slug { color: var(--gold); }
 .band h1 { color: var(--white); font-size: 2.6rem; }
@@ -87,7 +100,10 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 .daybar .pick { display: flex; gap: 6px; align-items: center; }
 
 /* The day card: a wire-service sheet */
-.sheet { background: var(--paper); border: 1px solid var(--rule); border-top: 6px solid var(--red); border-radius: 8px; padding: 22px 24px 24px; position: relative; box-shadow: 0 2px 0 var(--gold), 0 8px 24px rgba(12, 26, 54, .08); }
+.sheet { background: var(--paper); border: 1px solid var(--rule); border-radius: 4px; padding: 0 24px 24px; position: relative; box-shadow: 0 2px 0 var(--gold), 0 8px 24px rgba(12, 26, 54, .08); overflow: hidden; }
+/* The classification strip FBIS printed at the head of each page */
+.classif { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 0 -24px 18px; padding: 7px 24px; background: var(--red); color: var(--white); font: 700 12px/1.3 var(--mono); letter-spacing: .18em; text-transform: uppercase; }
+.classif .mono { letter-spacing: .06em; font-weight: 600; }
 .sheet .dateline { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; border-bottom: 2px solid var(--heading); padding-bottom: 10px; margin-bottom: 16px; }
 .sheet .bigdate { font: 700 1.9rem/1 var(--serif); margin: 0; color: var(--heading); }
 .sheet .year { font: 600 1.05rem var(--mono); color: var(--accent); }
@@ -95,8 +111,14 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 .tag { display: inline-block; font: 600 12px/1 var(--sans); background: var(--chip); color: var(--chip-ink); border: 1px solid var(--gold); padding: 4px 8px; border-radius: 99px; }
 .sheet h2 { font: 700 1.55rem/1.25 var(--serif); margin: 4px 0 12px; color: var(--heading); }
 .sheet h3 { font: 700 12px/1.3 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--heading); margin: 22px 0 6px; padding-bottom: 4px; border-bottom: 2px solid var(--gold); display: inline-block; }
+.sheet h3::before { content: ""; display: inline-block; width: 8px; height: 8px; background: var(--accent); margin-right: 8px; vertical-align: 1px; }
 .sheet p { margin: 0 0 10px; }
-.evidence { margin: 12px 0 0; border-left: 4px solid var(--gold); padding: 10px 14px; background: var(--tint); border-radius: 0 6px 6px 0; }
+/* Teletype paper: a perforated tractor-feed edge */
+.evidence { margin: 12px 0 0; padding: 10px 14px 10px 30px; background:
+    radial-gradient(circle at 10px 12px, var(--paper) 0 3.5px, transparent 4px) 0 0 / 20px 24px repeat-y,
+    var(--tint);
+  border-left: 1px dashed var(--rule); border-radius: 0 4px 4px 0; }
+.evidence .intercept { margin: 0 0 6px; font: 700 11px/1.3 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
 .evidence .src { font: 13px/1.5 var(--sans); color: var(--muted); margin: 0 0 8px; }
 .evidence blockquote { margin: 0; font: 14px/1.55 var(--mono); white-space: pre-wrap; word-break: break-word; }
 .evidence .ocrnote { font: 12px var(--sans); color: var(--muted); margin: 8px 0 0; }

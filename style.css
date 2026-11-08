@@ -114,17 +114,28 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
     radial-gradient(ellipse at 50% 40%, transparent 55%, rgba(120, 95, 50, .10) 100%),
     var(--paper);
   border: 1px solid #e3d8b8; border-radius: 3px; padding: 0 28px 26px; position: relative; isolation: isolate;
-  box-shadow: 0 1px 0 #e3d8b8, 0 10px 26px rgba(12, 26, 54, .18);
+  /* the sheet lifts off the page: a hard shadow down the right edge and a soft one below */
+  box-shadow: 1px 0 0 #e3d8b8, 12px 14px 0 -4px rgba(12, 26, 54, .10), 18px 22px 30px rgba(12, 26, 54, .28);
+  margin-right: 14px;
 }
 /* a second sheet underneath, slightly askew */
-.sheet::before { content: ""; position: absolute; inset: 6px -4px -6px 4px; z-index: -1; background: #eee5cc; border: 1px solid #ddd0ac; border-radius: 3px; transform: rotate(.6deg); box-shadow: 0 6px 18px rgba(12, 26, 54, .12); }
+/* the edges of two more sheets showing down the right-hand side */
+.sheet::before, .sheet::after { content: ""; position: absolute; top: 5px; bottom: -5px; z-index: -1; border-radius: 0 3px 3px 0; }
+.sheet::before { right: -7px; left: 7px; background: #efe6cd; border: 1px solid #d9ccaa; box-shadow: 3px 3px 6px rgba(12, 26, 54, .12); }
+.sheet::after { top: 10px; bottom: -10px; right: -13px; left: 13px; z-index: -2; background: #e7dcbf; border: 1px solid #d2c4a0; box-shadow: 4px 5px 10px rgba(12, 26, 54, .14); }
 .sheet h2, .sheet p { font-family: var(--type); }
 .sheet h2 { font-weight: 700; letter-spacing: -.01em; }
 .sheet p { font-size: 16px; line-height: 1.65; text-shadow: 0 0 .5px rgba(29, 26, 20, .35); }
 .sheet .bigdate { font-family: var(--type); }
-/* The classification strip FBIS printed at the head of each page */
-.classif { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 0 -28px 18px; padding: 7px 28px; border-radius: 3px 3px 0 0; background: var(--red); color: var(--white); font: 700 12px/1.3 var(--mono); letter-spacing: .18em; text-transform: uppercase; }
-.classif .mono { letter-spacing: .06em; font-weight: 600; }
+/* The file line typed at the head of the sheet, and a rubber stamp over it */
+.sheet p.fileline { margin: 0 -28px 18px; padding: 12px 28px 8px; border-bottom: 1px dashed var(--rule); font: 600 12px/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.sheet p.cstamp { position: absolute; top: 34px; right: 24px; z-index: 1; margin: 0; pointer-events: none; text-shadow: none;
+  font: 800 19px/1 var(--mono); letter-spacing: .2em; text-transform: uppercase; color: #a3121f;
+  padding: 7px 12px 6px 16px; border: 3px solid currentColor; border-radius: 6px; outline: 1.5px solid currentColor; outline-offset: 3px;
+  transform: rotate(-7deg); opacity: .86; mix-blend-mode: multiply;
+  /* uneven ink: a noise mask lets the paper show through in places */
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='60'%3E%3Cfilter id='s'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.2' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.2 1.6'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23s)'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='60'%3E%3Cfilter id='s'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.2' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.2 1.6'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23s)'/%3E%3C/svg%3E"); }
 .sheet .dateline { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; border-bottom: 2px solid var(--heading); padding-bottom: 10px; margin-bottom: 16px; }
 .sheet .bigdate { font: 700 1.9rem/1 var(--serif); margin: 0; color: var(--heading); }
 .sheet .year { font: 600 1.05rem var(--mono); color: var(--accent); }
@@ -197,7 +208,9 @@ footer.site p { margin: 0 0 6px; }
   body { font-size: 16px; }
   h1 { font-size: 1.7rem; }
   .sheet { padding: 0 16px 16px; }
-  .sheet .classif { margin: 0 -16px 14px; padding: 7px 16px; }
+  .sheet p.fileline { margin: 0 -16px 14px; padding: 10px 16px 8px; }
+  .sheet { margin-right: 10px; }
+  .sheet p.cstamp { position: static; display: inline-block; margin: 0 0 12px 4px; font-size: 15px; }
   .sheet .bigdate { font-size: 1.5rem; }
   .masthead nav { margin-left: 0; width: 100%; }
 }

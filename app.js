@@ -75,7 +75,8 @@
     }
     var ev = e.evidence;
     s.innerHTML =
-      '<div class="classif"><span>Unclassified</span><span class="mono">' + esc(fileRef(ev)) + " · p. " + (ev.page + 1) + "</span></div>" +
+      '<p class="fileline">File ' + esc(fileRef(ev)) + " · p. " + (ev.page + 1) + "</p>" +
+      '<p class="cstamp">Unclassified</p>' +
       '<div class="dateline"><p class="bigdate">' + esc(label(md)) + '</p><span class="year">' + esc(e.date.slice(0, 4)) + "</span>" +
       (e.spycraft ? '<span class="stamp">Spycraft</span>' : "") +
       (e.category ? '<span class="tag">' + esc(CATEGORY[e.category] || e.category) + "</span>" : "") + "</div>" +

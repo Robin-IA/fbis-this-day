@@ -90,8 +90,8 @@ Built by Robin Fay, Project Manager, Digital Collections, Democracy's
 Library, with [Claude Code](https://claude.com/claude-code) (Claude Opus
 5.5), November 2026. Robin set the scope and the publishing arrangement;
 Claude wrote the code, drafted the candidate events and their context, and
-ran the OCR checks. Each commit names Claude as co-author. Draws on Mark
-Graham's FBIS explorer in Wayback Machine Labs.
+ran the OCR checks. Each commit names Claude as co-author. Draws on the
+[FBIS explorer](https://wayback-labs.sf.archive.org/fbis/) in Wayback Machine Labs.
 
 ## How to use it
 

@@ -75,6 +75,7 @@
     }
     var ev = e.evidence;
     s.innerHTML =
+      '<span class="clip" aria-hidden="true"></span>' +
       '<p class="fileline">File ' + esc(fileRef(ev)) + " · p. " + (Number(ev.page) + 1) + "</p>" +
       '<p class="cstamp">Unclassified</p>' +
       '<div class="dateline"><p class="bigdate">' + esc(label(md)) + '</p><span class="year">' + esc(e.date.slice(0, 4)) + "</span>" +

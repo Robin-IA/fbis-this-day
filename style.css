@@ -65,13 +65,27 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 .lede { color: var(--muted); margin: 0; max-width: 40rem; }
 
 /* Home-page band: dark blue, white type, gold rules, a photograph */
-/* A listening-post console: faint range rings and a plotting grid */
-.band { color: var(--white); border-bottom: 4px solid var(--red);
+/* A radar capture: a still frame from a near-black blue scope, with range
+   rings, cross-hairs, a frozen sweep and a few contacts. Nothing moves. The
+   scope's lines never add up to more than 26% green behind any text, which
+   keeps the gold and grey type above 4.5:1 (gold is 4.71:1 at the worst). */
+.band { --rx: 55%; --ry: 58%; --scope: 120, 230, 170;
+  color: var(--white); border-bottom: 4px solid var(--red);
+  position: relative; overflow: hidden; isolation: isolate;
   background:
-    repeating-radial-gradient(circle at 88% 40%, rgba(212,167,44,.10) 0 1px, transparent 1px 46px),
-    linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px) 0 0 / 100% 28px,
-    linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px) 0 0 / 28px 100%,
-    linear-gradient(180deg, var(--navy) 0%, var(--navy-deep) 100%); }
+    repeating-radial-gradient(circle at var(--rx) var(--ry), rgba(var(--scope), .10) 0 1px, transparent 1.5px 70px),
+    linear-gradient(rgba(var(--scope), .10), rgba(var(--scope), .10)) var(--rx) 0 / 1px 100% no-repeat,
+    linear-gradient(rgba(var(--scope), .10), rgba(var(--scope), .10)) 0 var(--ry) / 100% 1px no-repeat,
+    radial-gradient(circle at var(--rx) var(--ry), #050c1a 0%, #040914 50%, #020509 100%); }
+/* the frozen sweep: a beam with its fading phosphor trail */
+.band::before { content: ""; position: absolute; z-index: -1; pointer-events: none;
+  width: 1400px; height: 1400px; left: calc(var(--rx) - 700px); top: calc(var(--ry) - 700px); border-radius: 50%;
+  background: conic-gradient(from 0deg, transparent 0deg 230deg, rgba(var(--scope), .02) 260deg, rgba(var(--scope), .09) 322deg, rgba(var(--scope), .14) 324deg, transparent 324.8deg);
+  -webkit-mask-image: radial-gradient(circle, #000 0 40%, transparent 60%); mask-image: radial-gradient(circle, #000 0 40%, transparent 60%); }
+/* contacts: the ones the beam has just passed are brightest */
+.band::after { content: ""; position: absolute; z-index: -1; pointer-events: none; width: 6px; height: 6px; border-radius: 50%;
+  left: calc(var(--rx) - 120px); top: calc(var(--ry) - 150px); background: rgba(var(--scope), .2);
+  box-shadow: 0 0 6px rgba(var(--scope), .12), 260px -60px 0 -1px rgba(var(--scope), .16), -420px 40px 0 -1px rgba(var(--scope), .12), 90px 120px 0 0 rgba(var(--scope), .14); }
 .monitor { margin: 16px 0 0; font: 600 12px/1.4 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--gold); display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .monitor #countdown { color: var(--white); font-size: 14px; letter-spacing: .06em; }
 .monitor .dot { width: 9px; height: 9px; border-radius: 50%; background: #ff5a5a; box-shadow: 0 0 0 3px rgba(255,90,90,.25); }
@@ -107,22 +121,23 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 /* The bulletin is a typed sheet of paper in both light and dark mode, so it
    carries its own colors. Every text pair here meets WCAG AA on the paper. */
 .sheet {
-  --paper: #fcf9f0; --tint: #f2ebd8; --ink: #1d1a14; --muted: #4e4637; --rule: #d9ceb0;
+  --paper: #ffffff; --tint: #f3f3f0; --ink: #1d1a14; --muted: #4e4637; --rule: #d6d4ce;
   --heading: #14274e; --link: #1b3f86; --accent: #b31b2b; --accent-ink: #fff;
   --chip: #f1e4bd; --chip-ink: #14274e;
   --type: "American Typewriter", "Courier Prime", "Courier New", Courier, monospace;
   color: var(--ink);
   background:
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .32 0 0 0 0 .26 0 0 0 0 .14 0 0 0 .09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
-    linear-gradient(180deg, transparent 33%, rgba(120, 100, 60, .07) 33.2%, transparent 33.6%),
-    radial-gradient(ellipse at 50% 40%, transparent 55%, rgba(120, 95, 50, .10) 100%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .3 0 0 0 0 .3 0 0 0 0 .3 0 0 0 .05 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
+    /* the dent a paper clip left in the top edge */
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='76' viewBox='0 0 22 76'%3E%3Cpath d='M9 28V60a3 3 0 0 0 6 0V12a6 6 0 0 0-12 0V66a8 8 0 0 0 16 0V30' fill='none' stroke='%235a5040' stroke-opacity='.16' stroke-width='2.6' stroke-linecap='round'/%3E%3Cpath d='M9 28V60a3 3 0 0 0 6 0V12a6 6 0 0 0-12 0V66a8 8 0 0 0 16 0V30' fill='none' stroke='%23ffffff' stroke-opacity='.9' stroke-width='.8' stroke-linecap='round' transform='translate%28.6 .6%29'/%3E%3C/svg%3E") left 56px top -40px / 22px 76px no-repeat,
+    linear-gradient(180deg, transparent 33%, rgba(90, 90, 90, .05) 33.2%, transparent 33.6%),
     var(--paper);
-  border: 1px solid #e3d8b8; border-radius: 3px; padding: 0 28px 26px; position: relative; isolation: isolate;
+  border: 1px solid #dddbd5; border-radius: 3px; padding: 0 28px 26px; position: relative; isolation: isolate;
   /* the sheet lifts off the page: a hard shadow down the right edge and a soft one below */
   /* a defined edge all round, a light shadow along the top, a drop shadow
      below, and the hard shadow down the right-hand edge */
   box-shadow:
-    0 0 0 1px rgba(120, 95, 50, .30),
+    0 0 0 1px rgba(90, 85, 75, .22),
     0 -3px 8px -2px rgba(12, 26, 54, .14),
     0 4px 6px rgba(12, 26, 54, .16),
     0 22px 30px -10px rgba(12, 26, 54, .38),
@@ -133,8 +148,8 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 /* a second sheet underneath, slightly askew */
 /* the edges of two more sheets showing down the right-hand side */
 .sheet::before, .sheet::after { content: ""; position: absolute; top: 5px; bottom: -5px; z-index: -1; border-radius: 0 3px 3px 0; }
-.sheet::before { right: -7px; left: 7px; background: #efe6cd; border: 1px solid #cdbd95; box-shadow: 3px 4px 8px rgba(12, 26, 54, .18); }
-.sheet::after { top: 10px; bottom: -10px; right: -13px; left: 13px; z-index: -2; background: #e7dcbf; border: 1px solid #c6b48a; box-shadow: 4px 8px 14px rgba(12, 26, 54, .22); }
+.sheet::before { right: -7px; left: 7px; background: #f6f6f3; border: 1px solid #cfccc4; box-shadow: 3px 4px 8px rgba(12, 26, 54, .18); }
+.sheet::after { top: 10px; bottom: -10px; right: -13px; left: 13px; z-index: -2; background: #ededea; border: 1px solid #c4c1b8; box-shadow: 4px 8px 14px rgba(12, 26, 54, .22); }
 .sheet h2, .sheet p { font-family: var(--type); }
 .sheet h2 { font-weight: 700; letter-spacing: -.01em; }
 .sheet p { font-size: 16px; line-height: 1.65; text-shadow: 0 0 .5px rgba(29, 26, 20, .35); }
@@ -234,17 +249,20 @@ footer.site p { margin: 0 0 6px; }
 .sheet p.draft a { display: inline-block; min-height: 24px; padding: 3px 0; line-height: 18px; }
 .sheet .evidence p { text-shadow: none; }
 
-/* An open manila folder that holds each page's contents. It keeps its own
-   colors in both modes; every text pair on it meets WCAG AA. */
+/* A manila folder opened flat: the back panel, with its index tab, holds
+   each page's contents; it folds along the scored crease at the bottom into
+   the front cover, which lies open below. It keeps its own colors in both
+   modes; every text pair on it meets WCAG AA. */
 .folder {
   --paper: #f8f3e3; --tint: #efe7d0; --ink: #2a2115; --muted: #4f3f22; --rule: #d6c39a;
   --heading: #14274e; --link: #1b3f86; --accent: #8a1420; --chip: #f1e4bd; --chip-ink: #14274e;
-  color: var(--ink); position: relative; margin-top: 52px; margin-bottom: 8px;
-  padding: 10px 26px 26px 40px; border-radius: 4px 8px 8px 8px;
+  color: var(--ink); position: relative; margin-top: 52px; margin-bottom: 84px;
+  padding: 10px 26px 26px 40px; border-radius: 4px 8px 0 0;
   background:
     url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='m'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.7' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .4 0 0 0 0 .3 0 0 0 0 .12 0 0 0 .08 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E"),
-    linear-gradient(90deg, #dccaa0 0, #e8d9b6 10px, #cdb88a 13px, #f1e6cc 16px, #f1e6cc 100%);
-  box-shadow: inset 0 0 0 1px rgba(110, 80, 30, .25), 0 14px 34px rgba(12, 26, 54, .22);
+    radial-gradient(ellipse at 30% 0%, rgba(255, 255, 255, .28), transparent 60%),
+    #f1e6cc;
+  box-shadow: inset 0 0 0 1px rgba(110, 80, 30, .25), -6px 0 24px -8px rgba(12, 26, 54, .22), 6px 0 24px -8px rgba(12, 26, 54, .22);
 }
 /* the folder's index tab */
 .folder::before {
@@ -256,18 +274,25 @@ footer.site p { margin: 0 0 6px; }
     /* a soft drop shadow up and out from the tab; none at its foot, where it joins the folder */
     -2px -3px 6px -2px rgba(60, 45, 20, .16), 3px -2px 6px -2px rgba(60, 45, 20, .16);
 }
-/* the front flap folded back along the left edge */
+/* the front cover, opened flat below the crease, with the folder's
+   score lines and a little shade where it bends */
 .folder::after {
-  content: ""; position: absolute; left: -8px; top: 14px; bottom: -6px; width: 14px; border-radius: 6px 0 0 6px;
-  background: linear-gradient(90deg, #cdb88a, #e2d1aa); box-shadow: -3px 4px 8px rgba(12, 26, 54, .18); z-index: -1;
+  content: ""; position: absolute; left: 0; right: 0; top: 100%; height: 72px; z-index: -1; pointer-events: none;
+  border-radius: 0 0 8px 8px;
+  background:
+    repeating-linear-gradient(180deg, rgba(110, 80, 30, .30) 0 1px, rgba(255, 255, 255, .45) 1px 2px, transparent 2px 7px) 0 3px / 100% 21px no-repeat,
+    linear-gradient(180deg, rgba(60, 45, 20, .18), rgba(60, 45, 20, 0) 26px),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='m'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.7' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .4 0 0 0 0 .3 0 0 0 0 .12 0 0 0 .08 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E"),
+    #ead9b2;
+  box-shadow: inset 0 0 0 1px rgba(110, 80, 30, .25), 0 16px 30px -6px rgba(12, 26, 54, .26);
 }
 .folder .daybar { margin-top: 14px; }
 .folder .daybar button, .folder .daybar select { color: var(--ink); background: var(--paper); border-color: #d6c39a; }
 .folder section.more h2, .folder .prose h2 { color: var(--heading); }
 .folder header.intro { padding-top: 16px; }
 @media (max-width: 560px) {
-  .folder { padding: 8px 14px 18px 22px; margin-top: 46px; }
-  .folder::after { left: -5px; width: 9px; }
+  .folder { padding: 8px 14px 18px 22px; margin-top: 46px; margin-bottom: 64px; }
+  .folder::after { height: 56px; }
 }
 
 .sheet h2, .sheet .bigdate { font-family: "Courier Prime", "Courier New", Courier, monospace; font-weight: 700; letter-spacing: -.01em; }
@@ -279,7 +304,7 @@ footer.site p { margin: 0 0 6px; }
 .folder .daybar { gap: 6px; align-items: flex-end; margin: 18px -26px 18px -40px; padding: 0 26px 0 40px; position: relative; }
 /* the folder's beige comes up over the foot of the tabs, so they sit
    tucked behind it, with a soft shadow cast up from its edge */
-.folder .daybar::after { content: ""; position: absolute; left: 16px; right: 0; bottom: -2px; height: 11px; z-index: 1; pointer-events: none;
+.folder .daybar::after { content: ""; position: absolute; left: 1px; right: 1px; bottom: -2px; height: 11px; z-index: 1; pointer-events: none;
   background: #f1e6cc; border-top: 1px solid rgba(255, 255, 255, .55);
   box-shadow: 0 -1px 4px rgba(60, 45, 20, .13); }
 .folder .daybar button, .folder .daybar select {
@@ -310,3 +335,11 @@ footer.site p { margin: 0 0 6px; }
 /* The checker's dated statement sits at the end of the footer: give it the
    footer's column and gutter. */
 footer.site .explorer-checks-note { max-width: 52rem; margin: 1em auto 0 !important; padding: 0 16px; color: #dfe5f2; }
+
+/* the paper clip, taken off the bulletin and left lying on the folder
+   beside it. Decorative only. */
+.sheet .clip { position: absolute; z-index: 3; left: -44px; top: 46px; width: 96px; height: 40px; pointer-events: none;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='40' viewBox='0 0 96 40'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%236a7079'/%3E%3Cstop offset='.45' stop-color='%23c3c8cf'/%3E%3Cstop offset='1' stop-color='%23737981'/%3E%3C/linearGradient%3E%3Cfilter id='s' x='-20%25' y='-40%25' width='140%25' height='180%25'%3E%3CfeGaussianBlur stdDeviation='1.1'/%3E%3C/filter%3E%3C/defs%3E%3Cg transform='translate%2888 9%29 rotate%2898%29'%3E%3Cpath d='M9 28V60a3 3 0 0 0 6 0V12a6 6 0 0 0-12 0V66a8 8 0 0 0 16 0V30' fill='none' stroke='%232a1e0a' stroke-opacity='.35' stroke-width='2.6' filter='url%28%23s%29' transform='translate%281.6 -2%29'/%3E%3Cpath d='M9 28V60a3 3 0 0 0 6 0V12a6 6 0 0 0-12 0V66a8 8 0 0 0 16 0V30' fill='none' stroke='url%28%23g%29' stroke-width='2.4' stroke-linecap='round'/%3E%3Cpath d='M9 28V60a3 3 0 0 0 6 0V12a6 6 0 0 0-12 0V66a8 8 0 0 0 16 0V30' fill='none' stroke='%23f1f3f6' stroke-opacity='.6' stroke-width='.7' stroke-linecap='round' transform='translate%28-.5 -.4%29'/%3E%3C/g%3E%3C/svg%3E") center / contain no-repeat; transform: rotate(62deg); transform-origin: 0 0; }
+@media (max-width: 560px) {
+  .sheet .clip { left: -12px; top: 52px; width: 72px; height: 30px; }
+}

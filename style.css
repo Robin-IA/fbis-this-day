@@ -343,3 +343,5 @@ footer.site .explorer-checks-note { max-width: 52rem; margin: 1em auto 0 !import
 @media (max-width: 560px) {
   .sheet .clip { left: -12px; top: 52px; width: 72px; height: 30px; }
 }
+/* the collection the day's Daily Reports come from, under the heading */
+#issuesH .from { display: block; margin-top: 4px; font: 400 1rem/1.45 var(--sans); }

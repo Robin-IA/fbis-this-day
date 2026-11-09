@@ -65,13 +65,27 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 .lede { color: var(--muted); margin: 0; max-width: 40rem; }
 
 /* Home-page band: dark blue, white type, gold rules, a photograph */
-/* A listening-post console: faint range rings and a plotting grid */
-.band { color: var(--white); border-bottom: 4px solid var(--red);
+/* A radar capture: a still frame from a near-black blue scope, with range
+   rings, cross-hairs, a frozen sweep and a few contacts. Nothing moves. The
+   scope's lines never add up to more than 26% green behind any text, which
+   keeps the gold and grey type above 4.5:1 (gold is 4.71:1 at the worst). */
+.band { --rx: 55%; --ry: 58%; --scope: 120, 230, 170;
+  color: var(--white); border-bottom: 4px solid var(--red);
+  position: relative; overflow: hidden; isolation: isolate;
   background:
-    repeating-radial-gradient(circle at 88% 40%, rgba(212,167,44,.10) 0 1px, transparent 1px 46px),
-    linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px) 0 0 / 100% 28px,
-    linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px) 0 0 / 28px 100%,
-    linear-gradient(180deg, var(--navy) 0%, var(--navy-deep) 100%); }
+    repeating-radial-gradient(circle at var(--rx) var(--ry), rgba(var(--scope), .10) 0 1px, transparent 1.5px 70px),
+    linear-gradient(rgba(var(--scope), .10), rgba(var(--scope), .10)) var(--rx) 0 / 1px 100% no-repeat,
+    linear-gradient(rgba(var(--scope), .10), rgba(var(--scope), .10)) 0 var(--ry) / 100% 1px no-repeat,
+    radial-gradient(circle at var(--rx) var(--ry), #050c1a 0%, #040914 50%, #020509 100%); }
+/* the frozen sweep: a beam with its fading phosphor trail */
+.band::before { content: ""; position: absolute; z-index: -1; pointer-events: none;
+  width: 1400px; height: 1400px; left: calc(var(--rx) - 700px); top: calc(var(--ry) - 700px); border-radius: 50%;
+  background: conic-gradient(from 0deg, transparent 0deg 230deg, rgba(var(--scope), .02) 260deg, rgba(var(--scope), .09) 322deg, rgba(var(--scope), .14) 324deg, transparent 324.8deg);
+  -webkit-mask-image: radial-gradient(circle, #000 0 40%, transparent 60%); mask-image: radial-gradient(circle, #000 0 40%, transparent 60%); }
+/* contacts: the ones the beam has just passed are brightest */
+.band::after { content: ""; position: absolute; z-index: -1; pointer-events: none; width: 6px; height: 6px; border-radius: 50%;
+  left: calc(var(--rx) - 120px); top: calc(var(--ry) - 150px); background: rgba(var(--scope), .2);
+  box-shadow: 0 0 6px rgba(var(--scope), .12), 260px -60px 0 -1px rgba(var(--scope), .16), -420px 40px 0 -1px rgba(var(--scope), .12), 90px 120px 0 0 rgba(var(--scope), .14); }
 .monitor { margin: 16px 0 0; font: 600 12px/1.4 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--gold); display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .monitor #countdown { color: var(--white); font-size: 14px; letter-spacing: .06em; }
 .monitor .dot { width: 9px; height: 9px; border-radius: 50%; background: #ff5a5a; box-shadow: 0 0 0 3px rgba(255,90,90,.25); }
@@ -107,22 +121,21 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 /* The bulletin is a typed sheet of paper in both light and dark mode, so it
    carries its own colors. Every text pair here meets WCAG AA on the paper. */
 .sheet {
-  --paper: #fcf9f0; --tint: #f2ebd8; --ink: #1d1a14; --muted: #4e4637; --rule: #d9ceb0;
+  --paper: #ffffff; --tint: #f3f3f0; --ink: #1d1a14; --muted: #4e4637; --rule: #d6d4ce;
   --heading: #14274e; --link: #1b3f86; --accent: #b31b2b; --accent-ink: #fff;
   --chip: #f1e4bd; --chip-ink: #14274e;
   --type: "American Typewriter", "Courier Prime", "Courier New", Courier, monospace;
   color: var(--ink);
   background:
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .32 0 0 0 0 .26 0 0 0 0 .14 0 0 0 .09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
-    linear-gradient(180deg, transparent 33%, rgba(120, 100, 60, .07) 33.2%, transparent 33.6%),
-    radial-gradient(ellipse at 50% 40%, transparent 55%, rgba(120, 95, 50, .10) 100%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .3 0 0 0 0 .3 0 0 0 0 .3 0 0 0 .05 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
+    linear-gradient(180deg, transparent 33%, rgba(90, 90, 90, .05) 33.2%, transparent 33.6%),
     var(--paper);
-  border: 1px solid #e3d8b8; border-radius: 3px; padding: 0 28px 26px; position: relative; isolation: isolate;
+  border: 1px solid #dddbd5; border-radius: 3px; padding: 0 28px 26px; position: relative; isolation: isolate;
   /* the sheet lifts off the page: a hard shadow down the right edge and a soft one below */
   /* a defined edge all round, a light shadow along the top, a drop shadow
      below, and the hard shadow down the right-hand edge */
   box-shadow:
-    0 0 0 1px rgba(120, 95, 50, .30),
+    0 0 0 1px rgba(90, 85, 75, .22),
     0 -3px 8px -2px rgba(12, 26, 54, .14),
     0 4px 6px rgba(12, 26, 54, .16),
     0 22px 30px -10px rgba(12, 26, 54, .38),
@@ -133,8 +146,8 @@ h1 { font: 700 2.2rem/1.15 var(--serif); margin: 0 0 8px; color: var(--heading);
 /* a second sheet underneath, slightly askew */
 /* the edges of two more sheets showing down the right-hand side */
 .sheet::before, .sheet::after { content: ""; position: absolute; top: 5px; bottom: -5px; z-index: -1; border-radius: 0 3px 3px 0; }
-.sheet::before { right: -7px; left: 7px; background: #efe6cd; border: 1px solid #cdbd95; box-shadow: 3px 4px 8px rgba(12, 26, 54, .18); }
-.sheet::after { top: 10px; bottom: -10px; right: -13px; left: 13px; z-index: -2; background: #e7dcbf; border: 1px solid #c6b48a; box-shadow: 4px 8px 14px rgba(12, 26, 54, .22); }
+.sheet::before { right: -7px; left: 7px; background: #f6f6f3; border: 1px solid #cfccc4; box-shadow: 3px 4px 8px rgba(12, 26, 54, .18); }
+.sheet::after { top: 10px; bottom: -10px; right: -13px; left: 13px; z-index: -2; background: #ededea; border: 1px solid #c4c1b8; box-shadow: 4px 8px 14px rgba(12, 26, 54, .22); }
 .sheet h2, .sheet p { font-family: var(--type); }
 .sheet h2 { font-weight: 700; letter-spacing: -.01em; }
 .sheet p { font-size: 16px; line-height: 1.65; text-shadow: 0 0 .5px rgba(29, 26, 20, .35); }

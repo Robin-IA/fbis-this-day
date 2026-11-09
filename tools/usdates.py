@@ -13,6 +13,8 @@ UK={"centred":"centered","centre":"center","recognised":"recognized","organised"
  "mobilised":"mobilized","characterised":"characterized","emphasised":"emphasized","authorised":"authorized","jeopardised":"jeopardized",
  "endeavour":"endeavor","catalogue":"catalog","analysed":"analyzed","paralysed":"paralyzed","fuelled":"fueled","signalled":"signaled",
  "labelled":"labeled","cancelled":"canceled","modelled":"modeled","counselled":"counseled","whilst":"while","amongst":"among","grey":"gray"}
+# Proper names keep their own spelling when capitalized: the UK Labour Party.
+PROPER={"labour"}
 def comma(m, s):
     rest=s[m.end():m.end()+2]
     return ", " if re.match(r" [A-Za-z0-9(]", rest) else ""
@@ -30,5 +32,11 @@ def conv(s):
     s=s.replace(",,",",")
     for a,b in UK.items():
         s = re.sub(r"\b%s\b" % a, b, s)
-        s = re.sub(r"\b%s\b" % a.capitalize(), b.capitalize(), s)
+        if a not in PROPER:
+            s = re.sub(r"\b%s\b" % a.capitalize(), b.capitalize(), s)
+    # -our stems inside longer words: neighbourliness, favoured, honoured, unfavourable
+    s = re.sub(r"(neighb|fav|hon|col|harb|arm|behavi|endeav|rum)our", r"\1or", s, flags=re.I)
+    # -ise/-isation verbs and nouns: recognising, organisations
+    s = re.sub(r"\b(recogn|organ|real|critic|apolog|legal|normal|mobil|character|emphas|author|jeopard|util|modern|central|neutral|subsid|stabil)is(e|ed|es|ing|ation|ations)\b", r"\1iz\2", s, flags=re.I)
+    s = re.sub(r"\b([Dd]efen|[Oo]ffen|[Ll]icen)ces\b", r"\1ses", s)
     return s

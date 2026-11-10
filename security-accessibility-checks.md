@@ -1,11 +1,11 @@
 # Security and accessibility checks
 
-**Status: passing.** All three checks passed on 2026-11-09 at commit `be884e6bfc`. Nothing is open. Advisory items below are optional.
+**Status: passing.** All three checks passed on 2026-11-09 at commit `70861a4077`. Nothing is open. Advisory items below are optional.
 
 | | |
 |---|---|
 | Explorer | https://github.com/Robin-IA/fbis-this-day |
-| Commit | `be884e6bfc` on `explorer-checks` |
+| Commit | `70861a4077` on `explorer-checks` |
 | Date | 2026-11-09 |
 | Pages checked | `./`, `./?d=11-07`, `calendar.html`, `about.html` |
 | Served from | repository root, served locally |
@@ -26,7 +26,7 @@
 
 ## Standards met
 
-Checked 9 November 2026 at commit `be884e6bfc`, on the pages listed above:
+Checked 9 November 2026 at commit `70861a4077`, on the pages listed above:
 
 - **WCAG 2.2 Level AA**: every Level A and AA success criterion, by automated tests and a manual review of each criterion (checklists under each check below).
 - **WCAG 2.1 Level AA** and **WCAG 2.0 Level AA**, which WCAG 2.2 includes. 4.1.1 Parsing, dropped from 2.2 but still in 2.0 and 2.1, is covered by the code validity check (no HTML parse errors, no duplicate ids).
@@ -136,4 +136,4 @@ Optional. These items never block a pass.
 | `S-a955d4` | security | No content-security-policy header | `https://internetarchivecanada.github.io/fbis-this-day/` | A02:2025 · ASVS V3 | Set it; it limits the damage of any XSS that gets through; a <meta http-equiv> CSP works on static hosts. |
 | `S-6f66da` | security | No x-content-type-options header | `https://internetarchivecanada.github.io/fbis-this-day/` | A02:2025 · ASVS V3 | Set it; it stops browsers guessing content types. It has no <meta> form, so on a host that cannot set headers (GitHub Pages) it stays open; the explorer's owners decide whether that matters enough to change host. |
 
-<!-- explorer-checks:state {"passing": true, "date": "2026-11-09", "commit": "be884e6bfca07f246fe05559b1eee7f749c0843c", "open": [], "titles": {}} -->
+<!-- explorer-checks:state {"passing": true, "date": "2026-11-09", "commit": "70861a407720028c129517d3b1d7be8c84b3e4f5", "open": [], "titles": {}} -->

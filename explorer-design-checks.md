@@ -47,7 +47,7 @@ Accessibility, security and code validity are in [security-accessibility-checks.
 | pass | No security or validity claims | none on the page |
 | pass | Accessibility statement | …lication. Feedback? Email us Meets WCAG 2.2 Level AA accessibility (and WC… |
 | pass | Democracy's Library logo | alt “Democracy's Library” |
-| pass | Accessibility and security report | Status: passing. All three checks passed on 2026-11-08 at commit `4e1ef82915`. Nothing is open. Advisory items below are optional. |
+| pass | Accessibility and security report | Status: passing. All three checks passed on 2026-11-09 at commit `be884e6bfc`. Nothing is open. Advisory items below are optional. |
 
 ## Optional elements
 

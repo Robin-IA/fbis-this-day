@@ -2,7 +2,7 @@
 
 **Checked November 9, 2026** for Robin-IA/fbis-this-day against the explorer best practices ([internetarchivecanada/Documentation-Explorer-Best-Practices](https://github.com/internetarchivecanada/Documentation-Explorer-Best-Practices)).
 
-**Status: open items.** 1 missing. 10 to look at by eye. 0 optional to decide.
+**Status: passing.** Nothing missing. 11 to look at by eye. 0 optional to decide.
 
 Accessibility, security and code validity are in [security-accessibility-checks.md](security-accessibility-checks.md).
 
@@ -56,7 +56,7 @@ Accessibility, security and code validity are in [security-accessibility-checks.
 | look | Disclaimer | …s Library at the Internet Archive; not an official FBIS or U.S. government publicatio…: check it reads right |
 | look | Source credit in the footer | footer links https://archive.org/details/us-fbis: check it reads right |
 | look | See also | https://wayback-labs.sf.archive.org/fbis/: check it reads right |
-| FAIL | Why the archive matters | wanted, not on the page yet: a sentence on why the archived copy matters, e.g. the original is gone (sentence for the About page's project section) |
+| look | Why the archive matters | …tor's own clock. The Daily Reports survive mostly on microfiche in library collectio…: check it reads right |
 | pass | Wayback Labs listing | owner will tell Mark Graham: already done |
 
 Decisions about optional elements are in `explorer-design.json`.
